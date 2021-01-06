@@ -1,5 +1,4 @@
-# iptvcrlatina.
-www.iptvcrlatina.raw.cineLivestream.m3u 
+# iptvcrlatina
 #EXTM3U = www.iptvcrlatina.raw.cineLivestream.m3u 
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/16/17/16/5959432.jpg", IPTV LATINA CR
 https://www.youtube.com/watch?v=YTYn6iLVPx4
