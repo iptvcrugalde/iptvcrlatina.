@@ -418,14 +418,14 @@ http://ipeteve.com/php/t121220/mc.php?c=96&f=.m3u8
 http://tv.masterplaytv.xyz:8000/luisrivera1/luis12345riv/1478
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xeHGRYWGZW3vwz12IUvuYVXhCR00f_CZCQ&usqp=CAU", PLUS GOLDEN FULHD
 http://ipeteve.com/php/t121220/mc.php?c=132&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", PREMIER GOLDEN FUL-HD  
-http://iptvhd.club:8081/televall2021/214_.m3u8?token=0LMAqdhyC8Wg7YG7j4oDgw&expires=1609965019
+#EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", PREMIER GOLDEN FUL-HD 
+http://iptvhd.club:8081/televall2021/214_.m3u8?token=T5fTWrduQ_dWlOzPlx8iWg&expires=1609970396
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER GOLDEN
 
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135236581_210509084010064_526752704166825253_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=wSVZI-nwYtUAX8_Q0Mp&_nc_ht=scontent.fsyq1-1.fna&oh=8af6820ed251ace6fedbfce67913ff75&oe=60192EAE", PREMIER GOLDEN 2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" group-title="MEXICO",MULTIPREMIER FUL-HD
-http://iptvhd.club:8081/televall2021/215_.m3u8?token=WvYd0toHXayYrji8SAEysA&expires=1609964983
+http://iptvhd.club:8081/televall2021/215_.m3u8?token=Od8274ifjVXxeVOQE99mWg&expires=1609970262
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 http://ipeteve.com/php/t121220/mc.php?c=132&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY 
@@ -603,14 +603,14 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://canal3argentina.tv/wp-content/uploads/2018/08/logoweb.png",CANAL 3 HD
 https://inliveserver.com:1936/10038/10038/chunklist_w1402692798.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA HD
-
+http://iptvhd.club:8081/televall2021/194_.m3u8?token=zl9PNj_Y-HCuHtOwCcoMtA&expires=1609970532
 #EXTINF:-1 tvg-logo="https://www.impulsotv.com.ar/sites/default/files/canales/logos/EuropaEuropa.png", EUROPA FUL-HD
 http://ipeteve.com/php/t121220/mc.php?c=59&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png" group-title="DEPORTES",EURO CHANNEL HD
 -television-show-euro-channel-channel.jpg" group-title="Sur America",LA_SD:SUR_EURO CHANNEL
 https://edge4-hr.cvattv.com.ar/live/c2live/Eurochannel/SA_Live_dash_enc/dash/Eurochannel-audio_20002=145200.track_id=20002-9112395597676.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
-http://iptvhd.club:8081/televall2021/194_.m3u8?token=xwOozXNd6q-R5Do5wEIzaQ&expires=1609965259
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT
 https://edge4-hr.cvattv.com.ar/live/c2live/ISAT/SA_Live_dash_enc/dash/ISAT-audio_AACL_spa_144800_50=144800.track_id=20000-init.mp4
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts HD
