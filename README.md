@@ -1,4 +1,4 @@
-# iptvcrlatina
+# iptvcrlatina.cr
 #EXTM3U = www.iptvcrlatina.raw.cineLivestream.m3u 
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/16/17/16/5959432.jpg", IPTV LATINA CR
 https://www.youtube.com/watch?v=YTYn6iLVPx4
@@ -610,7 +610,8 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-4.png",CANAL 4 POSADAS
 https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108916_CANAL_5TV.jpg", CANAL 5TV
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108916_CANAL_5TV.jpg", CANAL 5TV#EXTINF:-1 tvg-logo="https://www.bresciasat.it/assets/front/img/SUPERTV_1080.png", SUPER.TV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w1236577093.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO",Canal 3 TV HD
 http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -1708,7 +1709,7 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/antena3hd.jpg", Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@3248/index_4_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/antena3hd.jpg", Antena 3
-https://corchitama18.pedromo.me/live/antena3/index.m3u8?token=fwE7kESYVmsp3aE8MW6W9Q&expires=1609349053
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkNqLG3RxZrq61wKM8VOZIQx6UYY9XeiA_Jg&usqp=CAU", CUATRO 4 FUL-HD ESP
 http://149.202.68.178:1935/live/peprecasens/chunklist_w194306632.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkNqLG3RxZrq61wKM8VOZIQx6UYY9XeiA_Jg&usqp=CAU", CUATRO 4 FUL-HD 
@@ -1738,15 +1739,15 @@ http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/960/0*vxPEMP_Ww3WiTOrK.jpg", NOVA.TV 
 https://e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/chunklist.m3u8?at=7380d951fb98957fe9f545b2db0dbafe
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/130245088_191869369207369_5577547194502793143_n.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=s5EXezfud7cAX8zESLZ&_nc_ht=scontent.fsyq1-1.fna&oh=a29abdf75be7ab5e22f92354c4b8875f&oe=5FF46B6E", CALLE 13 FUL-HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/vlij0c3ip84wl.m3u8?s=daWDtcacaPxCDLW7x3z53g&e=1609837801
+
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION FULHD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/60by6lj1v.m3u8?s=iWcHMhwVhDYHg7QiM6TSNg&e=1609838459
+
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2017/09/Movistar_Estrenos.jpg",MOVISTAR CANAL DE ESTRENOS FUL-HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/122jbtx4mnp3ha.m3u8?s=KZf1bn6JudLWQsfJmt9L5g&e=1609838488
+
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.PpvHiYS7in.jpg", M CINE DRAMA
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/uv9x2d6ntvfe68.m3u8?s=aXQ1CJjC2SiiqiimQ7Wx7Q&e=1609838523
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1280px-Movistar_Cine_Espa%C3%B1ol.svg.png", CINE Ñ FUL-HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/wvu3us.m3u8?s=fZBXlqbmhqEr49HtG2k3WQ&e=1609838563
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png#, MOVISTAR SERIES HD
 http://planettvweb.com:8091/German/German/16539
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/DMAX.png", Discovery Max 
@@ -1754,11 +1755,11 @@ http://91.126.141.12:1935/live/discoverymax/chunklist_w2133036664.m3u8
 #EXTINF:-1 tvg-logo="https://verlatele.net/wp-content/uploads/2020/05/canal-dark.jpg", DARK HD
 
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132947954_202142288180077_5700003133116217169_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=9bEP5gMB8ZIAX-jiVbm&_nc_ht=scontent.fsyq1-1.fna&oh=122a4a4410ce4ce921f2d0e4e6cec154&oe=600C8135", XTRM HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/s62wm.m3u8?s=oRU8Vu3tVR5Sk8a3eRLzUQ&e=1609838651
+
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/130565267_191255099268796_2610127417735681386_n.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=6s1T-CEgQx8AX-eI9Rm&_nc_ht=scontent.fsyq1-1.fna&oh=4e324940c823bf7f42592a5ac9e96ce7&oe=6003B665", Canal Hollywood FUL-HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/x5e842ylumf64uz.m3u8?s=mIW3k1PdFx48LzxyD3GIAQ&e=1609838721
+
 #EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png",#0
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/12fxk.m3u8?s=F1_OdiMsY73l-9p1gb0iCw&e=1609838771
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvUR8icHyO0YFY4W8bmUMxSsA8kcxyqxXJxQ&usqp=CAU", Movistar SERIES EXtra
 https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/e4ir8okayplln1n.m3u8?s=2O2ljsUF6lLUc0tupNPA3A&e=1609838815
 #EXTINF:-1 tvg-logo=https://pbs.twimg.com/media/DaBMejiW0AEd3En.png", M-SERIES HD
