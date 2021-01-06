@@ -1,8 +1,7 @@
-# ww.iptvcrlatina.raw.cineLivestream.m3u 
 #EXTM3U = www.iptvcrlatina.raw.cineLivestream.m3u 
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/16/17/16/5959432.jpg", IPTV LATINA CR
 https://www.youtube.com/watch?v=YTYn6iLVPx4
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",05 01 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",06 01 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/129795213_191980202529619_7220257998391978251_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=ceDiG7SbV6gAX_80clI&_nc_ht=scontent.fsyq1-1.fna&oh=ec528f95085a6f0df56dc8dc8b11e981&oe=5FF5E38B",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -616,8 +615,8 @@ http://156.96.44.13:8081/televall2021/194_.m3u8?token=K2uSOuWOvSc1QG7sB76ykg&exp
 https://edge4-hr.cvattv.com.ar/live/c2live/ISAT/SA_Live_dash_enc/dash/ISAT-audio_AACL_spa_144800_50=144800.track_id=20000-init.mp4
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts HD
 http://ipeteve.com/php/t121220/mc.php?c=60&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Films & Arts FHD (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/filmyarts.png" group-title="Latinos Dual Audio (E)",Films & Arts FUL-HD 
-https://edge4-hr.cvattv.com.ar/live/c2live/Film_Arts/SA_Live_dash_enc/dash/Film_Arts-audio_AACL_spa_144800_51=144800.track_id=20001-9112389345408.mp4
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",FIM & ARTS HD
+https://edge4-hr.cvattv.com.ar/live/c2live/Film_Arts/SA_Live_dash_enc/dash/Film_Arts-video=530000.track_id=10000-5695304241162.mp4
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts 
 https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg",CINE AR.TV HD
