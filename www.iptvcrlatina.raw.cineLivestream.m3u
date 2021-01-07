@@ -47,7 +47,7 @@ http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-02/TeleSUR-Costa%2520Rica.png?itok=_XGPSrGY",TELESUR HD
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1535730648.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngJYYZLWge0V1CDIg_JnHoieqneux2UR98pmSxi=s900-c-k-c0x00ffffff-no-rj", TD+
-http://127.0.0.1:42235/http/uruguayiptv.com:25461/leandro1/leandro123/72752
+http://127.0.0.1:50389/http/uruguayiptv.com:25461/leandro1/leandro123/72752
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xfNbDi2pcVqaZM72ia3wGSnCwxI1A9klMNb_Xg93Lth46_gCYByJPblrWw&s",CANAL 9 HD
 http://201.201.149.86:8080/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc",CANAL 14 SAN CARLOS
@@ -416,7 +416,7 @@ http://89.105.194.59:25461/live/4splRDvv/4splRDvv/8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xeHGRYWGZW3vwz12IUvuYVXhCR00f_CZCQ&usqp=CAU", PLUS GOLDEN FULHD
 http://89.105.194.59:25461/live/4movT$1!!/4movT$1!!/4.m3u8
 #EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", PREMIER GOLDEN FUL-HD  
-http://iptvhd.club:8081/televall2021/214_.m3u8?token=jeP2P7Rm8y5PXtRiglyW_Q&expires=1609996513
+http://iptvhd.club:8081/televall2021/214_.m3u8?token=LeNwGkSJofUKBRWWrG_0Xg&expires=1609999211
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2
 
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135236581_210509084010064_526752704166825253_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=wSVZI-nwYtUAX8_Q0Mp&_nc_ht=scontent.fsyq1-1.fna&oh=8af6820ed251ace6fedbfce67913ff75&oe=60192EAE", PREMIER 2
@@ -444,7 +444,8 @@ http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL_HD
+http://iptvhd.club:8081/televall2021/85_.m3u8?token=qSqfIlDVkk0OMmja2gMaVA&expires=1609999372
 https://5wpje48z8ef36ntq.ezcdn462.net:8443/hls/0e733j.m3u8?s=B-1WcUOYQ9tbloNQBfKhmg&e=1610012796#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
 http://127.0.0.1:34611/http/uruguayiptv.com:25461/leandro1/leandro123/632
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
