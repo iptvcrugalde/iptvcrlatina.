@@ -445,7 +445,8 @@ http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
-https://5wpje48z8ef36ntq.ezcdn462.net:8443/hls/0e733j.m3u8?s=B-1WcUOYQ9tbloNQBfKhmg&e=1610012796
+https://5wpje48z8ef36ntq.ezcdn462.net:8443/hls/0e733j.m3u8?s=B-1WcUOYQ9tbloNQBfKhmg&e=1610012796#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
+http://127.0.0.1:34611/http/uruguayiptv.com:25461/leandro1/leandro123/632
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT15$/1musT15$/100.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ",FXMOVIES HD
@@ -487,13 +488,13 @@ https://stream-02.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOAJFQ8Tq96NTAxyMZ0
 #EXTINF:-1 tvg-logo="https://d1sfco99flnudn.cloudfront.net/www.attsavings.com/images/v2/dtv-select-package-hero.png",DIRECTV CINEMA HD LATINO
 http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/568908453_1280x720.jpg", DIRECTV CINEMA FUL.HD
-
+http://127.0.0.1:34611/http/uruguayiptv.com:25461/leandro1/leandro123/139
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/895.png",DIRECTV CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132323819_202723861455253_95557293259717828_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_nc_ohc=835GhMPDvMsAX-NdhpK&_nc_ht=scontent.fsyq1-1.fna&oh=32e5c9f5e227fbb2dc89985ff6c1354e&oe=600ACB03",bloody
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/3f/ec/fe3fec00bbd6e6d98fb18dce16a5c8f7.jpg",CINE MOVIES FUL-HD
-
+http://127.0.0.1:34611/http/uruguayiptv.com:25461/leandro1/leandro123/1379
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES HD
@@ -607,7 +608,7 @@ http://127.0.0.1:34611/http/uruguayiptv.com:25461/leandro1/leandro123/643
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts 
 https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV HD
-
+htttp://135.123.156.234
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNo5qb395_y3FQteP2Qu9Z8rN7A4czwkYuA&usqp=CAU", CANAL TRECE 13 FUL-HD
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e6ac00d3-65ca-434a-86b3-4b58ac18e331-profile_banner-480.jpeg", CANAL TRECE 13 FUL_HD
