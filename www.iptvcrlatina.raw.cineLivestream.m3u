@@ -1823,6 +1823,8 @@ https://zypelive-lh.akamaihd.net/i/default_1@710948/index_3800_av-p.m3u8?F38b1dF
 https://live-ak.vimeocdn.com/exp=1607224843~acl=%2F74f492fc-9397-4a8f-9082-cf9ca0a08533%2F%2A~hmac=6eb17fb4176caf3bf36a2b96e2db61eb705a66559602d9c9c4f3856ccaf6d492/74f492fc-9397-4a8f-9082-cf9ca0a08533/chunklist_b6256000.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QD1Rlr9yJt0/XAwM_69IHlI/AAAAAAAAAik/492_7HH7A9kGOcIFZEzwqPnTZZaqw3dBACLcBGAs/w100/que-hubo-tv.jpg", QHubo TV
 https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist_w1194818576.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/136468668_211680780559561_1120773104610937969_n.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_ohc=MRLEYD9ts6MAX8N6jHM&_nc_ht=scontent.fsyq1-1.fna&oh=bc7054f6e750e0b7e96a196604cd5bf1&oe=601E2200", CANAL CATOLICO.TV
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F5e1876f67ebeed3253d59b210ade4af52e9d7313d88a61aa63fd06fdcbb238e5.jpg", CANALES CHINA TV
 http://100.145.2010.125.130
