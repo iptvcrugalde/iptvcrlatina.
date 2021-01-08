@@ -508,11 +508,11 @@ http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/20.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/byu8ZMS.jpg",FOX PREMIUM CINEMA HD
 http://89.105.194.59:25461/live/5mov$!19/5mov$!19/129.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uT3M7lL.jpg" group-title="CINE PREMIUM",FOX PREMIUN FAMILY FUL-HD
-
+http://uruguayiptv.com:25461/leandro1/leandro123/640
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
-
+http://uruguayiptv.com:25461/leandro1/leandro123/18467
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
-
+http://uruguayiptv.com:25461/leandro1/leandro123/80402
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://89.105.194.59:25461/live/1mov$!XI!/1mov$!XI!/24.m3u8
@@ -535,7 +535,7 @@ http://89.105.194.59:25461/live/1mov$!XI!/1mov$!XI!/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132605387_202876351440004_4798197233601364314_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE HD
-
+http://uruguayiptv.com:25461/leandro1/leandro123/11354
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png",USA: HBO COMEDY HD
 http://planettvweb.com:8091/German/German/22618
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png",USA: HBO COMEDY 
@@ -656,10 +656,8 @@ https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FT
 https://59ce1298bfb98.streamlock.net/hvntv/hvntv/chunklist_w351870078.m3u8
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", TELEFURO HD
 http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
-#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", TELEFURO HD
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/66242.ts
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", Telefuturo 
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w1251504949.m3u8?k=205d1102bb127f5de187615e56ccaf7a0c46d28d3fcf591f267abc790d5b2e1e&exp=1608698459
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w693603076.m3u8?k=d24fdde0c21e2fe3cf109ef64edc99f6764986e39f694788c19447b1e9dd3540&exp=1610069436
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", Telefuturo 
 http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 
@@ -850,6 +848,8 @@ http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/70219.ts
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1", CINE TV
 http://127.0.0.1
+#EXTINF:- 1 tvg-logo="https://www.ubo.cl/wp-content/uploads/itv-patagonia-def.jpg",  ITV PATAGONIA HD 
+https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135492308_208570100870629_8390498080498603752_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_nc_ohc=CgU_0NdWwDsAX8pAX3u&_nc_ht=scontent.fsyq1-1.fna&oh=62883ef9cbaf0d5db479d00a86fed4e3&oe=60181EEF", RED.TV
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1692526373.m3u8
 #EXTINF:-1 tvg-logo="http://canalmundovision.com/wp-content/uploads/2017/06/logo-mundo-vision-1.png", MUNDO VISION TV
@@ -868,7 +868,7 @@ http://cdn.streamingmedia.cl:1935/live/canalcosta/playlist.m3u8?PlaylistM3UCL
 http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq2KEl6BNJ4TSbTafrr5XDCLRCeGLFmdlJDGVIqPU_C9onOYR3&usqp=CAU",CANAL 7 DE LA COSSTA
 https://livefocamundo.com:8081/8178/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/129953727_191245989269707_9089926097893965891_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_nc_ohc=Ub5Vns2AZKQAX-vH7Mc&_nc_ht=scontent.fsyq1-1.fna&oh=f41005166dc3841b9179acab3d6a3175&oe=5FF4258A",LA CALETA TV
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png",LA CALETA TV 
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sur.tv.bo/wp-content/uploads/2019/01/SURTV-LOGO-2018.jpg", SURTV EL CANAL DE TARIJA HD
 https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/index_150_av-p.m3u8?sd=10&rebase=on
@@ -1108,17 +1108,6 @@ https://garfi.fr/tools/prx/index.php/https://gulli-hls-live.akamaized.net/gulli.
 http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVXtf5l2iZoZo4AKgYHsJNHL4R_6zILEFrA&usqp=CAU", Canal 3 Las Heras Paralelo 46 TV 
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1381385764.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.freetv.com/wp-content/uploads/2019/12/FreeTV.com_Logo-110x43.png", FREETV PELICULAS 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ046vfmP1rWqf0MrfiRLeJo5B6eieZiaI_Xw&usqp=CAU",AMA KARENINA
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ046vfmP1rWqf0MrfiRLeJo5B6eieZiaI_Xw&usqp=CAU",UNIVERSO MARCIAL 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ046vfmP1rWqf0MrfiRLeJo5B6eieZiaI_Xw&usqp=CAU",El Hombre Perfecto
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ046vfmP1rWqf0MrfiRLeJo5B6eieZiaI_Xw&usqp=CAU",Apuesta Con La Muerte 2
-
 
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
