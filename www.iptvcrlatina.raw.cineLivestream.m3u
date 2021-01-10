@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=YTYn6iLVPx4
 #EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",09 01 2021
 http://spy-iptv.com/ACTUALIZACION
-#EXTINF:0 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/129795213_191980202529619_7220257998391978251_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=ceDiG7SbV6gAX_80clI&_nc_ht=scontent.fsyq1-1.fna&oh=ec528f95085a6f0df56dc8dc8b11e981&oe=5FF5E38B",LISTA M3U
+#EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
 #EXTINF:0 tvg-logo="https://miracomohacerlo.com/wp-content/uploads/2017/07/1-28.jpg", WHATSAPP WEB
 https://wa.me/message/Y36OKHMC7QZVG1
@@ -1811,7 +1811,7 @@ https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/iY46e8xBcdHCvXB7ArINqoPJzhY00tu5Slhl-OeNms8pxa4_Lta8sG0OJ8OjUd8wZA", LIBANO TV
 http://120.130.128.134.200
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg", MTV Murr Television HD
-https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1610171214~dirs=1~hash=09c9e15adf283598fe4f4/mtvlive.smil/murrtelevision_chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/126902970_114640000468871_1992054778586856751_n.jpg?_nc_cat=111&ccb=2&_nc_sid=110474&efg=eyJpIjoibCJ9&_nc_ohc=zHxUtIxAksMAX-n8bSY&_nc_ht=scontent.fsyq1-1.fna&tp=14&oh=692ccae5d42b2c59e5df9b535c7ce7bf&oe=5FE6B6F5", PUNT CANAL 3 HD
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 
