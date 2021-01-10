@@ -417,6 +417,8 @@ http://89.105.194.59:25461/live/4splRDvv/4splRDvv/8.m3u8
 http://89.105.194.59:25461/live/4movT$1!!/4movT$1!!/4.m3u8
 #EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", PREMIER GOLDEN FUL-HD  
 https://live.televisiongratishd.com/tvplus2021/75_.m3u8?token=DzkYPP-UWkac50-usYSFoQ&expires=1610257377&ip=201.191.254.57
+#EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", PREMIER GOLDEN 
+http://teleclub.go.yo.fr/canal.php?tv=GOLDENPREMIER&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2
 
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135236581_210509084010064_526752704166825253_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=wSVZI-nwYtUAX8_Q0Mp&_nc_ht=scontent.fsyq1-1.fna&oh=8af6820ed251ace6fedbfce67913ff75&oe=60192EAE", PREMIER 2
@@ -476,6 +478,8 @@ http://tecnotv.club/dinos/principal.php?c=146&f=.m3u8
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/13.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
 https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/u7rbhb.m3u8?s=Fjk-37B3iXb8KS5_Kr6voA&e=1610252939
+#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY 
+http://teleclub.go.yo.fr/canal.php?tele=SYFY_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE FUL-HD
 http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/6.m3u8
 #EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL FUL-HD
@@ -607,9 +611,9 @@ https://videohd.live:19360/8010/8010.m3u8?_=1
 
 #EXTINF:-1 tvg-logo="https://www.impulsotv.com.ar/sites/default/files/canales/logos/EuropaEuropa.png", EUROPA FUL-HD
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA HD
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10832.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA 
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10832.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA hd
 http://ipeteve.com/php/t121220/mc.php?c=59&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.impulsotv.com.ar/sites/default/files/canales/logos/EuropaEuropa.png", EUROPA FUL-HD
 http://127.0.0.1:54522/http/tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/35001
@@ -619,7 +623,6 @@ http://127.0.0.1:54522/http/tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/35001
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA 
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10832.ts
-https://edge-live14-hr.cvattv.com.ar//live/c2live/Eurochannel/verimatrix_rotating_FTA/Eurochannel-video=579968-text_DVSU_500=10000.m3u
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 http://uruguayiptv.com:25461/leandro1/leandro123/661
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT 
@@ -1232,7 +1235,7 @@ http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b296000.m3u
 #EXTINF:-1 tvg-logo="https://k37.kn3.net/taringa/4/4/6/3/7/6/5/lau22manda/A5D.jpg?4425",INFANTILES
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy87sHmAIXlm08Q4cWtMLgLPh_oPRCo6_nGqfxlfj6T52LkuhF",BABY TV
-
+http://teleclub.go.yo.fr/canal.php?tv=BABYTV&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLdFt3z.png",TOONCAST HD
 http://89.105.194.59:25461/live/1toonn!$B/1toonn!$B/64.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLdFt3z.png",TOONCAST 
@@ -1254,13 +1257,13 @@ http://156.96.44.13:8081/televall2021/196_.m3u8
 #EXTINF:-1 tvg-id="MX - Disney XD" tvg-name="Disney XD FHD (MX)" tvg-logo="http://img.tvcl.xyz/infantiles/xd.png" group-title="Infantiles",Disney XD FHD 
 http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/59.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil", Disney Channel HD
-https://5wpje48z8ef36ntq.ezcdn462.net:8443/hls/96859.m3u8?s=eoM42fNuWPqQmhTGVhN9Xg&e=1610010591
+http://teleclub.go.yo.fr/canal.php?tele=DISNEY_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg",DISNEY JUNIOR HD 
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/60.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbFr_3ChxUrcftwYsmwpKwZTs7UT6JmYx30NVG68usPDSt1iEN",DISCOVERY KIDS
-https://5wpje48z8ef36ntq.ezcdn462.net:8443/hls/rw14ff8tl5.m3u8?s=2gddzzPS2qNjXl5TBcRuVQ&e=1610009927
+http://teleclub.go.yo.fr/canal.php?tv=DKIDS&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="INFANTIL",CARTOON NETWORK HD
-
+http://teleclub.go.yo.fr/canal.php?tele=CARTOON_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjKIC7p.png",BOOMERANG
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/62.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png",NATGEO KIDS HD
@@ -1275,11 +1278,11 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
 http://89.105.194.59:25461/live/1docT9n!$/1docT9n!$/81.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png",Investigation Discovery ID HD 
-
+http://teleclub.go.yo.fr/canal.php?tele=ID_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHLFiAW3U_HWL3Tkq8xOO5sDm6U5rtpMUNF6zPj0GUzsEhG0Jt&s",DISCOVERY H&H HD
 http://89.105.194.59:25461/live/1docT9n!$/1docT9n!$/79.m3u8
 #EXTINF:-1 tvg-ID="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3puthGEm6AjNI05L5xw4OHSzFnFmqFsWPXfwBbt7R7oDsewsf.png",Discovery Channel
-
+http://teleclub.go.yo.fr/canal.php?tele=DISCOVERY_HD&format=.m3u8
 #EXTINF:-1 tvg-logo=”http://puu.sh/mVSvJ/4c351beb2a.png”, Discovery World HD
 http://89.105.194.59:25461/live/1docT9n!$/1docT9n!$/82.m3u8
 #EXTINF:-1 tvg-logo=https://cdn.mitvstatic.com/channels/br_discovery-civilization-brazil_m.png",DISCOVIRY CIVILIZATIONY
@@ -1291,7 +1294,7 @@ http://89.105.194.59:25461/live/2docG!!$/2docG!!$/85.m3u8
 #EXTINF:-1 tvg-logo="http://www.playtvhd.com/cliente/wp-content/uploads/2018/01/discoverytheater.jpg",DISCOVERY THEATER HD
 http://89.105.194.59:25461/live/2docG!!$/2docG!!$/84.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c60a6f27255423.5636219b11257.png",NatGeo Wild HD
-
+http://teleclub.go.yo.fr/canal.php?tele=NATGEOWILD_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA tv HD
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8?erwiniptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",NASA Space Station 2
@@ -1307,7 +1310,7 @@ http://89.105.194.59:25461/live/spdocYWt/spdocYWt/76.m3u8
 #EXTINF:-1 tvg-logo="https://arqa.com/wp-content/uploads/2015/06/national-geographic-channel-logo-530x298.jpg",NATTIONAL GEOGRAPHIC
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/745/D1497F17E46C148F0BA16061B3581C9C/historyhd.png",HISTORY HD
-
+http://teleclub.go.yo.fr/canal.php?tele=HISTORY_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvcable/images/6/68/H2LA.png/revision/latest/scale-to-width-down/340?cb=20171231124956&path-prefix=es",H2
 http://89.105.194.59:25461/live/2docG!!$/2docG!!$/80.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5CXRhw.png" group-title="ENTRETENIMIENTO",DISCOVERY SCIENCE
