@@ -350,6 +350,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w148
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aizYxAy.png", TV UNAM
 https://playback2.akamaized.net/streams/27177136_8970901_lsitpsrwj3wsl3hxe9r_1/exp=1601173026~acl=%2f*~data=hdntl~hmac=3658816c3f12bdb76f382cda2473018b3991bfeed4d4f8bc578437340eb193f5/media/27177136_8970901_lsitpsrwj3wsl3hxe9r_1@1628000p.m3u8?dw=14400&ts=1601085600
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD 
+http://uruguayiptv.com:25461/leandro1/leandro123/1676
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV 
 http://uruguayiptv.com:25461/leandro1/leandro123/1675
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
 
@@ -623,6 +625,8 @@ http://uruguayiptv.com:25461/leandro1/leandro123/661
 http://156.96.44.13:8081/televall2021/194_.m3u8?token=mePdt9a6X_35ImJvIMUqLQ&expires=1610341484
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",FIM & ARTS HD
 http://ipeteve.com/php/t121220/mc.php?c=60&f=.m3u8
+#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",FIM & ARTS
+http://uruguayiptv.com:25461/leandro1/leandro123/643
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts 
 https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV HD
@@ -681,12 +685,16 @@ http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png", CANAL 10
 http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU-video=1480000.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/136729137_213643853696587_2581164527101765717_n.jpg?_nc_cat=106&ccb=2&_nc_sid=730e14&_nc_ohc=bRO6PWTnpxIAX_UDBvS&_nc_ht=scontent.fsyq1-1.fna&oh=1ff925cff4401bb49349e0194679b402&oe=6022BABE", CANAL 11 PUNTA DEL ESTE HD
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w737986477.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDIxIDU6MzU6MjYgQU0maGFzaF92YWx1ZT1PNW9yQStkakpHY21VOVZQU25aRUJBPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDA0bss0aR_SZcATNidLC8kNGbi4Jnivs1A&usqp=CAU", CANAL 11 PUNTA DEL ESTE 
+http://127.0.0.1:56139/http/uruguayiptv.com:25461/leandro1/leandro123/18267
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg",IR TELE FUL-HD
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg", RU TV CINE
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg",CANAL 7 PUNTA DEL ESTE
-
+http://127.0.0.1:56139/http/uruguayiptv.com:25461/leandro1/leandro123/19539
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg?size=web_v_m",Canal 8 Televisora CINE
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9369/240/default.jpg?size=web_v_m",Canal 8 Rivera CINE
@@ -696,7 +704,9 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/C
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg",Artigas Televisión HD CINE
 
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132539069_202686168125689_7869396927608877350_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=I7Uy0-mY_LgAX9KZCyw&_nc_ht=scontent.fsyq1-1.fna&oh=a59e27978290a2488227d431d2e989a5&oe=600B2E67", CANAL 12 FUL-HD
-
+http://uruguayiptv.com:25461/leandro1/leandro123/80319
+#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132539069_202686168125689_7869396927608877350_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=I7Uy0-mY_LgAX9KZCyw&_nc_ht=scontent.fsyq1-1.fna&oh=a59e27978290a2488227d431d2e989a5&oe=600B2E67", CANAL 12 FUL-HD
+http://127.0.0.1:56139/http/uruguayiptv.com:25461/leandro1/leandro123/19541
 #EXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/top/zpapi.zetatv.com.uy/media/images/canal4LOGO.png", CANAL 4 VIVO PARA VOS HDVO PARA VOZ FUL-HD
 http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/43391
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132780205_204185894642383_7733062884705125842_n.jpg?_nc_cat=102&ccb=2&_nc_sid=730e14&_nc_ohc=-cilGoMvE58AX8HjGA5&_nc_ht=scontent.fsyq1-1.fna&oh=da4bfb50635c0fd0f1906004a0bc7906&oe=600C4800", UY CUATRO 4
@@ -1567,13 +1577,19 @@ http://planettvweb.com:8091/German/German/16537
 #EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN HD
 http://156.96.44.13:8081/televall2021/259_.m3u8
 #EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN HD
-
+http://uruguayiptv.com:25461/leandro1/leandro123/56351
+#EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN 
+http://uruguayiptv.com:25461/leandro1/leandro123/8704
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png",FOX SPORTS
 http://tecnotv.club/dinos/principal.php?c=83&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/70130.ts
+http://uruguayiptv.com:25461/leandro1/leandro123/460
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports 
+http://uruguayiptv.com:25461/leandro1/leandro123/414
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPOht HD
 http://planettvweb.com:8091/German/German/12004
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPOht 
+http://uruguayiptv.com:25461/leandro1/leandro123/27624
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-U17QowT7S64/Ubz4tXlMSDI/AAAAAAAAEi8/fQXVt-nOyS8/s1600/logo.png" ,CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496415326540546048/WZqGHADX_400x400.jpeg",COS
@@ -1698,7 +1714,8 @@ https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/chunklist_w1429463213.m3u
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/11/02/cEJAuC4rJAZbRYFI1sHmR6.jpg", CUATRO 4 HD
 https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3mXdCtaTRDs/XKJot0g39wI/AAAAAAAAAMg/4WftSUaDc70WW8UsGea8YtuIp_nXab-HQCLcBGAs/s320/la%2Bsexta.png", LA SEXTA CANAL 6 FUL HD
-https://corchitama18.pedromo.me/live/lasexta/index.m3u8?token=p6zeJhWkPhOjbYbMeEEI5Q&expires=1609349893
+https://corchitama18.pedromo.me/live/lasexta/index.m3u8?token=p6zeJhWkPhOjbYbMeEEI5Q&expires=1609349893#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3mXdCtaTRDs/XKJot0g39wI/AAAAAAAAAMg/4WftSUaDc70WW8UsGea8YtuIp_nXab-HQCLcBGAs/s320/la%2Bsexta.png", LA SEXTA CANAL 6 FUL HD
+http://127.0.0.1:56139/http/uruguayiptv.com:25461/leandro1/leandro123/18460
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3mXdCtaTRDs/XKJot0g39wI/AAAAAAAAAMg/4WftSUaDc70WW8UsGea8YtuIp_nXab-HQCLcBGAs/s320/la%2Bsexta.png", LA SEXTA CANAL 6
 https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/131634480_199559701771669_451799070328849240_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=8q5_svo1Dd8AX8mkcuy&_nc_ht=scontent.fsyq1-1.fna&oh=0d35e6da35d7081d341a8510fa9a5996&oe=6002F6BA", GALICIA HD 
