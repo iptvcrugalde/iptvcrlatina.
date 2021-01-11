@@ -1070,7 +1070,7 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 http://cm.hostlagarto.com:8081/Telecibao/Telecibao/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinepokerreport.com/wp-content/uploads/2013/09/wms-industries-online-poker.jpg",WMS HD TV
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="2wCEAAkGBxISEBUSEBIVFRUQFxgYGBcWGBgXGBYXFxUYFxgYFRgYHSggGBolGxYVITEiJSotLjIwFx8zODMtNyguLisBCgoKDg0OGxAQGy8lICItLS0vLy0tLS0tLSstNS0tNTYtLS03LS0tLSs3LS0tLS0tLSstLS0tLS0tLS0tKy0tLf",TELE CANAL 12 HD
+#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-0/p206x206/124614247_175322264195413_8636227441512689090_n.jpg?_nc_cat=107&ccb=2&_nc_sid=da31f3&_nc_ohc=vbWjIjgXtkkAX_S7Q_C&_nc_ht=scontent.fsyq1-1.fna&tp=6&oh=cb099c79c92f05005e7a06f935980cef&oe=6022F772",TELE CANAL 12 HD
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhNXeL2j6nDfgnmZxLlnMTAMne2l7IZ7boVIGUPL8h0VaFCFV2",,CIBERVISION CANAL 3 HD
 http://108.175.14.125:1935/tdn/tdn/chunklist_w1416269518.m3u8
@@ -1084,8 +1084,8 @@ https://panel.dattalive.com/8068/8068/chunklist_w1854499384.m3u8
 https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/avatars/119/5f996b8b1aa85-bpfull.jpg",Canal ETV 
 https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/avatars/119/5f996b8b1aa85-bpfull.jpg",Canal ETV 
-https://www.etv.cat/index.php/en-directe-etv/etv.html
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/avatars/119/5f996b8b1aa85-bpfull.jpg",Canal ETV HD
+https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.punt3.es/images/punt%203%20hd.png", PUNT CANAL 3 HD
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 #EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2019/03/MarTV.png", MAR.TV
