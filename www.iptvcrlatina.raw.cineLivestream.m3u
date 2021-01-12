@@ -538,9 +538,9 @@ http://89.105.194.59:25461/live/1mov$!XI!/1mov$!XI!/21.m3u8
 #EXTINF:-1 tvg-logo="https://www.montecable.com/img/senales/112-extremenew.png",HBO XTREME FUL-HD
 http://89.105.194.59:25461/live/1mov$!XI!/1mov$!XI!/25.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN",HBO MUNDI FUL-HD
-http/tecnotv.club/dinos/principal.php?c=77&f=.m3u8
+http://tecnotv.club/matrix/principal.php?c=77&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/6/6e/Hbopop.jpg/revision/latest?cb=20200216144542&path-prefix=pt-br",HBO POP FUL-HD
-http/tecnotv.club/dinos/principal.php?c=79&f=.m3u8
+http://tecnotv.club/matrix/principal.php?c=79&f=.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132605387_202876351440004_4798197233601364314_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE ful_hdHD
 http://tecnotv.club/dinos/principal.php?c=80&f=.m3u8
