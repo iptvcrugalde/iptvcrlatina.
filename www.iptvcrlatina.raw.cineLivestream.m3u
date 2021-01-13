@@ -1861,7 +1861,12 @@ http://100.145.2010.125.130
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/dalga-tv-canli.png", DALGA TV
 https://ecanlitv2.etvserver.com/live_sd/dalgatv/chunks.m3u8?nimblesessionid=314396601&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIxIDI6NDg6MzYgQU0maGFzaF92YWx1ZT1BVEVKMFM3V3BWTkJkZHo3ckh4ZlZRPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/atv-tv-canli.png", ATV HD
-https://ecanlitv1.etvserver.com:8081/atv.m3u8?tkn=miDzjBN-od8xqW9gx5dfMw&tms=1610512985
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC - STS
 https://ecanlitv2.etvserver.com/live_sd/rusctc/chunks.m3u8?nimblesessionid=314396562&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIxIDI6NDU6NDAgQU0maGFzaF92YWx1ZT1qUW1hWDk1MFlnMExKWTFqbDJURmVnPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/images/tr.png",TV-TURQUIA
+http://100.145.2010.125.130
+#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/atv-tv-canli.png", ATV HD
+https://ecanlitv1.etvserver.com:8081/atv.m3u8?tkn=miDzjBN-od8xqW9gx5dfMw&tms=1610512985
+#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/show-tv-izle.png", SHOW TV HD
+https://ecanlitv2.etvserver.com/live_sd/showtv/chunks.m3u8?
