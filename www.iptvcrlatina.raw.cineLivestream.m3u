@@ -420,7 +420,7 @@ https://teleclub.xyz/tv/canal?tele=GOLDENPREMIER_HD&format=.m3u8
 http://156.96.44.13:8081/televall2021/214_.m3u8?token=n1fGHnV6TJ0H2hwsJxedNQ&expires=1610497536
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
-#EXTINF:-1 thttp://156.96.44.13:8081/televall2021/215_.m3u8?token=wLGSg8l8I4iH8_Ny6m2OYQ&expires=1610482106vg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
 http://156.96.44.13:8081/televall2021/215_.m3u8?token=ms4_oIWop0hKNviW2ONZuw&expires=1610497588
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 http://tecnotv.club/poiu/principal.php?c=132&f=.m3u8
@@ -742,6 +742,8 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg", LATINO FUL-HD
 http://89.105.194.59:25461/live/perVX!!9$/perVX!!9$/138.m3u8
+#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png", Antena 7 HD
+http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b296000.m3u8 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Imfdu7EIPEKO8em81Z7axvgCCORz7DREbFrprfPAU9j2EnMdtyRWcu2-CeT3pKf2u04=s180",Venezuela TV
 http://www.lengua.com/anthems/Venezuela.mp3
@@ -947,7 +949,7 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w792904637.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/571325118678331392/90JKEFvQ.jpeg",GH TELEVISION HD
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/120374290_162421988818774_7901298551169135541_n.jpg?_nc_cat=108&ccb=2&_nc_sid=730e14&_nc_ohc=ZDNSkEUXusIAX_rhoIY&_nc_ht=scontent.fsyq1-1.fna&oh=fccef3a070d8b4ea3c530552571ea1a2&oe=5FFDBF53", GDM TELEVISION
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1", GDM TELEVISION
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950878950149914624/1UJUmn-2.jpg", TVS CANAL 22 DE TODOS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
@@ -1224,8 +1226,6 @@ http://162.255.86.122:25461/live/DAZPLAYER/versionweb2019/640.m3u8
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/117715550_146757130385260_4494327653658910578_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=LcG9cYct98UAX9jh3ir&_nc_ht=scontent.fsyq1-1.fna&oh=e3f543994ccbf49146fb3c606ede2251&oe=600E0397",FMH MOVIES 
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png", Antena 7 HD
-http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b296000.m3u8 
 
 #EXTINF:-1 tvg-logo="https://k37.kn3.net/taringa/4/4/6/3/7/6/5/lau22manda/A5D.jpg?4425",INFANTILES
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
@@ -1720,10 +1720,8 @@ http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
 https://teleclub.xyz/tv/canal?tele=NOVA_ES&format=.m3u8
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/960/0*vxPEMP_Ww3WiTOrK.jpg", NOVA.TV 
 https://e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/chunklist.m3u8?at=7380d951fb98957fe9f545b2db0dbafe
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/130245088_191869369207369_5577547194502793143_n.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=s5EXezfud7cAX8zESLZ&_nc_ht=scontent.fsyq1-1.fna&oh=a29abdf75be7ab5e22f92354c4b8875f&oe=5FF46B6E", CALLE 13 FUL-HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 FUL-HD
 http://uruguayiptv.com:25461/leandro1/leandro123/530
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/130245088_191869369207369_5577547194502793143_n.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=s5EXezfud7cAX8zESLZ&_nc_ht=scontent.fsyq1-1.fna&oh=a29abdf75be7ab5e22f92354c4b8875f&oe=5FF46B6E", CALLE 13 FUL-HD
-
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION FULHD
 https://teleclub.xyz/tv/canal?tele=MOVISTAR_ACCION_ES&format=.m3u8
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2017/09/Movistar_Estrenos.jpg",MOVISTAR CANAL DE ESTRENOS FUL-HD
