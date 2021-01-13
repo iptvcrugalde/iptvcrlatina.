@@ -674,12 +674,12 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png", CANAL 10
 http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU-video=1480000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDA0bss0aR_SZcATNidLC8kNGbi4Jnivs1A&usqp=CAU", CANAL 11 PUNTA DEL ESTE 
-https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w1318248782.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIxIDEyOjEwOjQ3IEFNJmhhc2hfdmFsdWU9QTliVGlTK2twTksvekxuUTlOazdxdz09JnZhbGlkbWludXRlcz01JmlkPQ%3D%3D
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w624034085.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIxIDE6NTI6MzUgQU0maGFzaF92YWx1ZT1lZWQ0M2t1WC9FTEFGUmdnM1FYaW5BPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDA0bss0aR_SZcATNidLC8kNGbi4Jnivs1A&usqp=CAU", CANAL 11 PUNTA DEL ESTE  FUL-HD
-https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w1318248782.m3u8
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg?size=web_v_m", CANAL 12 FUL-HD
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w1740502388.m3u8?
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg?size=web_v_m", CANAL 12-HD
 http://uruguayiptv.com:25461/leandro1/leandro123/80319
-#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 
+#EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 FUL-HD
 https://vxlive.cdn.antel.net.uy/auth_livesignal_896,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODk2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA1MTkwNDkmcmFuZG9tPUdxWVZvNThwZXkmYy1pcD0yMDEuMTkxLjI1NC4xMTIsYWM0MGYyMjE3YmFiOTExZmUxM2M3MTBkODkwNTMxOTY5MGZlOTRjZmJlMGMyZjk2YmVhOTA5NjRhMDI5M2EzZA==/vxfmt=hls/h_c41f1d8113bde6839b616e7cfeff5112/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg",IR TELE FUL-HD
 
@@ -696,7 +696,7 @@ https://vxlive.cdn.antel.net.uy/auth_livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXR
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg",Artigas Televisión HD CINE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/200px-LogoLaRed2018.png", LA RED
-http://127.0.0.1:55107/http/uruguayiptv.com:25461/leandro1/leandro123/8
+http/uruguayiptv.com:25461/leandro1/leandro123/8
 #EXXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/top/zpapi.zetatv.com.uy/media/images/canal4LOGO.png", CANAL 4 VIVO PARA VOS HDVO PARA VOZ FUL-HD
 http://127.0.0.1:41970/http/uruguayiptv.com:25461/leandro1/leandro123/163
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132780205_204185894642383_7733062884705125842_n.jpg?_nc_cat=102&ccb=2&_nc_sid=730e14&_nc_ohc=-cilGoMvE58AX8HjGA5&_nc_ht=scontent.fsyq1-1.fna&oh=da4bfb50635c0fd0f1906004a0bc7906&oe=600C4800", UY CUATRO 4
@@ -707,7 +707,7 @@ http://125.139.128.132
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjRo1R_4ht4X_o5teK2rd3p6VDPN1Eu5vM8Q&usqp=CAU", PAT HD
 http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg", BOLIVISION HD
-https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8
+https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwNTkxMDk3LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTEyIiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjExMiJdfSwic2lnbmF0dXJlIjoiZmY4MjY3MjJiMTI1NDNiNDE5MWQwZjgyM2Q4M2M1NWRmNTcyNDBjMyJ9
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/C_fW2MT-N7FfWKH1n8zUsJ8_JNlpx12E3ii2JUC7Bo1zxe6phnF1CZegZx0gLRNvoV5P", PUERTO RICO
 http://127.0.0.1
@@ -799,10 +799,8 @@ https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.ghtelevision.com/images/gh_television_logo_sm.png",GH TELEVISION CANAL 10
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RayZHQsT_84/WJOhiYn5_ZI/AAAAAAAADGM/0tlwnlgoY3Aah9hVj991c062RXwkpm5JACLcB/s1600/Super%2BTV%2B55%2B-%2Bonline%2B-%2Ben%2Bvivo.png",SUPER TV 55 
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w810346608.m3u8
-#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/super-tv-55-300x169.jpg",SUPERTV 55
-http://ss8.domint.net:2128/stv_str/tv55/chunklist_w704544947.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RayZHQsT_84/WJOhiYn5_ZI/AAAAAAAADGM/0tlwnlgoY3Aah9hVj991c062RXwkpm5JACLcB/s1600/Super%2BTV%2B55%2B-%2Bonline%2B-%2Ben%2Bvivo.png",SUPER TV 55 HD
+https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1366602525.m3u8
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg",CANAL 56  
 https://vpss1002.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/QxC4z1VD9uf9Sv_N5/x240", COLOR VISION HD
@@ -1671,8 +1669,8 @@ http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/35161
 
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/images/de.png", ALEMANIA.TV
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
-#EXTINF:-1 tvg-logo=" https://www.ecanlitvizle.live/logo/one-hd.png", ONE HD
-https://ecanlitv2.etvserver.com/live_sd/deone/chunks.m3u8?nimblesessionid=313743416&wmsAuthSign=c2VydmVyX3RpbWU9MS80LzIwMjEgMjo1OToxNCBBTSZoYXNoX3ZhbHVlPUd5WEEwS1M5RnNkWXRpVDNqMjUzNUE9PSZ2YWxpZG1pbnV0ZXM9MTA=
+#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/one-hd.png", ONE_HD
+https://ecanlitv1.etvserver.com/live_sd/deone/chunks.m3u8?nimblesessionid=211439469&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIxIDI6NDE6NDggQU0maGFzaF92YWx1ZT1jTnI2VURuVzZRYTFnUkNaT1FuYUZRPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",ESPAÑA
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
@@ -1862,10 +1860,8 @@ http://100.145.2010.125.130
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0syoZJqALJI4Icq333Y_OKXy1MA_D8oMvYw&usqp=CAU", ATV HD
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/dalga-tv-canli.png", DALGA TV
-https://ecanlitv1.etvserver.com/live_sd/dalgatv/chunks.m3u8?nimblesessionid=211194224&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMTE6Mzk6MTAgUE0maGFzaF92YWx1ZT1GeWRod2ROUkE0NnJleXNaZGN6Y1RRPT0mdmFsaWRtaW51dGVzPTEw
+https://ecanlitv2.etvserver.com/live_sd/dalgatv/chunks.m3u8?nimblesessionid=314396601&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIxIDI6NDg6MzYgQU0maGFzaF92YWx1ZT1BVEVKMFM3V3BWTkJkZHo3ckh4ZlZRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/atv-tv-canli.png", ATV HD
-https://ecanlitv1.etvserver.com:8081/atv.m3u8?tkn=NEQGo-l0CKmIEa38ia2TVA&tms=1610243442
+https://ecanlitv1.etvserver.com:8081/atv.m3u8?tkn=miDzjBN-od8xqW9gx5dfMw&tms=1610512985
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC - STS
-https://ecanlitv1.etvserver.com/live_sd/rusctc/chunks.m3u8?nimblesessionid=211194205&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMTE6Mzg6MDEgUE0maGFzaF92YWx1ZT05VnAxNkZ0TTJsK2NuWi9MdHRIdTVBPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/one-hd.png", ONE_HD
-https://ecanlitv2.etvserver.com/live_sd/deone/chunks.m3u8?nimblesessionid=314152329&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjEgMTE6NDY6MDQgUE0maGFzaF92YWx1ZT1haWVIWHBqWXJPN2hVaFE0MUVlVWFRPT0mdmFsaWRtaW51dGVzPTEw
+https://ecanlitv2.etvserver.com/live_sd/rusctc/chunks.m3u8?nimblesessionid=314396562&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIxIDI6NDU6NDAgQU0maGFzaF92YWx1ZT1qUW1hWDk1MFlnMExKWTFqbDJURmVnPT0mdmFsaWRtaW51dGVzPTEw
