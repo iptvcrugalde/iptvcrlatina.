@@ -346,6 +346,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w148
 https://playback2.akamaized.net/streams/27177136_8970901_lsitpsrwj3wsl3hxe9r_1/exp=1601173026~acl=%2f*~data=hdntl~hmac=3658816c3f12bdb76f382cda2473018b3991bfeed4d4f8bc578437340eb193f5/media/27177136_8970901_lsitpsrwj3wsl3hxe9r_1@1628000p.m3u8?dw=14400&ts=1601085600
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD 
 http://uruguayiptv.com:25461/leandro1/leandro123/1676
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV FULHD
+https://teleclub.xyz/ver/canal?tele=HTV_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV 
 http://uruguayiptv.com:25461/leandro1/leandro123/1675
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
