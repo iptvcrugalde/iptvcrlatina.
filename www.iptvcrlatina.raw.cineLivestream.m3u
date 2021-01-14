@@ -246,9 +246,9 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUuJm7u.png" group-title="GUATEMALA", TELECOSTA HD
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", Guatevision HD
-https://streannlive-lh.akamaihd.net/i/guatevision_1@870649/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1610605632~acl=*~data=hdntl~hmac=4b2172a166e1a1e024e68ddc5edb680d60388eae064000b24181c30ff0abb648
+https://streannlive-lh.akamaihd.net/i/guatevision_1@870649/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1610677547~acl=*~data=hdntl~hmac=8599db10b1eca3b1722bc5d4ecd1cf6e401886c3d0a50a2e3c5aa0c200f9dfcf
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 HD
-
+https://gt-chapintv-canal3-live.ned.media/chapintv/smil:canal3.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwNjc3NTk5LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuNjMiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuNjMiXX0sInNpZ25hdHVyZSI6IjhlYjVlZTVkNGRkMDI5MjgwN2E0YWIxYjYxNzgxZDIxYmEzZGU0OTkifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xDNU1GWXS9c/maxresdefault.jpg", TELEVISIETE 7
 https://gt-chapintv-canal7-live.ned.media/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwNTY2MTAxLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMyIsIndoaXRlbGlzdCI6WyIyMDEuMTkxLjI1NC4zIl19LCJzaWduYXR1cmUiOiIzMTY5NjZjNTQ5MGI4YzY3MzUwZTljM2FmMjQ2NjgwNjk2OTJkYThmIn0%3D
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/11_de_guatemala-mediano.png",CANAL 11
@@ -266,7 +266,7 @@ https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
 #EXTINF:-1 tvg-logo="https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/image_750x422/public/senalradionica/articulo-noticia/galeriaimagen/ae3bcaca3e5dcca36c983d8f85f88388.jpg?itok=nsTKwTgl",Senal Colombia 
 https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg",Canal Uno HD
-https://2fyt5kvytd8fpj23.ezcdn483.net:8443/hls/urgt878zkz.m3u8?s=c1m_00enPKvCvZrdDYLZ1Q&e=1610540264
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/urgt878zkz.m3u8?s=xWft8clJx3SpWNV-jQ18SQ&e=1610612530
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RReDi1C.png", UNO PLAY
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-300/index.m3u8
 #EXTINF:-1 tvg-logo="http://prai.tv/wp-content/uploads/2018/07/City-300x200.jpg", CITY TV HD 
@@ -310,7 +310,7 @@ http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ZUOM6xBxUMw/AAAAAAAAAAI/AAAAAAAAAAA/_-I8vEkAWXw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",RCN Novelas
 http://tv.latintvweb.com:25461/live/OmarCruz/foev3rRNU2/22133.m3u8
 #EXTINF:- 1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/rcn-novelas-en-vivo-1426.png",RCN NOVELAS HD
-https://2fyt5kvytd8fpj23.ezcdn483.net:8443/hls/66vq38eyower0.m3u8?s=e1illjyuM1JNdqFaf3EiSw&e=1610540418
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/66vq38eyower0.m3u8?s=BjhoFXH7hMwtL29kqBky_w&e=1610612666
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgqVvJ5.png" group-title="TV COLOMBIA",CANAL CNC
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist_w1482166262.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuFnVQSMvhZAUHzzuN7tQXXohKWhcJvfgugEkxpjnsfgtRy7J2" group-title="CHRISTIANOTY",Tele VIDA (Colombia)
@@ -415,11 +415,11 @@ http://89.105.194.59:25461/live/4movT$1!!/4movT$1!!/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER GOLDEN FUL-HD  
 https://teleclub.xyz/ver/canal?tele=GOLDENPREMIER_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", PREMIER GOLDEN HD  
-http://156.96.44.13:8081/televall2021/214_.m3u8?token=EWsEdSCyHe0b_tSdOBUXsw&expires=1610572098
+http://156.96.44.13:8081/televall2021/214_.m3u8?token=yPJs6vq4B_ApitsQjxC9rw&expires=1610595595
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
-http://156.96.44.13:8081/televall2021/215_.m3u8?token=yv0m4Fhau4rtrG1zsI4CTw&expires=1610572009
+http://156.96.44.13:8081/televall2021/215_.m3u8?token=IaQKVfJZLpFIVXejS11TXQ&expires=1610603493
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 http://ipeteve.com/php/t121220/mc.php?c=132&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
@@ -432,16 +432,18 @@ https://sony-novelas-1.roku.wurl.com/playlist_960x540_2000k.m3u8
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY NOVELAS
 https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3CRfuaO_o439u3Jei2Mej5MoauQJ2V5oLzihdvhw3lhU3x6qo", DHE FULHD 
-http://156.96.44.13:8081/televall2021/316_.m3u8?token=qBXuPpHwfHiX2kv8aazbvA&expires=1610565183
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC 
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC HD
 http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XXGxqFR.jpg",Multicinema MC FUL_HD
-http://156.96.44.13:8081/televall2021/276_.m3u8?token=EODaTEAo1xQT_04rthFS-Q&expires=1610565257
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3CRfuaO_o439u3Jei2Mej5MoauQJ2V5oLzihdvhw3lhU3x6qo", DHE FULHD 
+http://156.96.44.13:8081/televall2021/316_.m3u8?token=lXT1fB3C2ox7c6Ap1pyPtA&expires=1610602195
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
-https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/21zryaxtu4y.m3u8?s=UpMF-srwW4szaSo0kO3p6w&e=1610591992
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/21zryaxtu4y.m3u8?s=gVIP-db4tcPmZgp4Uxwwog&e=1610614012
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido
+http://156.96.44.13:8081/televall2021/159_.m3u8?token=AEJ_A4EeexHsPPAH1Af6Lw&expires=1610602316
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL_HD
