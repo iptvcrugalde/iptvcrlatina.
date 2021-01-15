@@ -1,7 +1,7 @@
 #EXTM3U = www.iptvcrlatina.raw.cineLivestream.m3u 
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/16/17/16/5959432.jpg", IPTV LATINA CR
 https://www.youtube.com/watch?v=YTYn6iLVPx4
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",14 01 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",15 01 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -680,7 +680,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png", CANAL 10
 http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU-video=1480000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDA0bss0aR_SZcATNidLC8kNGbi4Jnivs1A&usqp=CAU", CANAL 11 PUNTA DEL ESTE 
-https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w791087328.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDU6MDI6NDggQU0maGFzaF92YWx1ZT1IK25sa2hBWEZWZDFKUGd6RjJFaWt3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w388539593.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDU6MDI6NDggQU0maGFzaF92YWx1ZT1IK25sa2hBWEZWZDFKUGd6RjJFaWt3PT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-O4aymY357UEAQ-Ru3q25bJVOfIVddfh0g&usqp=CAU", TELE 12-HD
 http://uruguayiptv.com:25461/leandro1/leandro123/80319
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 FUL-HD
