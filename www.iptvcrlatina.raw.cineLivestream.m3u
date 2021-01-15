@@ -866,10 +866,9 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cd
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/radio-television-vida.png?fit=600%2C360", CANAL RTV
 
 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",
-CINE TV
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",CINE TV
 http://127.0.0.1
-#EXTINF:- 1 tvg-logo="https://www.ubo.cl/wp-content/uploads/itv-patagonia-def.jpg",  ITV PATAGONIA HD 
+#EXTINF:- 1 tvg-logo="https://www.ubo.cl/wp-content/uploads/itv-patagonia-def.jpg", ITV PATAGONIA HD 
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135492308_208570100870629_8390498080498603752_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_nc_ohc=CgU_0NdWwDsAX8pAX3u&_nc_ht=scontent.fsyq1-1.fna&oh=62883ef9cbaf0d5db479d00a86fed4e3&oe=60181EEF", RED.TV
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1692526373.m3u8
@@ -1206,8 +1205,6 @@ https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/512.m3u8
 https://59802217c6db4.streamlock.net/surtv/videosurtv/chunklist_w781219550.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DoF9YY7XsAAGIrv.jpg", Film 4
 http://photocall.tv/lF4r/ftv.m3u8?ch=film4
-#EXTINF:-1 tvg-logo="https://scontent.fsjo14-1.fna.fbcdn.net/v/t1.0-9/c63.0.139.139a/127211614_179521897108783_2615177679357834820_n.jpg?_nc_cat=100&ccb=2&_nc_sid=da31f3&_nc_ohc=TGOPW_njkOIAX8DIO-I&_nc_ht=scontent.fsjo14-1.fna&_nc_tp=29&oh=172f4d8fcb7da33e108d343672779f2b&oe=6028410D", STAR*KING MOLDOVA
-https://ok.ru/video/2954387660518?fromTime=105052
 #EXTINF; -1 tvg-logo="https://toplogos.ru/images/logo-cinema-4d.jpg", CINEMA 4D PREMIUM FULHD 
 http/tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/34568
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNdH9oMU_hn_w8sQQDtWBCncxTe9jtG1Y3p8KuzeAgr0&s",MAXIMA MOVIE HD
