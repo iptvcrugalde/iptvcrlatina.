@@ -68,7 +68,7 @@ http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xsf6rrPqkTo/W-9raD0P78I/AAAAAAAAAUA/M_N3gE7Hz_Ekk2du-HCN6ES31PZtc714ACK4BGAYYCw/s1600/tvcartago%2Blogo%2Bprobincial%2B.png",CARTAGO tv 
  http://cdn2.envivo.win/HLS/?canal=zonafilmstv&c=ZwNjYwRkBF4kBQLhZmt=&p=ZGH4AGD1ZGtjZN==https://59ef525c24caa.streamlock.net/tvcartago/tvcartago/chunklist_w1703137278.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnlP1qBYTybpShtDC-Prd8UwdWv2hAfJ4frw&usqp=CAU", STV CABAL 5 SANVITO TELEVISION EN DIRECTO
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-5-stv-en-vivo.jpg", STV CABAL 5 SANVITO TELEVISION HD
 http://k4.usastreams.com/vitotv/vitotv/chunklist_w585930838.m3u8
 #EXTINF:-1 tvg-logo="https://www.norteinformativo.com/img/Logo.png", NORTE INFORMATIVO HD
 https://inliveserver.com:1936/8328/8328/chunklist_w2004779437.m3u8
@@ -104,7 +104,7 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/chunklist_w1014056279.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_con_sombra.png",Canal UCR 
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/121352776_167532891641017_215745218621219520_n.jpg?_nc_cat=109&ccb=2&_nc_sid=730e14&_nc_ohc=EizVmLXCcX4AX9nyHpB&_nc_ht=scontent.fsyq1-1.fna&oh=643c9efec3eb1ff1f11cd7ce906d1489&oe=6001275C", STV EL CAMAL FAMILIAR
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg", STV EL CAMAL FAMILIAR
 http://tiquiciatv.com:1935/stv/web/chunklist_w915494086.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozXOprX.png" group-title="TV COSTA RICA" group-title="MUSICA",COLOSAL TV HD 
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
