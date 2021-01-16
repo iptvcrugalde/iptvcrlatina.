@@ -74,7 +74,7 @@ http://k4.usastreams.com/vitotv/vitotv/chunklist_w585930838.m3u8
 https://inliveserver.com:1936/8328/8328/chunklist_w2004779437.m3u8
 #EXTINF:-1 tvg-logo="https://www.norteinformativo.com/img/Logo.png", NORTE INFORMATIVO
 https://inliveserver.com:1936/8328/8328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/131589142_197489965311976_464612146892612686_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=G9RsH2igqTIAX-L4xvs&_nc_ht=scontent.fsyq1-1.fna&oh=9a8c57a6c48af2259226c659c300b52e&oe=6000F1C2", COSTA BALLENA.TV
+#EXTINF:-1 tvg-logo="https://scontent.fsjo14-1.fna.fbcdn.net/v/t1.0-9/121629859_167530758307897_1755142348089596774_n.jpg?_nc_cat=104&ccb=2&_nc_sid=730e14&_nc_ohc=OVQdOEIjwKgAX9cb_NN&_nc_ht=scontent.fsjo14-1.fna&oh=4aed4c2752ed091805a6a4fe5d365de7&oe=6028AE56", COSTA BALLENA.TV
 https://panel.livetvvideo.net:1936/costaballenatv/costaballenatv/chunklist_w1833314676.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135480690_209797627414543_1122003721143378113_n.jpg?_nc_cat=100&ccb=2&_nc_sid=730e14&_nc_ohc=IBxGZwVmJnYAX_Z1XHA&_nc_ht=scontent.fsyq1-1.fna&oh=a9693518782448080dd4e26935514fa6&oe=6017DFED", TVO OCCIDENTE
 http://k4.usastreams.com/tvoccidente/tvoccidente/playlist.m3u8
@@ -699,19 +699,19 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/C
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-O4aymY357UEAQ-Ru3q25bJVOfIVddfh0g&usqp=CAU", TELE 12-HD
 http://uruguayiptv.com:25461/leandro1/leandro123/80319
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 FUL-HD
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_896,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODk2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA3OTM2NTYmcmFuZG9tPXlOR29kYXBHbG0mYy1pcD0yMDEuMTkxLjI1NC4xMSwyZDQ1ZWM5ZWU3MTI5M2E2ODc4MDgyNGEwNGFkMzE4MTQ1ZTg5NDRjZWZlM2IyNGI2MWZkZDEzODc0NjcxY2Ji/vxfmt=hls/h_c41f1d8113bde6839b616e7cfeff5112/var3000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg", IR TELE FUL-HD
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_884,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODg0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA3OTM1ODImcmFuZG9tPXZZdlZxbHgyS2EmYy1pcD0yMDEuMTkxLjI1NC4xMSxjZTQwNTQ0ZDExMmExYzAzNDZlODdhZjc1NGRhMDIxZGE2N2Y4ZTE2NjFkZjIzMmY0ZmM1ODBhOWYyNjBkZTNh/vxfmt=hls/h_d0912d6b9d5f24e30d61fc23ee4ed628/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg", RU TV CINE
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_852,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODUyJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA3OTM3MTEmcmFuZG9tPUpWZTBWZjhtSDMmYy1pcD0yMDEuMTkxLjI1NC4xMSw5ODhhMTE5ZGNiYWNlNGZkNWVmOWI3ZmM3NWZjZDI0N2NkNzhmZDI1ODE3OTUzZWViYTg1NzgxZjgxY2Q3N2Nk/vxfmt=hls/h_0be1c15e1d6d5dd8022734de149c9be0/var3000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg",CANAL 7 PUNTA DEL ESTE
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_693,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjkzJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA3OTM3NTcmcmFuZG9tPVVaQnRoNjRMdHEmYy1pcD0yMDEuMTkxLjI1NC4xMSxiYTJlYTVhZDAyNjEzNDQ4YzZhMmI0YTZiNjgwMzFiNTQ4NzE4NzdkYzBiMjA4MTlmYzRhMTdmZmFmNDc0OGU2/vxfmt=hls/h_723370a04e844daa250b12228e4dc328/var3000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg?size=web_v_m",Canal 8 Televisora CINE
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_614,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjE0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA3OTM4NDMmcmFuZG9tPUUwOVZMTVdqSTEmYy1pcD0yMDEuMTkxLjI1NC4xMSw0ZjU4YWRiYWE2M2JkN2Q4NjFjYjNiYTc1NzUzYzhmYjk0OWQxNTNhMjMwZDJlOTJiOTEwYzlhYjg3YjU2ZGIz/vxfmt=hls/h_d1aa072b89b67745c4f1e410aa1b6fc5/var3000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9369/240/default.jpg?size=web_v_m",Canal 8 Rivera CINE
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_500,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNTAwJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA3OTM4OTkmcmFuZG9tPVVMTDR1WlI4RkUmYy1pcD0yMDEuMTkxLjI1NC4xMSxmODVkNjBiMGE5ZjEyYmI5Yjg3OWUyZjhlY2FkYTU0YWQ4MjY3ZmI1NmUxODU5NzJmYjgwMWNkZGUxMmFmZTE0/vxfmt=hls/h_d42fc4c9e2f1bab2612596b20cbfcc13/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal9telerocha.com.uy/wp-content/uploads/2020/06/cropped-LOGO-9-HD-carta-1.png",Canal 9 Telerocha HD CINE
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA3OTM5NDAmcmFuZG9tPXZVNGdjYlhQeUEmYy1pcD0yMDEuMTkxLjI1NC4xMSxmNWFlMTdiNzNlNGVmODU0YTY1ZWM3ODJiMzFkNmIxZTljMjU5YWEzZmFkYjFlMDMzZDFhNmE0NDM4NDJmOTY5/vxfmt=hls/h_e9e31ce7b7b0f375a7f0a07ccffb2672/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg",Artigas Televisión HD CINE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/200px-LogoLaRed2018.png", LA RED
@@ -719,7 +719,7 @@ http://uruguayiptv.com:25461/leandro1/leandro123/80319
 #EXXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/top/zpapi.zetatv.com.uy/media/images/canal4LOGO.png", CANAL 4 VIVO PARA VOS HDVO PARA VOZ FUL-HD
 http://127.0.0.1:41970/http/uruguayiptv.com:25461/leandro1/leandro123/163
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132780205_204185894642383_7733062884705125842_n.jpg?_nc_cat=102&ccb=2&_nc_sid=730e14&_nc_ohc=-cilGoMvE58AX8HjGA5&_nc_ht=scontent.fsyq1-1.fna&oh=da4bfb50635c0fd0f1906004a0bc7906&oe=600C4800", CUATRO 4
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_601,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTA3OTM5ODYmcmFuZG9tPWVFdkVDek9oUmMmYy1pcD0yMDEuMTkxLjI1NC4xMSw2OGJjYjc2NTFhYTAyNzIwNGUwZjIyOWJhZTY0ZTQwY2Y1YTA1N2UzYjI5MWU3Y2U3MTU0MjhiODRjODYyOTM4/vxfmt=hls/h_050aea287c6bad7541646edb7692a270/var1200000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png", BOLIVIA
 http://125.139.128.132
