@@ -449,7 +449,7 @@ http://iptvhd.club:8081/televall2021/159_.m3u8?token=tpmYhVq5GSmzRLJJckAJ-w&expi
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL_HD
-http://tecnotv.club/matrix/principal.php?c=63&f=.m3u8
+https://teleclub.xyz/ver/canal?tele=FOX_HD&format=.m3u8
 https://5wpje48z8ef36ntq.ezcdn462.net:8443/hls/0e733j.m3u8?s=B-1WcUOYQ9tbloNQBfKhmg&e=1610012796#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
 http://ipeteve.com/php/t121220/mc.php?c=63&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
@@ -475,7 +475,7 @@ https://teleclub.xyz/ver/canal?tv=TBS&format=.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135467054_209797477414558_588917232848789511_n.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_ohc=GTW9d76-bVcAX9JjEIi&_nc_ht=scontent.fsyq1-1.fna&oh=bf60ab09afcfd376b3306ed7b1062743&oe=601A6790",TNT HD
 http://ipeteve.com/php/t121220/mc.php?c=146&f=.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135467054_209797477414558_588917232848789511_n.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_ohc=GTW9d76-bVcAX9JjEIi&_nc_ht=scontent.fsyq1-1.fna&oh=bf60ab09afcfd376b3306ed7b1062743&oe=601A6790",TNT FUL_HD
-http://tecnotv.club/matrix/principal.php?c=146&f=.m3u8
+https://teleclub.xyz/ver/canal?tv=TNT&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/13.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
@@ -546,10 +546,14 @@ http://tecnotv.club/matrix/principal.php?c=79&f=.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132605387_202876351440004_4798197233601364314_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE ful_hdHD
 http://tecnotv.club/matrix/principal.php?c=80&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png",USA: HBO COMEDY HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png",USA: HBO COMEDY 
 http://planettvweb.com:8091/German/German/22618
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png",USA: HBO COMEDY HD
+http://194.40.241.218:83/directline76598/6522AM0203452020/119
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png",USA: HBO COMEDY 
 http://185.66.143.240:25461/live/franky/franky/235.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/HBO_Zone_2000.svg/revision/latest/scale-to-width-down/340?cb=20200119223020&path-prefix=es",USA: HBO ZONE HD
+http://194.40.241.218:83/directline76598/6522AM0203452020/125
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/HBO_Zone_2000.svg/revision/latest/scale-to-width-down/340?cb=20200119223020&path-prefix=es",USA: HBO ZONE 
 http://185.66.143.240:25461/live/franky/franky/927.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnl5zQhn60mk5F4yat9iLYiV4vk7shXOSMMViI1KokZJEwA_Hs" group-title=="ENTRETENIMIENTO",E! FUL-HD
@@ -1125,12 +1129,25 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1381385764.m3
 
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", CINEMAX CINE HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/375677.ts
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", CINEFR: CINE FAMIZ HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/376318.ts
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", CINE TERROR HD
+https://teleclub.xyz/ver/canal?plutotv=CINE_TERROR&format=.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", CINEFR: CINEACCION HD
+https://teleclub.xyz/ver/canal?plutotv=CINE_ACCION&format=.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", CINE SKY ACTION HD
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/378443.ts
+
+#EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/netflix_tv_pixabay_1605005703348.jpg",NEFLIX CINE
+https://128.130.01.125
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Horror 2
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/386133.ts
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", DRAMA 
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/386130.ts
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png",Kids
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/386136.ts
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", ACCION +
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/386124.ts
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png",Comedy 2
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/386128.ts
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-O2mB7eLoXTc/Xj3fc8g0LVI/AAAAAAAAAiA/-oOdUkmzvo4SIjAEmqZX6TtubW2zZ0fkACK4BGAYYCw/s1600/0000ZONAFILMSTV-TITULOwebs.png", ZONAFILMS TV
 https://128.130.01.125
