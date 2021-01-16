@@ -638,6 +638,8 @@ http://ipeteve.com/php/t121220/mc.php?c=59&f=.m3u8
 http://uruguayiptv.com:25461/leandro1/leandro123/661
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT 
 http://156.96.44.13:8081/televall2021/194_.m3u8?token=mePdt9a6X_35ImJvIMUqLQ&expires=1610341484
+#EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
+http://tv-prime.tv:8080/live/Cruzado/nsNviFCPtn/926.m3u8
 #EXTINF:-1 tvg-logo="https://telesol.tv/wp-content/uploads/2020/06/LOGO-FINAL-TELESOL-2020.png", TLS HD
 https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://telesol.tv/wp-content/uploads/2020/06/LOGO-FINAL-TELESOL-2020.png", TLS HD
