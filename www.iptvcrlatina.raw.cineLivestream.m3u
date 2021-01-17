@@ -27,15 +27,13 @@ https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunkli
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJdbE6lh-DvUr5187cZJ4OwxyA0VXsxbWE5Q2JzFyrrTS5DSTx", REPRETEL CANAL 6 
 https://ok.ru/video/1830867443418?fromTime=6587
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", REPRETEL CANAL 4 FULHD
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwNzY2MTAzLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTE5Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjExOSJdfSwic2lnbmF0dXJlIjoiNThiMTU4N2Y3NzEzM2FkMWNmMjliZTE5NWQ0OWUwMWNjMDQxOWE1NCJ9
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwOTk4ODIxLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuMzYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuMzYiXX0sInNpZ25hdHVyZSI6ImJiMmJkYWQxMmVlYzEyZWVkYTJjMmEzMDFlYWVhN2JiN2MwZGU1OTAifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-2.jpg", REPRETEL CANAL 11 FULHD
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwNzY2MjgwLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTE5Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjExOSJdfSwic2lnbmF0dXJlIjoiNDg4MWE0NmJhNWEwOWRjNzhmMmJjYjBmYjg2YjhhY2ExZGI4ZWMzNyJ9
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwOTk4OTMwLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuMzYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuMzYiXX0sInNpZ25hdHVyZSI6IjgxYTUwMmQ4YTVhNzM3ZjI5MWI4Y2ZhY2JlZmIwODc0MmU4MGY0ZTcifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica.png" group-title="Costa Rica", REPRETEL CANAL 2 FULHD 
-https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwNzY2NDM4LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTE5Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjExOSJdfSwic2lnbmF0dXJlIjoiODIwOGI0NWU0YjEwNDU4MGEwYzYxMjBlZjU2MDRiYzRjMjQ5M2ZiNyJ9
-#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 HD
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO508dvlleyVKrkvKza26yHEg)/dm/3/x29e3wg/s/live-4.m3u8
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwOTk4NzA3LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuMzYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuMzYiXX0sInNpZ25hdHVyZSI6IjdlMGQyODY1ZGJmNDMxOThiMDVkMTg2OGM3ZmJlMDg0NTA5NjRjYWEifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FUL_HD
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO508dvlleyVKrkvKza26yHEg)/dm/3/x29e3wg/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO58Uf_ypqXd56mDwl4blNsZQ)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg",CANAL 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iO6qmgY.png", TELERED TELEVISION HD 
@@ -55,7 +53,7 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YWlyLmNvbS50dnN1cnJhZGlvLnJhZGlvc3VyX2ljb25fMTU0ODE4NDM1Nl8wOTU/icon.png?w=170&fakeurl=1&fbclid=IwAR1Hjst5WdgMCCFNuS0mFo_xXD9uGzoBmzTooNexUc2iBxHaz-UyYdUN9aM", TVSUR RADIO CANAL 5 HD
 https://ok.ru/video/1906333261342
 #EXTINF:-1 tvg-logo="https://scontent.fsjo14-1.fna.fbcdn.net/v/t1.0-1/p200x200/126227883_3451441691598760_1849151813160374143_o.png?_nc_cat=110&ccb=2&_nc_sid=1eb0c7&_nc_ohc=ir4YAi-aQdAAX9UpckU&_nc_ht=scontent.fsjo14-1.fna&_nc_tp=30&oh=2fe5809eb75d102576f0fa856071d803&oe=6022A37B",CANAL SUPER 5 HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpkFfIcXNLToGlX21aHW3R55WTN3PpY8MEjzDl4DhusMGtOGXK1xjC2_jQ-NRHcQt18cd7oUr51U0cJLamasLX2oZ4VOGWnTTSFK65NZRqIaLDS6-kc3J3yG-DhYBbvF2wxYLfG3yXNsta08CMC_nTDwK0bSwes5aRVR8PTgGiA_mqIU7myZNfNk3vXCOxBe1feuiI96eVF5iYyRgKfANmOzvtOH9gGAuz4dmMo2Wn-nTYA-e5XODgqs_-YGLO2a1LKWlpLlo0Fpu5n3RLyzOg7Ew6_d1-gUxuAPZrIYK7n-qd3idw1tanp7Y-hW9-y45b4iYRdemTP2cN96hAUsA52vnHyffAApw-LVU1z83yLYLg-dJ_gTXpW6NrhPvE_1QcXvUjSnlgSWVIVzRAygXzACNwI15OUoAr77Yg_uZKI8U1HYkGS0RSKiYP7_usu54G3jFH3Q5-DNLZElfyvidKRLRGPdFva3yGBDQJlnuY3w7fgVfahpINh0C7PliUK9Y86J1G7lG8h-3zOMAKc0OR2YDz91CjSN5MIhaeSsfXjv9VHFVGberNpyUYpm3qbTCTX_0w9CWQB0BjP9GirhE-nDo_ow5jFC5Zvgtjs7wRj7Z-cbs3E1tpu6x0VyIa7IGFsnQRX-952yAGfuLEAN3DsH487Xc5Efqm4HQgKUgg7i3Zy6a4Pc9yqPCHZtuFnEqQ8WLCtJ8ZjS12KIGb8qb13vZc2N9R6wDeYAFQQGaW60aKsp5caAU0UhTh7-bH8xnNu1TGbnb1EAy4DM6BytfWQeH81iimvROiUw3VXUx_uxn5v1uple1KOyAulz5iqjh4cYAOTaUfyrXldmRno0g_FXpWcJggyvwO5tg_9t0D5WCHWNJSckWUyQA14SEEYn-tJ8b9gO-5hgGiuWrx4aDNOy1SXfqYrxfkI1Aw.m3u8
+https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CrwFcVe-_YJJ8kyhfpobx3Z53nQpfxU97d9Sxk4VnmmR49MtUsSohxHBx1DVlktcU-kYVvbICocHsNTffKdg1BDPEjQnjLwpbV4aJzlYU5PUoE2oGETOE2mYfzLDXWvNJYdhBkGMjFyl_mDEonZIMF44h9We100zteg8rtzHqqpPVdAk-P2Ho4foCJHD_jUziBTc5SjNQHLsruTceVrZMh1DGxHWooE9DnRVJjmyKf-KatHEqiPxZGRJndvYoUkwzjeOepmaPRYRUw6aXLpfeXOIOi8Kzv10VP7lYlWAQHUlcp1-cOrmWt38xyo7TLz5W3EghOpxGwACeFYVYe0L6-nrKhYTMjOVn4U7Bi0b_8g9ygcHiPxiukNdv0u4H57H8n6IfP7sgFxkbp4NbDGsSY9XRCN3d5kBzEB-5A_Xn19NdXGShZOF_ZMzvFvcRPKxuUlgdSPdC1aLI1HJXLQGGQ2l2vEPuBGSdenwuIXkahH3LB741XWsll5l23BDUaVuUwYBt1EiEkSwpL0GrmTRNThw5C730aDjrK-9SzrEqb4e1xcQOidQpHZF0ecWFcgX4ddg8VfVi0PU63eAAK3SIIArbwd_u2n0MwMO7rLZGRSEjeLXfJQbadW9t3Lm6jruN9zVyfVGi6sbr-sSDa1n43s1c6Zhyq-g34sdXSMK5E89_T3NI1Q5ocM9mO1HNCwGjfnj3KvgzH2v_oMzlVh0HMSURPQew8m4jaQORYttnl5DjLzzbUFzqjuOlf10mBf8DCAZ5l3EXNhXFBiT3FzOON_ZMM7aKbyBWNkgdl2-FpRj633dCpgEt6LfEeFCwpj0JqvNeTUdg8C5Ax0E7DkVzWkCBytGMjCi3E3GAB1eQR1c4kmSmF23BsrxAdazIDcWJv_P80Vmndb-biCsrP9LpzLKITcDdZN-xEZtj6pq6xIQPRMuVerDEQ5r7ctd1c5VJBoMHWE2RRO7oS-IyqSN.m3u8
 #EXTINF:-1 tvg-logo="https://www.limontv36.com/gallery_gen/314cea1de7e0e690d4275dcec61d5ca2_590x373.png", LIMOM TV 
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV SUR CANAL 14 
@@ -193,7 +191,7 @@ https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png", CANAL 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w2084903146_b148000_DVR_sleng.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s",CANAL TVX HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAFt-AJQOsHMmiC6cl3eiVjisOnDhafeN5TPrASwhLxbS8yarUZckn5aWQ6IlwNuIM9wZbn2c8u_BwY4I8ZG4LvFHu1xf-c2w1DQ4-LLYLsEkceVwtbtJetyvv1P7JabQsbj_qcZb3IGPXxJIBisj0EkJnmRRD_PcH4z27AuZCyPRu8Liz7GDftrBS_CG_-81-MbahWOWp53yuk9HxADzZDCi0vXuSC9Bxnx8IfuZm_g7dPeaAWiN8bPWCVDgbC0xm2jcVqIS6knxmCJMiaD60tnrADRQkUeALv84pbZfKVhP0uU4VQ5uHmw0p-8iuUIrxu59KTrcWdXO-nDE88M1R_TD2kl1dR4dybiLQML9GMB-CS28d4wqSXqDX_NdTA463tauCv_92M5XIuyoXbTYaPPl3ehv-4w9Yg7y0n3e34l-HKGU3bI-gFRZ6psBZbaL2Bgsff5LBLZHxmBaw-gNyrSfK3PL-rvx2Foc3yWg0_kWuh_UqlFryuSbGbLmjaigFdJvKPCyBDulLjEQ07Fpk0qw3QQxjQWygrqEOEbUdK8No-syG_ibOZQDjT2lankg6QHhWYwzuFoaYoVhDj2MApZt-3YL2mmIgjeOMqqFKe8IUG5MXffaHa0R88qY36mVTJJuNsfavaigVHL6HjEdiNYAVUuExrbHBSFYoWjFqFTQ8KKoFytuN0_67BN7PwLe-LrPiO5KnRVMxrJnuQ9LbI6-dCHVVRlmnuevEeN6H0AXJRyBQg47QdmT9OFtMMmPELkHnnN3waknXm0H8wedWVVG4YHWvSep1ZBsajUNjZ-2mECwTkK_r5_grQyTWRmESIbduKMP1OojcZ6DanqzhdnhIQehVnR7gM-xMZi-47Pvil-hoMWG4_LclsYADG402I.m3u8
+https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CoAFHt-09UBcuaVhfAqYsVKKtvXewrBr2u8jyY8ie8jOQxwNfJtTceBlJVFuq8GutenCtycwFAg6zDnva7wzwaba76AXvGeTXbpXL1Ypn7Dq4yk0lsn6HmVItGQIM3OWGm-gLp5vUL0cotuUw0f8lfYQxd2AOkTXuy2tPk4DHyh3Y8AQZsAtxZS7FdMqqDLjfV0TYtYoWuPPj_c1erPO3RgmglQEPj1WtfNTl5WPJXDVrrE8D-A1YrIYVlg7D_KczkyXJhIIMTKoDIK8r2hWA0NUOEvCgyHfMv5ijuuV5gPhZ0V6Ys0bnzp7lrmHMYu1_eG6OXCekAfRXwHJtUWWdpse08Y0bcDBRS-a0fiHIEVjo41sYN2tqHNlStrTjswWyoLhdrMjcjVQumfExuqAPBwbJEngZxWAfQy1QQxQ8cCeXPlo5rAPflZ9Q1-pQwH5BEaiqtsOK7AZm5rKer16j3xdVNIlXxYXMVpWfS4G8RiuBG0sbcxy44VbZd5eVqnAe6_lKBfwFH6GRSTpAqdLz8ljTiCtQLJhltDyrwZB5ORLv7aLwfjLoI2kooN3PMbjpxdV_n2oFt3w_lUAjx61g3A0UroWQKpsHQPE3Oat9hGbK8GIkDyorT2i1bAwT-LQByi2K-3FMNfA-Rf6B1tjToNqyn2LBYshiPM3tk-zYnCvWpf4EBqIZFRO6qu_fedNUPpnTO9a0mqk3b4vO2PP3fcZ9agCPSWn9lKDNfT-NUeIiN-s08sVJ3CBsQK4Uu3-fSFQtH1mZFUjsuE2_2uqXGrU35fRcEYi8xZV691dyNndc-sj5kpZJMkgp2b3O1iUrtC0ox9BFHb0FS-FkQ13oRoZpxIQ2x0DoHOUaTGVhIk9oXM7ARoM-fbTTP27o9dlMXLv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -246,7 +244,7 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", Guatevision HD
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 HD
-https://gt-chapintv-canal3-live.ned.media/chapintv/smil:canal3.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwOTMyMDY5LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuNDAiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuNDAiXX0sInNpZ25hdHVyZSI6ImE5M2Q4YjhmODNhZmY4NDk3MmY0MDZjOWE5ZDUyMDRlMzA2Y2Y1NGEifQ%3D%3D
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xDNU1GWXS9c/maxresdefault.jpg", TELEVISIETE 7 HD
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/11_de_guatemala-mediano.png",CANAL 11
@@ -267,7 +265,7 @@ https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg",Canal Uno HD
 https://tna5.bozztv.com/sdvse454dbfgb3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg",Canal Uno HD
-https://pqmdmn53ckamcjb.ezcdn421.net:8443/hls/urgt878zkz.m3u8?s=JfRsyvON5A24Qxt7yIlkMQ&e=1610871753
+https://28awq7cp3eu98hew.ezcdn483.net:8443/hls/urgt878zkz.m3u8?s=ClLv33Get7KX3Yr8zTAnuQ&e=1610934869
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RReDi1C.png", UNO PLAY
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-300/index.m3u8
 #EXTINF:-1 tvg-logo="http://prai.tv/wp-content/uploads/2018/07/City-300x200.jpg", CITY TV HD 
@@ -424,9 +422,9 @@ https://teleclub.xyz/tele/canal?tele=GOLDENPREMIER_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
-https://live.televisiongratishd.com/tvplus2021/81_.m3u8?token=dfuY_xx4g8n0zXFBAZ9CwA&expires=1610884541&ip=201.191.255.40
+https://live.televisiongratishd.com/tvplus2021/81_.m3u8?token=OvKHw-f9zszTVWKgX53SRA&expires=1610935087&ip=201.191.255.36
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
-http://ligatv.net:8081/televall2021/215_.m3u8?token=iTpMkZSGFa3kue9GEpvRxg&expires=1610855910
+http://iptvhd.club:8081/televall2021/215_.m3u8?token=j4yckh-hm-14GUmgOc0BBw&expires=1610924495
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 http://ipeteve.com/php/t121220/mc.php?c=132&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
@@ -452,14 +450,14 @@ https://pqmdmn53ckamcjb.ezcdn421.net:8443/hls/21zryaxtu4y.m3u8?s=BKa-eTT_ft07mVX
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido HD
-http://iptvhd.club:8081/televall2021/159_.m3u8?token=jrlWQb4FQMHmG0peRqOc3Q&expires=1610856229
+http://iptvhd.club:8081/televall2021/159_.m3u8?token=22hyeJ7GTAxUnJv7kEVxmA&expires=1610924695
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido HD
-http://ligatv.net:8081/televall2021/158_.m3u8?token=OzHPtmJdDSt7npJtfsAcpw&expires=1610871749
+
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL_HD
-https://teleclub.xyz/ver/canal?tele=FOX_HD&format=.m3u8
+http://tecnotv.club/mika/principal.php?c=63&f=.m3u8
 https://5wpje48z8ef36ntq.ezcdn462.net:8443/hls/0e733j.m3u8?s=B-1WcUOYQ9tbloNQBfKhmg&e=1610012796#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
 http://ipeteve.com/php/t121220/mc.php?c=63&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
@@ -825,7 +823,7 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w1749406
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAQWCdbuVF5EaL0Bc5hAVbRJz15erT4k2-BEGT42rm_guQBX9Y&usqp=CAU", SENSACION TV
 https://ss5.domint.net:3014/stv_str/sensaciontv/chunklist_w1517089237.m3u8
 #EXTINF:-1 tvg-logo="http://www.elmasacre.com/fotos/articulos/2018-07-02_8WM56MJr_400x400.jpg",LTV LINIEROS TV CANAL 36 HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CooFYTsuBPUAT14b8x34ZTb4iq-sAwwMzggYyQ9Yn-ymdXw_wcPlCyYoWdPmktBjmF-3GXlrK5Fr3dXYLVu9WeaOSYIaeOk7WZtgTWQBYi_eVpCDn__7l1tDTK_ZlTMngkUw7H7k2nUz5Me-23QQt1AscCYJh0TbUyriseJo0scVM0U7U7du3Vr_Uvmqsl6V23M3RytNB9tJimIUGGTuD1BmEfO44W9Dcn4MuO6Ijnh4qeHMe5hVt-aQQiAbNxsQidYgpCDObaNou-2GX7i8bWPpeo9FozKFp3iJmQonX1xEoITWIqz4eSoK8YsGXZxlMUOjsFC5v59r8BK61J8P6sXtCJbNmm_wGC6KshUZ8EDHmoMTjXiS_i_v_Yf-BbxuhwdFtGkkFC7LDSBL6PJeyJsEUZsXG63RzRzaPKCH5uWl6DQ29gebrDBdPS-kflf2Lv3uXTw2-kukS27DniZM-zbX6t-KXBjWlYVhWewYkxxPmqVIa-KCCWtpnhZ3Cw79FylvlwH5LGkE2moXoxuT6qfI3wOxMMJGcYOjJ1n9CHvAvqrnC1LqOV8EVfZaOZPPEvH32dmip5k_SKGmH1TRMSjhZjnlpFZvc-DqjdDd2Q20joOiNoj903OMOnp4ipcNpNYgTSsg9eC8pzVwj8FGd3MmjUGP3A2eKAvQvNGxR5JcYO9GILp4s7_hPiAsbsIyqI8ph8tovgUSnxXk2deE9Dpnk0ewP_KIk3l-vdcvOcGCgcblhLmrVQZ1vTQr6X3L4dODhG667lEhjmKpoHNuEdQftJwuNZHHpZYj4RaVxD1tRD4uL51YIYFIlrWN3RUxaMaun_wjNX3T9LUdU6MEKdd4dt9sGidgNLNwW0ISEHl159dHZB1PJK7pkRbhAoQaDJp7zWHVHfi3O4EiOA.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CooFCdOL27lTQBZMHLhBlTWmAQH5B1n_0m5Pl74iUlQ1_aTRnvx4gcwFaKlMPDW5-nqnR4GS9auYTjNl7YEGqDXk8_DP2--1bMF3InnWfQWArve4p0zyEWISfVc0xpGaOBp82UvfUDymC8X5tCKJeDIXz9-Hi8oeoWsTbAfzpteJNhTYQVPT5gQaPx9VMSdMuEzg3iWc0o2pp-j66hTLJBVjBiNOxFbKwM_gAmxjJF71rmtg8tJteoUSc8PXbgfOw5H5cQII62eqx2KFFGBEPfr6OHw1BAjz6j5jEIrtOiSxMc4yaIqYg9oQynFj4zPK8F5EIG_kktXcwIxw6kb2td2YbawOO7FSjVbhmiQjw12HOoGl9XMQnglDHVQKa_2QklETuvPM9FtRDlZe-GOVRNnfrX97tXvl_9zBv7WdicnlMVJaZMwkj7uBOC9rQ8QLt-e85d0rKl5oVFJcyXgjNjBQq8cK-xytETOV6BYRNArWh3SsVOYR_efFEy1uXYpyzls86_JoXzY5Els-5qsrGaiF5W5uCZ477_XiWdWyQHuZmTEE3pC-4PNLD33bLoP2ldWGz5sRKmSIeYe7pxudg3PfSdfYiVipNC-fFPZmAqwSwLPO-e0RhqlUjalTlYQTh1lGoy6PpBGagVOrv9pwjRGEyHFC49h_yNE0xZ7qvPeqC713FK8sTA-AhIuet1Az5yIYWEtymPduDiE6iwGRHNUom247hUpICqEsoJwJn8CQqn1_fES_suZcNpmCPbNCdjpOte3qPvtvJFV5mu-4r6LXQ129Scf52giTlTl5hMg_yFgUd1VMM2SI3KoDXK9C9FW1EAnMG0Lxrigg-cRsgHPIPStSRzkjr5Eu8MQSENSq5lab3ub-gEnNya5lOS8aDOsc8F4TaPdN4prPGQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png", TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1907763200.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDIa9K7ychz70ITaKGaKO7JDrRjqUEExxzmOR0gJG7NfdAB5",TELEVER CANAL 12
