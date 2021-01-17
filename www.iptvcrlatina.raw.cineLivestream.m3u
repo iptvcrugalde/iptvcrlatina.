@@ -1893,7 +1893,9 @@ https://stream-04.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzJWEKP0VmAB2l4ptxE
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kBT1zFJxxQE/XllkdzgQe-I/AAAAAAAAJ2U/-rKsBfrDIiM-jRop8Fx0yhUEm0V253n3gCK4BGAYYCw/s400/Romania%2Biptv.png", ROMANIA.TV
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU", ZEECINEMA HD
-http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/hdntl=exp=1610755869~acl=%2f*~data=hdntl~hmac=2f2e6345c8bbc54ae7bdecb6b2a74274754abbb758c9022e05d6349dadc3cf9a/mono.m3u8
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/29041
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU", ZEECINEMA FUL-HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/29039
 #EXTINF:-1 tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png", TVR 1 
 http://89.136.209.26:1935/liveedge/TVR1.stream/chunklist_w1290905690.m3u8
 #EXTINF:-1 tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png", TVR 1 HD
