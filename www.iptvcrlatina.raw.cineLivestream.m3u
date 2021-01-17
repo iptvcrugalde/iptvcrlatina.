@@ -253,12 +253,13 @@ https://gt-chapintv-canal3-live.ned.media/chapintv/smil:canal3.smil/chunklist_b1
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/53026.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94IDMHie9fllccui_S1MpNCcVMIaq21k5ng&usqp=CAU",TELE DOCE 12 HD
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
-
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/53025.ts
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png", CANAL ANTIGUA
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/chunklist_w152479200.m3u8
-
+#EXTINF:-1 tvg-logo="https://canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png", CANAL ANTIGUA
 http://www.lengua.com/anthems/Colombia.mp3
+
+#EXTINF:-1 tvg-logo="https://listasiptvm3u.com/wp-content/uploads/2018/08/IPTV-COLOMBIA.jpg", IPYV COLOMBIA
+http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU",Senal Colombia HD
 https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
 #EXTINF:-1 tvg-logo="https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/image_750x422/public/senalradionica/articulo-noticia/galeriaimagen/ae3bcaca3e5dcca36c983d8f85f88388.jpg?itok=nsTKwTgl",Senal Colombia 
@@ -266,7 +267,7 @@ https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg",Canal Uno HD
 https://tna5.bozztv.com/sdvse454dbfgb3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg",Canal Uno HD
-https://tna5.bozztv.com/sdvse454dbfgb3/index.m3u8
+https://pqmdmn53ckamcjb.ezcdn421.net:8443/hls/urgt878zkz.m3u8?s=JfRsyvON5A24Qxt7yIlkMQ&e=1610871753
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RReDi1C.png", UNO PLAY
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-300/index.m3u8
 #EXTINF:-1 tvg-logo="http://prai.tv/wp-content/uploads/2018/07/City-300x200.jpg", CITY TV HD 
@@ -523,6 +524,16 @@ http://yourdnshere.xyz:83/live/trevorparker/8177168823/304156.ts
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/304154.ts
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/303831.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/32023
+#EXTINF:-1 tvg-logo="https://g-cdSKY CINEMA PREMIER FHDn.serienjunkies.de/sender/sky-atlantic_920.png", SKY ATLANTIC HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/30626
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_cinema_premiere.png", SKY CINEMA PREMIER FHD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/30633
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oPaBBAVR-XMg8PHP3dcaQzP0UoqWvmqbHw&usqp=CAU", Sky Primafila 6 FHD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/31984
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Sky_Primafila_2018.png". Sky Primafila 5 FHD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/31983
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
