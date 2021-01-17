@@ -526,9 +526,9 @@ http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28686
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Sky_Mexico_Logo.png",PREMIUM SKY
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1193838932414386176/nF8oUkv9_400x400.jpg", SKY CINEMA COMIDY HD
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/304158.ts
+
 #EXTINF:-1 tvg-logo="https://vectorbn.net/wp-content/uploads/2019/11/Sky-Cinema-Disney.jpg", SKY CINAMA DISNEY
-http://yourdnshere.xyz:83/live/trevorparker/8177168823/304004.ts
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/13905
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/304156.ts
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
@@ -545,6 +545,8 @@ http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/30633
 http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/31984
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
 http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/31983
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
+http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1747
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
