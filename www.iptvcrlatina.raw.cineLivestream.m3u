@@ -843,7 +843,7 @@ http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RayZHQsT_84/WJOhiYn5_ZI/AAAAAAAADGM/0tlwnlgoY3Aah9hVj991c062RXwkpm5JACLcB/s1600/Super%2BTV%2B55%2B-%2Bonline%2B-%2Ben%2Bvivo.png",SUPER TV 55 HD
 https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1366602525.m3u8
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg",CANAL 56  
-https://cloudflare.streamgato.us:3549/live/canal56live.m3u8?DVR
+https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/QxC4z1VD9uf9Sv_N5/x240", COLOR VISION HD
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY1oQ1aD4-2wZ_lvVFWsObFc)/dm/3/x7gy059/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png", TELEFUTURO CANAL 23
@@ -1249,9 +1249,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe
 #EXTINF:-1 tvg-logo="https://hellnotes.com/wp-content/uploads/2014/05/terror-tv-logo.jpg",HORROR TV
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1ff79ef56e57e977d360a2fe2bd9bf7455d38f609a16da65ccb7693422d95f85.png",MOVIEE 4U HD
+
+#EXTINF:-1 tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2015/11/Movee4u-larger.jpg",MOVIEE 4U 
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5hdGhuZXR3b3JrLmNsdWJhcHBnb19pY29uXzE1ODAyNjQxNzZfMDM4/icon.png?w=170&fakeurl=1", CLUP TV
+https://163.245,125.130
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/694933688203747328/dexDnVhH.jpg",MY COMIDY
 https://live.creacast.com/mycomedy/mycomedy.smil/chunklist_w1173687069_b1928000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WWzogOew0Xw/maxresdefault.jpg",RER TRUTH CRIME
@@ -1260,8 +1263,6 @@ https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/512.m3u8
 https://59802217c6db4.streamlock.net/surtv/videosurtv/chunklist_w781219550.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DoF9YY7XsAAGIrv.jpg", Film 4
 http://photocall.tv/lF4r/ftv.m3u8?ch=film4
-#EXTINF; -1 tvg-logo="https://image.roku.com/developer_channels/prod/1ff79ef56e57e977d360a2fe2bd9bf7455d38f609a16da65ccb7693422d95f85.png", CINEMA 4 PREMIUM FULHD 
-https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNdH9oMU_hn_w8sQQDtWBCncxTe9jtG1Y3p8KuzeAgr0&s",MAXIMA MOVIE HD
 http://uruguayiptv.com:25461/movie/leandro1/leandro123/79351.avi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9PfHZmFm9_WL4vcIbnJOjtInDXo2G9LE7boXzehTcgVbdDACH",ONE tracers
