@@ -843,7 +843,7 @@ http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RayZHQsT_84/WJOhiYn5_ZI/AAAAAAAADGM/0tlwnlgoY3Aah9hVj991c062RXwkpm5JACLcB/s1600/Super%2BTV%2B55%2B-%2Bonline%2B-%2Ben%2Bvivo.png",SUPER TV 55 HD
 https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1366602525.m3u8
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg",CANAL 56  
-https://vpss1002.streamprolive.com/hls/live.m3u8
+https://cloudflare.streamgato.us:3549/live/canal56live.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/QxC4z1VD9uf9Sv_N5/x240", COLOR VISION HD
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY1oQ1aD4-2wZ_lvVFWsObFc)/dm/3/x7gy059/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png", TELEFUTURO CANAL 23
@@ -1248,7 +1248,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968ae0ab7d8f181
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://hellnotes.com/wp-content/uploads/2014/05/terror-tv-logo.jpg",HORROR TV
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2USkdkWJah7WABLIyUBp-VGfbwaQRB4v-DgKe2fXS1VZ3Yzw7w",MOVIEE 4U HD
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1ff79ef56e57e977d360a2fe2bd9bf7455d38f609a16da65ccb7693422d95f85.png",MOVIEE 4U HD
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLm5hdGhuZXR3b3JrLmNsdWJhcHBnb19pY29uXzE1ODAyNjQxNzZfMDM4/icon.png?w=170&fakeurl=1", CLUP TV
@@ -1260,10 +1260,10 @@ https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/512.m3u8
 https://59802217c6db4.streamlock.net/surtv/videosurtv/chunklist_w781219550.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DoF9YY7XsAAGIrv.jpg", Film 4
 http://photocall.tv/lF4r/ftv.m3u8?ch=film4
-#EXTINF; -1 tvg-logo="https://toplogos.ru/images/logo-cinema-4d.jpg", CINEMA 4D PREMIUM FULHD 
+#EXTINF; -1 tvg-logo="https://image.roku.com/developer_channels/prod/1ff79ef56e57e977d360a2fe2bd9bf7455d38f609a16da65ccb7693422d95f85.png", CINEMA 4 PREMIUM FULHD 
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNdH9oMU_hn_w8sQQDtWBCncxTe9jtG1Y3p8KuzeAgr0&s",MAXIMA MOVIE HD
-
+http://uruguayiptv.com:25461/movie/leandro1/leandro123/79351.avi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9PfHZmFm9_WL4vcIbnJOjtInDXo2G9LE7boXzehTcgVbdDACH",ONE tracers
 http://162.255.86.122:25461/live/DAZPLAYER/versionweb2019/640.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/117715550_146757130385260_4494327653658910578_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=LcG9cYct98UAX9jh3ir&_nc_ht=scontent.fsyq1-1.fna&oh=e3f543994ccbf49146fb3c606ede2251&oe=600E0397",FMH MOVIES HD
