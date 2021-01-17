@@ -511,6 +511,8 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/3f/ec/fe3fec00bbd6e6d98fb18dce16a5c8f7.jpg",CINE MOVIES FUL-HD
 https://teleclub.xyz/tv/canal?plutotv=CINE_ACCION&format=.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cPIbHGuiUoWqtRjJjmK5Rn0NkbLEI3HdfWiD3Wc0Mg9CsA7by_QfPITAoiBxCTRy58hZ", MahaMovies
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28686
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Sky_Mexico_Logo.png",PREMIUM SKY
 http://127.0.0.1
