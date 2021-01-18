@@ -913,7 +913,6 @@ http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cdc6843385b86ce/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/radio-television-vida.png?fit=600%2C360", CANAL RTV
 
-
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",CINE TV
 http://127.0.0.1
 #EXTINF:- 1 tvg-logo="https://www.ubo.cl/wp-content/uploads/itv-patagonia-def.jpg", ITV PATAGONIA HD 
@@ -1027,7 +1026,7 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1.jpg",CANAL 8 PUNTA CANATV 
 https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/116345952_141778687549771_1669608874216963053_n.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=ONboiO2LYrsAX8SBO-D&_nc_ht=scontent.fsyq1-1.fna&oh=2612cb30be046c793fa1db2d747ba6ca&oe=6004469E",CASCARA TV HD
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png",CASCARA TV HD
 https://ss5.domint.net:3036/ctv_str/cascaratv/chunklist_w1327801611.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElEaeSovA9c/T8CRBqmTasI/AAAAAAAADVc/WTTU--RlcwU/s1600/globo_tv_honduras_telecatracha_television_honduras_noticias.jpg",TV GLOBO HD
 https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B133%2C957%2Cef4d35ed0e491489586bfe826cca69a1%3Bhidden64np%3B3aiIOlS2AH0CgTomy2O1dR90QBlhX-nIrnQSdFQY84eR-UoOyRIA5vcInjon4RF8VBC0M5KoO1AjcR5cS6BIHNoISgT5RjuKkWxKWXcFxgBt1kcrSEXYzntWCajei8aLNGLzMLNEopeB682V_WPX856E_y698I1V3ZhG4jvcyLcZmMGscsB0yGSMlMd7NNfwdYqk56VksNsYjCljlWdt7IUUQhZGW5de55q0f0qw1tdkW8vqE2eAhiVfe97FviC2xt2pB9c%21/chunklist_b1208320.m3u8
@@ -1083,7 +1082,9 @@ https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist
 http://stream.pcriot.com/Zv7x/v1.php/grancine/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://ondemo.tmsimg.com/assets/p196753_l_h6_ab.jpg", MIHTV
 https://connection3-ent.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png", FUEGO TV
+#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png", FUEGO TV HD
+https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w917415169.m3u8
+#EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png", FUEGO TV 
 http://184.173.181.2:1935/8020/8020/playlist.m3u8?fluxustv.m3u8 
 #EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
