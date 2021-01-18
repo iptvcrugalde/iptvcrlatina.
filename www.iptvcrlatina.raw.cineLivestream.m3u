@@ -424,9 +424,7 @@ https://teleclub.xyz/tele/canal?tele=GOLDENPREMIER_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
-https://live.televisiongratishd.com/tvplus2021/81_.m3u8?token=OvKHw-f9zszTVWKgX53SRA&expires=1610935087&ip=201.191.255.36
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
-http://iptvhd.club:8081/televall2021/215_.m3u8?token=j4yckh-hm-14GUmgOc0BBw&expires=1610924495
+https://live.televisiongratishd.com/tvplus2021/81_.m3u8?token=XUanyEuBGm68WLf_omxE2Q&expires=1610958265&ip=201.191.255.48
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 http://ipeteve.com/php/t121220/mc.php?c=132&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
@@ -1556,7 +1554,7 @@ https://live-edge-bhs-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227", HIT Music HD
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/MTV_Classic_2011.png/245px-MTV_Classic_2011.png",USA MTV CLASSICS HD
-http://tecnotv.club/matrix/principal.php?c=161&f=.m3u8
+https://teleclub.xyz/tele/canal?tele=MTVHITS_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://blog.roku.com/wp-content/uploads/2016/04/VH1-logo.png",VH1 HD
 http://tecnotv.club/mika/principal.php?c=160&f=.m3u8
 #EXTINF:-1 tvg-logo="https://blog.roku.com/wp-content/uploads/2016/04/VH1-logo.png",VH1 HD
@@ -1907,22 +1905,21 @@ http://100.145.2010.125.130
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0syoZJqALJI4Icq333Y_OKXy1MA_D8oMvYw&usqp=CAU", ATV HD
 http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/dalga-tv-canli.png", DALGA TV
-https://ecanlitv1.etvserver.com/live_sd/dalgatv/chunks.m3u8?nimblesessionid=211604271&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDI6MTA6NDAgQU0maGFzaF92YWx1ZT1aQVVYbTh1VUc0SWRHcUlaRHJTZXZBPT0mdmFsaWRtaW51dGVzPTEw
+https://ecanlitv1.etvserver.com/live_sd/dalgatv/chunks.m3u8?nimblesessionid=211860913&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIxIDI6NTY6NDEgQU0maGFzaF92YWx1ZT1ScmduNjBld1NXV0FtM3o5REVHdkh3PT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC - STS
-https://ecanlitv2.etvserver.com/live_sd/rusctc/chunks.m3u8?nimblesessionid=314560084&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDEyOjIxOjA3IEFNJmhhc2hfdmFsdWU9Qm9NZkZQWUx3N05lSkh0YjFyT2psQT09JnZhbGlkbWludXRlcz0xMA==
+https://ecanlitv1.etvserver.com/live_sd/rusctc/chunks.m3u8?nimblesessionid=211860882&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIxIDI6NTM6MzIgQU0maGFzaF92YWx1ZT1odDJSQmtYQjlmUFVya1NwaW02SXJBPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/sat-1-live-stream-tv.png", SAT 1
-https://ecanlitv1.etvserver.com/live_sd/desat1/chunks.m3u8?nimblesessionid=211604289&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDI6MTQ6NDkgQU0maGFzaF92YWx1ZT1EdkVoNFdwNVBtS3lEK0gzN0lTQ0xBPT0mdmFsaWRtaW51dGVzPTEw
+https://ecanlitv2.etvserver.com/live_sd/desat1/chunks.m3u8?nimblesessionid=314818435&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIxIDI6NTI6MjEgQU0maGFzaF92YWx1ZT1nK21UQ3FwL3dNSzlDd1dYNnpGd29nPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/images/tr.png",TV-TURQUIA
 http://100.145.2010.125.130
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/atv-tv-canli.png", ATV HD
-https://ecanlitv1.etvserver.com:8081/atv.m3u8?tkn=HkuRdFHwvXalx79Ga8fplA&tms=1610677042
-#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/atv-tv-canli.png", ATV HD
-https://ecanlitv1.etvserver.com:8081/atv.m3u8
+https://persona-live-trkvz.ercdn.net/a_r1/init.mp4?st=k8ujEjizNh_VyhSLWLHlhQ&e=1788617544
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/show-tv-izle.png", SHOW TV HD
-https://ecanlitv1.etvserver.com/live_sd/showtv/chunks.m3u8?nimblesessionid=211603205&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIxIDEyOjE1OjIzIEFNJmhhc2hfdmFsdWU9eVlqWnhzU2J5Ym44MTRYQXY4TlI1UT09JnZhbGlkbWludXRlcz0xMA==
+https://ecanlitv1.etvserver.com/live_sd/showtv/chunks.m3u8?nimblesessionid=211860837&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIxIDI6NDk6MTYgQU0maGFzaF92YWx1ZT1samlzNWhBVWxZWEg0QnFqWXdFdWdRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-logo="https://www.canlitvizlee.net/wp-content/uploads/2014/05/beyaz-tv-hd-buyuk.png",BEYAZ TV FULHD
 https://stream-04.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzJWEKP0VmAB2l4ptxEq98sY)/dm/3/x4kopfq/d/live-3.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kBT1zFJxxQE/XllkdzgQe-I/AAAAAAAAJ2U/-rKsBfrDIiM-jRop8Fx0yhUEm0V253n3gCK4BGAYYCw/s400/Romania%2Biptv.png", ROMANIA.TV
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU", ZEECINEMA HD
@@ -1930,7 +1927,7 @@ http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/29041
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU", ZEECINEMA FUL-HD
 http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/29039
 #EXTINF:-1 tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png", TVR 1 
-http://89.136.209.26:1935/liveedge/TVR1.stream/chunklist_w1290905690.m3u8
+https://mn-nl.mncdn.com/tvr1_hd_live/tvr1_hd_live.smil/chunklist_b8288000.m3u8
 #EXTINF:-1 tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png", TVR 1 HD
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-online-rights.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/14/12/3/imgbin-romanian-television-tvr1-tvr2-logo-others-qYTaxfsSy1TLRQSwe9JjdCkB1.jpg", TVR 2
