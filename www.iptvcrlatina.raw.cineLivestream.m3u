@@ -1147,8 +1147,9 @@ https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/avatars/119/5f996b8b1aa85-bpfull.jpg",Canal ETV HD
 https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv 
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT# https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
- #EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT# https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
+https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv 
+https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.punt3.es/images/punt%203%20hd.png", PUNT CANAL 3 HD
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
