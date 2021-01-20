@@ -428,9 +428,9 @@ http://156.96.116.156:8081/televall2021/1710_.m3u8?token=XFVlQC67Hyd7TQCLy7rpEw&
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
 https://live.televisiongratishd.com/tvplus2021/81_.m3u8?token=dC1m55w_MtDBXg8uxgXV5Q&expires=1611112345&ip=201.191.255.17
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-http://ipeteve.com/php/t121220/mc.php?c=132&f=.m3u8
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/oc2v2i6j.m3u8?s=pYxAGw-Q7cya5kWRypWh_w&e=1611132161
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-https://teleclub.xyz/tele/canal?tele=SONY_SD&format=.m3u8
+http://ipeteve.com/php/t121220/mc.php?c=132&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY 
 https://sony-comedias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY 
@@ -521,6 +521,8 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 https://teleclub.xyz/tv/canal?plutotv=CINE_ACCION&format=.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cPIbHGuiUoWqtRjJjmK5Rn0NkbLEI3HdfWiD3Wc0Mg9CsA7by_QfPITAoiBxCTRy58hZ", MahaMovies
 http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28686
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1190289688021684225/83z8wBT4.jpg", LMN HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Sky_Mexico_Logo.png",PREMIUM SKY
 http://127.0.0.1
