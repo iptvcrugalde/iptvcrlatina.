@@ -446,9 +446,11 @@ https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC HD
 http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC FUL-HD
-http://156.96.116.156:8081/televall2021/1867_.m3u8?token=gk1vyp3yLAMRZpkaWBoVog&expires=1611128659
+http://iptvhd.club:8081/televall2021/1867_.m3u8?token=X386zHu-j6opiozAZwqkPw&expires=1611189299
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3CRfuaO_o439u3Jei2Mej5MoauQJ2V5oLzihdvhw3lhU3x6qo", DHE FULHD 
 http://tecnotv.club/wanda/smartv.php?c=52
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3CRfuaO_o439u3Jei2Mej5MoauQJ2V5oLzihdvhw3lhU3x6qo", DHE-HD 
+http://iptvhd.club:8081/televall2021/1614_.m3u8?token=G8r-XqRUh9zHFwMpFRtXmw&expires=1611189050
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME FUL-HD
@@ -458,7 +460,7 @@ https://pqmdmn53ckamcjb.ezcdn421.net:8443/hls/21zryaxtu4y.m3u8?s=BKa-eTT_ft07mVX
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido HD
-http://156.96.116.156:8081/televall2021/158_.m3u8?token=8GQ0uTfH0kEmrO8WICLBGQ&expires=1611128704
+http://iptvhd.club:8081/televall2021/158_.m3u8?token=TuG11pN7yDSgwxhSDsz2kQ&expires=1611188972
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
@@ -497,7 +499,7 @@ http://tecnotv.club/wanda/smartv.php?c=33
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/13.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
-https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/u7rbhb.m3u8?s=LIBKMqEZz0wgOF3io7ozlQ&e=1611129826
+https://skkarxb7c4542sd.ezcdn421.net:8443/hls/u7rbhb.m3u8?s=8J_4nXISgHIzhWfaxNRhbQ&e=1611200209
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY FUL_HD
 http://tecnotv.club/wanda/smartv.php?c=32
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
@@ -1221,7 +1223,7 @@ https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ebba677b-0d63-481c-9986-b14da96efe2b-profile_image-70x70.png", ZONAFILM TERROR
 
 #EXTINF:- 1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-70x70.png", zonaFilmstv
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Co8FDn_lhKbGtdF5-CqwYWATmSmMbOlp68uf79Kj3U7L0G7-wgOq1J4cV-cM66tYSPNt-nAJdGNcpeiVNtwczsifWw0BSgvinb4I0j9idfhj90RKJXTXDyf6wP__XNwpTx1BN9_4PUkFIHfu6eLWKOpT-80QrxKwNNdvOmATWHMZKwMxkSnDqneyPgH7aCnwNsJBF-B45oh6sMG89ILoB2edOF2Bq6CUu67SpNaJNTnwz4cmrmp9XxscolTY8RhJcqDg4m22_h74DFfQBYDXIJ10iB9xtyUKkvrhdJ_LBDAPbP5K3UF4myIhE5eHC2F9O6pxnHcLlhFop-n650NGvG5utY9uwlwgex-8G7sFAO1SSC1-E7xpkh90kL9XGNJPAeWSbl9q12RGewDQCssDVrYlOiX-mQC_xa284QEhL_G_yOfgYVcp7jZtsWhluBgLNcnZAMCaEBjrm_lSq6y1DCkCxRcjIPq24715V_nkcOaStV53QRb5Jg2MCi1ee5YuvwBNG3knfuHJOBvuZc5UHaTO7hyYH_QvuxcdZFNVJWbTjvlGEdFrEvQkcAG0F_lGyPicDVAVLT4i-Ne4AP3fnnkbKXbvxGHF1PEC8_M2MhKAccZXqPe8G_IJzmI_5JJ-_mINlf-eGRJhbaGrwpHsSAMh9uBtw2csXRKMyDdAIbhfmqxKzdMlFoNLn-zZBNiqMdZHqFyABzjD0YKrWEiiB66hILD6IRHs2tsjwWHQYJzhZL1TD6klQqO1OCywO4c_aIc8e3__97wyV76suayFRbRVL3wPSYuQsfydCWj1Sh6U2INwuNZMbmXnc79iCUHBHx4xcDwKXxOnZintA211f28PIg9tfQekWQIsZTSEvqZqVhIQLBfmxsYnFT6QOk0ZXIahgBoM0LMQHubIK2lF3wpd.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA&usqp=CAU", MOVIEZ TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU",STAR MOVIEMI HD
@@ -1246,15 +1248,15 @@ https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/cp0/c16.0.58.58a/116266515_140950950965878_3169921898822342648_n.jpg?_nc_cat=111&ccb=2&_nc_sid=da31f3&_nc_ohc=sQo40W4_F8cAX8xw6px&_nc_ht=scontent.fsyq1-1.fna&_nc_tp=29&oh=97c8da89b53f4b4a504044b1db8f62e9&oe=6019B28A", VITATOTV HD
 http://cdn2.envivo.win/HLS/?canal=ayetv&c=ZwNkYwR5ZF4kBGthAGp=&p=ZGH4AmV0BQL1ZD==
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK CHANNEL HD
-http://crownmediaingesttest.akamaized.net/hls/live/2012246/hm/master_1665k.m3u8?hdntl=exp=1611137720~acl=%2f*~hmac=3788e0398aef6f91df9bb267cbc236d22d0e723cf1cf39f08b375e9300707a6d
+http://crownmediaingesttest.akamaized.net/hls/live/2012246/hm/master_3000k.m3u8?hdntl=exp=1611207834~acl=%2f*~hmac=f38c188a9b5a58ba80038d18259ed8a4a41fd4316d198f05e57f16fb4571bb6a
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK MOVIEZ HD
-http://crownmediaingesttest.akamaized.net/hls/live/2012246/mm/master_1665k.m3u8?hdntl=exp=1611137652~acl=%2f*~hmac=c37486fc214d0076821d9fb6d1abd50cfd231d91b9b97a6eb4f57e2ae4d023e8
+http://crownmediaingesttest.akamaized.net/hls/live/2012246/mm/master_1665k.m3u8?hdntl=exp=1611207765~acl=%2f*~hmac=87d13cff9a8443c121d3e34d720be96e8966c9b66b93d1aca3d5ee49c1de9745
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1720/019juancu.jpg",TVCN juancu Cine Fin de Semana
 
 #EXTINF:-1 tvg-logo="http://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8.png", CANAL OCHO SAN JUAN
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1932/terror_mania.jpg",	TERROR MARIA HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Co4Fd4n-dgNjzFzbi2cvIIekqSyJZvBRVyvbutSxzW2XHCeIr9uHWsSWjMksGIBrO5NaeOVuhQLBG1N4BM294H7g_Jh8BImeydkyzEFx8lLbM9r-sJmL9ShGbGKkmOmJE_vm1h3vaC4FobFZunGEO5x94jiu08pryIIrMB8RZFvjslHgeagbCqTHRixf7wsARVAF5CBsR8nGDLgYnpipq9KpF1f4QrO-1ZClSBEy-X5E5HETe4HvZDn2enuJjwn571Tvx3QFd0gmKcRJZMQT-km40t2PY9IrKJd7dLVVWgLfiqj-qj9tFU3eO6ZaCeRJC3gRhDJFrq4J4bdWs_IP--RfOV5U890H_rknVmkm3o3xg_EUfjzY-joI2WcK_Wp6d1dgirQCAzNvoUnYgwZJBrv_PENcrhuWqL5DyfDGwefWfjdeneMBL3ntZY6XpjJe6ulqBLv5X8kUMkVJNSuJ2L7mn3hBi5LXyFaaxSev8Q97z9QFt1U9CZ7D8DMYccvdt59Lf4hjFEQ3qNxUc46qFOurxqo1k5z8K4ozcOOR1oPbPBmTnALrzQxqgDjGlxwdInCOtqn_qh_P4ky05q0MMUIQJgUSJUWG41LzMcxGOchmgM6qJu4jTNNCWfKw4FUH6YeCKkgdMvimfLsfy7WpwMz9BfHlUlrVyNsg6nLBGKjn3Hoz1hjxJXvvw80g2WLmUbQ7xAcILcVy8QRehTuSqB3BKepoN6ND3AM4t3a3RsBsqWG_4YnJlnp3DU5WeNB-DgHlTAwYeGMKTQmxpKKnMU3CfcmFCdZpS5UxcvauzY5SFr32bjl08-TfLIratT2CRM1pA99D53khP8JDkt0aql-w9ss1FkLPLIewA7ucl7hBEhA-uTs2tNzVwiK5SEMfmV0kGgx-73iJkdvUai5S0RA.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpAFFnAo4xTMcfRWL5Cb85_ShOSoXDL8g9Oy6ccgP09vmj4dtgP2qRGmxReBYpUg9xLOWvb9kIPONy-af72SUVlAtvS-ND2LybozUJ12uf4Q9b7ByaflM_M1HmQ2v5c-T4mTCRpbAhEkUa9Yu7L098D-2agrtX2biMgOiM9SqiTSrQNgpwDyyI4YV7YfoyfCgdPDUIvdJ5raLk9oyhD9_FUsgXnLn5xSdDCd37F32gr9MlWPug6qh3tQ21wzTE3bDCu-fwLc-MTps0StqPdrD7W7R2nzk_OkD_oo4YWQNuilgEfv6k5w9CiNlKk_Qc70ytQxZyXvM_rBq1u1S3iK4ShOq9EIOrlF_5ycS1MLpbGYl63QfheLdaGzCEIREYLVlzNvIECue9XJ609I-y9XaiAdOBZfVIj-6d3uYt2Tcr7i4ECEJgllW_-j9wG3nYtPylT7V7F2qmprnJSg9rAFaEzjRtnxGNHH5JbcJRj1yBYUwvwtsP-0mW9rKVCP60xoK-DDWyMls_4d0xWN3l55nVDJ77ol_JABQEWDVLhE3tkU3AW8O0HDE7Qpy9FoU23OsX7ACDRMS2Tg465kr1YfIsNZ_WCRqRW0rCuif5WJUZRF1y7DZ1EyN0Q4iTBuIl9IAZWlIxfPd_uJUMzZEvhxdGbvDZLJQRrjim-Z9kdGtHovvB7agMDj5k7wnK1vlFh0I589adq0rkz35sj19uyonlbj290-MFnvMfrE1_v1iEQob4KN9WzlANhcLcdK89b51xSVg-lOmz4ZUPTBlEwDDO8uwmyjh7tqMDTW1WSIdPvxCa8sKJnzBAIob1T72k7zQqxAQY0knYsueAqHEXSYAqbNEEaz36L_mrEe-VeKny8NIn4SEHSScqw_LI3AmiKqBFjer8saDHJKC1m5u-6cBTRgrw.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/0100/parchetv.jpg", JJ ParcheTV
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d2d645e9-a373-49e7-99a6-4b6fa08013d1-profile_image-300x300.png",KATY HD 
