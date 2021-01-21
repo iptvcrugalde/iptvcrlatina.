@@ -815,7 +815,7 @@ http://89.105.194.59:25461/live/perVX!!9$/perVX!!9$/141.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV 
 http://104.218.60.145:83/live/12345678/87654321/379698.ts
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png",BEST CABLE CANAL 3 PARA TODOS
-https://live.siete.us:1991/bestcable/bestcable/chunklist_w397682840.m3u8
+https://live.siete.us:19360/bestcable/bestcable.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/default/files/logo_0.png", TVPE
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png", CANAL IPE
@@ -1256,9 +1256,9 @@ https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/cp0/c16.0.58.58a/116266515_140950950965878_3169921898822342648_n.jpg?_nc_cat=111&ccb=2&_nc_sid=da31f3&_nc_ohc=sQo40W4_F8cAX8xw6px&_nc_ht=scontent.fsyq1-1.fna&_nc_tp=29&oh=97c8da89b53f4b4a504044b1db8f62e9&oe=6019B28A", VITATOTV HD
 http://cdn2.envivo.win/HLS/?canal=ayetv&c=ZwNkYwR5ZF4kBGthAGp=&p=ZGH4AmV0BQL1ZD==
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK CHANNEL HD
-
+http://crownmediaingesttest.akamaized.net/hls/live/2012246/hm/master_1665k.m3u8?hdntl=exp=1611289410~acl=%2f*~hmac=83d88080a6bed7738e67de58747d95223c7e242dac5c2dc835137b61e8b05c33
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK MOVIEZ HD
-
+http://crownmediaingesttest.akamaized.net/hls/live/2012246/mm/master_1665k.m3u8?hdntl=exp=1611289488~acl=%2f*~hmac=671f2b55fe7346d86003403972452040bdce94f8dcda613562b567c04dfc39e9
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1720/019juancu.jpg",TVCN juancu Cine Fin de Semana
 
 #EXTINF:-1 tvg-logo="http://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8.png", CANAL OCHO SAN JUAN
