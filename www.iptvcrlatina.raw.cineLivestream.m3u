@@ -1,7 +1,7 @@
 #EXTM3U = www.iptvcrlatina.raw.cineLivestream.m3u 
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/16/17/16/5959432.jpg", IPTV LATINA CR
 https://www.youtube.com/watch?v=YTYn6iLVPx4
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",20 01 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",21 01 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -463,7 +463,7 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL_HD
 http://tecnotv.club/wanda/smartv.php?c=71
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL_HD
-http://127.0.0.1:41112/http/tecnotv.club/wanda/principal.php?c=63&f=.m3u8
+tecnotv.club/wanda/principal.php?c=63&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL_HD
 https://teleclub.xyz/cable/canal?tele=FOX_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
@@ -496,10 +496,8 @@ http://tecnotv.club/wanda/smartv.php?c=33
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/13.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
 https://skkarxb7c4542sd.ezcdn421.net:8443/hls/u7rbhb.m3u8?s=8J_4nXISgHIzhWfaxNRhbQ&e=1611200209
-#EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY FUL_HD
-http://tecnotv.club/wanda/smartv.php?c=32
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
-https://teleclub.xyz/cable/canal?tele=SYFY_SD&format=.m3u8
+http://rv.imax.re:80/5124037472/1572081885/87011
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE FUL-HD
 http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/6.m3u8
 #EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL FUL-HD
