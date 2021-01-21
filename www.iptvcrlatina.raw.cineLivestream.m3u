@@ -585,11 +585,15 @@ http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/28932
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://89.105.194.59:25461/live/1mov$!XI!/1mov$!XI!/24.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/25066
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="CINE PREMIUM",HBO 2 HD
 http://89.105.194.59:25461/live/1mov$!XI!/1mov$!XI!/22.m3u8
 #EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/assets/images/logos_canales/HBOFamilyHD.png",HBO Family HD
 http://89.105.194.59:25461/live/1mov$!XI!/1mov$!XI!/23.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FULHD
+#EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/assets/images/logos_canales/HBOFamilyHD.png",HBO Family 4K
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18192
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
 http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png",HBO PREMIUM
@@ -614,6 +618,8 @@ http://194.40.241.218:83/directline76598/6522AM0203452020/119
 http://185.66.143.240:25461/live/franky/franky/235.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/HBO_Zone_2000.svg/revision/latest/scale-to-width-down/340?cb=20200119223020&path-prefix=es",USA: HBO ZONE HD
 http://194.40.241.218:83/directline76598/6522AM0203452020/125
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/HBO_Zone_2000.svg/revision/latest/scale-to-width-down/340?cb=20200119223020&path-prefix=es",USA: HBO ZONE FUL-HD
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18191
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/HBO_Zone_2000.svg/revision/latest/scale-to-width-down/340?cb=20200119223020&path-prefix=es",USA: HBO ZONE 
 http://185.66.143.240:25461/live/franky/franky/927.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnl5zQhn60mk5F4yat9iLYiV4vk7shXOSMMViI1KokZJEwA_Hs" group-title=="ENTRETENIMIENTO",E! FUL-HD
@@ -1928,14 +1934,16 @@ http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/dalga-tv-canli.png", DALGA TV
 https://ecanlitv1.etvserver.com/live_sd/dalgatv/chunks.m3u8?nimblesessionid=211860913&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIxIDI6NTY6NDEgQU0maGFzaF92YWx1ZT1ScmduNjBld1NXV0FtM3o5REVHdkh3PT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC - STS
-https://ecanlitv1.etvserver.com/live_sd/rusctc/chunks.m3u8?nimblesessionid=211860882&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIxIDI6NTM6MzIgQU0maGFzaF92YWx1ZT1odDJSQmtYQjlmUFVya1NwaW02SXJBPT0mdmFsaWRtaW51dGVzPTEw
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11665
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/sat-1-live-stream-tv.png", SAT 1
 https://ecanlitv2.etvserver.com/live_sd/desat1/chunks.m3u8?nimblesessionid=314818435&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIxIDI6NTI6MjEgQU0maGFzaF92YWx1ZT1nK21UQ3FwL3dNSzlDd1dYNnpGd29nPT0mdmFsaWRtaW51dGVzPTEw
 
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/images/tr.png",TV-TURQUIA
 http://100.145.2010.125.130
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/atv-tv-canli.png", ATV HD
-https://persona-live-trkvz.ercdn.net/a_r1/init.mp4?st=k8ujEjizNh_VyhSLWLHlhQ&e=1788617544
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/42
+#EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/atv-tv-canli.png", ATV 
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/14748
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/show-tv-izle.png", SHOW TV HD
 https://ecanlitv1.etvserver.com/live_sd/showtv/chunks.m3u8?nimblesessionid=211860837&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIxIDI6NDk6MTYgQU0maGFzaF92YWx1ZT1samlzNWhBVWxZWEg0QnFqWXdFdWdRPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-logo="https://www.canlitvizlee.net/wp-content/uploads/2014/05/beyaz-tv-hd-buyuk.png",BEYAZ TV FULHD
