@@ -1727,18 +1727,20 @@ http://89.105.194.59:25461/live/ussGGF10/ussGGF10/50.m3u8
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQezVfVamzd08ywLqOjqVqfOtEL-ZyphG2b0w&usqp=CAU",TELEMUNDO HD MEX
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbyQkZMsuM4Sw9sHfBlotwQchGnLR6g4uMt79XhtEaLRAcS92rw",CNN INTERNACIONAL
-http://156.96.44.13:8081/televall2021/132_.m3u8?md5=uacmJI4juxiGTGAIxIE65A&expires=1604544469
-#EXTINF:-1 tvg-id="EPG123.15192.XMLTV.CO" tvg-name="LA_SD:CNN INT" tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="Centro America",LA_SD:CNN INT
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10305.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="TV USA LATINO",TELEMUNDO HD
 http://156.96.44.13:8081/televall2021/229_.m3u8?token=toIa7EHkEE_MphLkgxsHZQ&expires=1607572911
 #EXTINF:-1 tvg-logo="http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png" group-title="Entretenimiento", Telemundo Internacional HD
 http://89.105.194.59:25461/live/ussGGF10/ussGGF10/49.m3u8
+#EXTINF:-1 tvg-logo="https://www.bancaynegocios.com/wp-content/uploads/2020/09/TELEMUNDO.jpg", ELEMUNDO INTERNACIONAL HD
+http://89.105.194.59:25461/live/mx1XX!!$T!/mx1XX!!$T!/49.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbyQkZMsuM4Sw9sHfBlotwQchGnLR6g4uMt79XhtEaLRAcS92rw",CNN INTERNACIONAL
+http://156.96.44.13:8081/televall2021/132_.m3u8?md5=uacmJI4juxiGTGAIxIE65A&expires=1604544469
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR875LI4Qj-PrOqjLkaHOxVYNIhUiFXAL7VxA&usqp=CAU",CNN Español HD
-http://gmsiptv.ddns.net:8080/hls/cnne.m3u8
+http://89.105.194.59:25461/live/mx1XX!!$T!/mx1XX!!$T!/48.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR875LI4Qj-PrOqjLkaHOxVYNIhUiFXAL7VxA&usqp=CAU",CNN Español
 http://190.13.121.118/streams/cnnesp.m3u8
+#EXTINF:-1 tvg-id="EPG123.15192.XMLTV.CO" tvg-name="LA_SD:CNN INT" tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2013/06/cnninternational.jpg" group-title="Centro America",LA_SD:CNN INT
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10305.ts
 #EXTINF:-1 tvg-id="EPG123.27773.XMLTV.CO" tvg-name="LA_SD:CNN ESPANOL" tvg-logo="http://cdn-radiotime-logos.tunein.com/s20409g.png" group-title="Centro America",LA_SD:CNN ESPANOL
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10304.ts
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/CNN-Chile-en-vivo-Online.png",CNN CHILE
@@ -1761,6 +1763,8 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
 #EXTINF:-1 tvg-id="UnivisionTelenovelas.us" tvg-name="Univision TLNovelas SD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision TLNovelas SD (US)
 http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/35161
+#EXTINF:-1 tvg-id="UnivisionTelenovelas.us" tvg-name="Univision TLNovelas SD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision TLNovelas
+http://89.105.194.59:25461/live/mx1XX!!$T!/mx1XX!!$T!/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",ESPAÑA
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
