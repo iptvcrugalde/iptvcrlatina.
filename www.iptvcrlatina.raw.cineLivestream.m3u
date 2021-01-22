@@ -574,6 +574,10 @@ http://client.ksporttv.com:88/m0d0157!m0d0158!/wFbg8ZdK4eZKHbQW/1747
 http://a1.gokakka.club:8880/testzyx030/123456789/2884
 #EXTINF:-1 tvg-logo="https://images.hoerzu.de/files/station_logos/613.png", SKY CINEMA ACTION HD
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/46273
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME 
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/28932
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
+http://rv.imax.re:80/5124037472/1572081885/85279
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
@@ -590,11 +594,9 @@ http://rv.imax.re:80/5124037472/1572081885/87007
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uT3M7lL.jpg" group-title="CINE PREMIUM",FOX PREMIUN FAMILY FUL-HD
 http://ipeteve.com/php/t121220/mc.php?c=70&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
-http://ipeteve.com/php/t121220/mc.php?c=68&f=.m3u8
+http://rv.imax.re:80/5124037472/1572081885/87006
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
-http://ipeteve.com/php/t121220/mc.php?c=69&f=.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME 
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/28932
+http://rv.imax.re:80/5124037472/1572081885/87020
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://89.105.194.59:25461/live/1mov$!XI!/1mov$!XI!/24.m3u8
@@ -719,7 +721,7 @@ http://uruguayiptv.com:25461/leandro1/leandro123/643
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts 
 https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV HD
-https://edge-live12-sl.cvattv.com.ar/live/c2live/INCAA_Tv/SA_Live_dash_enc_2A/dash/INCAA_Tv-video=530000.track_id=10005-5721268207572.mp4
+http://rv.imax.re:80/5124037472/1572081885/87114
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNo5qb395_y3FQteP2Qu9Z8rN7A4czwkYuA&usqp=CAU", CANAL TRECE 13 FUL-HD
 http://89.105.194.59:25461/live/spart$!bitch/spart$!bitch/124.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/13max_logo_nuevo.JPG" group-title="ARGENTINA",13 Max Digital
