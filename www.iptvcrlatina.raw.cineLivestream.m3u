@@ -1,5 +1,5 @@
 #EXTM3U = www.iptvcrlatina.raw.cineLivestream.m3u 
-#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/16/17/16/5959432.jpg", IPTV LATINA CR
+#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/15/14/6963405.jpg", IPTV LATINA CR
 https://www.youtube.com/watch?v=YTYn6iLVPx4
 #EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",22 01 2021
 http://spy-iptv.com/ACTUALIZACION
@@ -51,7 +51,7 @@ http://201.201.149.86:8080/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc",CANAL 14 SAN CARLOS
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/YWlyLmNvbS50dnN1cnJhZGlvLnJhZGlvc3VyX2ljb25fMTU0ODE4NDM1Nl8wOTU/icon.png?w=170&fakeurl=1&fbclid=IwAR1Hjst5WdgMCCFNuS0mFo_xXD9uGzoBmzTooNexUc2iBxHaz-UyYdUN9aM", TVSUR RADIO CANAL 5 HD
-#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/12/22/23/5959432.jpg", CANAL SUPER 5 HD
+#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/12/20/1/5959432.jpg", CANAL SUPER 5 HD
 https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpwFPTFFv1RXuwoBEXRBuwcaHetT4zjIgfJdJaBhgt9AvEF24xmj1NK8FiprL59J0DYKAw6yN0stvNUmh9tfxO_AxWWVumIZLyTqnhK3RvwG1kWZ6o_jv_L1jbAzqmAsaE34K3d3t3LT0HnJQAmWqYjw3uFgYX7qPlVk6MRFVN8s-Hyv0BkR81uojwwNUgVlzBNWF8QpE4OZJv-Xa12Hx5XTSkRl98kmwuHZeAE0f5HxwNYmDJzKX0fhxV1qcMct11j1naxXflthdvz4CRpg6lfMTbqSrQ6N3LCHcdGs1uTEugNyl8IPjCyjQ4EIV7jW7c8Ukzbb32ULWcASzmKHkn3iQpSqLA7LZSJpGUZKStWNbsneM3cBeO_cDdQdhkG_aCT8RSI9GmBCMEBbwTrcJTrlrmf8gw7HepaDwxK6oFh97FMvM09PfOv2q-bhxj1TUOKA3Xbx3DOXsyEUkmj4m3Iln-ogckqlbS8HrJydivGbPT3WHSDM9IYzofJ9T58pRCSXu_Js2qVu3uwJ4SNCOuOBamiI5rIpO6JhuNqQVsfNMhiN-_3C6Sw8DkljCvj8OvLwEqJlqp1e0TA8f6ck_U9FDhMHEOAorAB18aIMXK1zZUPG1k6lZvvRWfX-pjH50GNd1_tpLsqRAoH7VP1-bhhxOcL6SMbvUpu6Vj-UAcGgw79bPJ4b5vIXuKKjup9FElEHUe2eVWZ1t5ubea-sMDDdcyUakxdsnkW5swIz1bYrshiJwZFlcgGTZwtTz8U6rB5m8Rf8OltZ60PY294tHZdaxXbDYapBiY1B83YTrHv12Wz0pumTeXoAiQBKRjF1RkI3wFkcHuDj_vlly64_unMvgOpG6QQuQyxEiVtJM5ni5M9gnKNogdaCTtY7Il0SEH41Z7vhXLLQnpCIv86PpEAaDPk51Ud8sAioWaOn1w.m3u8
 #EXTINF:-1 tvg-logo="https://www.limontv36.com/gallery_gen/314cea1de7e0e690d4275dcec61d5ca2_590x373.png", LIMOM TV 
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
@@ -190,7 +190,7 @@ https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png", CANAL 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w2084903146_b148000_DVR_sleng.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s",CANAL TVX HD
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Cv8Ex_C73Z7frz_XrtGBkUHSgZJh2aBW8xPJ8j3m1VZNIL6sBEtXCErHqi_OEqThCjVIGiv2qvneJHxFqAuNUsfpSdH0zTL2ilMwDBCbKJAgpT5n3TvyX-lVqxj-z-6raFg9kP2gmPY_l8TEZ3QfCa5-yY63_9Q8OMLReI8__LcLO-3zOCSCao0yD40CL3oSeh69Q48lF0O1PGWUAFtGvJi9Hw2Cn1qrwcimEbv4mCDHDHky42oDzWsJh9f7-8zfnqPvw-0iYrlNCZn_lTqRFM5qPygwM-OAbpx8s4teQRl1nwyFMrc1jTMpf_04HbtPbkguhuQD2m1yONou86BIKk8MopCZf1jA_cKQcc8cxTGF7D9-2h8rfxGbAnUECEpAH8eAQI_A8I2LljousPNCGoz39s9XYy27OlM8zhL1OWRTgyswETgrLzJ7nLauTopJHOseag80IlTDj_L9itY56DSs2sRci7V40fFGHiw6ValID85HxRw96z92xm32ECFFzZ0NGs0OT00zPP22-O3eQnJ-YFOV4grwfJup6KQxZ_V9ObX8T3qCxcflynjXTZ9M7DLSOjdtBBxicYi3BPu3O_VPQm5K-9KI2b364zmr0PfuRum_yAWmbrDoGCzl5UB9HSOwsA7Cmvs7fC-RkNN_EFJui7KzT_WnAXrz3goHVvuYe1bwYiaBI4WdU8uGDlBaai0bw7-EVaw8AZh147mNNHpHG9_JLqA21Wj5-CsuARuMpKoNwVlEyfhDzIkTkB4XFuNsoZbRr_s8FOzea9nGC2o_DeVfWUuDoK0rinURYfwREk5cuw_pfRCLWE5Xuh6xGUeLe21VOs9RKTN_68G8hko3EhCusEmyvjsw6Ac363D9weLkGgyNy3UAKgN444Ff9vE.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpMFNC99Dx1nxAutQBbq2vzpyjFacTfHTIM0AOE7wgcTWQhI2xXHDXvbghN2605RqpiFF6bx7foFlrUMQ6Pao6zIIzKFC0Wh2xi61QOEhhaXcvI0oDFxKi-igbvoCwR66zEaNbuijSoZnB93HIXR605sUwLPf7yKoraeeJ_WpbNpKWNKP9EsZ76NxDkcHtbKbOMm_sBbYc1GMnkzNZxiGngulWZ6ZgBQl4mEcNj_vcMm8toD8DMgDb9jBX5-zRaq6OfdTJNVZgbuX2ecw5R9WCC-LSqq2LYCWhiCkcYogtDlMVi5mM50xPeQJ85jFdt0Yx97nh9fpaNCG0UcwDybGUBgog4lfd-piyf3CkUwuowbhN6bwmgtRyKzV3HrzD2hhB0tr64TmXIpUas2TTNn9_2il81HW7Bm_AG5AaHtmST_KI8TfR_MmACVr9OSiZIjcM0Q7lt82aA7ZakUPcurGIV_n57WEoBUidPtbH4AbZEumVw65Dmi8zW7v02EKC6MojEYQ3U0Son__12XEDccyMkesL6Wh0BV-2tddY4Qv2gi_UmLWMmnYOpZKP1uCfk4WDfoexYYjM-YlTN9T3JSXb3cH_W9beUXfi3kHh8BcBKMP5Eofn3aTxTpo8x2aiu3bD1zImG3woU0Lbf94B7XCi9LFGm5m8_xL1X9iVHiVaTB-SIkREaeNFt5jCvhGIDz2xIn2O5b4NiIcE4ZpGSOFVCsW6Tzm_epOcWj9CqiH95pQUF15aVsAMnzs7X6-hZqP9UztKPH50vrmyowlt8ArPFrcgEGNt0md8t8TzAxAmrbXcVagcX7y0eQ4uZH_4y7O14rhDKX6kWkEFakH0P6qbDiJBi3YXCnT6jgF9TrLOg3VOYbznoSEGHRgB92UKof5NkNh1lqgGcaDItJf768xLOdIdOj9A.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -417,7 +417,7 @@ http://89.105.194.59:25461/live/4movT$1!!/4movT$1!!/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER GOLDEN FUL-HD  
 https://teleclub.xyz/cable/teleclub?latino=GOLDENPREMIER_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
-https://live.televisiongratishd.com/tvplus2022/75_.m3u8?token=ooXNPj6eHEIJ-EyHucHoDw&expires=1611302520&ip=201.191.255.45
+http://iptvhd.club:8081/televall2021/1704_.m3u8?token=2NmJycG_ny0Jk4E5G7Q16A&expires=1611347594
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN HD
@@ -427,9 +427,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/14.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
-http://iptvhd.club:8081/televall2021/1710_.m3u8?token=cRtzN2ExN_izbHfaxfETYA&expires=1611297757
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER-HD
-http://iptvhd.club:8081/televall2021/1710_.m3u8?token=exmZyKD8r2bdCn3kkNJrNw&expires=1611296244
+http://iptvhd.club:8081/televall2021/1710_.m3u8?token=kgPMel-baxd2YDH24Faq5w&expires=1611347523
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/oc2v2i6j.m3u8?s=GvZNo9v_IOV3q5TrT3-_hg&e=1611306419
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
@@ -447,13 +445,9 @@ https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC HD
 http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO", MC FUL-HD
-http://iptvhd.club:8081/televall2021/1867_.m3u8?token=sQyM6VmqpiZE-VUJIcYyTw&expires=1611293022
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO", MC FUL-HD
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=HdxEmXe2BDMuCDmLKANrkA&expires=1611292893
+http://iptvhd.club:8081/televall2021/1867_.m3u8?token=NWuH2ZQon0FTgCzjcQrkFw&expires=1611347466
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3CRfuaO_o439u3Jei2Mej5MoauQJ2V5oLzihdvhw3lhU3x6qo", DHE FULHD 
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=qWjN8UOFWGQB2Sha4TIDog&expires=1611293124
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3CRfuaO_o439u3Jei2Mej5MoauQJ2V5oLzihdvhw3lhU3x6qo", DHE-HD 
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=HdxEmXe2BDMuCDmLKANrkA&expires=1611292893
+http://iptvhd.club:8081/televall2021/1614_.m3u8?token=heBI-Dj5Ikie48s4AtHQ7g&expires=1611347329
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME 
