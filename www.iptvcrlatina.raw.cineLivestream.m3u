@@ -1,7 +1,5 @@
-#EXTM3U 
-#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/15/14/6963405.jpg", IPTV LATINA CR
+#EXTM3U @LaQuay https://pastebin.com/cache/img/8/15/14/6963405.jpg", IPTV LATINA CR
 https://wa.me/message/Y36OKHMC7QZVG1
-#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",22 01 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
