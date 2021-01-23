@@ -1,4 +1,4 @@
-#EXTM3U = www.iptvcrlatina.raw.cineLivestream.m3u 
+#EXTM3U @LaQuay www.iptvcrlatina.raw.cineLivestream.m3u 
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/8/15/14/6963405.jpg", IPTV LATINA CR
 https://www.youtube.com/watch?v=YTYn6iLVPx4
 #EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",22 01 2021
