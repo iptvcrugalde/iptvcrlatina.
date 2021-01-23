@@ -1,7 +1,8 @@
-#EXTM3U = www.iptvcrlatina.raw.cineLivestream.m3u 
-#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/16/17/16/5959432.jpg", IPTV LATINA CR
-https://www.youtube.com/watch?v=YTYn6iLVPx4
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",14 01 2021
+#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/8/15/14/6963405.jpg", IPTV LATINA CR
+https://wa.me/message/Y36OKHMC7QZVG1
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",22 01 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -21,3 +22,19 @@ https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0
 #EXTM3U = SOMOS UN SITIO WEB OFICIAL DE IPTV LATINA COSTA RICA BAJO UN SERVICIO GRATIS = CON ACTUALIZACION OFICIAL PARA LATINOAMERICA Y EL MUNDO = LATINO CAHNNEL.EVY ANGEL CR.LATIINOAMERICA ( == )
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =La lista es gratis, Donaciones Paypal:  es una recopilacion de enlaces publicados en Pastebin.com!=
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =Mexico - Latinos - Noticias - España- Infantiles - Cultura- CINE - Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngNIPToRez-bJX7Xa9L89rodvCZOysVokn-Zni2sQ=s900-c-k-c0x00ffffff-no-rj", CNAL 5 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+#EXTINF:-1 tvg-logo="https://www.dossiernet.com.ar/assets/scripts/load.php?src=https://www.dossiernet.com/assets/uploads/images/axnnuevologo.jpg&w=1200&h=800&zc=1&q=80", AXN HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/dad1e92717b7257b1a1818119b3eec9c9c5577d7f4c500031642cd9b27273f68.png", TBS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcXNqrMUIjyCTNZ6BBd3-bg_gjkniatqkzvg&usqp=CAU", BITME HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
+#EXTINF:-1 tvg-logo="https://www.impulsotv.com.ar/sites/default/files/canales/logos/EuropaEuropa.png", EUROPA 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
+#EXTINF:-1 tvg-logo="https://web.fxinteractive.com/wp-content/uploads/2016/05/FX_Plata_cuadrado.png", FX HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1Fsm4TK4nLKu_vUfElmCnEW1-zLUxopJxw&usqp=CAU", WOW CINEMA
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/29021
