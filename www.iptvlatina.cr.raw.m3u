@@ -110,14 +110,10 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/master.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTN.TV" tvg-logo="https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200" group-title="Int. Asia" tvg-name="CGTN",CGTN
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-id="CGTNN.TV" tvg-logo="https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200" group-title="Int. Asia" tvg-name="CGTN News",CGTN News EN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/247retro/picture?width=200&height=200" group-title="Int. Otros" tvg-name="24/7 Retro TV",24/7 Retro TV 
 https://hlsdpi-cdn-rtx01.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/acsnetworktv/picture?width=200&height=200" group-title="Int. Otros" tvg-name="ACS Network",ACS Network
 https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
-#EXTINF:-1 tvg-id="HarleyM.TV" tvg-logo="https://graph.facebook.com/harley-davidson/picture?width=200&height=200" group-title="Deportivos 
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" group-title="Musicales" tvg-name="Cadena Elite Granada",Cadena Elite Granada
 https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiogigantecanarias/picture?width=200&height=200" group-title="Musicales" tvg-name="Radio Gigante España",Radio Gigante España
