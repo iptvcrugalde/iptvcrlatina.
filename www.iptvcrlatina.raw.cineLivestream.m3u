@@ -169,7 +169,7 @@ https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAFYPq3lack_aXLnEvRguId3Vd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="PARAGUAY", Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjLNQdSdJ3ZE9bxI-s6tjLzGre-DxLVRLpeorT3InokhJ_biE37HbepAAL1sR9tvs21lnoEcaQLUI309UvFYcUMn4wOUm2uEOWMQ&usqp=CAU&ec=45702846", TELEMETRO CANAL 13 FUL-HD
-https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-dai/80d1991ed8284893869b2b264ff51374/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88dd2229b0890723df2165/6de3c1c9-f16f-45db-9498-bb7c8bf3c04c/0.m3u8?pid=2TxAooizBTG8kbY0jyr06mgOxabFT2Sx&sid=VZ37Q5jS0ZJn1czHtqdTRboNML51otac&uid=GGqzZO9JMuwIxprpuTOZiTlXI0FoZYaW&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1610690646274&ot=IETg9NqeZ7ZEJdIblI4XHA&proto=https&pz=us
+https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream-dai/80d1991ed8284893869b2b264ff51374/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88dd2229b0890723df2165/635086b2-16dd-40d7-87ad-edfaaaab03e5/0.m3u8?pid=gWAucqN49xsiQufY5HML4pISpGrQEU9a&sid=wKYPbi7r7OkA33vKX3NK0eYOyJlBZwMY&uid=yHBcfqNLT5SbTeIV6t1WLuB5Y3FlBWCT&es=us-b4-p-e-zx8.cdn.mdstrm.com&ote=1611564143676&ot=Dj1s7Si0i-2RYg2ZIEihHA&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC TV 
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC
