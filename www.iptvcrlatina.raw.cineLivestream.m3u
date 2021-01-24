@@ -170,8 +170,6 @@ https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/60580
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png", TVN FUL.HD
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/94a9f607044f48858ec67af40b565762/chunklist_dvr_ssaiV.m3u8
 http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTjLNQdSdJ3ZE9bxI-s6tjLzGre-DxLVRLpeorT3InokhJ_biE37HbepAAL1sR9tvs21lnoEcaQLUI309UvFYcUMn4wOUm2uEOWMQ&usqp=CAU&ec=45702846", TELEMETRO CANAL 13 FUL-HD
-https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-dai/80d1991ed8284893869b2b264ff51374/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88dd2229b0890723df2165/6de3c1c9-f16f-45db-9498-bb7c8bf3c04c/0.m3u8?pid=2TxAooizBTG8kbY0jyr06mgOxabFT2Sx&sid=VZ37Q5jS0ZJn1czHtqdTRboNML51otac&uid=GGqzZO9JMuwIxprpuTOZiTlXI0FoZYaW&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1610690646274&ot=IETg9NqeZ7ZEJdIblI4XHA&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC TV 
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC
@@ -417,9 +415,9 @@ http://89.105.194.59:25461/live/4splRDvv/4splRDvv/8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-xeHGRYWGZW3vwz12IUvuYVXhCR00f_CZCQ&usqp=CAU", PLUS GOLDEN FULHD
 http://89.105.194.59:25461/live/4movT$1!!/4movT$1!!/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER GOLDEN FUL-HD  
-https://live.televisiongratishd.com/tvplus2022/75_.m3u8?token=OBmEt3JVCCoew_kyLS9c-A&expires=1611529593&ip=201.191.255.54
+http://iptvhd.club:8081/televall2021/1704_.m3u8?token=0-HkXH0Ey-LsBrHnYLX_Og&expires=1611533016
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
-https://teleclub.xyz/canal/canales?latino=GOLDENPREMIER_SD&format=.m3u8
+https://teleclub.xyz/canal/canales?latino=GOLDENPREMIER_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN HD
@@ -429,7 +427,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/14.m3u8
 #EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER HD
-https://live.televisiongratishd.com/tvplus2022/81_.m3u8?token=r0bMEJR6E-KDfX3eIH-KoA&expires=1611508860&ip=201.191.255.100
+
 #EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER HD
 https://live.televisiongratishd.com/tvplus2022/81_.m3u8?token=6lm2eECWvfLDO3dnflAccQ&expires=1611480658&ip=201.191.255.88
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
@@ -794,7 +792,7 @@ http://uruguayiptv.com:25461/leandro1/leandro123/19539
 
 #EXXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/top/zpapi.zetatv.com.uy/media/images/canal4LOGO.png", CANAL 4 VIVO PARA VOS HDVO PARA VOZ FUL-HD
 http://uruguayiptv.com:25461/leandro1/leandro123/20
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.20191006144254_1569370535633.png.9055d44807d42c19ab1baaeec6ec5072.png", CUATRO 4
+#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/142566450_221850956209210_7669887787688958599_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=2IAaCVpCMGsAX95mHkV&_nc_ht=scontent.fsyq1-1.fna&oh=e1d393f1d8d3ecc1448761e2d8a43bc8&oe=6031AC94", CUATRO 4
 https://vxlive.cdn.antel.net.uy/auth_livesignal_601,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NDEzNzUmcmFuZG9tPUF2TDdQbHR5eGcmYy1pcD0yMDEuMTkxLjI1NS41NCw0MzY2YzM3OWMyNThjZmQ4NDRiY2JmNWY2ODA2YTk5YjY0MDdkZjA2ODIyZjU1YmExNmI2NzZhMGY3ZjA4Mzk4/vxfmt=hls/h_050aea287c6bad7541646edb7692a270/var1200000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png", BOLIVIA
