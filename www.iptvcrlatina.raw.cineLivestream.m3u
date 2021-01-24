@@ -180,6 +180,10 @@ https://5fcbeb2219aa3.streamlock.net:455/btv/btv/chunklist_w1650351897.m3u8
 http://198.1.123.99:1935/live/myStream/chunklist_w295805193.m3u8
 #EXTINF:-1 tvg-logo="https://507go.tv/imagenes//taxonomy/term/15/logo.png", NEX CANAL 21
 http://198.1.123.99:1935/live/myStream/chunklist_w508012443.m3u8
+#EXTINF:-1 tvg-logo="https://www.medcom.com.pa/site/assets/files/1678/tarifario-oye.300x300.jpg", OYE CAMAL 7
+https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/5d88df173853e7072f3f953f/publish/media_350.m3u8
+#EXTINF:-1 tvg-logo="https://www.medcom.com.pa/site/assets/files/1678/tarifario-oye.300x300.jpg", OYE CAMAL 7
+https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/5d88df173853e7072f3f953f/publish/media_900.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSA3OjM0OjQ1IFBNJmhhc2hfdmFsdWU9MlNmM05jU29YUk1QRHpNR212WWNNdz09JnZhbGlkbWludXRlcz0zNjA%3D&pid=QISuxnU18ZxNvKm1Czcz2hur1It2Y6kn&sid=cZQENGLATXZ4SZtdoofwgF1VxthWOJ6O&uid=cN5o0kBtxO0h4TNUXkmNjwM9b4yP7xAu&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1611615717898&ot=XxqZ_f0m_XxztF_X4FKdRw&proto=https&pz=us
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/SAp1FzxEqspueYtZhnA0mWUHvt3xcCneqvqjJB5RQY5olj7LfbjCfCGhBJnlpaOLAUg=s180-rw", EL SALVADOR
 http://127.0.0.1
