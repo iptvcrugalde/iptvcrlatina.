@@ -185,7 +185,7 @@ http://198.1.123.99:1935/live/myStream/chunklist_w508012443.m3u8
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
-#EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png", CANAL 33
+#EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png", CANAL 33 HD
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w2084903146_b148000_DVR_sleng.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s",CANAL TVX HD
 https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAF5cJjycwbXH1d0msYE-fclACq5EAVXR31y0-QBzw_Gr9RK61iwz_9GftwMyvcAvzJdiBXTIOQrCsop71yG_44O1scVeAmyLkVy0IHN_8sA9gQnM2PlTgIohhkX85i7CX-Z6StogluxhrfYNR0r31pnRJVmA4k2fOXu6E4pW_X9eK0MqE1fKK3MaQpRRasV1IZ3qqFAGJvBS5bOnOjROmEMsG1efR-RdM9kuahwnxO6gNfgGjHA28aFXnXDKxA-7ZDoP5PSRdkoVsmBe9irHrDC7ZSajXEhCqWKwdtdN1cbwAcmSBPtw8MmXLLbqFVMyfs0OnIX8D_GTvmMYARWaRmXxR8_6pRrqik3MQzk2K7oeqIlvOyhvTIRh1avicbrGNNxaRiZFvQG59lMonkVsJu8vUQ_uinu03G-zGTIru1VI31M0KrH6bozURtkOJg4P-L15X_e_LIIrR5LkqBynOCsvc4OJW9HnYsDjfNeslpcbHebpgZds0QBihbNpqedxGXeOWE5nOGJ9VLC9AxHKS0_5eACeVQO7FJh29-THLf1tgF_JMGVdg4Ju6Tzgo7oqAt8LqtkMPJCWxiAJ4Q_14HkpA1Iq96_RfXUvbyigzgA6Lg2AqmJ5MYSHYtUM5rwzcs4YrNQna9HlSgYWWTdsLEtFXlYTLA69lBPor07kVjdVwc2KgJrXEI8Ret8g2CDE4RpvzCmnOTMb1IQgqAK_N48nOWkJ9pRJP1HIwMWyVWgbHKkb9IYN4vMzCXCdPMA-UpwylOI3TrkAYN4AuXZXN0MA7UY4cWY0QtZqAwXeFZymX_UK2azlBxxsGwvc_QTS0JEmf72Z6-W6CQVlRAT19xYxIQVyxMXgOfUTIYmlo_3atTIBoMu7DDrmJC7958G7dF.m3u8
@@ -565,7 +565,7 @@ http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28239
 #EXTINF:-1 tvg-logo="https://images.hoerzu.de/files/station_logos/613.png", SKY CINEMA ACTION HD
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/338
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME 
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/28932
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/142
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
 http://rv.imax.re:80/5124037472/1572081885/85279
 
@@ -1951,7 +1951,9 @@ https://ecanlitv1.etvserver.com/live_sd/dalgatv/chunks.m3u8?nimblesessionid=2118
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/ctc-tv-live.png",CTC - STS
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11665
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/sat-1-live-stream-tv.png", SAT 1
-https://ecanlitv2.etvserver.com/live_sd/desat1/chunks.m3u8?nimblesessionid=314818435&wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDIxIDI6NTI6MjEgQU0maGFzaF92YWx1ZT1nK21UQ3FwL3dNSzlDd1dYNnpGd29nPT0mdmFsaWRtaW51dGVzPTEw
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/270
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sat.1_Gold_HD_Logo_2019.png/1200px-Sat.1_Gold_HD_Logo_2019.png", Sat1 Gold HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/271
 
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/images/tr.png",TV-TURQUIA
 http://100.145.2010.125.130
@@ -1963,6 +1965,8 @@ http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/14748
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/533
 #EXTINF:-1 tvg-logo="https://www.canlitvizlee.net/wp-content/uploads/2014/05/beyaz-tv-hd-buyuk.png",BEYAZ TV FULHD
 https://stream-01.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzEOS3WdMk1BU-n5-RqmtAow)/dm/3/x4kopfq/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://www.canlitvizlee.net/wp-content/uploads/2014/05/beyaz-tv-hd-buyuk.png",BEYAZ TV FULHD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/122
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kBT1zFJxxQE/XllkdzgQe-I/AAAAAAAAJ2U/-rKsBfrDIiM-jRop8Fx0yhUEm0V253n3gCK4BGAYYCw/s400/Romania%2Biptv.png", ROMANIA.TV
 http://127.0.0.1
