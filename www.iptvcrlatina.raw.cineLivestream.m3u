@@ -8,7 +8,7 @@ http://spy-iptv.com/ACTUALIZACION
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
 #EXTINF:0 tvg-logo="https://miracomohacerlo.com/wp-content/uploads/2017/07/1-28.jpg", WHATSAPP WEB
 https://wa.me/message/Y36OKHMC7QZVG1
-#EXTINF:0 tvg-logo="https://hotmart.s3.amazonaws.com/product_contents/6d7700d3-6ac2-4625-abf7-6a88d5b10b47/instalarfacebookactualapp2928ae0292ed6875d37bc92da4ca7477600x400.jpg",FACEBOOK
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/30/ba/83/30ba8365e6f6fb2f05b3a19ad34a6daf.jpg",FACEBOOK
 https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0584.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO", PC
 http://iptvcrcostarica] EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
@@ -224,7 +224,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 https://5b50404ec5e4c.streamlock.net/8030/8030/chunklist_w735822650.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras HD
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg", Azteca Honduras
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VkhYiMT.png" group-title="HONDURAS", TV Azteca Honduras HD
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Une-Tv.png", CANAL ONE.TV
 
@@ -233,7 +233,7 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1107.png" group-title="Internationals",Canal 9 Honduras
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="HONDURAS",Teleceiba Canal 7
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/teleceiba.png",Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/FW2MTUR1qTHwLtOiWks_32ywvSZi0AR_yy0lbSpbpAoFsfj3UqiTN1QfWrJCbSuMHZHW=s180",GUATEMALA
@@ -426,8 +426,8 @@ http://89.105.194.59:25461/live/3sp$Q10/3sp$Q10/14.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/14.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg",MULTIPREMIER FUL-HD
-http://iptvhd.club:8081/televall2021/1710_.m3u8?token=Nz3J9zP3c2uADQM8HKzjww&expires=1611452582
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER FUL-HD
+https://live.televisiongratishd.com/tvplus2022/81_.m3u8?token=hKbRSFVF-P3aGeN3njJUuw&expires=1611471489&ip=201.191.255.88
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 https://miap.xyz/132/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
@@ -442,12 +442,12 @@ https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC HD
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO",Multicinema MC HD
+#EXTINF:-1 tvg-id="https://i.imgur.com/XXGxqFR.jpg",Multicinema MC 
 http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XXGxqFR.jpg" group-title="MEXICO", MC FUL-HD
-http://iptvhd.club:8081/televall2021/1867_.m3u8?token=6ZrI88cStahBwsfIqqGcmg&expires=1611452452
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3CRfuaO_o439u3Jei2Mej5MoauQJ2V5oLzihdvhw3lhU3x6qo", DHE FULHD 
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=m2PH9IVTzLnw5xbn_nvKQw&expires=1611452523
+#EXTINF:-1 tvg-id="https://i.imgur.com/XXGxqFR.jpg",Multicinema MC HD
+http://iptvhd.club:8081/televall2021/1867_.m3u8?token=W8d7b6v_5UGx4VtIS5gCiQ&expires=1611471391
+#EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FULHD 
+http://iptvhd.club:8081/televall2021/1614_.m3u8?token=ZRblbFbY6DcuwMBPR8HohA&expires=1611471145
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME 
@@ -455,7 +455,7 @@ https://pqmdmn53ckamcjb.ezcdn421.net:8443/hls/21zryaxtu4y.m3u8?s=BKa-eTT_ft07mVX
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido HD
-
+http://iptvhd.club:8081/televall2021/158_.m3u8?token=YkrAtEbA381sBPVSVO0RlQ&expires=1611470820
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
