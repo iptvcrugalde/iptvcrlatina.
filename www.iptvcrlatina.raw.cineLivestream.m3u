@@ -465,6 +465,8 @@ http://www.lengua.com/anthems/USA.mp3
 http://rv.imax.re:80/5124037472/1572081885/87009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL_HD
 https://miap.xyz/63/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
+https://2zdxtw7ff3qmmt2.ezcdn421.net:8443/hls/0e733j.m3u8?s=SjzfrPgOpYVeG_2rRiWxEA&e=1611492635
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT15$/1musT15$/100.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ",FXMOVIES HD
@@ -566,10 +568,14 @@ http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28239
 
 #EXTINF:-1 tvg-logo="https://images.hoerzu.de/files/station_logos/613.png", SKY CINEMA ACTION HD
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/338
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/79
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME 
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/1366
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME 
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/142
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
-http://rv.imax.re:80/5124037472/1572081885/85279
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/19057
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
