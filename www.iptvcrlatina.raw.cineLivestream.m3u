@@ -327,13 +327,13 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w88863126
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png", TVP
 https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/LOGO_LAS_ESTRELLAS_2017.svg/revision/latest/scale-to-width-down/200?cb=20170108213622",Canal 2 de las Estrellas FUL-HD
-
+http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/36.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO HD
-
+http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/34.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/pasiones.png", PASION FUL-HD
-http://89.105.194.59:25461/live/2mxGBitch/2mxGBitch/40.m3u8
+http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/40.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhVL5qFXoG9Q9HQtm-QOa0bpuSOeYFQBpZ5ar4PXQ=s176-c-k-c0x00ffffff-no-rj-mo", QUIERO TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
@@ -395,25 +395,25 @@ http://ipeteve.com/php/t121220/mc.php?c=34&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/azcorazon.png", Az Corazon HD
-http://89.105.194.59:25461/live/2mxGBitch/2mxGBitch/41.m3u8
+http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/41.m3u8
 #EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azmundo.jpg",AZ MUNDO HD
-http://89.105.194.59:25461/live/2mxGBitch/2mxGBitch/38.m3u8
+http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/38.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
 https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/glitz.jpg",Glitz HD
-http://89.105.194.59:25461/live/1musT15$/1musT15$/94.m3u8
+http://89.105.194.59:25461/live/1musT99$!/1musT99$!/94.m3u8
 #EXTINF:-1 tvg-logo="https://www.gracomonline.com.br/site/images/logo_curso/cinetv.png",CANALES CINE.TV
 https://www.gracomonline.com.br/site/videos/CINETV.MP4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-0xxwz6sHqQU1L44LgT5QdNVpoA8CaqGv7g&usqp=CAU",Azteca 7 FUL-HD
-http://89.105.194.59:25461/live/1mx$!$$!/1mx$!$$!/33.m3u8
+http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/33.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas FUL-HD
-http://89.105.194.59:25461/live/uss$KT19/uss$KT19/51.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
-http://89.105.194.59:25461/live/mx1XX!!$T!/mx1XX!!$T!/35.m3u8
+http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/35.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ijKffyy.png",LIFETIME HD
-http://89.105.194.59:25461/live/1musT15$/1musT15$/96.m3u8
+http://89.105.194.59:25461/live/1musT99$!/1musT99$!/96.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsjo14-1.fna.fbcdn.net/v/t1.0-9/129137966_10159190446787386_2687558905946443167_n.png?_nc_cat=1&ccb=2&_nc_sid=09cbfe&_nc_ohc=I-gpD4WT-asAX81TUDU&_nc_ht=scontent.fsjo14-1.fna&oh=84bfe5eff836503874c389cc91fd472e&oe=602EECCB", GOLDEN HD
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/7.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsjo14-1.fna.fbcdn.net/v/t1.0-9/129137966_10159190446787386_2687558905946443167_n.png?_nc_cat=1&ccb=2&_nc_sid=09cbfe&_nc_ohc=I-gpD4WT-asAX81TUDU&_nc_ht=scontent.fsjo14-1.fna&oh=84bfe5eff836503874c389cc91fd472e&oe=602EECCB", GOLDEN HD
