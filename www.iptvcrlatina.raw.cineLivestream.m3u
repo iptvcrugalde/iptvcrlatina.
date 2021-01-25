@@ -425,6 +425,8 @@ http://89.105.194.59:25461/live/4movT$1!!/4movT$1!!/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER GOLDEN FUL-HD  
 http://iptvhd.club:8081/televall2021/1704_.m3u8?token=Vf2C3lZ18n0Mb8CwlsKjbA&expires=1611553729
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
+https://live.televisiongratishd.com/tvplus2022/75_.m3u8?token=Q9eV6PGxuFHJQ2VosPZwBA&expires=1611551225&ip=201.191.255.54
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 
 https://teleclub.xyz/canal/canales?latino=GOLDENPREMIER_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
@@ -435,7 +437,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/14.m3u8
 #EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER HD
-http://iptvhd.club:8081/televall2021/1710_.m3u8?token=YMTkV48tSe-qZd9y7ZMnAw&expires=1611554449
+https://live.televisiongratishd.com/tvplus2022/81_.m3u8?token=0BlIey2pW8Daav7o9MnmqQ&expires=1611555939&ip=201.191.255.54
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MTRHD
+http://iptvhd.club:8081/televall2021/1710_.m3u8?token=T11bp-Pfcx7lglEm7uwjBA&expires=1611559617
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER HD
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 https://miap.xyz/132/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
@@ -994,7 +1000,7 @@ https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpcFL-LWmaTxInfxvFFBSrn9d2p
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9558a64b-9562-45e8-9275-9e2f4a6acc20-profile_image-70x70.png", C2N.TV CANAL2 NOTICIAS 
 https://d2nvs31859zcd8.cloudfront.net/ace05a1dc218709a2459_canal2noticias_39911859213_1608335406/chunked/index-muted-24D96HU1JL.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg", CANAL 3 LA VICTORIA
-
+https://video-weaver.jfk06.hls.ttvnw.net/v1/playlist/CpwFh9mAtcJV76k_C-uDmtnB3oWi5fZ2eJ7CIypbTorI1dh4-M_7i5QHOD-3MaYq8UB09s4EVxnH-sGxkHShAxo6BOgYwqW1ZVlB5y8QfbJL-B-dga4Vwn3s0f5HgqsYqbEXZ1y3YR8HopZag0T3h1r52DwJKYH1Zj5tfyqOMasftFtpw7n72nzvKwAQZM78_NASzCvummPtCTF_n4uLdDow5JSP2sHLOUMQHEigx2ur9Tea_LgLpa3H6JgG37qsb66fPpjyDFi4-UaPNFe_BAmNX4YWIWbEBJskk_V89U7QsQJrvI-khrkYTCXpMcx00UDN68aT_tmriCWW9wwoDNssh68Tr-25K65zKIr1W-11nAl-cPUH2K6IZY3cbygf3jqo64FiHxSjWrvx5BuoCbt-LEWHWFCwdeYSFztXZcHHZtfk6m5D7bc7t25_IGBs2LrPKw0wknzYz3NYxz7_RXkO0Zgk-_vwK6M0nQ2T5jyHOP0uS10CGgyrpuLkyzZovH32YCWPTikiNMrQ1t-qmsRymYGIFaRpHC4l4D3XjUB_m4lO1i_upI8W0Ezxn7FPzUw-EOXYJCdKSdaD14YkcrVWhAcgq4tYE3OubWazTENEyFze5dXyw57qxjo1e1kA9PEjOury1yPAORwxp9PIMXWtnymvXAVT_O3zCwC5f2gHbqVvry9PBnSrlEsSEGhwWFrUx3zbhyu-dGoIwvu18lxfQJUHEks2hOZVMPUecsU2YXNVtoNCEyYC0_DPDpDwPpq230I-FnQOaZ54GGOORdQpxtRUyuMB5AamaSWgrn4GYsKM3acROAef3MTPz70cD8n4tDdh7_BWaSXetEQUzXrDzfqy53ZZfTfD1zYcUQcxwez65Mm1vyuKBeeZhkASEPRgPzCr072XItvPm5BM1-MaDHDrjT8e7kQTVxl4fA.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png", CANAL 23.TV Mazatenango
 https://stream.oursnetworktv.com/latin/canal23Tv/chunklist_w637481463.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:A#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png", CANAL 23.TVNd9GcQLBPbV2dx9zRsqmiRAQAkq7FElZcykli7bLQWgGtujsighnYmb&s",canal20 defebrero SALTA
@@ -1183,9 +1189,11 @@ https://5e7cdf2370883.streamlock.net/tdconline/_definst_/tdconline/chunklist_w17
 https://panel.dattalive.com/8068/8068/chunklist_w1854499384.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/avatars/119/5f996b8b1aa85-bpfull.jpg",Canal ETV HD
 https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/avatars/119/5f996b8b1aa85-bpfull.jpg",Canal ETV 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/avatars/119/5f996b8b1aa85-bpfull.jpg",Canal ETV HD
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.punt3.es/images/punt%203%20hd.png", PUNT CANAL 3 HD
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
@@ -1999,10 +2007,3 @@ https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
 http://120.130.128.134.200
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg", MTV Murr Television HD
 https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1610676380~dirs=1~hash=0ecc7817a50f8946747a4/mtvlive.smil/murrtelevision_chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
