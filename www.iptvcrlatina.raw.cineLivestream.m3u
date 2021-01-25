@@ -168,8 +168,8 @@ http://www.lengua.com/anthems/Panama.mp3
 https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/mk0.m3u8?oosd=34ee71d50185402b81af1ebb43af1706&ssai_guid=b184ab1f-f659-4ca1-8439-2d9f05297370
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="PARAGUAY", Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF:-1 tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/Emblema-TELEMETRO-.jpg", TELECENTRO CANAL 13 
-
+#EXTINF:-1 tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/Emblema-TELEMETRO-.jpg", TELECENTRO CANAL 13 HD
+https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream-dai/80d1991ed8284893869b2b264ff51374/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88dd2229b0890723df2165/34faab3d-19d3-4aee-a144-b64f9f4b0b39/3.m3u8?oosd=34ee71d50185402b81af1ebb43af1706&ssai_guid=b184ab1f-f659-4ca1-8439-2d9f05297370
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC TV 
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC
