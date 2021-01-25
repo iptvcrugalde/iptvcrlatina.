@@ -165,11 +165,11 @@ https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqu-fq_697gZFu0yRYo
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G2lPKxNGKqXrlxHO3vGuRbuu4wN3zUcHLMB_rKg_7QjLYJmFzfsC3llCuUxqsxYrqVw=s180",~ Panama
 http://www.lengua.com/anthems/Panama.mp3
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png", TVN FUL.HD
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_3/be053ce6d9954c88ba1762727c04ebaa/chunklist_dvr_ssaiV.m3u8
+https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/mk0.m3u8?oosd=34ee71d50185402b81af1ebb43af1706&ssai_guid=b184ab1f-f659-4ca1-8439-2d9f05297370
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="PARAGUAY", Unicanal
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png", TVN FUL.HD
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/94a9f607044f48858ec67af40b565762/chunklist_dvr_ssaiV.m3u8
 http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:-1 tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/Emblema-TELEMETRO-.jpg", TELECENTRO CANAL 13 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC TV 
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC
@@ -181,9 +181,9 @@ http://198.1.123.99:1935/live/myStream/chunklist_w295805193.m3u8
 #EXTINF:-1 tvg-logo="https://507go.tv/imagenes//taxonomy/term/15/logo.png", NEX CANAL 21
 http://198.1.123.99:1935/live/myStream/chunklist_w508012443.m3u8
 #EXTINF:-1 tvg-logo="https://www.medcom.com.pa/site/assets/files/1678/tarifario-oye.300x300.jpg", OYE CAMAL 7
-https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/5d88df173853e7072f3f953f/publish/media_350.m3u8
+https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/5d88df173853e7072f3f953f/publish/media_350.m3u8?uid=cN5o0kBtxO0h4TNUXkmNjwM9b4yP7xAu&sid=cZQENGLATXZ4SZtdoofwgF1VxthWOJ6O&pid=Ozl4O0kXpaKN1ZIjydPpahlFuLEdgNbz&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&dnt=true&access_token=NVN1LgyrMadeBWUFNnASRzhpFGJGKTakKcQuR9A0t6gDb1j59I6igk4KxQJTlFhJpTNiLOhaWWv&es=us-b4-p-e-cz3.cdn.mdstrm.com&ote=1611614518023&ot=jscJvz6v0k-_5j_AA8sang&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://www.medcom.com.pa/site/assets/files/1678/tarifario-oye.300x300.jpg", OYE CAMAL 7
-https://us-b4-p-e-ev5.cdn.mdstrm.com/live-stream/5d88df173853e7072f3f953f/publish/media_900.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSA3OjM0OjQ1IFBNJmhhc2hfdmFsdWU9MlNmM05jU29YUk1QRHpNR212WWNNdz09JnZhbGlkbWludXRlcz0zNjA%3D&pid=QISuxnU18ZxNvKm1Czcz2hur1It2Y6kn&sid=cZQENGLATXZ4SZtdoofwgF1VxthWOJ6O&uid=cN5o0kBtxO0h4TNUXkmNjwM9b4yP7xAu&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1611615717898&ot=XxqZ_f0m_XxztF_X4FKdRw&proto=https&pz=us
+https://go.medcom.com.pa/
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/SAp1FzxEqspueYtZhnA0mWUHvt3xcCneqvqjJB5RQY5olj7LfbjCfCGhBJnlpaOLAUg=s180-rw", EL SALVADOR
 http://127.0.0.1
