@@ -1298,6 +1298,7 @@ https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CpAFlh0zIdUIshhoau6oaGjAiSt
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png", TV CLASSICS
 https://vitor-tvclassics-1.plex.wurl.com/manifest/4300.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.petitionglobal.com/resources/assets/images/petitions/1586174448246x0w.png", The CW Network 
 http://tvla.xyz:80/series/wbnnpnrq/6g4f4OEc1h/112487.mp4
 
@@ -1342,6 +1343,18 @@ http://162.255.86.122:25461/live/DAZPLAYER/versionweb2019/640.m3u8
 http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/117715550_146757130385260_4494327653658910578_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=LcG9cYct98UAX9jh3ir&_nc_ht=scontent.fsyq1-1.fna&oh=e3f543994ccbf49146fb3c606ede2251&oe=600E0397",FMH MOVIES 
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DxDpwSBVsAAvtpT.jpg",CANALES PLUTO.TV ESPAÑOL
+http://tvpremiumhd.com/channels/tvpremiumhd.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHfqOPcJ7PulwxLDzu1XhBJalePLqRJAVXA&usqp=CAU", CINE PLUTO.TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=84.0&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&deviceType=web&deviceMake=Firefox&sid=ca09bbef-5eb5-11eb-b7f1-0242ac110002&advertisingId=&deviceLat=9.8974&deviceLon=-84.0705&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://k37.kn3.net/taringa/4/4/6/3/7/6/5/lau22manda/A5D.jpg?4425",INFANTILES
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
