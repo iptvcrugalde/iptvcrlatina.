@@ -781,17 +781,17 @@ http://uruguayiptv.com:25461/leandro1/leandro123/80319
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 FUL-HD
 http://uruguayiptv.com:25461/leandro1/leandro123/19541
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg", IR TELE FUL-HD
-https://vxlive.cdn.antel.net.uy/auth_livesignal_884,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODg0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NDEyMDUmcmFuZG9tPVVxbjhyRmU5dWUmYy1pcD0yMDEuMTkxLjI1NS41NCw1NjNjMTZhMmJjODExZThlMDA4NDQxZTlhNjNmMjU2NTNhNDk4ZGI4Zjk0MjIyYTQ0NmVjM2UxYTk2NmRiODQx/vxfmt=hls/h_d0912d6b9d5f24e30d61fc23ee4ed628/var3000000/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_livesignal_884,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODg0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NjY4NDImcmFuZG9tPXhEUU5DaEJib3EmYy1pcD0yMDEuMTkxLjI1NS41NCw4ZjNhNWJiMWMzYTc3MDFiNmM3M2FmNzMyZDVhMWEwYjI0NTM2YjM0OGJiMWQ1MjlhYmQ1MzI3NGE5M2MyNGU4/vxfmt=hls/h_d0912d6b9d5f24e30d61fc23ee4ed628/var800000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg?size=web_v_m", RU TV CINE
-https://vxlive.cdn.antel.net.uy/auth_livesignal_852,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODUyJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NDEzMDAmcmFuZG9tPXkwQ25ZZDdVS2UmYy1pcD0yMDEuMTkxLjI1NS41NCxjMWExOWJjMGM0YmZjNjE2MWU4YzM4NmQ0OThkZDZhNDFkZGJmNzMxNTQ0MDg0ZjEwMWJkZjkwZjVhMjlhNjBk/vxfmt=hls/h_0be1c15e1d6d5dd8022734de149c9be0/var800000/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_livesignal_852,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODUyJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NjY5MDcmcmFuZG9tPU96ZHh0V1dSNmImYy1pcD0yMDEuMTkxLjI1NS41NCw5YjViOTdmNzMyN2M3MTQxNzhhNGJkNTIzNzc2OGI5ZmQxMjQ1ZTgzZTcyMmYzMDVkMjhiZTUzNGUxMWVhYjk5/vxfmt=hls/h_0be1c15e1d6d5dd8022734de149c9be0/var3000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg",CANAL 7 PUNTA DEL ESTE
 http://uruguayiptv.com:25461/leandro1/leandro123/19539
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg?size=web_v_m",Canal 8 Televisora CINE
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_614,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjE0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NjY5NTAmcmFuZG9tPTlLMkR2SHU5TVImYy1pcD0yMDEuMTkxLjI1NS41NCxhZjI0OWI5YmFiNWIxMTQ4MmFjYmQxYzg3NjY4M2FjNjdhZDhmYjQwMWU0OTRlZDcyYWQ5NmIyNmIzNWNhYmUz/vxfmt=hls/h_d1aa072b89b67745c4f1e410aa1b6fc5/var300000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9369/240/default.jpg?size=web_v_m",Canal 8 Rivera CINE
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_500,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNTAwJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NjcwMTEmcmFuZG9tPW9jUG05VlBtZW4mYy1pcD0yMDEuMTkxLjI1NS41NCwzODdhN2UyNmMyMWEyYmJiZjM4ZWRhYzE2NzRhMjI4MjExYzcyYjJhYzQzYmFmZWFlMGNjNzJhN2Y2ZTlkZWE1/vxfmt=hls/h_d42fc4c9e2f1bab2612596b20cbfcc13/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal9telerocha.com.uy/wp-content/uploads/2020/06/cropped-LOGO-9-HD-carta-1.png",Canal 9 Telerocha HD CINE
-
+https://vxlive.cdn.antel.net.uy/auth_livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NjcwODEmcmFuZG9tPWhaclVUeHo0MmQmYy1pcD0yMDEuMTkxLjI1NS41NCw2ZjIxNjA4NDVkM2YwMjA0YjA3ZWZlYjAwMjU0OWMwNzY0ZjZhZGU3ZDhkYTY0NTAyN2E1ZGU4NWViNjIxOTk1/vxfmt=hls/h_e9e31ce7b7b0f375a7f0a07ccffb2672/var800000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg",Artigas Televisión HD CINE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/200px-LogoLaRed2018.png", LA RED
@@ -799,7 +799,7 @@ http://uruguayiptv.com:25461/leandro1/leandro123/19539
 #EXXTINF:-1 tvg-logo="https://images.zetatv.com.uy/getimageurl/800x1200/top/zpapi.zetatv.com.uy/media/images/canal4LOGO.png", CANAL 4 VIVO PARA VOS HDVO PARA VOZ FUL-HD
 http://uruguayiptv.com:25461/leandro1/leandro123/20
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/142566450_221850956209210_7669887787688958599_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=2IAaCVpCMGsAX95mHkV&_nc_ht=scontent.fsyq1-1.fna&oh=e1d393f1d8d3ecc1448761e2d8a43bc8&oe=6031AC94", CUATRO 4
-https://vxlive.cdn.antel.net.uy/auth_livesignal_601,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NDEzNzUmcmFuZG9tPUF2TDdQbHR5eGcmYy1pcD0yMDEuMTkxLjI1NS41NCw0MzY2YzM3OWMyNThjZmQ4NDRiY2JmNWY2ODA2YTk5YjY0MDdkZjA2ODIyZjU1YmExNmI2NzZhMGY3ZjA4Mzk4/vxfmt=hls/h_050aea287c6bad7541646edb7692a270/var1200000/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_livesignal_601,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTE1NjcyMDImcmFuZG9tPTFBa1hWbkx3YkomYy1pcD0yMDEuMTkxLjI1NS41NCw1MjNmOWE5ZDhmZjIzYjRjM2ZkMzJjMTUwZjdhMDNiNDNiMTUyYTRiNmI4M2E5YzE2YTA4NTVlZjBlOGY3ZDNl/vxfmt=hls/h_050aea287c6bad7541646edb7692a270/var1200000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png", BOLIVIA
 http://125.139.128.132
@@ -881,6 +881,8 @@ rtmp://tengomusica.ddns.net/telever//telever.sdp
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w982424886_b1248000.m3u8
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TSi.png",TSI HD
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMx65sw0YtirOLRNPWMixClGHXr7TRCxlh-Q&usqp=CAU", TSI HD
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://prod-profile.pscp.tv/1eWEygDVeaZKA/c85ab13c3c480bf68bc0c055225592fd-128.jpg",Canal 41 HD
 https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/chunklist_w882613411.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwHVXGU.png" group-title="TV RELIGION",La voz de Maria
@@ -943,11 +945,9 @@ http://ecuastreamhd.com:1935/UCSGTVmoviles/UCSGTVmoviles/chunklist_w440744487.m3
 #EXTINF:-1 tvg-logo="https://tpc.googlesyndication.com/simgad/1580634957046508323", TVC TELEVICENTRO
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYZEE8t0cZvNBrAJ9AFqDxCRwy4TFc89n2WuQurjmM2ph6gjKr&usqp=CAU", RTS HD
-https://youvideostreaming.club/hls/tvec3.m3u8
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b898000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", RTS
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMx65sw0YtirOLRNPWMixClGHXr7TRCxlh-Q&usqp=CAU", TSI HD
-https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h9qHSmD2AOn_SjlglQv0Y_l9PKd22wg-Cw&usqp=CAU",Educa TC HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA HD
