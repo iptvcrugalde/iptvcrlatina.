@@ -528,7 +528,7 @@ http://rv.imax.re:80/5124037472/1572081885/86981
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/20/8/8/5959432.jpg",TNT HD
 https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoMFk-hCVhQh1u01H4LKNVPi7asWwR9Dus9q3c53J__jdCb0UkETrzQbQBwbH9EIHhaok50e5GIfmwKsjpg04y39Jjlc0IulPbbF5RGUkXMruJkonKKWpbxrXcGGsDzxPdsLq5i9IZScXAi9DS27aUIHNpXNNPcuSmtFDvf_phSQtdrHvyUFsPWiMbrHxI9rUiaoY7iAc3-IzgA17L_jAIiwH8WvOPrqBE81rSFjMtR_ty0rhP0Wj2xPKlHuA724ZYWwTUgMfHy3OUHUyzLP79oBpjh4hKlUiTOYRSfVZMdk8Q3-eX1Yr0xFcEtQEmialWZgD5WunbLkkxzIErfVxQY_qh5oCOg2Wkg7GJfN4KbicIXlXBDNxhFICgaj5RU6ISNT3ELyADFLEGVCQ4NKI5oBGR7GPN5Rgv7Pycpfd_4kQXCdSpZzPPEZ6_p1f029aa2nM61dtJUrVwAXOxI97yx1EsgBgVejVEL5tm1_H9iBrAhAGG21oHLML3SvjP9jDDFgSycmgvgI21wz5wa8NnWpZ1gu0VJ9Jbo59DwLuH9KkxIrqf85Cfj6muWAlSrdlr6qLZFqWrcdGcDZN7vnTraQjrkgmcHofUKtRF4XjjysegDQAR8FOfIooF8WgH_s62dt0SCkhBFsYOMsSpS0jgmoLE7oe8QI3uJGHrAUSO0A9uyh6iySduAntLMmNBcWwEpHOLy26nune_0bDxAuxc5darjsmGLN47Oby4PGZAYPP6AYN78Aqeb42lBkdUV8mLqkQxpV4_lxOe9rZH0HtvJRkPr97mRUVGBMp3TAYrP38oTf0erzP0WmPKt4cS7md2iiP77kNzY25Ttp0TqodlgoDQW_xxIQ8LqwogIDp0dztZ-0MrtGEBoMQoJHVgWJJRxJ6R6E.m3u8
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/20/8/8/5959432.jpg",TNT HD
-https://miap.xyz/146/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+https://teleclub.xyz/canal/canales?latino=TNT_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135467054_209797477414558_588917232848789511_n.jpg?_nc_cat=111&ccb=2&_nc_sid=730e14&_nc_ohc=GTW9d76-bVcAX9JjEIi&_nc_ht=scontent.fsyq1-1.fna&oh=bf60ab09afcfd376b3306ed7b1062743&oe=601A6790",TNT FUL_HD
 https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/glaldsq.m3u8?s=71QCvrNSB3fiIdYo63ESdg&e=1611282725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
@@ -1365,7 +1365,7 @@ https://59802217c6db4.streamlock.net/surtv/videosurtv/chunklist_w781219550.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DoF9YY7XsAAGIrv.jpg", Film 4
 http://photocall.tv/lF4r/ftv.m3u8?ch=film4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNdH9oMU_hn_w8sQQDtWBCncxTe9jtG1Y3p8KuzeAgr0&s",MAXIMA MOVIE HD
-http://uruguayiptv.com:25461/movie/leandro1/leandro123/79351.avi
+http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9PfHZmFm9_WL4vcIbnJOjtInDXo2G9LE7boXzehTcgVbdDACH",ONE tracers
 http://162.255.86.122:25461/live/DAZPLAYER/versionweb2019/640.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/117715550_146757130385260_4494327653658910578_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=LcG9cYct98UAX9jh3ir&_nc_ht=scontent.fsyq1-1.fna&oh=e3f543994ccbf49146fb3c606ede2251&oe=600E0397",FMH MOVIES HD
