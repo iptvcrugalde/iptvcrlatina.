@@ -169,13 +169,13 @@ http://www.lengua.com/anthems/Panama.mp3
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png", TVN FUL.HD
 https://ssai-apac.ooyala.com/hls/delta/cflive-use/out/u/229ymkag04945/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/mk0.m3u8?oosd=34ee71d50185402b81af1ebb43af1706&ssai_guid=b184ab1f-f659-4ca1-8439-2d9f05297370
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-e1scDLqFQd8/Vx4ithci-rI/AAAAAAAACYk/Qds1kNnpYT8WnBgoJnx7jnS197He2QLngCLcB/s1600/logo-tvn.png", TVN HD
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/e041e16178b948b28ff009d416ed77a4/chunklist_dvr_ssaiV.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="PARAGUAY", Unicanal
 http://45.55.127.106/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/Emblema-TELEMETRO-.jpg", TELECENTRO CANAL 13 HD
 https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream-dai/80d1991ed8284893869b2b264ff51374/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88dd2229b0890723df2165/34faab3d-19d3-4aee-a144-b64f9f4b0b39/3.m3u8
 #EXTINF:-1 tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/Emblema-TELEMETRO-.jpg", TELECENTRO CANAL 13 HD
-
+https://us-b4-p-e-xy7.cdn.mdstrm.com/live-stream-dai/80d1991ed8284893869b2b264ff51374/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88dd2229b0890723df2165/ddd5249c-f29e-41c2-92c5-6d761d522097/3.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDIxIDI6MTY6MzAgQU0maGFzaF92YWx1ZT05c0RHeGVTQ2FRWDU1R2Y3VzdVYWlBPT0mdmFsaWRtaW51dGVzPTM2MDA%3D&pid=Yuz1pZkPscm1q6wKIBXqmyLyn8nD8dde&sid=P7oGVnqERkHGAXGXwEMK7Yu9xMbZQNzf&uid=rf9ZebETZkPgFO4JshUVdteoTEaBvcUk&es=us-b4-p-e-ev5.cdn.mdstrm.com&ote=1611713814626&ot=BJ9jJ8u5uFrnCX3aonX_4A&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC TV 
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC
@@ -338,8 +338,10 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV 
 http/uruguayiptv.com:25461/leandro1/leandro123/772 
+#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS HD
+https://2zdxtw7ff3qmmt2.ezcdn421.net:8443/hls/6lvtai0wryyudh.m3u8?s=pPWOLk3R0JMA7RAGuWfVXA&e=1611650200
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS
-http://89.105.194.59:25461/live/mx1XX!!$T!/mx1XX!!$T!/39.m3u8
+http://89.105.194.59:25461/live/mx1XX!!$T!/mx1XX!!$T!/39.m3u8?s=pPWOLk3R0JMA7RAGuWfVXA&e=1611650200
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2oBAvCCnsin83SED7gnp9SUuZoALgXD574kY2MKQlp4eq4RG-&usqp=CAU",IMAGEN TELEVISION
 http://89.105.194.59:25461/live/1mx$!$$!/1mx$!$$!/37.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg", TV MAR
@@ -435,13 +437,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/14.m3u8
 #EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER HD
-https://live.televisiongratishd.com/tvplus2022/81_.m3u8?token=93AKxIONZlGOjzE0MP1PBA&expires=1611625515&ip=201.191.255.88
-#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MTR HD
 
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MTR HD
+https://live.televisiongratishd.com/tvplus2022/81_.m3u8?token=PAQA_1gxN2im7JoT-EfCow&expires=1611635278&ip=201.191.255.88
 #EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER HD
 http://iptvhd.club:8081/televall2021/1710_.m3u8?token=TG3-4-lEDr_J0j7Fex2ZZw&expires=1611629037
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-https://miap.xyz/132/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
 https://teleclub.xyz/canal/canales?latino=SONY_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY 
