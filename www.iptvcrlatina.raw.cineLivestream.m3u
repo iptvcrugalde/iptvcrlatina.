@@ -344,9 +344,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV 
 http/uruguayiptv.com:25461/leandro1/leandro123/772 
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS HD
-https://2zdxtw7ff3qmmt2.ezcdn421.net:8443/hls/6lvtai0wryyudh.m3u8?s=pPWOLk3R0JMA7RAGuWfVXA&e=1611650200
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/6lvtai0wryyudh.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS
-http://89.105.194.59:25461/live/mx1XX!!$T!/mx1XX!!$T!/39.m3u8?s=pPWOLk3R0JMA7RAGuWfVXA&e=1611650200
+https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/6lvtai0wryyudh.m3u8?s=CJlUL5KMVLiq1hYErkniqQ&e=1611717893
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2oBAvCCnsin83SED7gnp9SUuZoALgXD574kY2MKQlp4eq4RG-&usqp=CAU",IMAGEN TELEVISION
 http://89.105.194.59:25461/live/1mx$!$$!/1mx$!$$!/37.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg", TV MAR
@@ -415,6 +415,8 @@ http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/33.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
 http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/35.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
+http://89.105.194.59:25461/live/mx1!MI$T!/mx1!MI$T!/35.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ijKffyy.png",LIFETIME HD
