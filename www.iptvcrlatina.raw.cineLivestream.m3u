@@ -455,6 +455,8 @@ https://teleclub.xyz/canal/canales?latino=SONY_SD&format=.m3u8
 http://latvonlive.com:33612/Rico/1234/818
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10y1jppgDUbaVj_ifv8_3k8anil2DUoNS9A&usqp=CAU", CINE SONY
 http://latvonlive.com:33612/Rico/1234/493
+#EXTINF:-1 tvg-logo="https://img.favpng.com/5/19/0/television-channel-h2-pay-television-sony-entertainment-television-png-favpng-RDMEvd333pYRw6RtYcWLcD681_t.jpg", SONY
+http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY 
 https://sony-comedias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY 
