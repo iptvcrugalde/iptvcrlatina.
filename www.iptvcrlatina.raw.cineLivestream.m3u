@@ -578,25 +578,33 @@ http://rv.imax.re:80/5124037472/1572081885/82396
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Sky_Mexico_Logo.png",PREMIUM SKY
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1193838932414386176/nF8oUkv9_400x400.jpg", SKY CINEMA COMIDY HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23746
+#EXTINF:-1 tvg-logo="https://vectorbn.net/wp-content/uploads/2019/11/Sky-Cinema-Disney.jpg", SKY CINAMA DISNEY HD
 
-#EXTINF:-1 tvg-logo="https://vectorbn.net/wp-content/uploads/2019/11/Sky-Cinema-Disney.jpg", SKY CINAMA DISNEY
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY
-http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28244
+#EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/616.png", SKY CINEMA EMOTION HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23743
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/SkyCinemaHitsHd",SKY CINEMA HITS
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23742
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79572
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/39434
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
-http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28235
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/543-5435721_sky-cinema-action-hd-de-logo-2016-sky.png", SKY CINEMA ACTION HD
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23749
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
-
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23735
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/2072
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/87979
 #EXTINF:-1 tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg?w=600&auto=format&s=2df94318394a38a90c12585ff0f4a4da", SKY ATLANTIC HD
-http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/30626
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/89642
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_cinema_premiere.png", SKY CINEMA PREMIER FHD
-http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28243
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14021
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oPaBBAVR-XMg8PHP3dcaQzP0UoqWvmqbHw&usqp=CAU", Sky Primafila 6 FHD
-
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13920
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
-
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29570
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/617.png", Sky-Cinema-Fun
 http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28239
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
@@ -617,7 +625,7 @@ http://supertv.live:80/mZ82PN2p/gM9Nyc4x/19057
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES HD
-http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/18.m3u8
+
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
 http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/20.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES FUL-HD
@@ -627,7 +635,7 @@ http://89.105.194.59:25461/live/5mov$!19/5mov$!19/129.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
 http://rv.imax.re:80/5124037472/1572081885/87007
 #EXTINF:-1 tvg-logo=="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU",FOX PREMIUN FAMILY FUL-HD
-http://ipeteve.com/php/t121220/mc.php?c=70&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
 https://miap.xyz/69/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
