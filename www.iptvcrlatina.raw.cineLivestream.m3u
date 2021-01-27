@@ -592,7 +592,7 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79572
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/39434
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
-
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/15917
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/543-5435721_sky-cinema-action-hd-de-logo-2016-sky.png", SKY CINEMA ACTION HD
 http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23749
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
@@ -610,7 +610,7 @@ http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29570
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/617.png", Sky-Cinema-Fun
 http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28239
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
-
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/22800
 #EXTINF:-1 tvg-logo="https://ia800805.us.archive.org/24/items/SkyCinemaSciFiAndHorrorHd/sky%20cinema%20sci-fi%20and%20horror%20hd.png", Sky ScFi Horror HD
 
 #EXTINF:-1 tvg-logo="https://images.hoerzu.de/files/station_logos/613.png", SKY CINEMA ACTION HD
@@ -633,6 +633,10 @@ http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/20.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
 http://89.105.194.59:25461/live/5mov$!19/5mov$!19/129.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/24976
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA 
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/24976
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA HD
 http://rv.imax.re:80/5124037472/1572081885/87007
 #EXTINF:-1 tvg-logo=="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU",FOX PREMIUN FAMILY FUL-HD
 
@@ -1056,6 +1060,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGt-2ZwpTnVAhmHLCECWZp3ndjLj7cLqVRLQ&usqp=CAU", PERCIANA CINEMA HD
 http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUFfD9LAfdK9qGDFGwlYeMf4icEmMcYvt2w&usqp=CAU", CINE MUNDO HD
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/9419
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/OCCtjgGJFMfTGWNLR-xlKVSELMjUCwjMVf76BrlSedAbdUCCawsPty-EYnFf0tMLei7RYSzSWYFgOSj70LwU-5k5J91T4a7YRDbzjctV69_N7HcnP4BxgJuyqnAq5nMW5JedeEoswl4", SUPER CANAL HD
+http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w322178973.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-38yzIWih3nc/VSBQLGXZVII/AAAAAAAAET8/vyEQOr7lxR8/s1600/canal-45-tv-1400346428.gif", CANAL 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyXKRWaD-KP7geIaWZucbJCLFc0SDrjbKbIA&usqp=CAU", DISTRITO DTV
@@ -2029,7 +2037,7 @@ http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/14748
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/show-tv-izle.png", SHOW TV HD
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/533
 #EXTINF:-1 tvg-logo="https://www.canlitvizlee.net/wp-content/uploads/2014/05/beyaz-tv-hd-buyuk.png",BEYAZ TV FULHD
-https://stream-01.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzEOS3WdMk1BU-n5-RqmtAow)/dm/3/x4kopfq/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzAZuDcn14loG2T949eNqsms)/dm/3/x4kopfq/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://www.canlitvizlee.net/wp-content/uploads/2014/05/beyaz-tv-hd-buyuk.png",BEYAZ TV FULHD
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/122
 
@@ -2037,6 +2045,8 @@ http://bb123.pro:1453/samy19_20/g5woSDuZf6/122
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU", ZEECINEMA HD
 http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/29041
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU", ZEECINEMA FUL-HD
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/7915
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBi-IV8ebHW6jpEsMTXhaejVITAlz0YaZsBw&usqp=CAU", ZEECINEMA FUL-HD
 http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/29039
 #EXTINF:-1 tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIwJTJGMDEl/MkYwNiUyRjExNDg0ODFfMTE0ODQ4MV90/dnItMV9oZC5wbmcmaGFzaD01ZmEzM2Fk/OTEzNGMxMTE1ZTc4YjZiMjRmYTU4Nzc0YQ==.png", TVR 1 
