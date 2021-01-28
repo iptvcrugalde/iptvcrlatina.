@@ -910,6 +910,10 @@ http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZYJO4FGQ0oUbyAq2vTbqLTRhzZ-Hlu3bdE11CX0RkMAc5AI3Dkls5U-h6wnGXDonuvw=s180",República Dominicana
 http://127.0.0.1
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo", CINEVISION CANAL 19 HD
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1_400x400.jpg",CANAL 8 PUNTA CANATV HD
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8?nimblesessionid=12453930
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcU_LQBmWLeJhke90-up8f9j6fCIEHaCmg5A&usqp=CAU",VALLEVISION CANAL 10 HD
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 #EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/do-vallevision-canal-10-9607-300x225.jpg",VALLEVISION CANAL 10 HD
@@ -930,6 +934,10 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w982424886_b12480
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMx65sw0YtirOLRNPWMixClGHXr7TRCxlh-Q&usqp=CAU", TSI HD
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg", CANAL HM 33 TV  HD
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8?nimblesessionid=75293251
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRztHjVC_2625tQLKtQ1dUT0LqsoOyoKckIR7zp08PIzwZb2m7S",HMTV
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://prod-profile.pscp.tv/1eWEygDVeaZKA/c85ab13c3c480bf68bc0c055225592fd-128.jpg",Canal 41 HD
 https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/chunklist_w882613411.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwHVXGU.png" group-title="TV RELIGION",La voz de Maria
@@ -952,7 +960,7 @@ https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1366602525.m3u8
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg",CANAL 56  
 https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/QxC4z1VD9uf9Sv_N5/x240", COLOR VISION HD
-https://stream-03.sv4.dailymotion.com/sec(O-7bth6lxCIslucX64-RY8Bg3ZTueZCL57FYD_xgCLQ)/dm/3/x7gy059/d/live-3.m3u8
+https://stream-03.sv4.dailymotion.com/sec(O-7bth6lxCIslucX64-RY4MXQSmVbU4urzoGTKv9uYo)/dm/3/x7gy059/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png", TELEFUTURO CANAL 23
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
 
@@ -1070,10 +1078,6 @@ http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w322178973.m3
 https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyXKRWaD-KP7geIaWZucbJCLFc0SDrjbKbIA&usqp=CAU", DISTRITO DTV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo", CINEVISION CANAL 19 HD
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo", CINEVISION CANAL 19
-https://rctvhdstream.com:8081/cinevision19hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-vector/initial-letter-ta-red-metallic-260nw-1313620220.jpg", TA HD
 https://youvideostreaming.club/hls/tvec4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6.jpg", MICROVISION
@@ -1116,8 +1120,6 @@ http://210.210.155.35/session/ff2ab0ba-5be1-11ea-8243-b244b064a8a8/x6bnqe/s/s31/
 https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Canal-56.png", CANAL 56
 https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRztHjVC_2625tQLKtQ1dUT0LqsoOyoKckIR7zp08PIzwZb2m7S",HMTV
-http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV1Nc5b6wrrLzR8ixld8vJQTB0I3phTzwX7fTHfIDEaroGgduy&usqp=CAU",MY TV TELEVISION CLASICOS HD
 http://162.244.80.176:8081/abr/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV1Nc5b6wrrLzR8ixld8vJQTB0I3phTzwX7fTHfIDEaroGgduy&usqp=CAU",MY TV TELEVISION CLASICOS
@@ -1128,13 +1130,9 @@ https://5b38ce71f1f00.streamlock.net/8176/8176/chunklist_w2009441619.m3u8
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://media.canalnet.tv/2018/10/N-345x414.png",NET
 https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/735482998372630529/bEgiPOU1.jpg",CANAL 8 PUNTA CANATV 
-https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/CASCARA-PNG.png",CASCARA TV HD
 https://ss5.domint.net:3036/ctv_str/cascaratv/chunklist_w1327801611.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElEaeSovA9c/T8CRBqmTasI/AAAAAAAADVc/WTTU--RlcwU/s1600/globo_tv_honduras_telecatracha_television_honduras_noticias.jpg",TV GLOBO HD
-https://svbpt-sambavideos.akamaized.net/voda/_definst_/amlst%3Astg%3B133%2C957%2Cef4d35ed0e491489586bfe826cca69a1%3Bhidden64np%3B3aiIOlS2AH0CgTomy2O1dR90QBlhX-nIrnQSdFQY84eR-UoOyRIA5vcInjon4RF8VBC0M5KoO1AjcR5cS6BIHNoISgT5RjuKkWxKWXcFxgBt1kcrSEXYzntWCajei8aLNGLzMLNEopeB682V_WPX856E_y698I1V3ZhG4jvcyLcZmMGscsB0yGSMlMd7NNfwdYqk56VksNsYjCljlWdt7IUUQhZGW5de55q0f0qw1tdkW8vqE2eAhiVfe97FviC2xt2pB9c%21/chunklist_b1208320.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElEaeSovA9c/T8CRBqmTasI/AAAAAAAADVc/WTTU--RlcwU/s1600/globo_tv_honduras_telecatracha_television_honduras_noticias.jpg",TV GLOBO 
 https://panel.dattalive.com/8122/8122/chunklist_w472965034.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/120539726_162090315518608_1412863809390009801_n.jpg?_nc_cat=108&ccb=2&_nc_sid=730e14&_nc_ohc=jPAdCrM9SAgAX98Dv9M&_nc_ht=scontent.fsyq1-1.fna&oh=1d05751e12d507b5c0aaccabe43fbfe5&oe=6021B91A", GLOBAL TV TELEVISION 
 https://cdnhd.iblups.com/hls/hSv9O1CLLc.m3u8
