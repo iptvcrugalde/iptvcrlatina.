@@ -272,7 +272,7 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 #EXTINF:-1 tvg-logo="http://prai.tv/wp-content/uploads/2018/07/City-300x200.jpg", CITY TV HD 
 https://tna5.bozztv.com/dxfg5ryr67hfgh/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/6b/5c/de/6b5cde0693874961fdd8e05e7aebeeb6.jpg", Canal Caracol HD
-http://89.105.194.59:25461/live/perVX!!9$/perVX!!9$/147.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png",NOTICIAS Cracol HD
 https://www.youtube.com/watch?v=8XL8Qk4qzyA&feature=emb_logo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caracol_HD2_2017.png/1200px-Caracol_HD2_2017.png", CARACOL 2
@@ -1369,8 +1369,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968ae0ab7d8f181
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://hellnotes.com/wp-content/uploads/2014/05/terror-tv-logo.jpg",HORROR TV
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/1ff79ef56e57e977d360a2fe2bd9bf7455d38f609a16da65ccb7693422d95f85.png",MOVIEE 4U HD
-
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/02/lifetime-logo.png", Lifetime HD 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
 #EXTINF:-1 tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2015/11/Movee4u-larger.jpg",MOVIEE 4U 
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
