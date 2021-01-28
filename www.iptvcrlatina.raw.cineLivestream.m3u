@@ -484,7 +484,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2https://s1.dominiopersonal.xyz:2083/realplayer/Ctb5Dty6Hq/91|User-Agent=realplayer/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL_HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL
 https://s1.dominiopersonal.xyz:2083/realplayer/Ctb5Dty6Hq/91|User-Agent=realplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL
 http://rv.imax.re:80/5124037472/1572081885/87009
@@ -523,7 +523,7 @@ http://iptvhd.club:8081/televall2021/1548_.m3u8?token=nDP5mVYz1Xy9iCxO8BTnPw&exp
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT HD
 https://s1.dominiopersonal.xyz:2083/realplayer/Ctb5Dty6Hq/110|User-Agent=realplayer
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT 
-
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/glaldsq.m3u8?s=MPQ2sG7xIlxBKnWXuBwdHw&e=1611879562
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT HD
 http://rv.imax.re:80/5124037472/1572081885/86981
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
@@ -574,49 +574,45 @@ http://rv.imax.re:80/5124037472/1572081885/82396
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Sky_Mexico_Logo.png",PREMIUM SKY
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1193838932414386176/nF8oUkv9_400x400.jpg", SKY CINEMA COMIDY HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23192
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1193838932414386176/nF8oUkv9_400x400.jpg", SKY CINEMA COMIDY HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23746
+
 #EXTINF:-1 tvg-logo="https://vectorbn.net/wp-content/uploads/2019/11/Sky-Cinema-Disney.jpg", SKY CINAMA DISNEY HD
 
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/616.png", SKY CINEMA EMOTION HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23743
+
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkyCinemaHitsHd",SKY CINEMA HITS
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23742
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/79572
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/39434
+
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/15917
+
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/543-5435721_sky-cinema-action-hd-de-logo-2016-sky.png", SKY CINEMA ACTION HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23749
+
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23735
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/87979
+
 #EXTINF:-1 tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg?w=600&auto=format&s=2df94318394a38a90c12585ff0f4a4da", SKY ATLANTIC HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/89642
+
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_cinema_premiere.png", SKY CINEMA PREMIER FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/14021
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oPaBBAVR-XMg8PHP3dcaQzP0UoqWvmqbHw&usqp=CAU", Sky Primafila 6 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/13920
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/29570
+
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/617.png", Sky-Cinema-Fun
-http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28239
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/22800
+
 #EXTINF:-1 tvg-logo="https://ia800805.us.archive.org/24/items/SkyCinemaSciFiAndHorrorHd/sky%20cinema%20sci-fi%20and%20horror%20hd.png", Sky ScFi Horror HD
 
 #EXTINF:-1 tvg-logo="https://images.hoerzu.de/files/station_logos/613.png", SKY CINEMA ACTION HD
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/338
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23194
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME 
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23193
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME 
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/23600
+
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
