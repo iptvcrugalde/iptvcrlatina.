@@ -493,7 +493,7 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/playerl/skrEgxLyjj/91|User-Agent=playerl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
-https://teleclub.xyz/tv/canal?latino=TNT_HD&format=.m3u8
+https://teleclub.xyz/tv/canal?latino=FOX_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/100.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
@@ -532,6 +532,8 @@ https://pqmdmn53ckamcjb.ezcdn421.net:8443/hls/glaldsq.m3u8?s=Coa2f9_LZ7Y6y1wv69J
 https://teleclub.xyz/tv/canal?latino=TNT_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT 
 https://s1.dominiopersonal.xyz:2083/playerl/skrEgxLyjj/110|User-Agent=playerl
+
+https://teleclub.xyz/tv/canal?latino=TNT_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT HD
 http://latvonlive.com:33612/Rico/1234/557
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
@@ -817,7 +819,7 @@ https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FT
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QO8cMnbx8NkkC2zXCJi1EMYS41VwJfMZNzU6EBrNJh1Q2VI7-2ObzWqXl__bciFL7aXi", HVN TV HD
 https://59ce1298bfb98.streamlock.net/hvntv/hvntv/chunklist_w351870078.m3u8
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", TELEFURO HD
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w405591419.m3u8?k=8d833673fc7aaff0472237ed68c7fc8f8a15141a5475746da727db81b6113682&exp=1611687933
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w841137215.m3u8?k=26140413df90aca2173be85ac12a0d630780289127f0d5aef383163d5a2e8369&exp=1611898130
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", Telefuturo 
 http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 
@@ -1002,11 +1004,9 @@ http://ecuastreamhd.com:1935/UCSGTVmoviles/UCSGTVmoviles/chunklist_w440744487.m3
 #EXTINF:-1 tvg-logo="https://tpc.googlesyndication.com/simgad/1580634957046508323", TVC TELEVICENTRO
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYZEE8t0cZvNBrAJ9AFqDxCRwy4TFc89n2WuQurjmM2ph6gjKr&usqp=CAU", RTS HD
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b898000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExODg5NjY1LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTkuOTkiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTkuOTkiXX0sInNpZ25hdHVyZSI6ImFiMGJkOGZkY2JlZDc5NjNhYmNjNjFjNjE2YjYzOTkzMzNiZWI3ZWQifQ%3D%3D
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExOTg0NjAxLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTkuNjgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTkuNjgiXX0sInNpZ25hdHVyZSI6ImYxZTU1N2M1ZTE2YTdiYTNjNmFlNjkwZDg2YTY3ODBmMWUyYTBlMjkifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", RTS
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", RTS HD
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b898000.m3u8?
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h9qHSmD2AOn_SjlglQv0Y_l9PKd22wg-Cw&usqp=CAU",Educa TC HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA HD
