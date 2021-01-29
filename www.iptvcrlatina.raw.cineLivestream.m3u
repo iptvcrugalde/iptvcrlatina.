@@ -28,8 +28,8 @@ https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunkli
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExODA2NjAzLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTkuOSIsIndoaXRlbGlzdCI6WyIyMDEuMTkxLjE5OS45Il19LCJzaWduYXR1cmUiOiI3YzYyNTMxZTlhY2Q4ZTFlMGI1Nzg1NWVjYjZmMmVhOTAyMWVhZTQ2In0%3D
 #EXTINF:-1 tvg-logo="https://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-2.jpg", REPRETEL CANAL 11 FULHD
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExODA2NjYwLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTkuOSIsIndoaXRlbGlzdCI6WyIyMDEuMTkxLjE5OS45Il19LCJzaWduYXR1cmUiOiI5MTFhMzEwNDYyZWIxZjM4NGMyN2MxN2I0OGFhNjI1MDI2YTRkNzY4In0%3D
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica.png" group-title="Costa Rica", REPRETEL CANAL 2 FULHD 
-
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica.png" group-title="Costa Rica", REPRETEL CANAL 2 HD 
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExOTY5NTA3LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTkuNzMiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTkuNzMiXX0sInNpZ25hdHVyZSI6IjBmZTM0ZjViNDBmMDA0ZGU3YzRhNDEwN2RiZTAyZTNjYjVlNDU0MTYifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FUL_HD
 https://stream-01.sv4.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO56gn4uq1LHMB805og80x5CY)/dm/3/x29e3wg/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg",CANAL 8
