@@ -1334,7 +1334,6 @@ https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU", MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/cp0/c16.0.58.58a/116266515_140950950965878_3169921898822342648_n.jpg?_nc_cat=111&ccb=2&_nc_sid=da31f3&_nc_ohc=sQo40W4_F8cAX8xw6px&_nc_ht=scontent.fsyq1-1.fna&_nc_tp=29&oh=97c8da89b53f4b4a504044b1db8f62e9&oe=6019B28A", VITATOTV HD
 http://cdn2.envivo.win/HLS/?canal=ayetv&c=ZwNkYwR5ZF4kBGthAGp=&p=ZGH4AmV0BQL1ZD==
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK CHANNEL HD
@@ -1358,6 +1357,12 @@ http://tvla.xyz:80/series/wbnnpnrq/6g4f4OEc1h/112487.mp4
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHfqOPcJ7PulwxLDzu1XhBJalePLqRJAVXA&usqp=CAU", PLUTO.TV TRRROR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=9f61&deviceDNT=0&deviceModel=0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHfqOPcJ7PulwxLDzu1XhBJalePLqRJAVXA&usqp=CAU", PLUTO.TV CINE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=84.0&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&deviceType=web&deviceMake=Firefox&sid=0bf0ae5e-61ea-11eb-bc08-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHfqOPcJ7PulwxLDzu1XhBJalePLqRJAVXA&usqp=CAU", PLUTO.TV EN VIVO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=84.0&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&deviceType=web&deviceMake=Firefox&sid=0bf0ae5e-61ea-11eb-bc08-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+
 #EXTINF:-1 tvg-logo="https://fiftiesweb.com/wordpress/wp-content/uploads/2015/06/TV-Westerns.jpg",TV WESTERNS 1947
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-49aoj6Si_lI71HtOvBgQYrgi9ejDkVvVbkG4ESjG-efqMYfx",BLACK CINEMA TV
