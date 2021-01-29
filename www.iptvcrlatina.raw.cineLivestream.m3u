@@ -1,6 +1,6 @@
 #EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
-#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/8/15/14/6963405.jpg", IPTV LATINA CR
+#EXTINF:0 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg", IPTV LATINA CR
 https://wa.me/message/Y36OKHMC7QZVG1
 #EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",29 01 2021
 http://spy-iptv.com/ACTUALIZACION
@@ -439,6 +439,7 @@ http://iptvhd.club:8081/televall2021/143_.m3u8?token=Z-Vy3xiESOGeWjChH88rtQ&expi
 https://s1.dominiopersonal.xyz:2083/playerl/skrEgxLyjj/117|User-Agent=playerl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL 
 https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?latino=TNTSERIES_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL 
 http://latvonlive.com:33612/Rico/1234/584
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReTowHWsTq1LE-bi4Ubbu1vdC8yZNICI1Hw&usqp=CAU", SONY MOVIEZ 
 http://latvonlive.com:33612/Rico/1234/818
