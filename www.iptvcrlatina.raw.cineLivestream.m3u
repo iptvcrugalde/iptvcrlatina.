@@ -2066,16 +2066,3 @@ https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
 http://120.130.128.134.200
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg", MTV Murr Television HD
 https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1611887582~dirs=1~hash=07dd98eec934589ad659a/mtvlive.smil/murrtelevision_480p_chunks.m3u8
-
-#EXTM3U
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Spanish",DEFAULT=NO,FORCED=NO,URI="subtitle/es/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=&architecture=&deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7e96&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=0&userId=&appName=",LANGUAGE="es"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=997452,SUBTITLES="subs"
-997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=&architecture=&deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7e96&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=0&userId=&appName=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1539795,SUBTITLES="subs"
-1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=&architecture=&deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7e96&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=0&userId=&appName=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2142297,SUBTITLES="subs"
-2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=&architecture=&deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7e96&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=0&userId=&appName=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3063648,SUBTITLES="subs"
-3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=&architecture=&deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7e96&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=0&userId=&appName=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=572723,SUBTITLES="subs"
-572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=&paln=&includeExtendedEvents=&architecture=&deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=7e96&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=0&userId=&appName=
