@@ -482,10 +482,12 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL-HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
 https://s1.dominiopersonal.xyz:2083/realplayer/Ctb5Dty6Hq/91|User-Agent=realplayer
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL
-http://latvonlive.com:33612/Rico/1234/612
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
+https://teleclub.xyz/tv/canal?latino=TNT_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/100.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
@@ -519,7 +521,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FULHD
 http://iptvhd.club:8081/televall2021/1548_.m3u8?token=nDP5mVYz1Xy9iCxO8BTnPw&expires=1611293392
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT HD
-http://iptvhd.club:8081/televall2021/1472_.m3u8?token=egLa-pdlsVw2JZmuls56Lg&expires=1611889046
+https://teleclub.xyz/tv/canal?latino=TNT_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT 
 https://s1.dominiopersonal.xyz:2083/realplayer/Ctb5Dty6Hq/110|User-Agent=realplayer
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT HD
@@ -546,8 +548,6 @@ http://89.105.194.59:25461/live/3movl!R1/3movl!R1/17.m3u8
 http://89.105.194.59:25461/live/5mov$!19/5mov$!19/132.m3u8
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/6807462DEAC-0B9C-CAE5-9E84EE3698DB085D.jpg" group-title="Cine", SUNDANCE.TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
-#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/6807462DEAC-0B9C-CAE5-9E84EE3698DB085D.jpg" group-title="Cine", SUNDANCE.TV 
-
 #EXTINF:-1 tvg-logo="https://i1.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2018/05/Cine-Logo-Band-Filmes-Sess%C3%A3o-de-Filmes-Logo-do-Cine.jpg?fit=1280%2C720&ssl=1", CINE +
 https://stream-02.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOAJFQ8Tq96NTAxyMZ0vtn30YNq07n9ISwcwnUeGcUFsm)/p/dm/3/x5idy49/d/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://d1sfco99flnudn.cloudfront.net/www.attsavings.com/images/v2/dtv-select-package-hero.png",DIRECTV CINEMA HD LATINO
@@ -556,7 +556,7 @@ http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 http://127.0.0.1:34611/http/uruguayiptv.com:25461/leandro1/leandro123/139
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/895.png",DIRECTV CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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", bloody
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2g5U9hzqkLHwybG3FqbGqWuuYViRPfmEwXV3DJKkRMsKjGkRaKgYlIVAkrRHmRt5UJsy=s85", bloody
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/3f/ec/fe3fec00bbd6e6d98fb18dce16a5c8f7.jpg",CINE MOVIES FUL-HD
 http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204846.ts
