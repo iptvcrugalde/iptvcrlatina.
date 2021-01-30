@@ -1062,6 +1062,13 @@ http://51.210.199.15/hls/stream.m3u8
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/9419
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Pk8X_MeTn5CDVG5o_WH53-JxOSanQLnPBwmhrtdC7XUVu4oEOPnsbxkCu9jDfm6js5vfVQ=s85", SUPER CANAL HD
 http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w322178973.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kMQqUWLIxn-WBLd8gK6Kqhi8Z4sp_SPiKmeZXkoiXnJ_S9XdtvM8Bq2_jwTaNG4cOy_O=s138", MIX CINEMA HD
+http://jo.sarhantv.xyz:8880/star7arab/mahdi/131
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pEA5t6D5E9_N7PuP8Eu4sHUBupBXhwBNfh4kdaoGvYopleXqvlFMAeIOk7Pcbw9CaTXSvw=s135", Mix Action
+http://jo.sarhantv.xyz:8880/star7arab/mahdi/117
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UPsfOUJpLgKjtF939eerwzCEtlSNgBZVvzN4txRcUUa9oMIflJ2IxNHzQhfDBQrQ57FoDms=s112", Mix Mystery
+http://jo.sarhantv.xyz:8880/star7arab/mahdi/159
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-38yzIWih3nc/VSBQLGXZVII/AAAAAAAAET8/vyEQOr7lxR8/s1600/canal-45-tv-1400346428.gif", CANAL 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyXKRWaD-KP7geIaWZucbJCLFc0SDrjbKbIA&usqp=CAU", DISTRITO DTV
