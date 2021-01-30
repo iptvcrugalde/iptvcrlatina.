@@ -947,6 +947,8 @@ http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", MÁS+.TV CHILE 
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/514-5142541_tvn-hd-logo-tvn-hd-png-download.png", TVN HD
+http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/514-5142541_tvn-hd-logo-tvn-hd-png-download.png", TVN 
 http://89.105.194.59:25461/live/clsp100$/clsp100$/158.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45124_Mega.png",MEGA HD
 https://ok.ru/video/1821150092906
