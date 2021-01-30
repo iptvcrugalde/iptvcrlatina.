@@ -481,7 +481,7 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/playerl/skrEgxLyjj/91|User-Agent=playerl
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
-https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?latino=FOXMOVIES_HD&format=.m3u8
+https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?latino=FOX_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/0e733j.m3u8?s=s4FTH1cb_Uhu-SCQ5w8beg&e=1612008471
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
@@ -585,18 +585,16 @@ http://127.0.0.1
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
-
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
-
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/543-5435721_sky-cinema-action-hd-de-logo-2016-sky.png", SKY CINEMA ACTION HD
-
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53912
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/543-5435721_sky-cinema-action-hd-de-logo-2016-sky.png", SKY CINEMA ACTION FUL-HDHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53921
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
-
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53929
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
 
 #EXTINF:-1 tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg?w=600&auto=format&s=2df94318394a38a90c12585ff0f4a4da", SKY ATLANTIC HD
-
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53846
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_cinema_premiere.png", SKY CINEMA PREMIER FHD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oPaBBAVR-XMg8PHP3dcaQzP0UoqWvmqbHw&usqp=CAU", Sky Primafila 6 FHD
@@ -612,7 +610,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://images.hoerzu.de/files/station_logos/613.png", SKY CINEMA ACTION HD
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
-
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53848
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
@@ -626,6 +624,8 @@ http://89.105.194.59:25461/live/5spk$lllW/5spk$lllW/19.m3u8
 http://89.105.194.59:25461/live/5mov$!19/5mov$!19/19.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES FUL-HD
 http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/20.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES FUL-HD
+https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?latino=FOXMOVIES_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/5s69x53079q85.m3u8?s=0-IU-cF7qXzeJa_ifSsSzA&e=1612007785
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
@@ -1277,10 +1277,10 @@ http://yourdnshere.xyz:83/live/trevorparker/8177168823/378443.ts
 
 #EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/netflix_tv_pixabay_1605005703348.jpg",NEFLIX CINE
 https://128.130.01.125
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Horror 2
-
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", DRAMA 
-
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", The Midnight 
+http://supertv.live:80/movie/mZ82PN2p/gM9Nyc4x/54883.mkv
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Skylines (2020)
+http://supertv.live:80/movie/mZ82PN2p/gM9Nyc4x/54873.mkv
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png",Kids
 
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", ACCION +
@@ -1892,29 +1892,37 @@ https://teleclub.xyz/tv/canal?tele=NOVA_ES&format=.m3u8
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/960/0*vxPEMP_Ww3WiTOrK.jpg", NOVA.TV 
 https://e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/chunklist.m3u8?at=7380d951fb98957fe9f545b2db0dbafe
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 FUL-HD
-http://uruguayiptv.com:25461/leandro1/leandro123/530
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/13004
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/13002
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 FUL-HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29490
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION FULHD
-https://teleclub.xyz/tv/canal?tele=MOVISTAR_ACCION_ES&format=.m3u8
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12969
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION FULHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12967
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2017/09/Movistar_Estrenos.jpg",MOVISTAR CANAL DE ESTRENOS FUL-HD
-https://teleclub.xyz/tv/canal?tele=MOVISTAR_ESTRENOS_ES&format=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.PpvHiYS7in.jpg", M CINE DRAMA
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.PpvHiYS7in.jpg", M CINE DRAMA
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12976
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1280px-Movistar_Cine_Espa%C3%B1ol.svg.png", CINE Ñ FUL-HD
 http://uruguayiptv.com:25461/leandro1/leandro123/18252
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png#, MOVISTAR SERIES HD
-http://planettvweb.com:8091/German/German/16539
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/13001
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/DMAX.png", Discovery Max 
 http://91.126.141.12:1935/live/discoverymax/chunklist_w2133036664.m3u8
 #EXTINF:-1 tvg-logo="https://verlatele.net/wp-content/uploads/2020/05/canal-dark.jpg", DARK HD
-
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12989
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132947954_202142288180077_5700003133116217169_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=9bEP5gMB8ZIAX-jiVbm&_nc_ht=scontent.fsyq1-1.fna&oh=122a4a4410ce4ce921f2d0e4e6cec154&oe=600C8135", XTRM HD
 
 #EXTINF:-1 tvg-logo="https://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg", Canal Hollywood FUL-HD
-http://uruguayiptv.com:25461/leandro1/leandro123/1289
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12982
+#EXTINF:-1 tvg-logo="https://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg", Canal Hollywood
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12980
 #EXTINF:-1 tvg-logo="https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/1f/1355295.png",#0
-https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/12fxk.m3u8?s=MIAkzYgkTwc4ArVvnUFkVg&e=1611131582
+
 #EXTINF:-1 tvg-logo=https://pbs.twimg.com/media/DaBMejiW0AEd3En.png", M-SERIES HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/bvo6ijm8nvmr73.m3u8?s=EZ0tzgxxk8eqsI6Q_QmPHg&e=1609838849
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12998
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdByrmGVNifOPE1W-LsD8oYtNGiRsIrrsMFw&usqp=CAU", CMM HD
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/0/B/C/2/7/A/05E.png" group-title="• Entretenimiento",A3S SERIES HD
@@ -1928,15 +1936,16 @@ https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/es-mirame-tv-6890.jpg",MIRAME TV
 https://593fa17dec176.streamlock.net:455/mirametv/mirametv/chunklist_w2142848239.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinity HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/2xbszs2.m3u8?s=vx-vF--w8O5UyCHhR6shig&e=1609839083
+https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/2xbszs2.m3u8?s=vx-vF--w8O5UyCHhR6shig&e=160983908
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/f/d/f/fdf.jpg", Factoria de Ficcion HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/73iqdeqq05ps.m3u8?s=t2LQm-Na8kWRmT9d4hEckw&e=1609839001
+
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/f/d/f/fdf.jpg", Factoria de Ficcion
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://www.verahoratv.com/logos/energy.png", ENERGY HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/nhdi7t9.m3u8?s=FiSWHev5t2T-fdS-DmcAAg&e=1609839038
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png", Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png",Telecafe
