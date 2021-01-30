@@ -335,8 +335,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http/uruguayiptv.com:25461/leandro1/leandro123/772 
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS HD
 https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/6lvtai0wryyudh.m3u8?s=kBXd3NnuyJ2-uz54_JUFCQ&e=1611780645
-#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS
-https://ev3c37phqaxv6dv.ezcdn421.net:8443/hls/6lvtai0wryyudh.m3u8?s=CJlUL5KMVLiq1hYErkniqQ&e=1611717893
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2oBAvCCnsin83SED7gnp9SUuZoALgXD574kY2MKQlp4eq4RG-&usqp=CAU",IMAGEN TELEVISION
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg", TV MAR
@@ -391,7 +389,7 @@ http://ipeteve.com/php/t121220/mc.php?c=34&f=.m3u8
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/azcorazon.png", Az Corazon HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/41.m3u8
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azmundo.jpg",AZ MUNDO HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwZdcgk5yXBJ4z925EHlVoQpzaaj_cAylbDcneFBlpd5uETgQaGRQ1R2nfNZUiWcvx71=s170",AZ MUNDO HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/38.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
 https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
@@ -651,7 +649,7 @@ http://89.105.194.59:25461/live/1mov$!GI/1mov$!GI/23.m3u8
 #EXTINF:-1 tvg-logo="https://www.altice.com.do/sites/default/files/assets/images/logos_canales/HBOFamilyHD.png",HBO Family 4K
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18192
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
-http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/5.m3u8
+http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
 https://miap.xyz/26/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
@@ -684,7 +682,7 @@ http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18191
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/HBO_Zone_2000.svg/revision/latest/scale-to-width-down/340?cb=20200119223020&path-prefix=es",USA: HBO ZONE 
 http://185.66.143.240:25461/live/franky/franky/927.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnl5zQhn60mk5F4yat9iLYiV4vk7shXOSMMViI1KokZJEwA_Hs" group-title=="ENTRETENIMIENTO",E! FUL-HD
-http://89.105.194.59:25461/live/1musT15$/1musT15$/98.m3u8
+http://89.105.194.59:25461/live/1musT99$!/1musT99$!/98.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w2005472791_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami
