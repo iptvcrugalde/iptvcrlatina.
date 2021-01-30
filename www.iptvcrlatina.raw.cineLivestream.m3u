@@ -326,7 +326,7 @@ http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/34.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/pasiones.png", PASION FUL-HD
-http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/40.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjWETQvmSA6mHrlEoiT8LKaacZJ-IwP9GS0S00f3w=s900-c-k-c0x00ffffff-no-rj", QUIERO TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
@@ -346,7 +346,7 @@ https://playback2.akamaized.net/streams/27177136_8970901_lsitpsrwj3wsl3hxe9r_1/e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD 
 http://uruguayiptv.com:25461/leandro1/leandro123/1675
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV FULHD
-https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?latino=HTV_SD&format=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
@@ -452,9 +452,8 @@ https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MULTICINEMA 
 http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
-
-#EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FULHD 
-
+EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
+https://latamliveclarovideo.akamaized.net/Content/dash_fk/Live/Channel(DHE_HD)/stream_6/Segment-3130869068110000.m4a
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 https://s1.dominiopersonal.xyz:2083/playerl/skrEgxLyjj/31|User-Agent=playerl
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE 
@@ -608,24 +607,20 @@ http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53848
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES FUL.HD
 http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/18.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES FUL.HD
-http://89.105.194.59:25461/live/2spt$!T5/2spt$!T5/18.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
 http://89.105.194.59:25461/live/5spk$lllW/5spk$lllW/19.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
 http://89.105.194.59:25461/live/5mov$!19/5mov$!19/19.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES FUL-HD
 http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/20.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES FUL-HD
-https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?latino=FOXMOVIES_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/5s69x53079q85.m3u8?s=0-IU-cF7qXzeJa_ifSsSzA&e=1612007785
+http://89.105.194.59:25461/live/5mov$!19/5mov$!19/129.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BVd2s99k7M2sVf_yix3nJP4__Hvb2Xzv3dF17GZGoT5YymxYWb572SqHkefVZWTrU2JupX8=s152", FOX FAMILY HD
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/goks9npik9.m3u8?s=isplJM7Vl1DcvcKAqcyiWw&e=1612045543
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BVd2s99k7M2sVf_yix3nJP4__Hvb2Xzv3dF17GZGoT5YymxYWb572SqHkefVZWTrU2JupX8=s152", FOX FAMILY HD
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/goks9npik9.m3u8?s=7BPuC7Hzv6gQyvv53InoHQ&e=1612007430
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/pnc0det5nknvqo.m3u8?s=RyQ6CZHHZIckJzpuGZMs6w&e=1612007463
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/pnc0det5nknvqo.m3u8?s=s26LsdRSfAsGnikT8hCs2g&e=1612045897
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://89.105.194.59:25461/live/1mov$!GI/1mov$!GI/24.m3u8
