@@ -266,38 +266,38 @@ https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
 https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg",Canal Uno HD
 https://tna5.bozztv.com/drfe54tggfbt6tt/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RReDi1C.png", UNO PLAY
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-300/index.m3u8
-#EXTINF:-1 tvg-logo="http://prai.tv/wp-content/uploads/2018/07/City-300x200.jpg", CITY TV HD 
-https://tna5.bozztv.com/dxfg5ryr67hfgh/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/6b/5c/de/6b5cde0693874961fdd8e05e7aebeeb6.jpg", Canal Caracol HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png",NOTICIAS Cracol HD
-https://www.youtube.com/watch?v=8XL8Qk4qzyA&feature=emb_logo
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caracol_HD2_2017.png/1200px-Caracol_HD2_2017.png", CARACOL 2
-
-#EXTINF:-1 tvg-logo="https://www.cantinazotv.com/wp-content/uploads/2019/05/slider-cantinazo-tv.jpg", Cantinazo TV HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://maxmediasa.co/images/logohd-03.png?crc=3861341833", Cantinazo TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg", CANAL.2 HD
+https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="ENTRETENIMIENTO",Cali TV (Colombia)
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1906368714.m3u8
-#EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",RCN HD
-https://tna5.bozztv.com/xdg54bt5ryg/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg",MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/05/miptv-218x150.png", MIPTV
 https://servers.amelbasoluciones.co:19360/8100/8100.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg", CANAL.2 HD
-https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_KJBldCbMP-sSkFlD_ElKJm_M4BbOx1C10qWnxw=s900-c-k-c0x00ffffff-no-rj", Canal Visión Dorada HD
-https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
 #EXTINF:-1 tvg-logo="https://yvonnelaborda.com/wp-content/uploads/2020/06/descarga-1.jpg",TELEANTIOQUIA EMOCIONA HD
 https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA
 https://api.new.livestream.com/accounts/9427524/events/8926151/live.m3u8
 #EXTINF:-1 tvg-logo="http://cmbcolombia.tv/images/logo-tv.png", CMB TELEVISION
 https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_KJBldCbMP-sSkFlD_ElKJm_M4BbOx1C10qWnxw=s900-c-k-c0x00ffffff-no-rj", Canal Visión Dorada HD
+https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RReDi1C.png", UNO PLAY
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-300/index.m3u8
+#EXTINF:-1 tvg-logo="http://prai.tv/wp-content/uploads/2018/07/City-300x200.jpg", CITY TV HD 
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/6b/5c/de/6b5cde0693874961fdd8e05e7aebeeb6.jpg", Canal Caracol HD
+http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/147.m3u8#
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caracol_HD2_2017.png/1200px-Caracol_HD2_2017.png", CARACOL 2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png",NOTICIAS Cracol HD
+https://www.youtube.com/watch?v=8XL8Qk4qzyA&feature=emb_logo
+#EXTINF:-1 tvg-logo="https://www.cantinazotv.com/wp-content/uploads/2019/05/slider-cantinazo-tv.jpg", Cantinazo TV HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://maxmediasa.co/images/logohd-03.png?crc=3861341833", Cantinazo TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
+#EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",RCN HD
+https://tna5.bozztv.com/xdg54bt5ryg/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7xlFfI8Vkz4VaK3ioAZwqSkJ8BxKPByoUvBjt8pGr9OW_JKua",CITV
 https://streaming4.rtvc.gov.co/live-750/CI/index.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/redmas.png",RED
@@ -460,7 +460,7 @@ http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
 http://iptvhd.club:8081/televall2021/1867_.m3u8?token=r6-5Bos3_FM0Em1DegJc9Q&expires=1611979598
 #EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FULHD 
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=ABG-ktIoDN2v4jdtxsvq1Q&expires=1611979635
+https://latamliveclarovideo.akamaized.net/Content/dash_fk/Live/Channel(DHE_HD)/stream_1/init.m4i
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 https://s1.dominiopersonal.xyz:2083/playerl/skrEgxLyjj/31|User-Agent=playerl
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE 
@@ -614,30 +614,24 @@ http://127.0.0.1
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES HD
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES FUL.HD
+http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/18.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES FUL.HD
+http://89.105.194.59:25461/live/2spt$!T5/2spt$!T5/18.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
-http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/20.m3u8
+http://89.105.194.59:25461/live/5spk$lllW/5spk$lllW/19.m3u8
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
+http://89.105.194.59:25461/live/5mov$!19/5mov$!19/19.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES FUL-HD
-http://89.105.194.59:25461/live/2mov!X4$/2mov!X4$/20.m3u8
+http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/20.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
-http://89.105.194.59:25461/live/5mov$!19/5mov$!19/129.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/24976
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA 
-http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/24976
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA HD
-http://rv.imax.re:80/5124037472/1572081885/87007
-#EXTINF:-1 tvg-logo=="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU",FOX PREMIUN FAMILY FUL-HD
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/5s69x53079q85.m3u8?s=0-IU-cF7qXzeJa_ifSsSzA&e=1612007785
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
-https://miap.xyz/69/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
-http://rv.imax.re:80/5124037472/1572081885/87006
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BVd2s99k7M2sVf_yix3nJP4__Hvb2Xzv3dF17GZGoT5YymxYWb572SqHkefVZWTrU2JupX8=s152", FOX FAMILY HD
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/goks9npik9.m3u8?s=7BPuC7Hzv6gQyvv53InoHQ&e=1612007430
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
-http://tecnotv.club/wanda/principal.php?c=69&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
-http://rv.imax.re:80/5124037472/1572081885/87020
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/pnc0det5nknvqo.m3u8?s=RyQ6CZHHZIckJzpuGZMs6w&e=1612007463
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://89.105.194.59:25461/live/1mov$!GI/1mov$!GI/24.m3u8
@@ -862,7 +856,9 @@ http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w1046929006.m3u8
 https://59d39900ebfb8.streamlock.net/str15live/str15live/chunklist_w975422742.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zAoX4ykEPUn2ihI6QlGNcqflvOBLsUCmAv0Kv_xoyBvM4QiJ",Panamericana TV HD
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png",America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png", America HD
+http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/139.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png", America
 http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV HD
 http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/141.m3u8
