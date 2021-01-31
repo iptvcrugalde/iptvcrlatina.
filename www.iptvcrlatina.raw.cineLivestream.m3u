@@ -2,7 +2,7 @@
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml"
 #EXTINF:0 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg", IPTV LATINA CR
 https://wa.me/message/Y36OKHMC7QZVG1
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",30 01 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",31 01 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -422,10 +422,12 @@ http://iptvhd.club:8081/televall2021/1704_.m3u8?token=6w8hMhCe1Rdr4wD_cLVHmw&exp
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/14.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://89.105.194.59:25461/live/3movl!$7l/3movl!$7l/14.m3u8
-#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER HD
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER FUL.HDHD
 
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/23/762418/13047370/prt_300x299_1501507145.png",MULTIPREMIER HD
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/129|User-Agent=playerlat
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-https://s1.dominiopersonal.xyz:2083/esplayer/FOp53RlfDO/117|User-Agent=esplayer
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/117|User-Agent=playerlat
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL 
 http://latvonlive.com:33612/Rico/1234/584
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReTowHWsTq1LE-bi4Ubbu1vdC8yZNICI1Hw&usqp=CAU", SONY MOVIEZ 
@@ -449,11 +451,11 @@ https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MULTICINEMA 
 http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
-http://iptvhd.club:8081/televall2021/1867_.m3u8?token=tHjDhiFs8NlGN9yLELndgw&expires=1612063489
+
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=g0UtyniYzJGzR8pWDQ3TzQ&expires=1612063653
+
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
-https://s1.dominiopersonal.xyz:2083/esplayer/FOp53RlfDO/31|User-Agent=esplayer
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/31|User-Agent=playerlat
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE 
 http://latvonlive.com:33612/Rico/1234/97
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
@@ -470,16 +472,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL-HD
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/0e733j.m3u8?s=wLXAxg52wX-cgB8DhDee1w&e=1612041805
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/91|User-Agent=playerlat
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoUFsoMua6-WdzGste7L66XsTfS15R_DuMQDhBf0GHDP2UyqArfQlzuM7sGSdD3gZVGLoJ0ujJbzFJRmME3GpeWvq0PgC9Kl5tu7reYwL6fSO3vfNUAyQoKgCDB2d6HKkG9v9BOFsqUnFR9gnCLSKMineH0f5iSoqdwQ1qVFYbLmSzwp2IYzpnwtaJ0K-CShUZFNHYayfSPnZRlpIBKPEMAp9UifMyZ-ZWyef8y61ywGIm1_pKx5shHrsu7TuVptW-vhYIX1neCVaEvX5eLfnwvmB8GKuhhJ1lr78t9eCFzJxFpVMdhokUv5w199ldw4yXsfGNkcu-ppf1rWTDc5r5EBB41phCo_wKJsoZNvl09AvCsVheOeN-TVwuAoeZssBupz28AFt_EYUjXlARKE8aYvj5KvcxPkiQg_F7rfA77UdYBYMy2-W5bF5Hn1OMSzABJCp9Ihk5YzHwMrfbplzyX6FnxQMpeX2X3mBCNW_4CTd-MYXs0a1bQoa8A4S0pVZuUpiq63N2S4EqvjJbdxSvaSxanw1woLhogAn6YnCMAlth59tmE9wuQB_XXpOSXrguHmlPz12cdhiqCqlwcSGInamyC5MpEUbk7qDVucai_DdRMKcQiayKuzpg1De15ekXCWFaTVJ1U4vRe3GtWeV8p2SKKTALSe3s6iAyH_x5HbXzhA626eDOt4ZGcYvYivx9sG_B52yvx9uNCxXlAHVimIV82ZDk-3ehls7ZEpVAo8R0ex8DpRKAGxvEyzJLVSBhfVnAexgNvnSLT-BGx5nm-yyere4SMiWFmr-gY24sO6tLZDlKAAo1DObHRUAy6yQy4n6qK9uQ8tnBVNDIinhrbMxott6DPiEhCDZMpgDX53q7u9csksCru2GgwaK48HFkB1Y-PPsZ4.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAFdN17yl2so70umWbVcqTVREl1PrdIMD-8LvkzX_Dh_ig60L5XKsD8nnALpWB7TIUJCIt6WLItrMm8KoeuMmP-7HSoNBAiHlaRNwkYkIX-WTnCAmJul8hNsEvu-16ngpv25sMN8gEVQuSYM9tmo_d2OplpgrgglHRvJt38csW1xAcDcqUF99Zk1VKSab9rm91LFY8pUyMotfgSzu1iYflgY0owKH9jRe1g-DTq_phxBQvkx-n47qKhgbhkZxogFPSA5XQaxfdgeWMmWvrLQodhaAKNSIZYWaWQ0uu99KtXaITpKmx6EC0zeH7aseRcnw1ElPep5MLk8oE3Qla1UWtJjJwRADvpPHYJ03VIw57zt4c8jNi4frDFwmekrcifJJlR635ACtHh82UkicVaWe4T_K8-7CJowBu90tt21g7V3RD6B8muk9lNiW_Ql__m_1HMK7cfGsuvbr3Uu94UY8S2elkSGrbsg3npfTjEG5lOxUFtcbK3-Xlm9esPIha1JbJFyQF0yre9vX8R-HsZ3rj6VUPm19yOUsdtL5wSmhUj_Ki6Tu8EDKOBBcpUBKpbA45LDKCGpjjGarU_LMN1O6sh1or_xIAR1JyuZUUC1wINKFfqfufMcsk7d4M5OKt4TVucNUUgw_8AYyBzqp-HIbcAK_NifJXhZ925xvDVDlOmpwkrd_MQq6fOYchaGsyhwEK-dfCL5ugxUdaRXOskOQm8v-y7IkBtmHbhNKeZQ-z7FK1DqDidyHtxZA5_FbMmmjFBOwXzP6OF2dIjyeO5wOG3avdiwX6xUpUCxLWFeQ8_vr3aicD3EdNMatcruXFiCvf7YI5OSH-yAsEl35jYIMEMGBIQyX3gbJeMU9Sg_2Pm_JUPRhoM-Qz9r4csxRRFmjw0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
-https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/0e733j.m3u8?s=s4FTH1cb_Uhu-SCQ5w8beg&e=1612008471
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/100.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
-http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/85707
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE HD
 https://miap.xyz/64/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ",FXMOVIES HD
 http://89.105.194.59:25461/live/5mov$!19/5mov$!19/131.m3u8
@@ -508,9 +508,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FULHD
 http://iptvhd.club:8081/televall2021/1548_.m3u8?token=nDP5mVYz1Xy9iCxO8BTnPw&expires=1611293392
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoIFzUT2aVr419-g_aZ6zck_XZZMukYQ0PgaXqhnvG6K1AzCnfRTF5O0YHMg73QWmmtBtqo2o4vUw3u8Xx_-hFQ3qunrGciyRmXcMyrplyX-3X71gAk3lOMFnPhDu95lnu6IxhAqtthsxmZ821lzIzTG4ae6zRqUKlKsbUGW-bNkijSHZnNxv8T1CzvtluCWyV_9Ujre65x7svv-cV3CNZXQ4pHxv5xOAw6ZhTkXE5_Txuk-DEj3Y8a8HDXAYVMMyCebsar3dpvFzaISvTkhpWKl6fJQixTz4yiccQ7W2rdb6NpVh5_dNDdnWUZGIy5qJgluQwcA5M6bePx6l032SpIRJny4bLvWlD0bhLYdeIrFGFNuWUrGISKBUZN1SsrgUaV4iKkUy0IBphhtFRQC7dN1PNPtsUzEnMUSv0__sLgOxW5OXo8Y3lAwUI_G1zG1EpnQ_sx-1_itfKrjq9zTLSiiKgdzLmYrNhNlHHBxJMYFgtZ2qYG4rIcfxus5DrUxL2pK916P9LsLauruks4Nu3q2iEjJdvejoXYhVQkfbIFlG4ECbVY596tb6oePwLzmFmOGJ1Wfpe-QwRNE8eDqYyPW4BilYCN6u3WZsfNqt9DERf-ju4StlEDL1rmLhyQcuowRV-ufp1YvLl2Segy_WjxFJT1SjSo5LgoWFb1Sd79bwfbthHqWQpJgah-LVtHpMN4NEV7ZZ6c10a04evJjmu-U5ARSyvKc0HvccpGAGrg-6wtGHylAVHv6EAMK6YjChaCzhFEaPPu7psz1Kz-F3re407eSK-61057jtmIpnNjJLXHe92z4QsV9MLRp_P9192SuUiDFqJZg3wAFZqrcrNBwCabNEhD7SjiM_OCMvawQ2nyRZ1SIGgzT0h_H0exJD4e-Uaw.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/zHGLrCeOjsABl1DQ9eLYZVzSz_EJQ2snsKCD8pkPBpXBFHZVfUntYYlNTj-drr0lw-9VPo8=s85",TNT 
-https://s1.dominiopersonal.xyz:2083/esplayer/FOp53RlfDO/110|User-Agent=esplayer
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/110|User-Agent=playerlat
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/13.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE FUL-HD
@@ -528,7 +528,7 @@ https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?latino=SYFY_SD&format=.m3u
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY FUL-HD
 http://latvonlive.com:33612/Rico/1234/78
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY FUL-HD
-https://s1.dominiopersonal.xyz:2083/playerl/skrEgxLyjj/371|User-Agent=playerl
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/371|User-Agent=playerlat
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
 http://rv.imax.re:80/5124037472/1572081885/87011
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/352748/syfy-squarelogo-1502779953952.png",SYFY FUL-HD
@@ -1383,7 +1383,7 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://k37.kn3.net/taringa/4/4/6/3/7/6/5/lau22manda/A5D.jpg?4425",INFANTILES
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy87sHmAIXlm08Q4cWtMLgLPh_oPRCo6_nGqfxlfj6T52LkuhF",BABY TV
-http://tecnotv.club/poiu/principal.php?c=17&f=.m3u8
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/9|User-Agent=playerlat
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLdFt3z.png",TOONCAST HD
 http://89.105.194.59:25461/live/1toonn!$B/1toonn!$B/64.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLdFt3z.png",TOONCAST 
@@ -1396,29 +1396,31 @@ http://disfruta.net:80/giezimanuel7/ALK8yhdXl5/44
 http://video7.stream.mx:1935/raxatv/raxatv/.m3u8
 #EXTINF:-1 tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png", NICKELODEON
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/540.m3u8
-#EXTINF:-1 tvg-logo="https://i.argentino.com.ar/images/2013/0518/776750-nickelodeon-senal-de-cable-infantil-20130518113628521.jpg",NICK HD
+#EXTINF:-1 tvg-logo="https://i.argentino.com.ar/images/2013/0518/776750-nickelodeon-senal-de-cable-infantil-20130518113628521.jpg", NICK HD
 http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/61.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0GfsKl.png",Nick 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0GfsKl.png", Nick 2 HD
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/67.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil", Nick JR HD
-http://156.96.44.13:8081/televall2021/196_.m3u8
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/122|User-Agent=playerlat
 #EXTINF:-1 tvg-id="MX - Disney XD" tvg-name="Disney XD FHD (MX)" tvg-logo="http://img.tvcl.xyz/infantiles/xd.png" group-title="Infantiles",Disney XD FHD 
-https://s1.dominiopersonal.xyz:2083/esplayer/FOp53RlfDO/45|User-Agent=esplayer
-#EXTINF:-1 tvg-logo="" group-title="Infantil", Disney Chanhttps://s1.dominiopersonal.xyz:2083/esplayer/FOp53RlfDO/36|User-Agent=esplayernel HD
-https://s1.dominiopersonal.xyz:2083/esplayer/FOp53RlfDO/36|User-Agent=esplayer
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/45|User-Agent=playerlat
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_disney-channel-renueva-su-imagen.jpg", DISNEY CHANNEL HD
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/43|User-Agent=playerlat
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg",DISNEY JUNIOR HD 
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/60.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbFr_3ChxUrcftwYsmwpKwZTs7UT6JmYx30NVG68usPDSt1iEN",DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbFr_3ChxUrcftwYsmwpKwZTs7UT6JmYx30NVG68usPDSt1iEN", DISCOVERY KIDS
 http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/63.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="INFANTIL",CARTOON NETWORK HD
-https://s1.dominiopersonal.xyz:2083/esplayer/FOp53RlfDO/18|User-Agent=esplayer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="INFANTIL", CARTOON NETWORK HD
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/18|User-Agent=playerlat
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjKIC7p.png",BOOMERANG
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/62.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png",NATGEO KIDS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png", NATGEO KIDS HD
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/65.m3u8
-#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png",EBS KIDS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png", NATGEO KIDS HD
+https://kaltura.akamaized.net/s/enc/hls/p/1068292/sp/106829200/serveFlavor/entryId/1_koc6euhg/v/1/pv/1/ev/7/flavorId/1_zce0z5bt/name/a.mp4/index.m3u8?__hdnea__=st=1612072497~exp=1612094097~acl=/s/enc/hls/p/1068292/sp/106829200/serveFlavor/entryId/1_koc6euhg/v/1/pv/1/ev/7/flavorId/1_*~hmac=43c15d466a5a1a65328257bce7c6e35419ff5387a0c5dd4f891ab2fa72748d2f
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png", EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1655863.jpg",SPAIN:BOING HD
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1655863.jpg", SPAIN:BOING HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.fecam.net.br/uploads/878/imagens/1582236.jpg",CULTURA
