@@ -1383,7 +1383,7 @@ http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://k37.kn3.net/taringa/4/4/6/3/7/6/5/lau22manda/A5D.jpg?4425",INFANTILES
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy87sHmAIXlm08Q4cWtMLgLPh_oPRCo6_nGqfxlfj6T52LkuhF",BABY TV
-https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/9|User-Agent=playerlat
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLdFt3z.png",TOONCAST HD
 http://89.105.194.59:25461/live/1toonn!$B/1toonn!$B/64.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLdFt3z.png",TOONCAST 
@@ -1413,8 +1413,8 @@ http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/60.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbFr_3ChxUrcftwYsmwpKwZTs7UT6JmYx30NVG68usPDSt1iEN", DISCOVERY KIDS
 http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/63.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="INFANTIL", CARTOON NETWORK HD
-https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/18|User-Agent=playerlat
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fjKIC7p.png",BOOMERANG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fjKIC7p.png",BOOMERANG HD
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/62.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png", NATGEO KIDS HD
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/65.m3u8
@@ -1709,6 +1709,8 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://sercomunicacion.es/wp-content/uploads/2016/08/image.png",DEPORTES
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni2sEwKV9Vtwtzd8dQE4NBWTVf-ELFDrDF_HD6-=s900-c-k-c0x00ffffff-no-rj", SPORTS NORTHWEST HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
 #EXTINF:-1 tvg-logo="https://vertele.eldiario.es/2016/10/10/noticias/Real-Madrid-TV_1837926248_1697158_1644x1024.jpg", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/85/05/00/8505005252ab0757d8bb0e3aa44f4bf7.jpg", Real Madrid TV HD
@@ -1728,21 +1730,20 @@ http://89.105.194.59:25461/live/spfut$90/spfut$90/120.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png", TIGO SPORT
 http://planettvweb.com:8091/German/German/16537
 #EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN HD
-
-#EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN 
 https://teleclub.xyz/tv/canal?tele=WIN_SPORT_HD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/goltv-1650.png", GOLTV 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png",FOX SPORTS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
 http://uruguayiptv.com:25461/leandro1/leandro123/460
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ7hrvzfIzY0L9LlpolFivrvoXB8BvtHhDLw&usqp=CAU", TDN SPORT HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/C3UvcvoDbU48ZmTSt9tygi45nEAbnP-msnfRj3ECJlWOa0h8z77EbZDWay61OuEeD-tFZw=s85", CLARO SPORT HD
 http://uruguayiptv.com:25461/leandro1/leandro123/414
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPOht HD
 http://planettvweb.com:8091/German/German/12004
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPOht 
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-U17QowT7S64/Ubz4tXlMSDI/AAAAAAAAEi8/fQXVt-nOyS8/s1600/logo.png" ,CDO
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496415326540546048/WZqGHADX_400x400.jpeg",COS
@@ -1760,7 +1761,7 @@ http://89.105.194.59:25461/live/ussKKF10/ussKKF10/50.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_todo-deportes-tdtv_m.png",TD.TV
 https://5f2c1b0d880e5.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w1105341442_b3428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIxIDExOjQyOjI0IFBNJmhhc2hfdmFsdWU9dU1HaURRUUF1U1VORHhhaHlrZkJhUT09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ%3D%3D
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="DEPORTES",BEIN SPORTS HD
-
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png",BEIN SPORTS
 
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="DEPORTES",BEIN SPORTS
