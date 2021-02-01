@@ -1774,6 +1774,8 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 https://e10.stephn.xyz/ingestnb4s/espn2_sur/f.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN HD
 https://e10.stephn.xyz/ingestnb4s/espn_sur/c.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UlaoT1r5PAA/W5letDwqZoI/AAAAAAAAAc4/uGLJPGzqj7U0BGZdPgT3FkJC7LciTtQ-ACLcBGAs/s1600/espn-2.png", ESPN 2
+https://e10.stephn.xyz/ingestnb4s/espn2_sur/d.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/nbatv_pms-converted.png?itok=guB3XAoR",NBA Tv
 https://peer2.ustv.to/NBA/myStream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180606/va/kisspng-nbc-sports-regional-networks-regional-sports-netwo-5b186ee28dd4c5.790013091528327906581.jpg",ABC SPORT
