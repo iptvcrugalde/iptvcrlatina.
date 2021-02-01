@@ -566,6 +566,8 @@ http://127.0.0.1
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/635
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/7036
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/643
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/543-5435721_sky-cinema-action-hd-de-logo-2016-sky.png", SKY CINEMA ACTION FUL-HDHD
@@ -573,9 +575,9 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/639
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
-
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/7038
 #EXTINF:-1 tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg?w=600&auto=format&s=2df94318394a38a90c12585ff0f4a4da", SKY ATLANTIC HD
-
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/7052
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_cinema_premiere.png", SKY CINEMA PREMIER FHD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oPaBBAVR-XMg8PHP3dcaQzP0UoqWvmqbHw&usqp=CAU", Sky Primafila 6 FHD
@@ -592,6 +594,8 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/639
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
 http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53848
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4515
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
@@ -1252,6 +1256,10 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1381385764.m3
 
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Kırk Yalan HD
+http://mlkip.co:8080/movie/FreePanel/5lf5XVsG3U/48157.mkv
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Türkler Geliyor: Adaletin Kılıcı
+http://mlkip.co:8080/movie/FreePanel/5lf5XVsG3U/41789.mkv
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Shahid SciFi
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/652
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", CINE TERROR HD
@@ -1260,6 +1268,8 @@ https://teleclub.xyz/ver/canal?plutotv=CINE_TERROR&format=.m3u8
 https://teleclub.xyz/ver/canal?plutotv=CINE_ACCION&format=.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", CINE SKY ACTION HD
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/378443.ts
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Aman Reis Duymasın
+
 
 #EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/netflix_tv_pixabay_1605005703348.jpg",NEFLIX CINE
 https://128.130.01.125
