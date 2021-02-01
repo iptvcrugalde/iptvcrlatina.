@@ -1874,6 +1874,8 @@ https://teleclub.xyz/tv/canal?tele=6_TVE_ES&format=.m3u8
 https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/131634480_199559701771669_451799070328849240_n.jpg?_nc_cat=110&ccb=2&_nc_sid=730e14&_nc_ohc=8q5_svo1Dd8AX8mkcuy&_nc_ht=scontent.fsyq1-1.fna&oh=0d35e6da35d7081d341a8510fa9a5996&oe=6002F6BA", GALICIA HD 
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/650020024476954624/0CFHGhNC.png", Televisión Aranda 
+https://cdn01.yowi.tv/BBBBBBBBBB/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg", COSMO TV HD ESPAÑA
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg", COSMO TV HD
@@ -1893,21 +1895,21 @@ http://supertv.live:80/mZ82PN2p/gM9Nyc4x/13002
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 FUL-HD
 http://supertv.live:80/mZ82PN2p/gM9Nyc4x/29490
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION FULHD
-http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12969
+https://cortino4.mitopo.me/live/plusaccion/index.m3u8?token=-HYa7sUMJLzen-zvM0zsug&expires=1612283989
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION FULHD
 http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12967
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2017/09/Movistar_Estrenos.jpg",MOVISTAR CANAL DE ESTRENOS FUL-HD
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/o/v/xmovistar-drama.jpg.pagespeed.ic.PpvHiYS7in.jpg", M CINE DRAMA
-http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12976
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1280px-Movistar_Cine_Espa%C3%B1ol.svg.png", CINE Ñ FUL-HD
-http://uruguayiptv.com:25461/leandro1/leandro123/18252
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png#, MOVISTAR SERIES HD
-http://supertv.live:80/mZ82PN2p/gM9Nyc4x/13001
+
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/DMAX.png", Discovery Max 
 http://91.126.141.12:1935/live/discoverymax/chunklist_w2133036664.m3u8
 #EXTINF:-1 tvg-logo="https://verlatele.net/wp-content/uploads/2020/05/canal-dark.jpg", DARK HD
-http://supertv.live:80/mZ82PN2p/gM9Nyc4x/12989
+
 #EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/132947954_202142288180077_5700003133116217169_n.jpg?_nc_cat=101&ccb=2&_nc_sid=730e14&_nc_ohc=9bEP5gMB8ZIAX-jiVbm&_nc_ht=scontent.fsyq1-1.fna&oh=122a4a4410ce4ce921f2d0e4e6cec154&oe=600C8135", XTRM HD
 
 #EXTINF:-1 tvg-logo="https://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg", Canal Hollywood FUL-HD
@@ -2038,7 +2040,7 @@ http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/14748
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/show-tv-izle.png", SHOW TV HD
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/533
 #EXTINF:-1 tvg-logo="https://www.canlitvizlee.net/wp-content/uploads/2014/05/beyaz-tv-hd-buyuk.png",BEYAZ TV FULHD
-https://stream-04.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzAZuDcn14loG2T949eNqsms)/dm/3/x4kopfq/d/live-0.m3u8
+https://stream-03.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzKQkNZa8MD9tGsxy-Z5SCHo)/dm/3/x4kopfq/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.canlitvizlee.net/wp-content/uploads/2014/05/beyaz-tv-hd-buyuk.png",BEYAZ TV FULHD
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/122
 
