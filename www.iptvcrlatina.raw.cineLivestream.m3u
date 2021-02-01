@@ -348,7 +348,9 @@ https://tv.teleclub.xyz/emma/APOYA-A-TELECLUB-GRACIAS?latino=HTV_SD&format=.m3u8
 https://s1.dominiopersonal.xyz:2083/realplayer/Ctb5Dty6Hq/178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
 http://189.216.247.113/Content/HLS/Live/Channel(RITMOSON)/Stream(06)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Canal_Nu9ve.jpg/220px-Canal_Nu9ve.jpg",NUENE 9 TODA TUYO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Canal_Nu9ve.jpg/220px-Canal_Nu9ve.jpg", NUENE 9 TODA TUYO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Canal_Nu9ve.jpg/220px-Canal_Nu9ve.jpg", NUENE 9 hd
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzJu6QT.png", RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8 
@@ -1404,6 +1406,8 @@ https://s1.dominiopersonal.xyz:2083/elplayer/bIjmhB0cyY/44|User-Agent=elplayer
 https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/45|User-Agent=playerlat
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_disney-channel-renueva-su-imagen.jpg", DISNEY CHANNEL HD
 https://s1.dominiopersonal.xyz:2083/elplayer/bIjmhB0cyY/43|User-Agent=elplayer
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_disney-channel-renueva-su-imagen.jpg", DISNEY CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg",DISNEY JUNIOR HD 
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/60.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbFr_3ChxUrcftwYsmwpKwZTs7UT6JmYx30NVG68usPDSt1iEN", DISCOVERY KIDS
@@ -1854,7 +1858,7 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/antena3hd.jpg", Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@3248/index_4_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/antena3hd.jpg", Antena 3
-https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/bubawn6gg.m3u8?s=r0myiLPhElAYwOKg1nVaEw&e=1610624822
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkNqLG3RxZrq61wKM8VOZIQx6UYY9XeiA_Jg&usqp=CAU", CUATRO 4 FUL-HD ESP
 http://149.202.68.178:1935/live/peprecasens/chunklist_w194306632.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/11/02/cEJAuC4rJAZbRYFI1sHmR6.jpg", CUATRO 4 
