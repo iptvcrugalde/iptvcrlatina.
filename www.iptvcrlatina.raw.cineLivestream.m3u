@@ -565,17 +565,17 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkyCinemaHitsHd",SKY CINEMA HITS
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
-
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/635
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
-http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53912
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/643
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/543-5435721_sky-cinema-action-hd-de-logo-2016-sky.png", SKY CINEMA ACTION FUL-HDHD
-http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53921
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/639
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
-http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53929
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
 
 #EXTINF:-1 tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg?w=600&auto=format&s=2df94318394a38a90c12585ff0f4a4da", SKY ATLANTIC HD
-http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53846
+
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_cinema_premiere.png", SKY CINEMA PREMIER FHD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oPaBBAVR-XMg8PHP3dcaQzP0UoqWvmqbHw&usqp=CAU", Sky Primafila 6 FHD
@@ -722,12 +722,8 @@ http://iptvhd.club:8081/televall2021/1700_.m3u8?token=QwM3g7SbOyrRYsIwlMrN-g&exp
 https://s1.dominiopersonal.xyz:2083/playerl/skrEgxLyjj/93|User-Agent=playerl
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 http://uruguayiptv.com:25461/leandro1/leandro123/661
-#EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT 
-http://156.96.44.13:8081/televall2021/194_.m3u8?token=mePdt9a6X_35ImJvIMUqLQ&expires=1610341484
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 http://tv-prime.tv:8080/live/Cruzado/nsNviFCPtn/926.m3u8
-#EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
-https://s1.dominiopersonal.xyz:2083/realplayer/Ctb5Dty6Hq/53|User-Agent=realplayer
 #EXTINF:-1 tvg-logo="https://telesol.tv/wp-content/uploads/2020/06/LOGO-FINAL-TELESOL-2020.png", TLS HD
 https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://telesol.tv/wp-content/uploads/2020/06/LOGO-FINAL-TELESOL-2020.png", TLS HD
@@ -805,7 +801,8 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/C
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDA0bss0aR_SZcATNidLC8kNGbi4Jnivs1A&usqp=CAU", CANAL 11 PUNTA DEL ESTE 
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 FUL-HD
-https://vxlive.cdn.antel.net.uy/auth_livesignal_896,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODk2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTIxNjI3MDQmcmFuZG9tPUpSYmk2VFRhMzQmYy1pcD0yMDEuMTkxLjE5OS4yNyxmOTljZGFlMTE2ZjI2NzM3NWNjMjQwYmY2ZTg0NzI0YmZmNDY3MDA5N2U3MzRkY2YwZTA1YTAxNTY4NGMwMmVh/vxfmt=hls/h_c41f1d8113bde6839b616e7cfeff5112/var300000/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_livesignal_896,vxttoken=
+/vxfmt=hls/h_c41f1d8113bde6839b616e7cfeff5112/var300000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png", BOLIVIA
 http://125.139.128.132
@@ -890,7 +887,7 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w578096294.m3u8
 #EXTINF:-1 tvg-logo="https://www.dantv.tv/images/dan-001.jpg" group-title="RELIGION",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.elmasacre.com/fotos/articulos/2018-07-02_8WM56MJr_400x400.jpg",LTV LINIEROS TV CANAL 36 HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CokFNl33NG6diLZQm5muaWJa68K0H70rk5c3jPCBR4FnoDE3HMUC79qum0t1xBl2-hkUY9Dfnx1-_g4Bs3U3lMLdehzxpR_X0_DWMzZ8MP_AslxX5noNckIR5I27D7Rtx1NQlJa9pKevZqH9a9HisdBrFnOeXkaHTSC9Yvi92imHHW6uMlBBv8iUspEA6PiJgvKXlgdAY26ohcKKSrsxooVBcpt6YCKszK__F77wcwZlYnNJ3cRo1IvBSrl8hn6hq4aZvnfJJXj3ZWpEr7oIefXnAhBE4jIVrhyQeoVHa4ruqCoO-yKfp4OQ-qVSeorS0yC0LUSdXTs8o5rw33Fv8LUCpRHRlEL2gyCfdloXOdPi_Gqysrqxz8yBR7v_4Df_mP8c_RJNSxARzSaE-KyELjD5I-zlSgNz6n9zsrv6yPfsitsXbioa3Ew6Ak7NyP-XGyUni2FF8uClmpt0ok4yIddvv2IAb6kevjpP-ptgn8m0uL85zGBdSbMA4aP5ENjXq4Zr10KpdhdqzRvul18WamL8LqeSua0pcMnqPc47VkYc_FgUsCky4aHagX0GAQr7hkX8l8l1TNxr8UiZjrD5H0haW24Ec1nkGmwu9J4z0HETBu_iMkOl1nC36NTe2VFKB-2RLeCs2Osc4geARVdrV_JnRclZSat25suTYdQ81F0ngI6AKiT39yKL-5TQzQmaz6DPCfHVVefSQbN_YUF1ctZ2NJ6jl88HeSr9DIVITaDkXPC0k0-mQFt78GW3111sFaG9sP5ua4H5jM85QZd6rdNUTs4jvg6XNZkxlytwp7j6F_UTIpCPZK6F9ohlMV5ATwJWgqrM6BbWM0VrfTA2x_YSZpUQ7JD8zie48xIQ6n-QYrAr5cbouNASVBj0KxoMUgvC-SwTuAfIk945.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CooFRlDFepx5igW0TmuNIZhsfTmDwyZX0Tvu1r_ujja2HXToXTaNuG8OHhvapi8UI-R-321oZ35gHl9oXf-ANk6X6GtbdVhhbFiapVYxoSg5w9Q0RWDyAXlt2VHln3HGR54IRtxA9eyw4QkpzgCIQ3lYRKE7b5Gh8J5wkY_6-yF1X5wAM1nj3BrRuW3XiLnVBkN-lWyZazHRELds2X0kXKR2d7-X3aMaVKOJA74yg2D3e_Yooqoeg_DeqzbSLFbVxN_1YVD1zMSVdNLjAv4I-VhhjfBWb0HSCgbubue8DvYECOCW7FGskioOYsA_LUGsos3B6C-AONnmp46uw56jbXRewtqipIz-01zGmfVmlvw9vINPG6YzDyJ_FsSr81JtJjpTkctFdk37nGLB26EmaVnBDgNolciNetm6XZni7qgqsg0m_JIfnzGSWnnjUutiG_GwzQePXpLf0ZNHGbMHV3ey6qfz3kvbCBFHkm9ZxzrY-fkILTlj1yX25zlSrMIcnLH-D9hUrsGOF7W0gQJ_IdcE5NeG7uI_wjIvy9-tGbjXah1QfnXpuHtaCVnQCdACvPTTvCoFNeMeiYmbVoCXzj-ySE5hCvIu3CaeDTwLlmWpn1Qs6Y1SdiAsxJi0t9aqBA0AvojCIG1SuPbOxKM2q1fNtFr6R_lI86zZAcpGSPtZEq6-wyoSeoUg-6g-G9u1AHSFzKSn2y4goDrQEI4wViVovYhRykqdu8de5sMkh0znEoCjYXJ43STm9B8yKMP7aoUPDTX8QS2o5c08I_6VKgbPoLxDDgsrZdsWKPVpvkwJo1YCWMetYGQSg5IuptnfaLM93LqcXx9NWUbQh8bIHoSGdr22BijXuk_zCDcSEIJHQXfps9q5q2vy-86uizgaDAxIPA33h3SYXeGFHA.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png", TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1907763200.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDIa9K7ychz70ITaKGaKO7JDrRjqUEExxzmOR0gJG7NfdAB5",TELEVER CANAL 12
@@ -934,7 +931,7 @@ https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbGV2aXNpb25wcmVtaXVtLmNoaWxlX3NjcmVlbl8wXzE1NDYzOTc3MTZfMDY2/screen-0.jpg?h=800&fakeurl=1&type=.jpg",CHILE
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg", CANAL 3 LA VICTORIA
-
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpoFw1RLcY10Jj8OxD3MeV1SOWEHqKRfp_D8yIRhKSQOQ2MtiSoePwWeJ53aXyTNo043OHVJk3bQxfPf4SpLXdRaugN9UZyHHD7rna9Cf7gbvYHkQv69qWk_JG0BQvCmwun4Y3QXNfWNSHiVMjM3lP9qOhjsvrOcNU8P91hVR7-uexxyg1P9sRI5Sr6B2ciYCvTTlimc_s6Zd042_0YnuuaYdtTBn55MbdI8VaFKNRgGhABWqo7mv42kENt3Sfx-74ixJ1zvNv2CgSOf8XDJP2qwmXowjyS4QPQCrEuFhVvC54XetLNsDY1tT_JA1CiE_7dUTeOBmCKDgVeCEdDcusVfkStQOzlJwZlZr0xjQzY2mGR9B26F8wOaDKkuAwAUjg53wRx254kU_5v2PvPEKKGPOZZWa-dUzRCZppdEOH3bzLgmvC3YdUGhVcuxAHonIwBRJB5yuicHaARm3ciA0-hm-m4aZE_UHI85fecLr-c0nhs9XopCRLNiJw5_3lMbG_A0wYYauyexPVklqoyjBk65jENALAE3nxHCfr2IW9FaC9-IKTxIfVURhUfJDlnxrX3v2N5mDbK9pulW8Ii6UUeVq8Dihk7kVMbttK59iMaYtAjgzoe7MHS_z-8AL4qhjgsURmAjf8yQBMFP47Xhe-couENUV94w-2psVsn25mlgtgPI5VIWCrzmlIsVumNvVGMYI_dliJwQNFpHmyg-T5qHVNbTsIIlr7clUkCvRtil4lXDMM5sgDCBRdcJ-IHPiX9nbzUx7PNjLFLqnGTxFzppXxBxa8hyzATKmle93gixc9annMMoGOhDiBxEWqMQfxncc-5auaqAxm9J1bw6qH9FaJtGf_le3qIW3OxAvgSd3dOIBCb7a_8XnQGOEhCHDMlPRMMDRQQyh2Xngy-lGgzGOMfB2Yda4hbJKZg.m3u8
 #EXTINF:-1 tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png", U ESTV 
 https://tls.cdnz.cl/uestv/live/chunklist_w168368058_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsjo14-1.fna.fbcdn.net/v/t1.0-9/126361202_180026980391608_5834011315785749869_n.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=Uk7hZcZ2KY0AX9skCO9&_nc_oc=AQlSYGVsnETHM29KsCq6x945NUVF7VJ2ZY9wouQ-Ud989z51_8Z-vQaKihZhzEa7y_0&_nc_ht=scontent.fsjo14-1.fna&oh=d6bf81bdb6758e03192be242f5948b84&oe=602FF862", ESTACION TV HD
@@ -1055,6 +1052,8 @@ http://jo.sarhantv.xyz:8880/star7arab/mahdi/131
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/117
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UPsfOUJpLgKjtF939eerwzCEtlSNgBZVvzN4txRcUUa9oMIflJ2IxNHzQhfDBQrQ57FoDms=s112", Mix Mystery
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/159
+#EXTINF:-1 tvg-logo="https://elwekalanews.net/wp-content/uploads/2020/07/images-2-6.jpeg", Majestic Cinema
+http://jo.sarhantv.xyz:8880/star7arab/mahdi/48 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-38yzIWih3nc/VSBQLGXZVII/AAAAAAAAET8/vyEQOr7lxR8/s1600/canal-45-tv-1400346428.gif", CANAL 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
