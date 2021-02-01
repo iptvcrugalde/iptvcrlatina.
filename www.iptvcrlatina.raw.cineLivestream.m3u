@@ -1721,7 +1721,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png",SONY TEN 2 HD
 http://74.208.135.126:25461/live/494685792/494685792/2151.m3u8
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2019/04/654426_Rect169_480.jpg",DIRECTV SPORT HD
-http://tecnotv.club/matrix/principal.php?c=164&f=.m3u8
+https://e7.stephn.xyz/ingest02/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=wJlI738iqXbx-Wgy2I3G3A&expires=1612226143&rnd=
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png",TyC Sports HD
 http://89.105.194.59:25461/live/spfut$90/spfut$90/120.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png", TIGO SPORT
@@ -1732,6 +1732,8 @@ https://teleclub.xyz/tv/canal?tele=WIN_SPORT_HD&format=.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png",FOX SPORTS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7LCisvwdtnE/W5lerwLc4jI/AAAAAAAAAc0/ctzvBb4_L3AKk7I4lvlYdv59M91fVcQjgCLcBGAs/s1600/fox-sports2.png", FOX SPORT 2 HD
+sf=VjBid3dSazlGbA==&token=caN4jnMH4TEdElI_Wpvhag&expires=1612226619&rnd=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
 http://uruguayiptv.com:25461/leandro1/leandro123/460
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports 
