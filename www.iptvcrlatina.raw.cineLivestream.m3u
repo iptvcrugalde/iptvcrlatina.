@@ -905,6 +905,8 @@ https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/60566
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRztHjVC_2625tQLKtQ1dUT0LqsoOyoKckIR7zp08PIzwZb2m7S",HMTV
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/571325118678331392/90JKEFvQ.jpeg",GH TELEVISION HD
+http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 #EXTINF:-1 tvg-logo="https://prod-profile.pscp.tv/1eWEygDVeaZKA/c85ab13c3c480bf68bc0c055225592fd-128.jpg",Canal 41 HD
 https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/chunklist_w882613411.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwHVXGU.png" group-title="TV RELIGION",La voz de Maria
@@ -1092,13 +1094,11 @@ http://190.3.169.119:8080/latina/latina/chunklist_w1341457423.m3u8
 http://190.3.169.119:8080/latina/latina/chunklist_w227859753.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/megavision.png",MEGAVISION CANAL 43 HD
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w792904637.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/571325118678331392/90JKEFvQ.jpeg",GH TELEVISION HD
-http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1", GDM TELEVISION
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950878950149914624/1UJUmn-2.jpg", TVS CANAL 22 DE TODOS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://mytv.my.id/wp-content/uploads/2020/03/95.jpg",CN MY CINEMA HD
+#EXTINF:-1 tvg-logo="https://mytv.my.id/wp-content/uploads/2020/03/95.jpg", CN MY CINEMA HD
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.my.id/wp-content/uploads/2020/03/95.jpg",CN MY CINEMA
 http://210.210.155.35/session/ff2ab0ba-5be1-11ea-8243-b244b064a8a8/x6bnqe/s/s31/S4/mnf.m3u8
