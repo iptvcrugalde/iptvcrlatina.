@@ -889,8 +889,12 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CooFzGNec2YNez5i66Jdw5lzh06IJOX94uGGwv1wWw1OHXK7R20HjWRSEhkL86O_azXApc5xPNOyFPHrehLetSa2KhlTpiQ0Ys7BiA1yF3kOZC5f8JBFFq7E1jEXaQ6bAQasEVJEYREtt2mfhMvICgPMizVY_HnStcfQZ-IUaxYA1qmXXvr4MmBRmTAQqiWKB1D8rIg91L3gX9UNelhYzTQtFLoc2CcUa85E6ZpDoGaATpXoj-sEBOH3WHlt8XufjOgR1dYkWk3BnEfs2N-CIyi_IretAP3KUES6wa3HnS-FdALsPDNDJr4n9tve4Qt4Nle9j6udX-qIu4MD_lANMBvpnoD_B50NDcUEqWKDSmJs5NM9uE81gbrZdlY3V-l_R4hLpnL4wS5h3iTZDfF5fOaJwsBjTh_O9FtrwW0Y9dHNeXvMOwsuCEHC6_p-HWWNbbigYyBoukHBgM5fo0_sEJd4q_Q5UZtfJ63d3Yl8uVdjXRpgJ0GmiiZD5SuKu9mqkI8H3WVpQ_K2Q0snmIdBDuEf4l2ZycphjxPpBpHfweeZdrp5QhIS_MCc6DQ8r1BMseK7vWh8o2WDAq-6Z7Ahyr2OvgXsf547nO5Z3L_jnZhaHQLJsUnDxPWrVAt16eQvnnZfmpD--fRfaCY06FUQl_cDtaDToHVhpP7eDqG6icwE8mgMDnB_zKZEtvysSu2Mp2meTTOnmqVd5K6_Wjbu38tXWveCpnM5_QtW_kuabb50wqG7rz2Igvw6497TAl4B3whWOqk-y2qVVmn0Qx77T_d5eEWpQScZphgUy5lMq4tufgrpFXKkovMfIadd1AxMYsou0dU4wTZEd33CK1HDJs_sQr1vBWNxWhFH08YSEJaGir7LZ-AW3DsuVOtuWJcaDDUWFtlyZDbQMf7s9g.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png", TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1907763200.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDIa9K7ychz70ITaKGaKO7JDrRjqUEExxzmOR0gJG7NfdAB5",TELEVER CANAL 12
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDIa9K7ychz70ITaKGaKO7JDrRjqUEExxzmOR0gJG7NfdAB5", TELEVER CANAL 12
 rtmp://tengomusica.ddns.net/telever//telever.sdp
+#EXTINF:-1 tvg-na tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 14
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhTzAKSWAD-6u_uhprln4m9BzQ9_0iMalNQ&usqp=CAU",TELEUNION CANAL 16
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
 #EXTINF:-1 tvg-logo="https://www.tencanal10.tv/wp-content/uploads/2019/06/TEN-LOGO-SLIDE2.png",TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w982424886_b1248000.m3u8
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TSi.png",TSI HD
@@ -926,6 +930,14 @@ https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
 https://stream-03.sv4.dailymotion.com/sec(O-7bth6lxCIslucX64-RY4MXQSmVbU4urzoGTKv9uYo)/dm/3/x7gy059/d/live-3.m3u8
 #EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png", TELEFUTURO CANAL 23
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87fKgc4.jpg",TELENORD CANAL 8
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w2093036811.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPEnU5KvqN21g7qLVvh7g0oWYmQMrFzh5H6pM5g36FRFymqicS", Telenord 10
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w467287800.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/do-telenord-canal-12.jpg", telenord 12
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w1772103354.m3u8
+#EXTINF:-1 tvg-na tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 14
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbGV2aXNpb25wcmVtaXVtLmNoaWxlX3NjcmVlbl8wXzE1NDYzOTc3MTZfMDY2/screen-0.jpg?h=800&fakeurl=1&type=.jpg",CHILE
 http://127.0.0.1
@@ -1122,14 +1134,6 @@ http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 https://ss4.domint.net:3024/cana_str/canangatv/chunklist_w857704180.m3u8
 #EXTINF:-1 tvg-logo=http://www.canal33.cl/assets/images/logo.png",CANAL 33 HD
 https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/chunklist_w1161757561.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87fKgc4.jpg",TELENORD CANAL 8
-http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w2093036811.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPEnU5KvqN21g7qLVvh7g0oWYmQMrFzh5H6pM5g36FRFymqicS", Telenord 10
-http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w467287800.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/do-telenord-canal-12.jpg", telenord 12
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w1772103354.m3u8
-#EXTINF:-1 tvg-na tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 14
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 #EXTINF:-1 tvg-logo="https://justintvespanol.com/zeemundo.png", ZEEMUNDO HD
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/ciudad-magazine.png",CIUDAD MAGAZINE HD
@@ -1174,8 +1178,6 @@ https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 https://59f2354c05961.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist_w636425435.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRJW5YJrZHq4b2RTOkBf18VGHNfr4b2wO-EeXbSakUlUmaKJlch",GOLDEN TV
 https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuVnissRZAdKw56u1v9sgjx5i4o0KpgTzcBuEuXS0HF-BYPla7",TELEUNION CANAL 16
-http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/1021/682/png-clipart-star-tv-logo-television-show-television-channel-5-stars-miscellaneous-television.png",STAR HD
 https://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/star-tv-avrupa-eurostar-izle.png", EURO STAR
