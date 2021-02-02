@@ -186,7 +186,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s", CANAL TVX HD
-
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAF1Px9rI2L5PzGxJtiX6OWRRcv7JcNqKxIGRS4PlNL3AJmWNVrkKjd2wl3bpcJtWI0DFZ3xFzT-7wr-WH-Uo6k1eorJYWJZScmAX8OWtg_gt4wqwV2vvV_G7vB6JcYx63iiXJiLMr52mUpraA5QWsBMzP2lIU-uf6dT0K5etAkn1qECqBiLcR2dvKgLU7J15FS8N0AHD5NUVPagQ2Or4Ux_L5S2QXteWqK2LyLKhUEpBwgJM-CZD78KEt-Qki1MaT9i18CDO12468nunWfek9CYAQ9E5lDw4ZRktuzQuJgNKQb1CP2tKL1ItfMrJUbs9me-3k2iXoy9rQUqpWtSLdtQp4KMnbpKZeFPpyRf9X3VIS00UcxKG46SUa3XbFUVLjo1GMyCqiHoJLYuyZIUL1UGTCwrf3mxQYNREihQ3fPuEZnyxjSWLM5QUj1TEVYbz094ND6BUdJibjMP76oEOqIeu1doA4qEN3vjQ9zotqFRL0c-W7Kpb5GOESJva7Y3zsr-7xwkaiM49Dr4zFM2DZ2HPB64nJjKTM17k36FoRCipdcLp1CJ9onAq3kYHV6g7s803D5SD6gcnAKFT3qNuC_P9-wT72UXeydyYyjwmPwTSe3WSp4grKLGzof6RMobGzJREs9kdHeJ5mP3j5zbrpYOL1LJEajiljqqLV5j1Lec2iAU1EsCbcfOCqQUSuAl9TZza3CIbgnOPAuJa8GZSkehUagUnP3fIGWOFLYxmykFuBCbyJE1qaEN4v6robjRW9KwJrZFYKqmzVAWHCRqPD-MWbOuxW6dnIHl34TLuNjCPl6T8iLtQ71VtK6j5goCpHJwDW065apH8-G9EJ8dDtpVRIQAAQ38HwA4Ezylt1ij-BJWRoME3aTO-pbdXnVmA1K.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -419,11 +419,9 @@ http://89.105.194.59:25461/live/3sp$9Gh1/3sp$9Gh1/14.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER HD
 http://iptvhd.club:8081/televall2021/1710_.m3u8?token=hF2xmfuO5JIiIn67q2xrJw&expires=1612236514
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=SONY_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReTowHWsTq1LE-bi4Ubbu1vdC8yZNICI1Hw&usqp=CAU", SONY MOVIEZ 
 http://latvonlive.com:33612/Rico/1234/818
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10y1jppgDUbaVj_ifv8_3k8anil2DUoNS9A&usqp=CAU", CINE SONY
@@ -466,9 +464,7 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL-HD
 https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoMFepyrgSd1jwLL6RE77H3sKPwbIhiJ4vHOexGJDSZBzP0M2khoAmdjcNn6KvmDhT6Y0NoH0hcHfXw1kq45xZccH_5-bkTa3IXZiE52ttm6bmUTH8A2fCDSqRBShkYIPBv4pfGlTBbIu5VrJNVkV3o0FGhVnDX7ii4ULbOjDJvs2s8cteQPa-ecYasYzTAXZraQqw9S_5yDYRFr8QwXybAQfI9NIBP36m6SF3aOYd5M3MNvjGzLuMHMm3NjPdIMVZWTDEIK2qL1yZdyrdnzYEp9kGdSLptzCnyhBaDfnSPLOA9W-D6hlRU5_PpDJGwvkiCBau4SYGf-48_YN3YHYXAAer5kg-0xRnqBHnN-wDJx5-rde5rlHN5fyGRMP1rrwnocut9vjknvBM9vxh9ergbWQJ_EOaOEYNIgzan9-vxL-BvzIa2LXgTV0FdSiGsnuuXQk43a7lCYZLvY2L-JjCjsJpx1X2xOPVw8LqT08uEi10TL1WiihNS0eTTqXl6UAliWO50bwi0ptEKGHJjFfT33OqMRZ9SSIDAfsYMiBvNzEKAKslvV84LmH9JUstfhbelJVg4EdVOGIU34kLhMNURMGrZ1nDtsxYH9KJtwIMBqxAMj9tYadtYN1DYCs-ULcpalRx-FvoSX6Guh3Ch-ty-tEYUb8Dxv4Co28iiXr0pKAwsXgGwrVIOCs8MlnLkmtGS0NGsk57YgUK1zzqi8AAU_ZAjrGAc7HLWBnFDoAQlHSuB9mFue0zUEyZtL9DuTBoRFVDY5xJ1NH8gu7mgYQW1Kk5KW30IDkUVNix_f5PXqnSYUx9bYwUiBhOIm2OheRe2PAc0aNaG1btjHhvee-fK1cHS4zhIQ6jcvdn8nITcRsSteB517NRoMzzejPOTrz1OW9pf5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
-http://ipeteve.com/php/t121220/tp.php?c=1729&p=3&k=srregio&f=.m3u8
+https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=FOX_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/100.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
