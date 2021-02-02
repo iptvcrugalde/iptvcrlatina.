@@ -712,6 +712,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 https://inliveserver.com:1936/10038/10038/chunklist_w1402692798.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZcUo2tNHLclj6aCa6SRgY8tbjL8xn-sD9IA&usqp=CAU", GEN TV HD
 https://videohd.live:19360/8010/8010.m3u8?_=1
+#EXTINF:-1 tvg-logo="https://www.latinatv.com.ar/images/logo%20125.png", CANAL 42.1 TDA HD
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA EUROPA FUL_HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA 
@@ -887,6 +889,8 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w578096294.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.elmasacre.com/fotos/articulos/2018-07-02_8WM56MJr_400x400.jpg",LTV LINIEROS TV CANAL 36 HD
 https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CooFzGNec2YNez5i66Jdw5lzh06IJOX94uGGwv1wWw1OHXK7R20HjWRSEhkL86O_azXApc5xPNOyFPHrehLetSa2KhlTpiQ0Ys7BiA1yF3kOZC5f8JBFFq7E1jEXaQ6bAQasEVJEYREtt2mfhMvICgPMizVY_HnStcfQZ-IUaxYA1qmXXvr4MmBRmTAQqiWKB1D8rIg91L3gX9UNelhYzTQtFLoc2CcUa85E6ZpDoGaATpXoj-sEBOH3WHlt8XufjOgR1dYkWk3BnEfs2N-CIyi_IretAP3KUES6wa3HnS-FdALsPDNDJr4n9tve4Qt4Nle9j6udX-qIu4MD_lANMBvpnoD_B50NDcUEqWKDSmJs5NM9uE81gbrZdlY3V-l_R4hLpnL4wS5h3iTZDfF5fOaJwsBjTh_O9FtrwW0Y9dHNeXvMOwsuCEHC6_p-HWWNbbigYyBoukHBgM5fo0_sEJd4q_Q5UZtfJ63d3Yl8uVdjXRpgJ0GmiiZD5SuKu9mqkI8H3WVpQ_K2Q0snmIdBDuEf4l2ZycphjxPpBpHfweeZdrp5QhIS_MCc6DQ8r1BMseK7vWh8o2WDAq-6Z7Ahyr2OvgXsf547nO5Z3L_jnZhaHQLJsUnDxPWrVAt16eQvnnZfmpD--fRfaCY06FUQl_cDtaDToHVhpP7eDqG6icwE8mgMDnB_zKZEtvysSu2Mp2meTTOnmqVd5K6_Wjbu38tXWveCpnM5_QtW_kuabb50wqG7rz2Igvw6497TAl4B3whWOqk-y2qVVmn0Qx77T_d5eEWpQScZphgUy5lMq4tufgrpFXKkovMfIadd1AxMYsou0dU4wTZEd33CK1HDJs_sQr1vBWNxWhFH08YSEJaGir7LZ-AW3DsuVOtuWJcaDDUWFtlyZDbQMf7s9g.m3u8
+#EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43
+http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png", TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1907763200.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDIa9K7ychz70ITaKGaKO7JDrRjqUEExxzmOR0gJG7NfdAB5", TELEVER CANAL 12
@@ -1067,7 +1071,6 @@ http://jo.sarhantv.xyz:8880/star7arab/mahdi/117
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/159
 #EXTINF:-1 tvg-logo="https://elwekalanews.net/wp-content/uploads/2020/07/images-2-6.jpeg", Majestic Cinema
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/48 
-
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-38yzIWih3nc/VSBQLGXZVII/AAAAAAAAET8/vyEQOr7lxR8/s1600/canal-45-tv-1400346428.gif", CANAL 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyXKRWaD-KP7geIaWZucbJCLFc0SDrjbKbIA&usqp=CAU", DISTRITO DTV
@@ -1087,12 +1090,12 @@ https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 #EXTINF:-1 tvg-logo="http://tvsurvision.cl/wp-content/uploads/2020/10/LOGO-PNG.png", Canal Survision Alerce
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w565457012.m3u8
 #EXTINF:-1 tvg-logo="https://www.revistalatinanc.com/wp-content/uploads/2019/02/3287_LatinosncTV.jpg", LATINOS NCTV HD 24/7
-https://59f1cbe63db89.streamlock.net:1443/arribalatinostv/_definst_/arribalatinostv/chunklist_w2121344726.m3u8
+https://live.latinosnc.tv:1443/MRR/live/chunklist_w1148701352.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJziMDQR06dzhXvTtxLF8mqKs7rO8GmzLuFbZA=s100-c-k-c0xffffffff-no-rj-mo",CANAL 54 LATINO EN DIRECTO
 http://190.3.169.119:8080/latina/latina/chunklist_w1341457423.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJziMDQR06dzhXvTtxLF8mqKs7rO8GmzLuFbZA=s100-c-k-c0xffffffff-no-rj-mo",CANAL 54
 http://190.3.169.119:8080/latina/latina/chunklist_w227859753.m3u8?WebM3UCL
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/megavision.png",MEGAVISION CANAL 43 HD
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/megavision.png", MEGAVISION CANAL 43 HD
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w792904637.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1", GDM TELEVISION
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
@@ -1166,8 +1169,7 @@ https://connection3-ent.sinclair.wurl.com/manifest/2000.m3u8
 https://video.misistemareseller.com/Fuegotv/Fuegotv/chunklist_w917415169.m3u8
 #EXTINF:-1 tvg-logo="http://fuego40.com/wp-content/uploads/2018/11/cropped-FUEGO-LOGO-TIPO.png", FUEGO TV 
 http://184.173.181.2:1935/8020/8020/playlist.m3u8?fluxustv.m3u8 
-#EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43
-http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
+
 #EXTINF:-1 tvg-logo="https://scontent.fsjo14-1.fna.fbcdn.net/v/t1.0-0/p206x206/115929263_141048600956113_2322457852946002335_n.jpg?_nc_cat=105&ccb=2&_nc_sid=da31f3&_nc_ohc=6MSJW8OAqd4AX-wRGYX&_nc_ht=scontent.fsjo14-1.fna&tp=6&oh=5018b7ae5c620111619bdc9f99f3a314&oe=6023DCA9",TV LATINA CANAL 42 HD
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.latinatv.com.ar/images/logo%20125.png", CANAL 42.1 TDA HD
