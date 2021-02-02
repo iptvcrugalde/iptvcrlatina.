@@ -50,8 +50,10 @@ http://201.201.149.86:8080/livestream/stream.m3u8
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-tv-sur-5-radio-en-vivo-554x328.jpg", TVSUR RADIO CANAL 5 HD
 https://ok.ru/live/1906333261342
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Nj9FHYZhsptLWDXHqIeqJnbymBqY7aXHZEo-90MBvMvIwIQhKjYUifwDzxoDkcq53OtIw=s85", CANAL SUPER 5 
+https://player.twitch.tv/?channel=canalsupercinco&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&volume=
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Nj9FHYZhsptLWDXHqIeqJnbymBqY7aXHZEo-90MBvMvIwIQhKjYUifwDzxoDkcq53OtIw=s85", CANAL SUPER 5 HD
-https://player.twitch.tv/?channel=canalsupercinco&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&volume=0.5
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpkFt5R2L2Q7UEXJYC6jEbL5tAirZJ5e4QK2Q021KBxPG1uPqxkm_1iAJRkKEXsh3DQoGTBlzqjZMozvWUTlvWkoI0-6h4HdysbdFfxk1YpbhT9xWj47qFIRHOqLGvs_KlB82rmRZT-Je6_as8PrsKujohY4CTVqdDE4Ypim1gb6avhctoxNIwgBRocxOJg9ADhSZWC5XdUB0I1iEz56FBoO0bZDoCkiXoR_p8MjtcqQd7wmi6_1YL_QH72IuX1nql3UjwpgX5j1JjeO1bnlH5rpSbErL8Y3ZFPKJB9LoVPlOYUDNe6cnZCY4b29hABHZIEjxjxm8ri2zcvvWgZ4CCcc1NsMc1501T1wXBDRRsocvZR6OBsq83hvJbG-XBbXVupenIqFFJHdasxpPCtU6OXsYb48CNxhxwavvMjuJMwoH_5gc9-EJyP9l00gj8Dm2q-4ypCyYCr33lvMVOBPMuldFC9GhaZBp6E1Pj0boNVVUmPh54KaQN6Fn0fNfQoXl0ELT8kdCnPbFXR6aXTGTEBso5CFkhKi4K2tP_R6MosDE5DCivH5jPtv6_QiknzxrEJD-JLFJUYpgqQ65WZN-fxn57RgrS9E45AXNjvPUpPYO8X2aXudq6BLMjJmnm6d0hj4ZfE_7ww1tOPbjfLJSRnlgx2n1AozikHlg9_gmAvt1KS39HbbpCh4px3VokmciW_HOTRk-177OuEE220ADlukdvmXT_Dvr-kY2FqkPOIIpKSo0cnLWRKekvp_GRP4wYVpgCRWRXKImy2ZbImMZsyglAhYWAU7S_gyScOE1C_wM4_ihmusrYbLqyLXTLs-CG7pDyJNFi32C9Y7QGbKkhnGN0GuvtNTFuBR1drKfEY9OjoozIDwyipzsHwSED4n2vM_2RKuw17QlwN6WmsaDIzcdotjyzJGFu8aCw.m3u8
 #EXTINF:-1 tvg-logo="https://www.limontv36.com/gallery_gen/314cea1de7e0e690d4275dcec61d5ca2_590x373.png", LIMOM TV 
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV SUR CANAL 14 
