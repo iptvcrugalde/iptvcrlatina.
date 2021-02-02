@@ -186,7 +186,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s", CANAL TVX HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAF0rif0chpYz0MhSgERKtNf_5PzY0CEsA49HTbRnzATYAzr32YPtKiZZ-4dFgZ5wnKt0tWcEyoOzgdUiHyiCers-pI2a9I3pnawMCxVRGm_q_p6lvRejV8nXGIawwksX-bdcz1OGKiGD_xmiFxBBkql-wmwQAROU46fyImqENK5D21s0nLcSyD-1pVb_tQGlMM-pyoB8jmnyb0B8DS2JSpeSyVYbqiHkX6hQl8NOdSn9r26vrmFWSZITBq5qI8yEEP-I121sqglOjiCmSEJVplktUm6dztcj1E5Cr-MB4lhi2qR088oqbByMu6ntLNTLRS6xNAyEN5zps1YYOlmDw8yGxBh-LGkZHvMmsmict_9_0ljo2q1gxQIZUmNs6PaTzWwgZgQsTXYh3R5aSzcm9Q1moRW3Wtjz-RAIGmgpfWQcY7AbV2VxnMgXZfsJkjv6-q0HcqJ3DDdXq57Aa9xnMrgVsLemrIxsJsUVYkXhlOAGrX0cbwL2VuxmpSZNpZEaWIuF916QA9zw8mvN3IBFvhQOKdoFanGgZHGacXK1FpJvjRgRPz4FdQ_prxZqKhh7PpUJHl7FfSKUtSFw1f7vxIP-3QNOBSSqrPZ4umvQfcCU2C1WH8DSSBUyio4U-cV_fyddGZbPjT5dBvBp2D9KPDdQTdZK29QrTJA7QqltRkj7nt8GMNIJhaIeQAytQ7_kPi4goI-xzDGVXe1eeJ2UVkHO1l_6GMmPZ67yURDKVZT9S_rsuy2jsWvfwA95rZsac7cxbv4RhO9p_wa3u5-z4-OuYquVw8Vm9bZ7MMH85aZTKXFtIUVlff2V2Uwsa7Ydazr4Dtgu-qEMv8QVwH49i30BIQ-jm-9V2Pyfc8u-nCtcRCMxoMj2B_MfiIYIxHNZhy.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -337,7 +337,7 @@ https://playback2.akamaized.net/streams/27177136_8970901_lsitpsrwj3wsl3hxe9r_1/e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD 
 http://uruguayiptv.com:25461/leandro1/leandro123/1675
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV FUL.HD
-https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=HTV_SD&format=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
@@ -419,11 +419,11 @@ http://89.105.194.59:25461/live/3sp$9Gh1/3sp$9Gh1/14.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER HD
 http://iptvhd.club:8081/televall2021/1710_.m3u8?token=hF2xmfuO5JIiIn67q2xrJw&expires=1612236514
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=SONY_SD&format=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/117
+https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL 
-http://latvonlive.com:33612/Rico/1234/584
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReTowHWsTq1LE-bi4Ubbu1vdC8yZNICI1Hw&usqp=CAU", SONY MOVIEZ 
 http://latvonlive.com:33612/Rico/1234/818
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10y1jppgDUbaVj_ifv8_3k8anil2DUoNS9A&usqp=CAU", CINE SONY
@@ -464,9 +464,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL-HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoMFOLMHFVoLIJi4t7iheC9O8azjPRQrkcaqyiUPDLjFLXNFONqgtTjBn7Sj2dL5YkKmu_LsB13yO0n-qPJk8fOKc7hx9tHrsVZI0mQq4oDR8bwGaeAq3Gmf3BuKtAERVrnymtOur_fUnyA0ChXV53sAogXb6GF0qTWHqobNtEeYjivwun0hV2DzKLJ7uiu5_Fh1q-MkBIAhDBqoi19o3J0Rr49iTMTPMbFe_8eB1AMB-PS4pbyscJfwXN1QPPg2SPyWffAPXg5EHodCNV-yU1082r_n9OIjH_cndFtrrdtvhYfvPDaqz_9oGWB3PRhqPzqYiaIWPAVwanfuN1yq_eo4czYEf1IkKlgS7IYu-DWiN6GAyD35g67uwLroT8ZP5ZCWyjVgdVEiMd9gxAKFq6ufWUkz9walBtSshDLOnExNHzYmqcj591c9MGmplZZSmV5wEULOJizrtvucC0r3x6dEPp39htIsrET0PfVfW5bovNMtA5KgW2bTamC9gJIRKi_E_TfdzRVo2q5BMX8rOVC45-6yEJjWX1yKnNb3mhhBQEMCDK4sEwCUUT54lW5rUd1R49Fvrin7BmmgSWAcpl2LoTVG_36-Tl3E8DbLNAejZ3i_5HOEaeWYeAwkTh7N9MzB4FOCY3Bj8OamkKoN8E-QYf_THVyaH3kGQlgZOfT-uV2a_ltAsLnR69d4cIx8qW3GBFV9OiPzjcVbr9-pgActhWyrxbo1O8fWvyKMmMGYOUyW1ss0Bs8PK7gc-5Vl_GWlrYn2JRnbUtXCJeYPs9_5lhtyB33QuzUuAZ66eqoJkzekBwviL-9PaEhxMuDEklPdcaBQJZvR3bUP_ffzErmK7T0ntBIQGJXGBTSPA4qETHgFSRPbjhoMkkKJBD1v7fMY8xXk.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoMFepyrgSd1jwLL6RE77H3sKPwbIhiJ4vHOexGJDSZBzP0M2khoAmdjcNn6KvmDhT6Y0NoH0hcHfXw1kq45xZccH_5-bkTa3IXZiE52ttm6bmUTH8A2fCDSqRBShkYIPBv4pfGlTBbIu5VrJNVkV3o0FGhVnDX7ii4ULbOjDJvs2s8cteQPa-ecYasYzTAXZraQqw9S_5yDYRFr8QwXybAQfI9NIBP36m6SF3aOYd5M3MNvjGzLuMHMm3NjPdIMVZWTDEIK2qL1yZdyrdnzYEp9kGdSLptzCnyhBaDfnSPLOA9W-D6hlRU5_PpDJGwvkiCBau4SYGf-48_YN3YHYXAAer5kg-0xRnqBHnN-wDJx5-rde5rlHN5fyGRMP1rrwnocut9vjknvBM9vxh9ergbWQJ_EOaOEYNIgzan9-vxL-BvzIa2LXgTV0FdSiGsnuuXQk43a7lCYZLvY2L-JjCjsJpx1X2xOPVw8LqT08uEi10TL1WiihNS0eTTqXl6UAliWO50bwi0ptEKGHJjFfT33OqMRZ9SSIDAfsYMiBvNzEKAKslvV84LmH9JUstfhbelJVg4EdVOGIU34kLhMNURMGrZ1nDtsxYH9KJtwIMBqxAMj9tYadtYN1DYCs-ULcpalRx-FvoSX6Guh3Ch-ty-tEYUb8Dxv4Co28iiXr0pKAwsXgGwrVIOCs8MlnLkmtGS0NGsk57YgUK1zzqi8AAU_ZAjrGAc7HLWBnFDoAQlHSuB9mFue0zUEyZtL9DuTBoRFVDY5xJ1NH8gu7mgYQW1Kk5KW30IDkUVNix_f5PXqnSYUx9bYwUiBhOIm2OheRe2PAc0aNaG1btjHhvee-fK1cHS4zhIQ6jcvdn8nITcRsSteB517NRoMzzejPOTrz1OW9pf5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
-https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=FOX_SD&format=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
 http://ipeteve.com/php/t121220/tp.php?c=1729&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
@@ -500,7 +500,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FULHD
 http://iptvhd.club:8081/televall2021/1548_.m3u8?token=nDP5mVYz1Xy9iCxO8BTnPw&expires=1611293392
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7g6Q18yGo9rDpGSLf_G0b2Dg5OuPXICG96_RC5fURWO01QA35zp82670GXZLjNUCVxNh=s85",TNT HD
-https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=TNT_HD&format=.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoUFKK0nSxaoqJ1jdcrN2SCjzl72Z0Q0emGVVobRabm5lStMJpdfBZpb9vqjVw9AgXbph2EkLa08zMrMpqJekAWijIJDL4i1A-5q7XkR2EJC_fbFO0T33xaZDgjjlerfEfUyHQzSKnLsKbQ7Ah8sBwbN2yGPSMhFQN-0iK6CfqdBs0vrfOoV-ks3zBrwOr3AQrWxdqpXC2QROTQQQHmBzCM2DLYFiTzLTvDyqiX-EsgGs6fEez_W4RDX8ho1ebtnl30BoS5sCjZg0YRlokoQZndKG5qTt3zpH8mmmeGJ3HjFEhi-9UMkDr3DxWY-0H_5Zw9JielVfKx8nd1tLFNdZvifbPP9yc3gnoKkCQyhrRfM_Y2olIA6UKXgbCoSsHoHju9QZqV_8IXhKQha5ozVFofwm1EapLV9MFuAHeBJkGxAZecpGj2N87ztF83BIuc_PgIJHI__B4WTKAE4jPJpt4iQ0RfSt5io7Lt9emMsi9wYuNAfXNlchImMiaq_8RKFDbKcdcFNPRsfdcf2ByJ4aJ9jotalpCYnAcEadGkzDQ8a9nGNoz3uBjIm_tIqBK91JgKifqsX9Igb0A2S1dyrUjiIOPvGTcBoq2TqvzAVoKEb0yGADIfReju2z8SZSkxCG6gXb1ghYtdInGatvELtt4PS_tyrhuA1voNd5yIYXrRHt6zhe8UElpIPDavjzKbzX1t1yyd457bGkhja1PgOqKERcOfr6xjEJF7qKYuH5sKez2X74jJlxcUEctc4ftnaaDS9Jjn0jx1S4YpDcGsj7OfYQmDdlKZFwavb0OpWpVAvk-0CSGBFi4Qcd0Lb62zQa4h58dLaAixJ1nwmfMHywIlLODx31O_jEhCH6Z-6xU8kuTXRtByv-7g-GgzAX6vcKes-0Y8B29A.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/13.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE FUL-HD
