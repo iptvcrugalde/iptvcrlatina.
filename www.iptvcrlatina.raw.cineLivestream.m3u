@@ -51,6 +51,8 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-tv-sur-5-radio-en-vivo-554x328.jpg", TVSUR RADIO CANAL 5 HD
 https://ok.ru/live/1906333261342
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Nj9FHYZhsptLWDXHqIeqJnbymBqY7aXHZEo-90MBvMvIwIQhKjYUifwDzxoDkcq53OtIw=s85", CANAL SUPER 5 HD
+https://player.twitch.tv/?channel=canalsupercinco&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume==
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1Nj9FHYZhsptLWDXHqIeqJnbymBqY7aXHZEo-90MBvMvIwIQhKjYUifwDzxoDkcq53OtIw=s85", CANAL SUPER 5 HD
 https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Cp4FfKsbUQ08z-kmqnq7HapCHGdhIAj2Mv8RwQ-ZmPxhBmkSNnDfhOpae4uTEr2a-ImPWQJvSIb6qyt5MUY6oK8lrCJ9YK8RUcQBIgDJn3hVrO6EsSo7uVuaQUiZ-WKCwD8PTx1mIwvxGqHuO_1fxkrJPhplz9G9Br1Q5COOsBHT7co6Z4futSvD42PAszphzpe8fEBvYRshP81-TsQFIiRQxDxyCzk_9VMLh0D6ldmPZgqoA1O7UQrr6vpwoQc8dFWHF9pzUL_I9K-iOuenRVTEHPHALq8KQs3gekSgvkj4K4oLbzbMWCHjn8oroXQG8CZcCuSJno7FLuR2gryVfdM9cnsNJz8-xjx6z_ksqhQQioo_ObHcVvFjeXLIOfrA0lljOjJ3i_znnMk1xubfvUeo2b3096wVo0UKiTfPdWvub8MRQuJFHxOKpyRXq4ZMzpNc_FO4WOrgkoqgBTNtLfv9-Q3U3bouGPfTeGvnUMq0eTN9k6HlQDAy8flQkEn-yun7njhrMZLh0B92hGtHmbcQc0e-UdV7f7Ko-UmnFQe02TkQLheZh6WbNwXFDowHk68K3Q6gNi9VWK4OlmktQHVd5GYuEOI5FvNI24honPHS6y8OG8jjE_2Pn_TNVj62rkGn9qjaHVl_zIhVtyPSChB65QUDs77pVBQgE3wGJjtQ4VAMBPPs3edQO4nvguI0npws7iMemkV7Sk-BLpH4iFSb3wSgrwlNsN3bOqsMJlrDr-wzvURneg7ONrBXbu8XyiMjFwxjGWZ0U7vS80OwS1r0y1yW9h4HChaS8p0brRm6w57PJ84yGYyY5F3gEQ0It2vDG4Seb2EtQKPZqdCUpm1JgAUMERo5IN-m-Ii9_9pRpdT07REDC7KvxS65F4MGwRIQQ5-4pWh0RRVKLA-DQl-8PhoMtb34NRyv2sf8iXzp.m3u8
 #EXTINF:-1 tvg-logo="https://www.limontv36.com/gallery_gen/314cea1de7e0e690d4275dcec61d5ca2_590x373.png", LIMOM TV 
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
@@ -283,6 +285,8 @@ EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ca
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png",NOTICIAS Cracol HD
 https://www.youtube.com/watch?v=8XL8Qk4qzyA&feature=emb_logo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Noticias_Caracol_2017_entero.png",NOTICIAS Cracol HD
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://maxmediasa.co/images/logohd-03.png?crc=3861341833", Cantinazo TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
 #EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",RCN HD
@@ -799,7 +803,7 @@ https://vxlive.cdn.antel.net.uy/auth_livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXR
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png", CANAL 10
 http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/Canal10_URU-video=1480000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDA0bss0aR_SZcATNidLC8kNGbi4Jnivs1A&usqp=CAU", CANAL 11 PUNTA DEL ESTE 
-https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w1692392841.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjEgNDo0NjozNiBBTSZoYXNoX3ZhbHVlPXdIZXdjelhyVU5FTVlDblVDTkVMdGc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
+https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w1098497373.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8zLzIwMjEgNDo0NjozNiBBTSZoYXNoX3ZhbHVlPXdIZXdjelhyVU5FTVlDblVDTkVMdGc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0%3D
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 FUL-HD
 https://vxlive.cdn.antel.net.uy/auth_livesignal_896,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODk2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTIzNDkwOTUmcmFuZG9tPXloSVdheFRVZm8mYy1pcD0yMDEuMTkxLjE5OS4xMDcsNmU0OWE1YzU0NzU0ZGRmZGQ3ZTY0MTNmMDc5ZTM5NWFiZDkyYTVlODVjZDUzNGE5MDEzOGJhMjBjNjVkMzljMw==/vxfmt=hls/h_c41f1d8113bde6839b616e7cfeff5112/var1200000/playlist.m3u8
 
@@ -808,7 +812,7 @@ http://125.139.128.132
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjRo1R_4ht4X_o5teK2rd3p6VDPN1Eu5vM8Q&usqp=CAU", PAT HD
 http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg", BOLIVISION HD
-http://bo-bolivision-lapaz-live.ned.media/bolivision/lapaz.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyMTk3MDg0LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTkuNSIsIndoaXRlbGlzdCI6WyIyMDEuMTkxLjE5OS41Il19LCJzaWduYXR1cmUiOiJlNzM4NGU0MjM1N2E5MzhkOWI4ZWRhMDVkNjYzY2FiMGFhODc0Y2IwIn0%3D
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/C_fW2MT-N7FfWKH1n8zUsJ8_JNlpx12E3ii2JUC7Bo1zxe6phnF1CZegZx0gLRNvoV5P", PUERTO RICO
 http://127.0.0.1
@@ -1213,7 +1217,7 @@ https://5e7cdf2370883.streamlock.net/tdconline/_definst_/tdconline/chunklist_w17
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-10-TV-salta.png", Canal 10 Salta Sereno TV
 https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/avatars/119/5f996b8b1aa85-bpfull.jpg",Canal ETV HD
-https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/chunklist_b1600000.m3u8
+https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
