@@ -70,9 +70,9 @@ http://k4.usastreams.com/vitotv/vitotv/chunklist_w585930838.m3u8
 https://inliveserver.com:1936/8328/8328/chunklist_w2004779437.m3u8
 #EXTINF:-1 tvg-logo="https://www.norteinformativo.com/img/Logo.png", NORTE INFORMATIVO
 https://inliveserver.com:1936/8328/8328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2mke8kMjRbW8TxUbvfEmjW5T9S7SrjSEao4_9iQDx32A4xHMoX3bF0RtswUdm9iZWKGa=s85", COSTA BALLENA.TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UJxtY0N1V3Ws5WH2c0qWsiUlxTaX5oHxp322LFG38sI3bfe9IzVfkaWuOrO0W93R12T7=s85", COSTA BALLENA.TV
 https://panel.livetvvideo.net:1936/costaballenatv/costaballenatv/chunklist_w1833314676.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qWt56Vhs7nK_gtcXCefLHQpx5DqUsu5TLr74_EnEzt-CkP1PqZeMDibPrEqFTiHvkKfoiQ=s85", TVO OCCIDENTE
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/SM1AWyMwbvflCTK5g6lA2WhFAe47nTVHRfo80hHoG84WK1WaFFWHJNFeKPGiP5eSEI2xboY=s85", TVO OCCIDENTE
 http://k4.usastreams.com/tvoccidente/tvoccidente/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY", Antena Seis TV CANAL 32 HD
 https://5d4a00b8a0738.streamlock.net/8102/8102/chunklist_w80940675.m3u8
@@ -323,9 +323,7 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoIF1mLdpw5uH92HKX0KWY6D5qMHAcNtxgrDWDOd1mdAP1R6zk_iP8nanBj3FQpaZEaQNUzyNSB4n7KupqAG7SWGIH46yc8U06BR6XNWzx2jAYwyDlkMzyKbxFISn9K8LmilF5GhTPwJdqNrgqomBogk6E5LSGWzrWoPBPKpEvMG58X_kxLLm6zHgdpsJTrJPudcyQAnKiJtIUuCTtUl16gxYm56Sflfcdvu6EGGbEGVFZ0s5M9IvXchUFtYvNbCWI1z6J_GRYhSFz9A1AbxlVlN7SWVCWE4Migs-SLRuQI09pxwRzLv0xfxFBrewYmF59SE9mW3PjUjYcOk4NbWBYVL0gHS-PLSRTaga9zjyHpQvSOrAHJQgcZra3gGMcOxeeqekWiWrpHkTEX91eTh67yk9mFtfj4r-pDexwcftmAWZjvCpmUprlU_yNirAK92UHaJJWXIHwi5MSAL0EEh6UDxFwoDaNJPJMtw8Wy79nyAbXsebIEW2PiEFN3EjMLC139Z66kXl2Bd7teAo4efigwofNhpiRONhuzWjAT3vgVXNHD-nEOJcoqCtREViN-2wrov5jdwoTlmEu2eNqAZY6qqpuaLB4idwlbbcG-YQEGXqQ1NfkShgdJSKDtAHJEFzkJWxQYcUuL_KEKwukbdZEzGNW4dHLIIyA7lUXZCMLq3xMwlhwhLV7yt4aupuDKXFEBY0ZUU5GdFdWM6iQHIt4rENBxPnNCDlZ2HA0dJoQY1x0JJbQeLmY5psXq5ng9ZX0XpQOBYUb1RU6vMUkdkfHamw-w0LoS4i7id-4dVi8pRmz1A7jVJrHYhwz1dmzsXlCydgIgzI7GQqqzKKUOx6WS8hvgkEhBZxtIfWKvJCEBbo_FxFvSgGgxwQEOZxsautUqkiak.m3u8
-#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS ful.HD
-https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/6lvtai0wryyudh.m3u8?s=GISdX91OItCzOc5f24KUhQ&e=1612231994
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/6lvtai0wryyudh.m3u8?s=J9ahDlYEVbNF31VSi0M9Lg&e=1612487714
 #EXTINF:-1 tvg-logo="https://www.amedi.org.mx/wp-content/uploads/2016/10/programacion-imagen-television.jpg",IMAGEN TELEVISION
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg", TV MAR
@@ -423,7 +421,7 @@ http://89.105.194.59:25461/live/3sp$9Gh1/3sp$9Gh1/14.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER HD
 http://iptvhd.club:8081/televall2021/1710_.m3u8?token=8_XWdLBcnjKU9trIzh00tA&expires=1612476593
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER FUL.HD
-https://acortar.link/9n3im
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/117
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL-HD
@@ -501,9 +499,9 @@ http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/12.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HDHD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7g6Q18yGo9rDpGSLf_G0b2Dg5OuPXICG96_RC5fURWO01QA35zp82670GXZLjNUCVxNh=s85",TNT FUL.HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/NpwFG4h_9ztHwMe5Lpe6nYIb2s1OU-mCJ5TkVQinQ2nqglV4fr399Ky2QpUdzoiqYYAg=s85",TNT FUL.HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/110|User-Agent=tplayer
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7g6Q18yGo9rDpGSLf_G0b2Dg5OuPXICG96_RC5fURWO01QA35zp82670GXZLjNUCVxNh=s85",TNT FUL.HD
+#EXTINF:-1 tvg-logo="",TNT FUL.HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/110
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/13.m3u8
