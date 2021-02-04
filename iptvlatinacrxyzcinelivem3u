@@ -186,7 +186,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s", CANAL TVX HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoEFUde4wCI66b3Kq6Xi47yKcOD-Mw3BQk8ktd_EetULkwzO5RpR7nldUCRiQK-98Tq-IuTeWz-m_Rj2Oe719ui1B-iVyjk6HKRSXPy2YrJ_IjOAWqmsiD9-eiNnws7wCxz-cCD5XV_3OO1iYRs5LIWw1v6Z-PErX6yJRsZ-mTT_znr_cqZGA8DXChJTBK5bMVRqnd321d2cTyyQSgmHMGqMBDwZo7y24qUE0-nMuBF43c4dqUlCxVdPJ7a4VrwXXx1ByWoJfTvc3awsaSVTanZxQF0sllMCGso4zO2IbcGt16yOp1I6Gt_FffdUDAIAiTFsJWgHWKbWg_w7uRV5HZInbIt67IkaevqPSezoYrcK9dyu_ZCU3MIKz_4d2deKCUoaacgGxBs5K5q3gXDTG5ZZU-LLVmoI0nAYEcrpBbevFA35klNJP8fqpS3aVNGSBc7-tw1A4dvpsElUOTG5msHZQCaqr9KAy8nQH8R3AgNAGA0VNv9dcOjnECrm5fvhTo944EMTB7eGy5xl4J75Fbx7XX2-UUnOBzQ1MmgG4j3UrNwZmleeMAoZKzqHKRXRldz4krbb9_0C4m7umUpX4clNYURnkf9HuFy9i_PfXOpaKD0IjOQkH8LTsQ2FsxbvSf1U49iWa1vEbV6dPnEs8Elq0kU2oADH0nZE6LevTbbRtJ6XEWDaO0ohk5IVCiE3-BH9EUDJ6cxl6t3b_vfD7U8EtLj3_BfTsxI2ZU_P0qSF5Kz1xgxUzprMtOc5JtyQSopxaulIki2xreYQxfQFW66hq1C8MXJqf_YV1tpwvy-_9wFzRAJYsCjmODCxuJijoA5V8DCkl7MzzqJsrEtHi34oE30SENBOUONVVc86siV_H56yHrQaDAZOsE14hEp2eMvnFA.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAFTVP6JB8Cc_rZwQiD25ZU1fm07AkSHuTM3cBs5jURyCnNNIwg80mUTWTlGWEWvk2McttxgEajyZCC7QjdbwYUx-InwI0ZupHOX1MnK5KwAQCEBr_5entou-sDbl25op9GmzK0pRep6N5XXz6BK9zA_dT7E1SjwjUpUy9rYxu0k29UPl16GWYUimghz5SNFBnBEUGBZa2VCesci05Lz5cMxf7yNeilQ90x4VXkrg2glUL6nApaAoIDjScXebqstA6j3OId2eDpXateYFCAsjmaCHf3KR3hgjy5HJ62kG5tlwGg9AbZyGtjMEMdV827cDg3TMWYVs8jYN3E8rXBv_bDzybOnySY8Dpz7QOUHwWTisZmppKpPDufF4Pii1jDJ9TDKHY4m9MzM63w_swLBxcUnUS8ChO8lNP8OlWyz5K81l1YadH8B5OYGocghWopr6X_dXBQ8sNIHLR1hjN_C8dUtKCeEnvYW1M0XKXIYOXiH4g2GjyFrCUALqH5JYcl1CiW4avdHFu6wyytsiKbxjxWmfvcEhf9WgycVfyPtTcXtS-w6cYEwvs1VS0ZNC7VNmoVf41IZEDTsbJ4SgqNLsOdNpuVwG7gLRHqp0yTJ4Lc9Ef-qAq8_SucA5NRXo5EitM5ttEdune9ybY6YczK7OyO3ei5rAu7vATUAYJK-r-TJ9f2JUhpctwNe77gp2JLiwz4xz9awGd5vZXAYsmDtOhd0KPm9khfmqJw9PI2q4ATk1ArhQMA5h8oIfIGPVVV5KfgZa6A2blOYTEFqdMiV5oc4YEr_JDdcZMg-0BmnS51W_xkwPd_zoU_aEww8_Fyt9Pwsof3bBHmx5KuZByW-qqShhIQuz-Jplb8aWb6I7mM-exwkhoMTSNEefhJq2VH8K_i.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -425,7 +425,7 @@ https://acortar.link/YSFNV
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER FUL.HD
 https://acortar.link/9n3im
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/91|User-Agent=tplayer
+https://s1.dominiopersonal.xyz:2083/sinplayer/oTqq6GW0Ez/117|User-Agent=sinplayer
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReTowHWsTq1LE-bi4Ubbu1vdC8yZNICI1Hw&usqp=CAU", SONY MOVIEZ 
@@ -449,9 +449,9 @@ https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MULTICINEMA 
 http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
-https://acortar.link/ig5Eu
+
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
-https://acortar.link/mucg1
+
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 http://latvonlive.com:33612/Rico/1234/97
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
@@ -470,7 +470,7 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/91|User-Agent=tplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL.HD
-https://acortar.link/RWy9g
+https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/91|User-Agent=tplayer
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/100.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
