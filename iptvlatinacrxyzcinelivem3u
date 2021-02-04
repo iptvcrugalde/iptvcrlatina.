@@ -423,7 +423,7 @@ http://89.105.194.59:25461/live/3sp$9Gh1/3sp$9Gh1/14.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER HD
 http://iptvhd.club:8081/televall2021/1710_.m3u8?token=U1Fli1lO9h1WL4ggQ935hQ&expires=1612415633
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/117|User-Agent=tplayer
+https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/91|User-Agent=tplayer
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReTowHWsTq1LE-bi4Ubbu1vdC8yZNICI1Hw&usqp=CAU", SONY MOVIEZ 
@@ -467,10 +467,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/91|User-Agent=tplayer
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL.HD
-https://s1.dominiopersonal.xyz:2083/sinplayer/oTqq6GW0Ez/91|User-Agent=sinplayer
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL HD
-https://tv.teleclub.xyz/owen/USA-LAS-LISTAS-OFICIALES-DE-TELECLUB?latino=FOX_SD&format=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL.H
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CoUFpy_T2kEogwj6E9_-EkMxWPaA-J1fm0QnUemotctQIxkn3uBQj6_3SSI9bsD0RQ04-X-ZcgTubP7oZe9TGy8CnTD1kACCs9xPSUGseKGd_5txNWxTE3JQPyeVtSxPTzpJZmMQiUW5hGs9vxq3Rc1WxSEYNPyAcB10OwG6z0pZSVM9Wz6NN34WOrR3ogo7uePh2x6k88ur5yBhLJ4SU-dsQkEm7dIaTF3qRL9xEcwlCaX3MOS5nSCXAHSLfGI-8eNz9JDvjSx_p-XPRVIb5mfiEna2y3c6pBHNDE2LKsqw1_u-tIj7qGz5eXE4XCTxXU7nrDuNO5WySv5T35IOd0Y_7DmfhBFdmJhrbtKnmib-hoC6cZuuE7u7Q8rLlBb-z8EjJ5ZUBzmFmPXsW-Bs49iaEeYcvFz9wMtwPNRBhPySEDg-oNSK5HO0TfDnqeIdOhVd9H8M1f_rmHfOOrprxe17lvd5Be5F0dZJgftlWqWr_aYcotG-84qDwtd8UnjIp3fVXOlgqEmUmM5N9RQ7gCEDS_MRTSRWaoKGDTOU3VlGgaQto1cuHCkJbcohDs_op-oxwwifzGIPiqxhsf3Xqnqlg_ttZSWleG4y3XM8d7DZpIoQQdAC6u1pDJh345Z1aiwVnl4SH-A8JuWxdlpDT3hZFzMTQRbCXj1NIMkLQk1UhudkqBwsxseu1ppuHsz_zZui4XaovSSuClJ4ibcXriNSibghlb7532n7_-UMPgGzQrsPzdLAUy06ZWJ7PaqIcTl9OkR7SMSnsEHDiwiuRFfz7f-2ylYfQuoW2xkM2NRTHSQALM7obPDnLEsw7h9Nd7Or148rz6gJpit2ISWknbREKdx5P_JGEhDnA2TJcPwcG7v-cxRB8AasGgyKiF_yclh2WSZYfqc.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/100.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
