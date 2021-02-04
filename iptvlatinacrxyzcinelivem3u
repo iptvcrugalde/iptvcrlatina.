@@ -402,7 +402,7 @@ http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/35.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 tvg-logo="http://www.telebunker.com/img/lifetime.png",LIFETIME HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/96.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t4Ug-nq5GweVjIIk_WupR8MG17vcxkk06w972ozDVrwT3VG_S-ZiECsbTomw_gaNLZqUXQk=s85", GOLDEN FUL-HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/NpwFG4h_9ztHwMe5Lpe6nYIb2s1OU-mCJ5TkVQinQ2nqglV4fr399Ky2QpUdzoiqYYAg=s85", GOLDEN FUL.HD
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/7.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE GOLDEN FUL-HD
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/8.m3u8
@@ -499,9 +499,9 @@ http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/12.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HDHD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/NpwFG4h_9ztHwMe5Lpe6nYIb2s1OU-mCJ5TkVQinQ2nqglV4fr399Ky2QpUdzoiqYYAg=s85",TNT FUL.HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/wjEtSFu0_VKE_i8JGjxINN0RLwC6IP90cwtLX8x34Db_jjYBfI-aznFGunXKzSTN3rSq=s90",TNT FUL.HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/110|User-Agent=tplayer
-#EXTINF:-1 tvg-logo="",TNT FUL.HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/wjEtSFu0_VKE_i8JGjxINN0RLwC6IP90cwtLX8x34Db_jjYBfI-aznFGunXKzSTN3rSq=s90",TNT FUL.HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/110
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/13.m3u8
@@ -776,7 +776,7 @@ https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FT
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QO8cMnbx8NkkC2zXCJi1EMYS41VwJfMZNzU6EBrNJh1Q2VI7-2ObzWqXl__bciFL7aXi", HVN TV HD
 https://59ce1298bfb98.streamlock.net/hvntv/hvntv/chunklist_w351870078.m3u8
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", TELEFURO HD
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w727473190.m3u8?k=7395e25c9686910b920addf749d88f63e0da288cd8c7868ea478a7c8f215dfbe&exp=1612207028
+https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w58060744.m3u8?k=f652011ddbfc4b62885f88a2f6e4954d54cf64ddc794edeb7d223f7244eac7d4&exp=1612468972
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", Telefuturo 
 http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 
@@ -889,7 +889,7 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w578096294.m3u8
 #EXTINF:-1 tvg-logo="https://www.dantv.tv/images/dan-001.jpg" group-title="RELIGION",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.elmasacre.com/fotos/articulos/2018-07-02_8WM56MJr_400x400.jpg",LTV LINIEROS TV CANAL 36 HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CosFUM-078SPyd-ug-dKSkyEHpLEg4ctv--2Y2gYWgqQZ9bIBQViU4ksEVBZF43AiIf1eiryi7VGcZ7WUAG51Zg0y-k3I8XJyIZ_L8ZqfUZhLjzWKXmVxoKhTbcmA6g67pGxyh-dnkJRHCYEF5N-rHoQOMoIKHWOBnDFwhyrCHnVYKZDMN93DDmEoqqjeb4OV6zfEclCueAGJt4DNE6HyD1ncSfar9jPY3oR9-iTd1hS0vOUIqu2yxrxaJt5UBuKLUzfPo0Wh3tknBVqhXmJZdQFyCqdwY_b9KwtQQ85x4jRVDwLXjufQh334et_ilANyXBpko7Uv-nhGB1iH8QYxkQvr1rgU-Op0tqkNuxZrHncjABaauRzaI55kgO8bpeqxmFh_4IUIwHpRA15KAj89-IgSMNy7ZLe0LbWULoZSDOq7lggFTPwTTR3LmtL_SEaNPkE03l1DXT2bSWswsPcNdvV5rnAJPNW9A3kpzHCxUCURru7uAOhWZLvxYNv9ZXePt3YcUHdXcHq7m5e4Co_iwr3y2_YkwwPfnC6rsNbgsg74C89hbKtWxF7GCNGm2oLyKfIimHm2wIIjb1aLLlWrkopfWDL_GpWcU6Rnfp6Dkgok-8O885gB7V1RfwOcll0p8DU_JvfCqUojF7jQwXZPto5VS0DOBWAxxj3x4BjpPxVZcykDWG1lxROCQguk42BcQitT9IYkpN2gLGPBciIBmyRYCxeysXUc3GdJq2u-XaZgrzf5CTOK7uphTbVbIzzc0X5xs5mjLyUMfwIim7i778Ee4ywwOQhS13JcSjf371m42qTy8uwARNVkiefDoA-yyzAch84a9JCKtvEuoZ-fc4BrFlkrJcEg8yrVxhrEhBqg7EZnBPnig8C1FpMDH3RGgzgqopPn6NYO4A_Fe0.m3u8
+https://n9.cl/ltvenvivo
 #EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png", TELESUR CANAL 10
@@ -949,7 +949,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbGV2aXNpb25wcmVtaXVtLmNoaWxlX3NjcmVlbl8wXzE1NDYzOTc3MTZfMDY2/screen-0.jpg?h=800&fakeurl=1&type=.jpg",CHILE
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg", CANAL 3 LA VICTORIA
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpwFlhbx2SZMvSl6JSCvlL-AKaho1AAkq39PZlsF_R87qqgxoZBe5mmebG4D_fPahpDqS-JqdXr4QpQcbtEKpK4811UbPhGpq4wMGrVhKWJRb7ZaeN7cOj380cT-EGKldfehanyYM-8IuhuLorQI27ZPdjMQi9RX6KgozdkUSEkcTZIYXxi3dK8M6ker-u_PuKuk4VxiUSWOBHzk44x8iFwaf9NRAj4VHHIOzvnojAWPVLowWQcgcuONH8nL3ZreIKbboREeuZw7aa8X1qOGazBgeiOUaDqIYd2y9e5s1hpMwGvHSNFHaUM2Os0_r1miTmR9g9LFponKx0HzzWdBEC7PotY1ZgxPDTQ5d5F1MeePSQdrcqzhn4G0gLxQgosD9cHrSL3-YIzfDdwwGb1jZTeZBBp1YZIHR5a86ASZYwFgFGHopD34Ur2ZQAeH1CEbcXFNDdLZ0nlEgwkzbFLcKsUqluhbBoiujN-faI45XgQcGryIl7rLyXlwrKjilyem6r3Fyzk9kxkJnJCBpcpEUf4AEN-Eq9-XNMx68xnw9B-cwtagvUAfBT_Q4-BDA3AI9-Tq3CY6XDDaBmibUix8VqJzGcaEoTdDX6eu1MR9O1Zq8teYgLmEFDt5htWbkQNbiCMZ1fIrZgs-7JiXD6K3Azt01S-0vPjWS0shPCPYdNvj4o2ADwOrGkHThq8ZuMXIDhUPywj0_ghmZnFUKJRdbTMbG-nsQoS1AcZhuM310yXkm-P3pAey8bnsuxLiqyNEvYTNeViU9fNaKsab9BZIQDiIiEUho23cwYezqAPUkSAar_LkaHVZjEQ9PnGV9UMDPPUIR88B6pOfTEhOnEzBJpo3ab0vFK0J0oBjmoN7CgMJd_evkiWT_n0hcoeQxWUSEFbBvUWnd4Z9gu4I0p6oaBEaDC3Fo269lyqyCfiafQ.m3u8
+https://n9.cl/canal3envivo
 #EXTINF:-1 tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png", U ESTV 
 https://tls.cdnz.cl/uestv/live/chunklist_w168368058_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fsjo14-1.fna.fbcdn.net/v/t1.0-9/126361202_180026980391608_5834011315785749869_n.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=Uk7hZcZ2KY0AX9skCO9&_nc_oc=AQlSYGVsnETHM29KsCq6x945NUVF7VJ2ZY9wouQ-Ud989z51_8Z-vQaKihZhzEa7y_0&_nc_ht=scontent.fsjo14-1.fna&oh=d6bf81bdb6758e03192be242f5948b84&oe=602FF862", ESTACION TV HD
@@ -979,7 +979,7 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png",TV POP 
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2019/08/la-red.jpg", LA RED HD
-https://cl-lared-lared-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExNzIyMjQyLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuODgiXX0sInNpZ25hdHVyZSI6Ijg0ZDA0MWQxMTc0NGY1ZTY5MmYwNDlmY2FkMWJhNzIwZGJmMjQ3MmIifQ%3D%3D
+https://n9.cl/laredendirecto
 #EXTINF:-1 tvg-logo="http://cl.heytv.org/wp-content/uploads/2019/04/VTV-Valle-de-Aconcagua-webtvonlive.com_.jpg",CANAL VTV VALLE
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/998322332992061441/-5x2rRt8_400x400.jpg", TELE SUR.TV FUL.HD
