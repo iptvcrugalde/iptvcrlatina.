@@ -499,10 +499,10 @@ http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/12.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HDHD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/wjEtSFu0_VKE_i8JGjxINN0RLwC6IP90cwtLX8x34Db_jjYBfI-aznFGunXKzSTN3rSq=s90",TNT FUL.HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xNmIb6wjBvrdOPGa-nx9bJyy7IC6UnLoKALyXkBGT88od4oJrXoEul5uLnMSg6fQqSgfCQ=s110",TNT FUL.HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/110|User-Agent=tplayer
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/wjEtSFu0_VKE_i8JGjxINN0RLwC6IP90cwtLX8x34Db_jjYBfI-aznFGunXKzSTN3rSq=s90",TNT FUL.HD
-https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/110
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xNmIb6wjBvrdOPGa-nx9bJyy7IC6UnLoKALyXkBGT88od4oJrXoEul5uLnMSg6fQqSgfCQ=s110",TNT FUL.HD
+https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/110|User-Agent=tplayer
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/13.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE FUL-HD
@@ -535,7 +535,7 @@ http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 http://127.0.0.1:34611/http/uruguayiptv.com:25461/leandro1/leandro123/139
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/895.png",DIRECTV CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2g5U9hzqkLHwybG3FqbGqWuuYViRPfmEwXV3DJKkRMsKjGkRaKgYlIVAkrRHmRt5UJsy=s85", bloody
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ea1Zk-JQ-0X6RdCMkwxB7_GylGghf6kt7NZ35NRj765ADQIBmFs_bvcp4xIMqDIEkujYqA=s116", bloody
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/3f/ec/fe3fec00bbd6e6d98fb18dce16a5c8f7.jpg",CINE MOVIES FUL-HD
 http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/1204846.ts
