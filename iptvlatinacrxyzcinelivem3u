@@ -465,7 +465,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL-HD
+#EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/91|User-Agent=tplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL.H
 https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CoUFpy_T2kEogwj6E9_-EkMxWPaA-J1fm0QnUemotctQIxkn3uBQj6_3SSI9bsD0RQ04-X-ZcgTubP7oZe9TGy8CnTD1kACCs9xPSUGseKGd_5txNWxTE3JQPyeVtSxPTzpJZmMQiUW5hGs9vxq3Rc1WxSEYNPyAcB10OwG6z0pZSVM9Wz6NN34WOrR3ogo7uePh2x6k88ur5yBhLJ4SU-dsQkEm7dIaTF3qRL9xEcwlCaX3MOS5nSCXAHSLfGI-8eNz9JDvjSx_p-XPRVIb5mfiEna2y3c6pBHNDE2LKsqw1_u-tIj7qGz5eXE4XCTxXU7nrDuNO5WySv5T35IOd0Y_7DmfhBFdmJhrbtKnmib-hoC6cZuuE7u7Q8rLlBb-z8EjJ5ZUBzmFmPXsW-Bs49iaEeYcvFz9wMtwPNRBhPySEDg-oNSK5HO0TfDnqeIdOhVd9H8M1f_rmHfOOrprxe17lvd5Be5F0dZJgftlWqWr_aYcotG-84qDwtd8UnjIp3fVXOlgqEmUmM5N9RQ7gCEDS_MRTSRWaoKGDTOU3VlGgaQto1cuHCkJbcohDs_op-oxwwifzGIPiqxhsf3Xqnqlg_ttZSWleG4y3XM8d7DZpIoQQdAC6u1pDJh345Z1aiwVnl4SH-A8JuWxdlpDT3hZFzMTQRbCXj1NIMkLQk1UhudkqBwsxseu1ppuHsz_zZui4XaovSSuClJ4ibcXriNSibghlb7532n7_-UMPgGzQrsPzdLAUy06ZWJ7PaqIcTl9OkR7SMSnsEHDiwiuRFfz7f-2ylYfQuoW2xkM2NRTHSQALM7obPDnLEsw7h9Nd7Or148rz6gJpit2ISWknbREKdx5P_JGEhDnA2TJcPwcG7v-cxRB8AasGgyKiF_yclh2WSZYfqc.m3u8
@@ -610,7 +610,7 @@ https://s1.dominiopersonal.xyz:2083/sinplayer/oTqq6GW0Ez/86|User-Agent=sinplayer
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
 https://s1.dominiopersonal.xyz:2083/elplayer/bIjmhB0cyY/86
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
-https://s1.dominiopersonal.xyz:2083/sinplayer/oTqq6GW0Ez/85|User-Agent=sinplayer
+https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/85|User-Agent=tplayer
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://89.105.194.59:25461/live/1mov$!GI/1mov$!GI/24.m3u8
