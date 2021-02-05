@@ -382,7 +382,7 @@ http://ipeteve.com/php/t121220/mc.php?c=34&f=.m3u8
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/azcorazon.png", Az Corazon HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/41.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwZdcgk5yXBJ4z925EHlVoQpzaaj_cAylbDcneFBlpd5uETgQaGRQ1R2nfNZUiWcvx71=s170",AZ MUNDO HD
+#EXTINF:-1 tvg-logo=""https://lh3.googleusercontent.com/XFJBSHXterzYbd8K7nAor4WL1CF6ej_iWo6Ysyi76V68cBi4qng6tfSYxB0qjgz69Kxawg=s170, AZ MUNDO HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/38.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
 https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
@@ -723,7 +723,7 @@ https://acortar.link/KjOnE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png",EURO CHANNEL FUL-HD
-http://iptvhd.club:8081/televall2021/1700_.m3u8?token=ZfyVlc-LqlAdKXu3Y5SeNw&expires=1612476375
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/53|User-Agent=tplayer
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
@@ -778,7 +778,7 @@ https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FT
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QO8cMnbx8NkkC2zXCJi1EMYS41VwJfMZNzU6EBrNJh1Q2VI7-2ObzWqXl__bciFL7aXi", HVN TV HD
 https://59ce1298bfb98.streamlock.net/hvntv/hvntv/chunklist_w351870078.m3u8
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", TELEFURO HD
-https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w58060744.m3u8?k=f652011ddbfc4b62885f88a2f6e4954d54cf64ddc794edeb7d223f7244eac7d4&exp=1612468972
+https://acortar.link/FcG58
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", Telefuturo 
 http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 
@@ -1070,17 +1070,17 @@ http://51.210.199.15/hls/stream.m3u8
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/9419
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/QI7ZMUIBhqjaSgWjJILbXjpCSUnBu_ImlF6L0pavflGobZQ6pgf7S4bl0s4DDd_FZv_oLg=s114", SUPER CANAL HD
 http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w101413378.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/kMQqUWLIxn-WBLd8gK6Kqhi8Z4sp_SPiKmeZXkoiXnJ_S9XdtvM8Bq2_jwTaNG4cOy_O=s138", MIX CINEMA HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JqX9g9tMGgEwSTqEAi_g8o4zYAq14HX5lawXUDBc_tvO8OTLu6gYyy7kQ1edcd2r6O7V=s138", MIX CINEMA HD
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/131
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/pEA5t6D5E9_N7PuP8Eu4sHUBupBXhwBNfh4kdaoGvYopleXqvlFMAeIOk7Pcbw9CaTXSvw=s135", Mix Action
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/TgStCxdwyqO6Tc49QX52y19HGGCN9TgD4HOT4xtx2a6WzHg_MtpiWLFr5mCRZt4d3sD8bE8=s135", Mix Action
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/117
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UPsfOUJpLgKjtF939eerwzCEtlSNgBZVvzN4txRcUUa9oMIflJ2IxNHzQhfDBQrQ57FoDms=s112", Mix Mystery
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/I_74bG7POahHTVJFNQblQGe6lH5wAnmWv4wUC8DsP1O9ETFT8mOyKRNc_42zJ4P6Gf9s=s112", Mix Mystery
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/159
 #EXTINF:-1 tvg-logo="https://elwekalanews.net/wp-content/uploads/2020/07/images-2-6.jpeg", Majestic Cinema
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/48 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/P_wWnuZzn3cmJiArzZTLl_UHAvkMcBldcCU1xBPZb94oP1-ynmjsIw8xFMItOEa9hTtjAw=s170", XGOLD 1 Kino Dark HD AL
 http://yeahiptv.vip:8080/VALERIOSMARTSTB/yfcyjp0xkd/10214
-#EXTINF:-1 tvg-logo="https://1.bp.blhttp://yeahiptv.vip:8080/VALERIOSMARTSTB/yfcyjp0xkd/10214ogspot.com/-38yzIWih3nc/VSBQLGXZVII/AAAAAAAAET8/vyEQOr7lxR8/s1600/canal-45-tv-1400346428.gif", CANAL 45 TV
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Ja%C3%A9n.png", CANAL 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyXKRWaD-KP7geIaWZucbJCLFc0SDrjbKbIA&usqp=CAU", DISTRITO DTV
 https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
