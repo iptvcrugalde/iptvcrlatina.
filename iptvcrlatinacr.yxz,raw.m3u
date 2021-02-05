@@ -726,9 +726,9 @@ https://acortar.link/KjOnE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png",EURO CHANNEL FUL-HD
-
+http://iptvhd.club:8081/televall2021/1700_.m3u8?token=KNd8E4w-fFJukJ32RAiSHA&expires=1612580047
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
-https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/53|User-Agent=tplayer
+https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/53|User-Agent=megaplayer
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/369
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
@@ -1660,7 +1660,7 @@ http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/MTV_Classic_2011.png/245px-MTV_Classic_2011.png",USA MTV CLASSICS HD
 https://teleclub.xyz/tele/canal?tele=MTVHITS_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://blog.roku.com/wp-content/uploads/2016/04/VH1-logo.png",VH1 HD
-https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/101|User-Agent=tplayer
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://blog.roku.com/wp-content/uploads/2016/04/VH1-logo.png",VH1 HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/1813
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_vh1-classic-usa_m.png",VH1 CLASS HD
@@ -1797,7 +1797,7 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_2/MLBN_FAUX
 #EXTINF:-1 tvg-logo="https://www.noticiasaldiayalahora.co/wp-content/uploads/2017/09/Noticiasaldiayalahorashare.png",NOTICIAS
 http://127.0.0.1/
 #EXTINF:-1 tvg-logo="https://scontent.fsjo14-1.fna.fbcdn.net/v/t1.0-9/46125895_2217053478305789_4406861325888651264_n.png?_nc_cat=1&ccb=2&_nc_sid=09cbfe&_nc_ohc=uxcWS9umh0sAX9hvR2v&_nc_oc=AQlBao0yHQFyCD3Aj2R6mxZT6YaWS5_A9bGylpXivgbShwKbsbjs53ZYMWlqJJatex0&_nc_ht=scontent.fsjo14-1.fna&oh=c4b8d367f48800c7e2f0c910724a0744&oe=602F919C", VOZ DE AMERICA
-https://voamedia.voanews.com/hls/p/2446332/sp/244633200/serveFlavor/entryId/1_gfi75pni/v/1/ev/6/flavorId/1_ucjbyjmp/name/a.mp4/index.m3u8
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-1BRJACGDVI8YfRaNMMB03Bt-I2jfhLxRD69Ciah3J4O7sLDG",TN 23
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
 #EXTINF:-1 tvg-logo="https://www.oneworldmedia.org.uk/wp-content/uploads/2017/01/sky-news.jpg", Sky News
