@@ -20,7 +20,15 @@ https://www.youtube.com/watch?v=YTYn6iLVPx4
 #EXTINF:-1 tvg-logo="https://iptvextremecr.com/images/1-logo4.jpg",EXTRIME CR
 https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0584.m3u
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =La lista es gratis, Donaciones Paypal:  es una recopilacion de enlaces publicados en Pastebin.com!=
-#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =Mexico - Latinos - Noticias - España- Infantiles - Cultura- CINE - Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =Mexico - Latinos - Noticias - España- Infantiles - Cultura- CINE -
+
+1
+
+#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
+
+2
+
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml" Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJdbE6lh-DvUr5187cZJ4OwxyA0VXsxbWE5Q2JzFyrrTS5DSTx", REPRETEL CANAL 6 FULHD
 https://ya.co.ve/Fug
@@ -65,7 +73,11 @@ http://k4.usastreams.com/guapilestv/guapilestv/chunklist_w1961246345.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080",TELE UNO HD 
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xsf6rrPqkTo/W-9raD0P78I/AAAAAAAAAUA/M_N3gE7Hz_Ekk2du-HCN6ES31PZtc714ACK4BGAYYCw/s1600/tvcartago%2Blogo%2Bprobincial%2B.png",CARTAGO tv 
-http://cdn2.envivo.win/HLS/?canal=zonafilmstv&c=ZwNjYwRkBF4kBQLhZmt=&p=ZGH4AGD1ZGtjZN==https://59ef525c24caa.streamlock.net/tvcartago/tvcartago/chunklist_w1703137278.m3u8
+http://cdn2.envivo.win/HLS/?canal=zonafilmstv&c=ZwNjYwRkBF4kBQLhZmt=&p=ZGH4AGD1ZGtjZN==https://59ef525c24caa.streamlock.net/tvcartago/tvcartago/chunklist_w1703137278
+
+42
+
+https://acortar.link/aiwGH.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-5-stv-en-vivo.jpg", STV CABAL 5 SANVITO TELEVISION HD
 http://k4.usastreams.com/vitotv/vitotv/chunklist_w585930838.m3u8
 #EXTINF:-1 tvg-logo="https://www.norteinformativo.com/img/Logo.png", NORTE INFORMATIVO HD
@@ -417,11 +429,11 @@ http://89.105.194.59:25461/live/3movl!R1/3movl!R1/14.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://89.105.194.59:25461/live/3sp$9Gh1/3sp$9Gh1/14.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER HD
-http://iptvhd.club:8081/televall2021/1710_.m3u8?token=bJHL27z9kOsJmM-di-KfhA&expires=1612495079
+http://iptvhd.club:8081/televall2021/1710_.m3u8?token=kJLNOJnAS7iIAeRuMfnrQQ&expires=1612558635
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER FUL.HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
-https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/117|User-Agent=tplayer
+http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1487
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/117|User-Agent=tplayer
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
@@ -447,9 +459,9 @@ https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MULTICINEMA 
 http://tv.latintvweb.com:25461/live/tory/zAldZUTOZM/1918.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
-http://iptvhd.club:8081/televall2021/1867_.m3u8?token=41qAw8H5PPZf3WKLbZZcfQ&expires=1612495220
+http://iptvhd.club:8081/televall2021/1867_.m3u8?token=GnE-IcP4pb9NfcCUum2w1w&expires=1612558432
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=9mk-YDwhSAbtHxeszJFaFQ&expires=1612495277
+http://iptvhd.club:8081/televall2021/1614_.m3u8?token=DU-60xdup-F2BahJQ_LXvg&expires=1612558501
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 http://latvonlive.com:33612/Rico/1234/97
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
