@@ -169,11 +169,9 @@ http://www.lengua.com/anthems/Panama.mp3
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="PARAGUAY", Unicanal
 #EXTINF:-1 tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/Emblema-TELEMETRO-.jpg", TELECENTRO CANAL 13 HD
-https://acortar.link/NEXlv
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC TV 
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC
-https://vivotvhd.com/Panama/1407/RPC-TV.htm
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dfa1f6bf-3760-4b79-8f4e-2fcf956444c6-profile_image-300x300.png", BTV PANAMA HD
 https://5fcbeb2219aa3.streamlock.net:455/btv/btv/chunklist_w1650351897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="PANAMA", Nex CANAL 21 HD
@@ -188,7 +186,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s", CANAL TVX HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAFTVP6JB8Cc_rZwQiD25ZU1fm07AkSHuTM3cBs5jURyCnNNIwg80mUTWTlGWEWvk2McttxgEajyZCC7QjdbwYUx-InwI0ZupHOX1MnK5KwAQCEBr_5entou-sDbl25op9GmzK0pRep6N5XXz6BK9zA_dT7E1SjwjUpUy9rYxu0k29UPl16GWYUimghz5SNFBnBEUGBZa2VCesci05Lz5cMxf7yNeilQ90x4VXkrg2glUL6nApaAoIDjScXebqstA6j3OId2eDpXateYFCAsjmaCHf3KR3hgjy5HJ62kG5tlwGg9AbZyGtjMEMdV827cDg3TMWYVs8jYN3E8rXBv_bDzybOnySY8Dpz7QOUHwWTisZmppKpPDufF4Pii1jDJ9TDKHY4m9MzM63w_swLBxcUnUS8ChO8lNP8OlWyz5K81l1YadH8B5OYGocghWopr6X_dXBQ8sNIHLR1hjN_C8dUtKCeEnvYW1M0XKXIYOXiH4g2GjyFrCUALqH5JYcl1CiW4avdHFu6wyytsiKbxjxWmfvcEhf9WgycVfyPtTcXtS-w6cYEwvs1VS0ZNC7VNmoVf41IZEDTsbJ4SgqNLsOdNpuVwG7gLRHqp0yTJ4Lc9Ef-qAq8_SucA5NRXo5EitM5ttEdune9ybY6YczK7OyO3ei5rAu7vATUAYJK-r-TJ9f2JUhpctwNe77gp2JLiwz4xz9awGd5vZXAYsmDtOhd0KPm9khfmqJw9PI2q4ATk1ArhQMA5h8oIfIGPVVV5KfgZa6A2blOYTEFqdMiV5oc4YEr_JDdcZMg-0BmnS51W_xkwPd_zoU_aEww8_Fyt9Pwsof3bBHmx5KuZByW-qqShhIQuz-Jplb8aWb6I7mM-exwkhoMTSNEefhJq2VH8K_i.m3u8
+https://ya.co.ve/8op
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -858,7 +856,6 @@ https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/138.m3u8
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png", Antena 7 HD
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b296000.m3u8 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Imfdu7EIPEKO8em81Z7axvgCCORz7DREbFrprfPAU9j2EnMdtyRWcu2-CeT3pKf2u04=s180",Venezuela TV
 http://www.lengua.com/anthems/Venezuela.mp3
 #EXTINF:-1 tvg-logo="https://secureservercdn.net/45.40.146.28/1xm.7a5.myftpupload.com/wp-content/uploads/2020/07/New-LOGO-TVF-1-300x300.png", TV FAMILIA VENEZUELA
@@ -1057,7 +1054,7 @@ https://d2nvs31859zcd8.cloudfront.net/ace05a1dc218709a2459_canal2noticias_399118
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png", CANAL 23.TV Mazatenango
 https://stream.oursnetworktv.com/latin/canal23Tv/chunklist_w637481463.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c3a974bc-e113-4ec0-bab1-dfcf508485a4-profile_image-300x300.png", CANAL 29 POPAYAN
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpcF2JUMvBY5DWDLDHtlh0YziTnbkuUTTtRAciOMuSHfDwZccgaPRcphGXfgc60sJ6_BNehr7srYThuMZlEvAJCzI5XoHrUDtufNp7Hs5vgrH0Pw_UqA6WDQduDVDTn1CZ5c_ZiayuYXiSxRNSn1sKjJvphY3eGeLu5fCCodtNcX_b_FR5fXHzHv6Bg6-HZLFRIS2t82rKE6ShjN7O4VyeV-2-fI4eHzbr_hpf10vGj_ezDDkQxMJXg_o7ZzVAb0tnQKNf9lv4SMoZOVJPKX_suqd-TwVyBoHBADVDC5b32G-2d6xxFTZdprEEK89TSXRM3Cyyqq2ZbIH-UOzJmB_60in6PB20X5ZR3ue1AWof81Li8YubfzXMCKjEw7LP4kczk-UVuD5251GuY-qwba4Z2sFA5G_XH7b_a_cGEvtV_9AOkzFSte-IcgMlxYB9i0IRv2uaGNKy2GQ9YbXi5duZVkFXEtFWftgrLhVwrM_Ov97KsvGSKK-CqOIaigk9sGPYaV9NHv-ZzN-Pjkf1FuQNKuiZI4oL_r_8orAHQfErZwaTjAAFL3BoipOdQs6RKi3a3hNY3A12O8blWy65z31bVMV3V9kWrRCoF0jtJlqwwIGNtCq1PyQqIDN6MV_-GdByreUEKlurbikLTNWUpqptY495obets10JMBfvILMUJQKXtPObDhGUK1c0GJOh0wbEh06mYqOIa5bBxfiowc0BP2Hke2kQQ-pi7Nucy1KAj5pqp_k1mfNZD7sNnZDGwrrcLbN0smvvMSmtjnrXdNuIZaeaRuRJCERIsAhH1ZJEk5UBrmLcKFS_Kdl8d6pi48DtWalBEVQa8leavI580rFwSK3MESgZUQM_QX2zownD5Nni8KrsaYgHPhEhD8kir18Pul-L_XJqV1O2CPGgzVK9BPfL9JXU2A5qY.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ae-dubai-one-6158-300x225.jpg", DUBALONE
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
