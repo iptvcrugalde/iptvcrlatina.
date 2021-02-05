@@ -988,6 +988,10 @@ http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sXW7Wqi6gFkisBcA1vOkiamCSUcVTuUuBVMKt7d0CBjaY2qvgoohTc87fbFJU4ElYrjvpA=s170", TVR 
 https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/x4cXJA-7wJfTaKdqh6Wc0B8YqbdcHXwTUkb08a8zxjOWpMY9bWPId-ah410Q80plJd5fBQ=s151",FMH MOVIES HD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/x4cXJA-7wJfTaKdqh6Wc0B8YqbdcHXwTUkb08a8zxjOWpMY9bWPId-ah410Q80plJd5fBQ=s151",FMH MOVIES HD
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/vT9dJdb6YDTLStFMVEDpnm9U9WzdPAT27oVSWUVHqEeIkUU0zAoMytY72aggmxbgcA=s180",ECUADOR
 http://127.0.0.1/
@@ -1011,7 +1015,6 @@ https://youvideostreaming.club/hls/tvec2.m3u8
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/39b789_6585db34b47345e19d3c5453fefbb6af~mv2.jpg",CENTRO ECUADOR HD
 https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cdc6843385b86ce/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/radio-television-vida.png?fit=600%2C360", CANAL RTV
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",CINE TV
 http://127.0.0.1
@@ -1221,9 +1224,6 @@ https://clientes.videostreaming.ar:19360/openradio2/openradio2.m3u8
 https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv
 #EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
-https://liveingesta118.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña" tvg-name="etv",etv
-#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://diretele.com/wp-content/uploads/2019/03/MarTV.png", MAR.TV
 http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
@@ -1313,7 +1313,7 @@ https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU", MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/cp0/c16.0.58.58a/116266515_140950950965878_3169921898822342648_n.jpg?_nc_cat=111&ccb=2&_nc_sid=da31f3&_nc_ohc=sQo40W4_F8cAX8xw6px&_nc_ht=scontent.fsyq1-1.fna&_nc_tp=29&oh=97c8da89b53f4b4a504044b1db8f62e9&oe=6019B28A", VITATOTV HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/3ukLoneFe7-2m5908AU54juSNJQo1Ep1pfHPIh05QRU_S1y76roTIluDyIduvRyhpXyUuw=s90", VITATOTV HD
 http://cdn2.envivo.win/HLS/?canal=ayetv&c=ZwNkYwR5ZF4kBGthAGp=&p=ZGH4AmV0BQL1ZD==
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK CHANNEL HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
@@ -1322,7 +1322,7 @@ http://crownmediaingesttest.akamaized.net/hls/live/2012246/mm/master_664k.m3u8?h
 #EXTINF:-1 tvg-logo="http://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8.png", CANAL OCHO SAN JUAN
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1932/terror_mania.jpg",	TERROR MARIA HD
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/Co8FtYd9KYwK7vSUw67_rWZt09KOcDCIkNrzZ4AKHzXIb0aE99wuXs50dBwabF9Y7_hd426CrSWC_URNSPURn1vJgdaKvp_56CUiGEtqzT5qMqEsKChKtGFMS2aPqiBRPLdoy3P59aBaUzHIoHJYwSetjBDE1OjqZB37nloDhMBqmj3iehMZKtPtBPcLFs69HwVEoL384yhsIEVSLZkKYlMBRdiCD4mnAYvclK3IzXnGQLteCecqJF3iDTksIs2w7WNDAsAbMUoqtiZKJwI3bboXrXYuCDHWuSmAMOTSfH_evG8BBH3nvsTof1BOgBC04HAi9MlitoEe5o0mNZmk4ZjRevb7wJVWUhOkvgZjCL0AkyGFc0RCUxwWkgXKItFkf8zax5pZimc2ehL916HJIl-Q-ktcpEhCHgILS7EVGcR4673LX8hd04vMAL28hgY57pPZY-G-HMMm4JeYvbhwS9PkPkUG9b5hcoZgbQegzFpWlgQMDnsaNs477BJBmSApIYzH9OQXrhOexNuMVdTyZfSeCZHwGQAKtUk4H3i7wDerTG27c6jccS1iqP2YHOfmjpgqo9LleTgnrT7osuccozwTFBZBnq1nLjbH1lfet5-bxaex7ywmIyuGO-K4dYSHRte_1jGibfhCy4bcM-gqS2Bb8p2cHVyjs1kKA2YERsQPEBSw-1o7QFR249Y1C_VNi61oSqBGldtieoyql_66cYoSjOmwhVOZNQ9x-NKlG_43mDlFVDdmFSfJPLfksA2fCbTrXlNDxKnScCwfYXrn2mlAJGj8rO1R9aEq_IG4bEXXbjV9HtWR_MrUMn1zyCOuR1Z4K1rIlIo-77ut8P3kaMWbYpymDPQZtQbn5WaeudnyKBIQAxzyfkXpRCZDPzUcERfX_hoMoiXKPLBM0OIEv3Yc.m3u8
+https://acortar.link/U3l2A
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d2d645e9-a373-49e7-99a6-4b6fa08013d1-profile_image-300x300.png",KATY HD 
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png", TV CLASSICS
@@ -1374,10 +1374,6 @@ http://photocall.tv/lF4r/ftv.m3u8?ch=film4
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9PfHZmFm9_WL4vcIbnJOjtInDXo2G9LE7boXzehTcgVbdDACH",ONE tracers
 http://162.255.86.122:25461/live/DAZPLAYER/versionweb2019/640.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RpLRQqsp3feQqpcUVHzhbKIob01tipQUWJDSqq8Z7OvrXV2X3EZ9T2pw6NOLR6NXoDL9HA=s151",FMH MOVIES HD
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RpLRQqsp3feQqpcUVHzhbKIob01tipQUWJDSqq8Z7OvrXV2X3EZ9T2pw6NOLR6NXoDL9HA=s151",FMH MOVIES
-http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://k37.kn3.net/taringa/4/4/6/3/7/6/5/lau22manda/A5D.jpg?4425",INFANTILES
 http://tvpremiumhd.com/channels/tvpremiumhd.mp4
