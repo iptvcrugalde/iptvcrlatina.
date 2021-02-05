@@ -890,7 +890,7 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1260598310.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w578096294.m3u8
 #EXTINF:-1 tvg-logo="https://www.dantv.tv/images/dan-001.jpg" group-title="RELIGION",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.elmasacre.com/fotos/articulos/2018-07-02_8WM56MJr_400x400.jpg",LTV LINIEROS TV CANAL 36 HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066687836445990912/XM67Xmp5_400x400.jpg",LTV LINIEROS TV CANAL 36 HD
 https://n9.cl/ltvenvivo
 #EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
@@ -1018,7 +1018,7 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cd
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",CINE TV
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/135492308_208570100870629_8390498080498603752_n.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_nc_ohc=CgU_0NdWwDsAX8pAX3u&_nc_ht=scontent.fsyq1-1.fna&oh=62883ef9cbaf0d5db479d00a86fed4e3&oe=60181EEF", RED.TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ufhDnV_WL0hPGfFf-WxVkRE7BgMgQozsb3nhacO7APlcuO9IE3NjMJmcjz9EzrQ6OyB9Cw=s105",RED.TV
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1692526373.m3u8
 #EXTINF:-1 tvg-logo="http://canalmundovision.com/wp-content/uploads/2017/06/logo-mundo-vision-1.png", MUNDO VISION TV
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
@@ -1567,6 +1567,7 @@ http://16083.live.streamtheworld.com/CARACOL_RADIO_SC
 http://20823.live.streamtheworld.com/LA_MEGA_BOG_SC
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREPSGCete_P_2LlDd8W7avRPyEDVXpS0hoOVDxsZJqltVzOi9R", Radio Tiempo Medellin
 http://i50.letio.com/9100.aac
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/mujJ9DRlSaio6Bw_seFEH0FkjuRp7i1zuQ9T5IZYG8om2PrlZS6Jo4jSYEaBsxJ0MQ=s180",LA FM 92.9 COLOMBIA
 http://live3.rcnmundo.com/lafm.mp3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/cGKvLA6ejGgfQXtLLfg6Amf_jIPy4KOB5NleC4Fc7LgrMZFB6kVBZN6XTPU19aMTFbI=s180",RMS ONLINE
@@ -1678,7 +1679,7 @@ http://fms.105.net:1935/live/105Test1/playlist.m3u8
 http://www.iptvmexico.xyz/pony2/2032.m3u8
 #EXTINF:-1 tvg-logo="https://www.portalpolitico.tv/sites/portalpolitico.tv/files/photos/noticia/46_16.jpg", MTV
 http://89.105.194.59:25461/live/1musK5I$/1musK5I$/97.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/66/MTV_Hits_Logo_2011.png/120px-MTV_Hits_Logo_2011.png", MTV Hits FUL_HD
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/66/MTV_Hits_Logo_2011.png/120px-MTV_Hits_Logo_2011.png", MTV Hits HD
 http://127.0.0.1:38588/http/158.69.199.21/clarotv/claro.php?calidad=4&canal=762289&f=.m3u8
@@ -1835,7 +1836,7 @@ http://www.iptvmexico.xyz/tv1.php?calidad=05&canal=TRU_TV_HD&token=494922/320.m3
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple19/v4/6a/5e/78/6a5e7862-acd6-80b4-579c-e3fbf845fbf8/source/512x512bb.jpg",PROMAR.TV                                                                                  
 http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
-#EXTINF:-1 tvg-id="UnivisionTelenovelas.us" tvg-name="Univision TLNovelas SD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision TLNovelas SD (US)
+#EXTINF:-1 tvg-id="UnivisionTelenovelas.us" tvg-name="Univision TLNovelas SD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision TLNovelas 
 http://tvla.xyz:80/wbnnpnrq/6g4f4OEc1h/35161
 #EXTINF:-1 tvg-id="UnivisionTelenovelas.us" tvg-name="Univision TLNovelas SD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision TLNovelas
 http://89.105.194.59:25461/live/mx1XX!!$T!/mx1XX!!$T!/50.m3u8
