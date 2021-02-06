@@ -441,6 +441,8 @@ https://sony-novelas-1.roku.wurl.com/playlist_960x540_2000k.m3u8
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY NOVELAS
 https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://la.axn.com/sites/la.axn/files/default/responsive_sony_axn/default_channel.jpg", SONY AXN HD
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6167
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", Multicinema 
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
@@ -562,7 +564,9 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/643
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/543-5435721_sky-cinema-action-hd-de-logo-2016-sky.png", SKY CINEMA ACTION FUL-HDHD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/639
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
-
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/655131
+#EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/655130
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/627
 #EXTINF:-1 tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg?w=600&auto=format&s=2df94318394a38a90c12585ff0f4a4da", SKY ATLANTIC HD
@@ -1081,6 +1085,29 @@ http://jo.sarhantv.xyz:8880/star7arab/mahdi/48
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4192
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/P_wWnuZzn3cmJiArzZTLl_UHAvkMcBldcCU1xBPZb94oP1-ynmjsIw8xFMItOEa9hTtjAw=s170", XGOLD 1 Kino Dark HD AL
 http://yeahiptv.vip:8080/VALERIOSMARTSTB/yfcyjp0xkd/10214
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/VOX.png", VOX.HD
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6153
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/VOX.png", VOX.HD
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/13553
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G3ss2IjCRBs6vXVj4CM22w17pfX3KrHeCPf8jeYPDjbQ5araUAd4f8Qcs3g9TLIXElHqPw=s142", Eagle Cinema Premiere FHD
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681946
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G3ss2IjCRBs6vXVj4CM22w17pfX3KrHeCPf8jeYPDjbQ5araUAd4f8Qcs3g9TLIXElHqPw=s142", Eagle Cinema Horror FHD
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681942
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G3ss2IjCRBs6vXVj4CM22w17pfX3KrHeCPf8jeYPDjbQ5araUAd4f8Qcs3g9TLIXElHqPw=s142", Eagle Cinema Thriller FHD 
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681950
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G3ss2IjCRBs6vXVj4CM22w17pfX3KrHeCPf8jeYPDjbQ5araUAd4f8Qcs3g9TLIXElHqPw=s142", Eagle Cinema Sci-Fi FHD 
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681949
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G3ss2IjCRBs6vXVj4CM22w17pfX3KrHeCPf8jeYPDjbQ5araUAd4f8Qcs3g9TLIXElHqPw=s142", Eagle Cinema Animation HD 
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681939
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G3ss2IjCRBs6vXVj4CM22w17pfX3KrHeCPf8jeYPDjbQ5araUAd4f8Qcs3g9TLIXElHqPw=s142", Eagle Cinema Mythologie HD 
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681945
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G3ss2IjCRBs6vXVj4CM22w17pfX3KrHeCPf8jeYPDjbQ5araUAd4f8Qcs3g9TLIXElHqPw=s142", Eagle Cinema Lächeln HD 
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681944
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G3ss2IjCRBs6vXVj4CM22w17pfX3KrHeCPf8jeYPDjbQ5araUAd4f8Qcs3g9TLIXElHqPw=s142", Eagle Cinema Geschichte HD 
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681941
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/G3ss2IjCRBs6vXVj4CM22w17pfX3KrHeCPf8jeYPDjbQ5araUAd4f8Qcs3g9TLIXElHqPw=s142", Eagle Cinema Romantisch FHD 
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681948
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Ja%C3%A9n.png", CANAL 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyXKRWaD-KP7geIaWZucbJCLFc0SDrjbKbIA&usqp=CAU", DISTRITO DTV
@@ -1293,7 +1320,7 @@ https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ebba677b-0d63-481c-9986-b14da96efe2b-profile_image-70x70.png", ZONAFILM TERROR
 
 #EXTINF:- 1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-70x70.png", zonaFilmstv FUL-HD
-https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/Co0Fh3wfp3wKBlhUpcFTQ_lLrOHVEPLqNFN35vv7Yp_dRIK0Mu1wjgBG4m4a5hHZSlvYMOisSrkc-ahLLKRw28mtXGsoPCxIzCnNB4nmazMXGkrWKJUwl5bLk3saDZwQTH2Lprpstlk-6eDBYIJ7zuh0NaClmE4rTUj6T3xIYXbiEyDjZ4KgqX43y9xUfBRgh_weir5TFQnwpHW4Ig__uMwdB5aLrIkeqHTyI67Gcg0pvouTIEZSH7rHLZ9BqQNzV17w9uYOLUpS03nA8lSouueMFD6c60Y_dWdxwkrN5ybsn1H7d3v5MlSU3_9Vr1u79_ozu4OuTtPiFQBTY9Z8wYFfGX6NY4d2Itxw7SU1wf3Hz7qpLtCJvOXmHOIa2HzATtAZdgOenTQpu8CwPDjfKbyk2hBMMo8El3z0Bc8WXQht3pkrHQBy3b5q_Hk_B14tE61JRzKBOO-r9RJDmEvTP4Nzkogs3vhJ-qzn4AxFbxpoHkGTqLCogz2Mpgdx1hlL7SDsuW_zq3hm49nu4ACHQnaseJTGOG6wsY7xVBEzJLZ0gEd74D3jp-0Tj_NyA1Bn5GoMED4u80W5d65KMFm_BItsmAYih7dliZcZcjk_cWb8-kbGpT9TC91Oxoob7aLiZaj2zugPnuaD-mHZuBd2OElqazMItsNmU627bI0T-CQrrmkT4BeZ5Ho6SdW5P3MKIQAKzU3WD_y7eC-NKzTQfAMu-4e5bBIsmxlLQ-82fQicEYhGu9uN26drycAgxIrtvShuWlyULoZy61VpDyN1CI0PIYJFm-Q70hUogOezt6Aki_80EdypCrqyvPGI0hTpk5r9IykrG7kLl8kWgl93961HM_QmX_CF8TCOLcyGGpgSEG2y3uFvhI7bcqx8ga5DB3saDEKSp7zet3jeTueWYA.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA&usqp=CAU", MOVIEZ TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU",STAR MOVIEMI HD
