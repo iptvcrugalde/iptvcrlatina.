@@ -366,7 +366,7 @@ https://s1.dominiopersonal.xyz:2083/sinplayer/oTqq6GW0Ez/20|User-Agent=sinplayer
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO 
 http://rv.imax.re:80/5124037472/1572081885/87042
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png",CINEMA DINAMITA HD
-https://s1.dominiopersonal.xyz:2083/sinplayer/oTqq6GW0Ez/21|User-Agent=sinplayer
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png",CINEMA DINAMITA
 http://rv.imax.re:80/5124037472/1572081885/86976
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg",CLARO CINEMA
@@ -381,7 +381,7 @@ http://ipeteve.com/php/t121220/mc.php?c=34&f=.m3u8
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/azcorazon.png", Az Corazon HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/41.m3u8
-#EXTINF:-1 tvg-logo=""https://lh3.googleusercontent.com/XFJBSHXterzYbd8K7nAor4WL1CF6ej_iWo6Ysyi76V68cBi4qng6tfSYxB0qjgz69Kxawg=s170", AZ MUNDO HD
+#EXTINF:-1 tvg-logo=""https://lh3.googleusercontent.com/4FTOjTwWmOU0-ZsBc8NqEa8nlcwjMoohWnLFzEoiijVDMLr6mBogCOLEKNvZuexFcPu8Ww=s170", AZ MUNDO HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/38.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
 https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
@@ -1726,9 +1726,9 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png",SONY TEN 2 HD
 http://74.208.135.126:25461/live/494685792/494685792/2151.m3u8
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2019/04/654426_Rect169_480.jpg",DIRECTV SPORT HD
-https://e7.stephn.xyz/ingest02/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=wJlI738iqXbx-Wgy2I3G3A&expires=1612226143&rnd=
+https://e2.stephn.xyz/ingest013/67118.m3u8?sf=UkxmY0lVaHNBRA==&token=pm8a_8ZfpM6J9SiDrzZ2yQ&expires=1612589504&rnd=
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png",TyC Sports HD
-https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/1cx00e7jfcdaxkj.m3u8?s=QcP86dH7YAymur99B0IV_w&e=1612234064
+https://8s93g89ntabfmd2p.ezcdn483.net:8443/hls/1cx00e7jfcdaxkj.m3u8?s=wY10mgArIapYAbrSKySvsw&e=1612596763
 #EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png",TyC Sports HD
 http://89.105.194.59:25461/live/spfut$90/spfut$90/120.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7PjRjzkCUsc/X2aEedjTxPI/AAAAAAABEqA/_cAvs_knjLU7by_zi7HxxyPjfQ2TZO0RQCLcBGAsYHQ/w1200-h630-p-k-no-nu/TIGOSPORTSCR.png", TIGO SPORT
@@ -1737,11 +1737,11 @@ http://planettvweb.com:8091/German/German/16537
 https://teleclub.xyz/tv/canal?tele=WIN_SPORT_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/goltv-1650.png", GOLTV 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png",FOX SPORTS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png",FOX SPORTS HD
+https://e4.stephn.xyz/ingest013/68388.m3u8?sf=bzcyWVluNXFVRQ==&token=7h6mT3Tk7wEhdzFB0wbYWQ&expires=1612589695&rnd=
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7LCisvwdtnE/W5lerwLc4jI/AAAAAAAAAc0/ctzvBb4_L3AKk7I4lvlYdv59M91fVcQjgCLcBGAs/s1600/fox-sports2.png", FOX SPORT 2 HD
-sf=VjBid3dSazlGbA==&token=caN4jnMH4TEdElI_Wpvhag&expires=1612226619&rnd=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
+https://e3.stephn.xyz/ingest013/53858.m3u8?sf=VjBid3dSazlGbA==&token=tJzYK_0knKT1cakAWpo2xQ&expires=1612590087&rnd=
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8kP_aACZoJZyRiRlhsu2ySIUsURmiNiQiKYTLNqzOHeIANUqiB8Us5CpgPFjPMa4x1G9=s87",Claro Sports
 http://uruguayiptv.com:25461/leandro1/leandro123/460
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ7hrvzfIzY0L9LlpolFivrvoXB8BvtHhDLw&usqp=CAU", TDN SPORT HD
@@ -1778,7 +1778,7 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848
 #EXTINF:-1 tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-espnhd.jpg" group-title="DEPORTES",ESPN
 https://e10.stephn.xyz/ingestnb4s/espn2_sur/f.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN HD
-https://e10.stephn.xyz/ingestnb4s/espn_sur/c.m3u8
+https://e10.stephn.xyz/ingestnb4s/espn_sur/d.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UlaoT1r5PAA/W5letDwqZoI/AAAAAAAAAc4/uGLJPGzqj7U0BGZdPgT3FkJC7LciTtQ-ACLcBGAs/s1600/espn-2.png", ESPN 2
 https://e10.stephn.xyz/ingestnb4s/espn2_sur/d.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/nbatv_pms-converted.png?itok=guB3XAoR",NBA Tv
