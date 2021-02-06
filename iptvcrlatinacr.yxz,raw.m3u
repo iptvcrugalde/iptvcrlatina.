@@ -408,7 +408,7 @@ http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://iptvhd.club:8081/televall2021/1704_.m3u8?token=G04YbGeQ484M6pIqbCJVzQ&expires=1612578032
 #EXTINF:-1 tvg-logo="https://www.skycostarica.com/Code/templates/images/channels-to/SKY-golden.png", PREMIER 
-https://s1.dominiopersonal.xyz:2083/sinplayer/oTqq6GW0Ez/66|User-Agent=sinplayer
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HDHD
@@ -416,7 +416,7 @@ http://89.105.194.59:25461/live/3movl!R1/3movl!R1/14.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER HD
-http://iptvhd.club:8081/televall2021/1704_.m3u8?token=G04YbGeQ484M6pIqbCJVzQ&expires=1612578032
+http://iptvhd.club:8081/televall2021/1710_.m3u8?token=6oxCGDxntkNOJgVuKP73TQ&expires=1612591344
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/L7SbeH_XuScVyUE45z-I4KjsKjUBh1Sf__5TanCeI_iy2nAJgaQmSfWohgesaeFHApL3cg=s85",MULTIPREMIER FUL.HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
@@ -444,9 +444,9 @@ https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", Multicinema 
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
-http://iptvhd.club:8081/televall2021/1867_.m3u8?token=5CXdqPFTC-aoOv4fsXRqwA&expires=1612577914
+http://iptvhd.club:8081/televall2021/1867_.m3u8?token=AIG-h16ANR7SUubbR_Z_Fg&expires=1612591436
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=0sC01o8DXRO0_pKwiyI5hA&expires=1612577984
+http://iptvhd.club:8081/televall2021/1614_.m3u8?token=ADkelPUeefXEkELlhkjgcA&expires=1612591508
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 http://latvonlive.com:33612/Rico/1234/97
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
@@ -456,7 +456,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido HD
-
+http://iptvhd.club:8081/televall2021/158_.m3u8?token=-ewH764OI2lLhLY3NRj_-g&expires=1612591560
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido FUL.HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
 
@@ -789,7 +789,7 @@ http://127.0.0.1
 https://vxlive.cdn.antel.net.uy/auth_livesignal_884,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODg0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI1OTkwOTkmcmFuZG9tPWdyc01xdEZMd20mYy1pcD0yMDEuMTkxLjI1NS4yMiwyMDQ1MTJkODQxNzdmZjAxMzExNDkzZGVjNDFiMTk4YjMwOTY3MTdlYTAyMzRlMGY2OTU1MTg2Yjc1YTM5NTI5/vxfmt=hls/h_d0912d6b9d5f24e30d61fc23ee4ed628/var3000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg?size=web_v_m", RIO RU TV CINE
 https://vxlive.cdn.antel.net.uy/auth_livesignal_852,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODUyJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI1OTkxNzcmcmFuZG9tPWNDTTZ0elo4YUgmYy1pcD0yMDEuMTkxLjI1NS4yMixjYzE1ZTAzOTAzZjUyODRlZWM1ZGUyZjNlMTNiMmM2ZDNkM2U1Y2M1YjZmYWZhMDJlMjgxZTY4MGVhMDg0M2Y0/vxfmt=hls/h_0be1c15e1d6d5dd8022734de149c9be0/var1200000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qtFZQcfymMmUmUsM0XBD72_Kf_BhYbx-eXVZc7U8hiqOOdU2vbE7uY7kXJiKP0XMnXPE-g=s86", Canal 4 Chuy 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HJXw2zYoMHGSdrS5FgrQPIQwNdvQVD0aqo4d_OoDRUenekQ6PoI2yeRRm_Z4z5NG9yqf4w=s86", Canal 4 Chuy 
 https://vxlive.cdn.antel.net.uy/auth_livesignal_601,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI1OTkyMzImcmFuZG9tPXBUM0ZyN25mcTQmYy1pcD0yMDEuMTkxLjI1NS4yMiw1YThjNWM4Njk1MjZiM2VlZjkyM2VlNWQ3MmYzNjE1YzM3NGRjYTRiODYwYjk1OTFhY2YzMDFiNTdhYmZjN2M0/vxfmt=hls/h_050aea287c6bad7541646edb7692a270/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg",CANAL 7 PUNTA DEL ESTE
 https://vxlive.cdn.antel.net.uy/auth_livesignal_693,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjkzJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI1OTkyODkmcmFuZG9tPUFnVldsSGdDVU4mYy1pcD0yMDEuMTkxLjI1NS4yMiw2MWNiNTYwMTRkYjNhZDE0Zjc5YWNhZTM3NzQxM2QxNGVlNWQ2YzU3ZWQzY2E3NDEyYmNlZDVmNDdjMWQ5MmM2/vxfmt=hls/h_723370a04e844daa250b12228e4dc328/var1200000/playlist.m3u8
