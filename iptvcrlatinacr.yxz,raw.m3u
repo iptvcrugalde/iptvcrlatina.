@@ -442,9 +442,9 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6167
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", Multicinema 
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
-http://iptvhd.club:8081/televall2021/1867_.m3u8?token=_l7O3mvP9mrv4mBKqwcK0Q&expires=1612649556
+http://iptvhd.club:8081/televall2021/1867_.m3u8?token=3MTu6A8aHjhYaww_EPVzXg&expires=1612674151
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=IAospocHjZLy10JQJcAgtw&expires=1612649606
+http://iptvhd.club:8081/televall2021/1614_.m3u8?token=LbYcyJl2JwpqjavO8QTFbA&expires=1612674207
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 http://latvonlive.com:33612/Rico/1234/97
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
@@ -454,7 +454,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido HD
-http://iptvhd.club:8081/televall2021/158_.m3u8?token=cBicYd-zjuZ4AQAUL0Z40w&expires=1612649648
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido FUL.HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
 
@@ -728,13 +728,17 @@ https://acortar.link/KjOnE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png",EURO CHANNEL FUL-HD
-http://iptvhd.club:8081/televall2021/1700_.m3u8?token=keaIC-NKI9V36PO7w79zVQ&expires=1612649879
+http://iptvhd.club:8081/televall2021/1700_.m3u8?token=lGFnnv3VLC0vODMzrbGKXA&expires=1612674039
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/53|User-Agent=megaplayer
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/369
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 http://tv-prime.tv:8080/live/Cruzado/nsNviFCPtn/926.m3u8
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV HD
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3u8
+#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV
+http://rv.imax.re:80/5124037472/1572081885/87114
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",FIM & ARTS HD
 https://acortar.link/Rf5ok
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts 
@@ -743,10 +747,6 @@ https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/1200.m3u8
 https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://telesol.tv/wp-content/uploads/2020/06/LOGO-FINAL-TELESOL-2020.png", TLS HD
 https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8?nimblesessionid=2078913
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV HD
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3u8
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV
-http://rv.imax.re:80/5124037472/1572081885/87114
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSNo5qb395_y3FQteP2Qu9Z8rN7A4czwkYuA&usqp=CAU", CANAL TRECE 13 FUL-HD
 http://89.105.194.59:25461/live/spart$!bitch/spart$!bitch/124.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/13max_logo_nuevo.JPG" group-title="ARGENTINA",13 Max Digital
