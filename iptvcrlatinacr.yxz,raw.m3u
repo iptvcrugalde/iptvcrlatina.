@@ -736,7 +736,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png",EURO CHANNEL FUL-HD
 http://iptvhd.club:8081/televall2021/1700_.m3u8?token=lGFnnv3VLC0vODMzrbGKXA&expires=1612674039
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
-https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/53|User-Agent=megaplayer
+https://s1.dominiopersonal.xyz:2083/elplayer/eib3AzhY3l/53|User-Agent=elplayer
+#EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
+http://tecnotv.club/full/android.php?c=49|User-Agent=UltimateReloadTv                                                                                 .
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/369
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
