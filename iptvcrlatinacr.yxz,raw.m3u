@@ -187,7 +187,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s", CANAL TVX HD
-
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAFgLYxD03kiyPEOrtP0a3-M3QatdFAqqeL17li7fjhml8-0vQ-XIIUrp_CtU7BrJ6zCbWX2gMisheljDZD2Nd3rPXRBFDItxblU7eKeCc6fnD2g-FsOeueG1nKD8owJRM-ljsqg2FhU8myrO4-oZQqrpKeSiATCo-6OLVJc_rD53f19hXWfRu_6jP30R-C-ibU3fnU0zsHTHz1P7XLDZ_-kJ2yrBicbXGmjDJdA8AXW89SGKc00hK2hjTgrWM2CX-2qOHHY3okp0D3A7L2B3AQyEELhXoB9gB5sVn8mLlCxnOeFiWXqWXk7raFL2YgjUyfA97RELihozghLzUFjsT47JWsVsl5oUNOZtez2BVzQb7L4n0BDjttyUwS3Dth9RFcpLQZBGDmItRAXKZfZaIr7NzrTGtA2hRPWW5rFgXAd60ycFQjGIhJ4QWWWhwCO6u8NOopjau12xe8gr95GNmteNbuFQaX2TV4R1yDyRE7J1L419iLjBa4A0qXDLQ1udvoawOOiyR4kAcCWve3mXm2VocfroW9GJ4jCQpJ3N2d7ojc0bGzshYv8ndYUYQj1G-vtx9wfeP6zXdJR4YlnQLiTmbnIYoXM7YMhWuaHVbrl0YEJWypAPBndAliyeq1kQLqCtmUYwNA3UOp1Wpn8sRVyUxnt-0KNvajaUNK8fQusIItZau2XlKUrFuSbSjYzZ7xZOSDL478hB8s9pgAIWgrUc0-karLrNgIh_S1QvTq7e9FLmvtZwjd7XWb4Q_zh9FbrsO9f7Lm1h5-1cd4pdNDgfQ-cVL4JcY3vUN76azjL_k6lyFGfI7YE8P1I6wquQOIFIKTZTyB3hrwSDBRa0XDeRIQdgtvXfw6UNVzld0CxsyKFBoMP1NObkKjw4zcFfnD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
