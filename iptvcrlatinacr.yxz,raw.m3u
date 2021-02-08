@@ -468,9 +468,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL FUL-HD
-http://tecnotv.club/full/android.php?c=22|User-Agent=UltimateReloadTv                                                                                 
+http://127.0.0.1:37268/http/tecnotv.club/full/android.php?c=22                                                                               
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL.HD
-https://ya.co.ve/ngF
+http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/100.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
@@ -504,7 +504,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xNmIb6wjBvrdOPGa-nx9bJyy7IC6UnLoKALyXkBGT88od4oJrXoEul5uLnMSg6fQqSgfCQ=s110",TNT FUL.HD
-https://ya.co.ve/fF4
+http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xNmIb6wjBvrdOPGa-nx9bJyy7IC6UnLoKALyXkBGT88od4oJrXoEul5uLnMSg6fQqSgfCQ=s110",TNT FUL.HD
 http://tecnotv.club/full/android.php?c=85|User-Agent=UltimateReloadTv                                                                                 .
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
