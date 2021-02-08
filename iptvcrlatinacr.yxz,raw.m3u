@@ -386,7 +386,9 @@ http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/41.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/4FTOjTwWmOU0-ZsBc8NqEa8nlcwjMoohWnLFzEoiijVDMLr6mBogCOLEKNvZuexFcPu8Ww=s170", AZ MUNDO HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/38.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
-https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://tecnotv.club/full/android.php?c=46|User-Agent=UltimateReloadTv  
+#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
+https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoP
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/glitz.jpg",Glitz HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/94.m3u8
 #EXTINF:-1 tvg-logo="https://www.gracomonline.com.br/site/images/logo_curso/cinetv.png",CANALES CINE.TV
@@ -451,6 +453,8 @@ https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
 http://tecnotv.club/full/android.php?c=110|User-Agent=UltimateReloadTv                                                                                 .
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
+https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/31|User-Agent=domingo
+EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
 http://iptvhd.club:8081/televall2021/1614_.m3u8?token=6uyKhM4Via_5DylDSb3c1A&expires=1612825152
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 http://latvonlive.com:33612/Rico/1234/97
@@ -479,8 +483,6 @@ https://miap.xyz/64/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android
 http://89.105.194.59:25461/live/5mov$!19/5mov$!19/131.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
-https://miap.xyz/90/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX FULHD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/10.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
@@ -618,13 +620,13 @@ http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/20.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
 http://89.105.194.59:25461/live/5mov$!19/5mov$!19/129.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU", FOX FAMILY HD
-https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/84|User-Agent=megaplayer
+http://tecnotv.club/full/android.php?c=125|User-Agent=UltimateReloadTv 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
-https://s1.dominiopersonal.xyz:2083/sinplayer/oTqq6GW0Ez/86|User-Agent=sinplayer
+http://tecnotv.club/full/android.php?c=124|User-Agent=UltimateReloadTv 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
 https://s1.dominiopersonal.xyz:2083/elplayer/bIjmhB0cyY/86
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
-https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/85|User-Agent=megaplayer
+https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/85|User-Agent=domingo
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://89.105.194.59:25461/live/1mov$!GI/1mov$!GI/24.m3u8
@@ -739,7 +741,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png", EURO CHANNEL FUL-HD
 http://iptvhd.club:8081/televall2021/1700_.m3u8?token=ckzpAYxY31vMq3nRiV3nng&expires=1612825027
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
-http://tecnotv.club/full/android.php?c=49|User-Agent=UltimateReloadTv                                                                                 .
+http://tecnotv.club/full/android.php?c=49|User-Agent=UltimateReloadTv 
+#EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
+https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/53|User-Agent=domingo
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/369
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
