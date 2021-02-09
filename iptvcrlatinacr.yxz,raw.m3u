@@ -24,13 +24,13 @@ https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml" Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJdbE6lh-DvUr5187cZJ4OwxyA0VXsxbWE5Q2JzFyrrTS5DSTx", REPRETEL CANAL 6 FULHD
-https://ya.co.ve/NAh
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEyOTMyNDg2LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuMTUiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuMTUiXX0sInNpZ25hdHVyZSI6ImRiZWRlNGM1ZGZmZmFiMzhlNjZmNDhkZWRmMmY4MjMzYjllMjNmOWIifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png", REPRETEL CANAL 4 FULHD
-https://ya.co.ve/x9S
+https://cutt.ly/JkWguE3
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica.png" group-title="Costa Rica", REPRETEL CANAL 2 HD 
-https://ya.co.ve/wbk
+https://rb.gy/sybwen
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png", REPRETEL CANAL 11 HD
-https://ya.co.ve/j8Z
+https://ya.co.ve/4MZ
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FUL_HD
 https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53SgZoFd4CBoodzmjcX9VnQ)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FUL_HD
@@ -187,7 +187,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s", CANAL TVX HD
-https://acortar.link/M1rI4
+https://rb.gy/0ssyu1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -478,7 +478,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL FUL-HD
-http://tecnotv.club/full/android.php?c=22|User-Agent=UltimateReloadTv                                                                                 .
+http://tecnotv.club/full/android.php?c=22|User-Agent=UltimateReloadTv                                                                                 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL.HD
 http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
@@ -572,6 +572,8 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/7913
 
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkyCinemaHitsHd",SKY CINEMA HITS
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6555
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/635
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
@@ -925,7 +927,7 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w578096294.m3u8
 #EXTINF:-1 tvg-logo="https://www.dantv.tv/images/dan-001.jpg" group-title="RELIGION",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066687836445990912/XM67Xmp5_400x400.jpg", LTV LINIEROS TV CANAL 36 HD
-https://ya.co.ve/GzK
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CooF1TSiW3AywOEJl_hIwY0mIqIGn3vXzFT-R7c3fzFmK5vKFZmpVjFSyjAfmgvLn9jef15lUQYx76UDHN-xlhKxGJt8ZDZaHYy-pCYJSpZVLBsvXqIBGApbgRQHwwLr20uUMEYANRG-JCXJGBw28RSQGfx1D1Ro80OCcn1AnXh0XTlu53Bl2h4nvtqnlxGUi_dQrsi3jJ3xCbAJidYFxsg3VeK-JeZTGkvByro08-a_7hqFHjuzfgi-5nNa7zowvWtxZIFzOGve-R7ECrQXNRzFzKoetY_MiKJ1vJIzVWwlcU3Cq4r0qb3WDIqbDOzglljxe6zECCb_h6JeKL4jevVoxZr1wnDySaxdqcI9t3oqNMfkIOk-dgtOxtaCbBG_LZ727JIheEu4ZA0UnuYaI81I5g933qaheOX6Z4qnWyK_o424UhkVKezSbadYf0rQYVV3bcMbGExlUArog3n7_pwlJXB7vHEaBb8Pm0hjax-5vKdz28Znm2cnyXN870qsyUmG7H2cCUfPxN5f91eNkUN5AUw5F0Gn4a-snC3g_k-vw8cFc8Hi8fIm6_XC54NQoczBA41pXoYEmUYZOO1vvEJTV9zz7xku2PCafEA-x1vusn9h8YdGIh-yRynnHHBMVoEA8QPotIxcGfkkVAfuN8EgzkBGwtOj0gCA8j8VV8xEHXO4UzxZG4t-7fjZJSjx5LIMyDrZzftUnqcveEDI7aAg2-Qqay-o9FvOAMQgUWxurN3izKKnoaRejDyU_tVhD2l_f7LzTgRlwg70WcoSv-uysIXULJBzQSPc0S-vlQxMq4ATiVsyi3ndq2G4573G50n5StPhhzuy1JmcaxE1GwojuOq5Wl08juUKmIoSELFKmmd7wiXrmh-VngaQa3AaDLIWk9Q6JCfP3_TLYA.m3u8
 #EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png", TELESUR CANAL 10
@@ -985,7 +987,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbGV2aXNpb25wcmVtaXVtLmNoaWxlX3NjcmVlbl8wXzE1NDYzOTc3MTZfMDY2/screen-0.jpg?h=800&fakeurl=1&type=.jpg",CHILE
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg", CANAL 3 LA VICTORIA
-https://ya.co.ve/cYs
+
 #EXTINF:-1 tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png", U ESTV 
 https://tls.cdnz.cl/uestv/live/chunklist_w168368058_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8vLz7ABmIKFggBRMsymRxuTp9gpPvktrh3xs_690erY_F6CcGaXzUom2wwDCqU8ukSn5=s85", ESTACION TV HD
@@ -1322,6 +1324,8 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/13520
 
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/kJGzIc7Pa7lm8z3WExfjkWQTEnKm8i7lgEHs7OFGOKEJfVydQV4NcCovMyZlH9imrtXB8xzAwMtPRWqQprMGUpv-9Bc_FykdaBzStTWRdjD-xFoPOvRT42bbSg", CINEMA PLUS+
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/5974
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", | Horror | Dreamkatcher 2020 HD
 http://ipflix.click:8080/movie/uoplj5soni/rgu4a63btk/673902.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Türkler Geliyor: Adaletin Kılıcı
@@ -1338,7 +1342,7 @@ https://teleclub.xyz/ver/canal?plutotv=CINE_ACCION&format=.m3u8
 http://yourdnshere.xyz:83/live/trevorparker/8177168823/378443.ts
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Aman Reis Duymasın
 
-#EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/netflix_tv_pixabay_1605005703348.jpg",NEFLIX CINE
+#EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/netflix_tv_pixabay_1605005703348.jpg", NEFLIX CINE
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", The Midnight 
 http://supertv.live:80/movie/mZ82PN2p/gM9Nyc4x/54883.mkv
