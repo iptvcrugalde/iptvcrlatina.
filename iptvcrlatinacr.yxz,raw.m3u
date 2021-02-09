@@ -326,7 +326,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS FUL.HD
-https://ya.co.ve/e45
+https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/6lvtai0wryyudh.m3u8?s=q4j99mBYzXy67d9I6Y9euw&e=1612850731
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg", TV MAR
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w2040795390_b3428000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU",POP TV
@@ -338,7 +338,9 @@ http://tecnotv.club/full/android.php?c=173|User-Agent=UltimateReloadTv          
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV 
 http://uruguayiptv.com:25461/leandro1/leandro123/1675
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
-
+https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/26|User-Agent=domingo
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
+https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/25|User-Agent=domingo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
 https://s1.dominiopersonal.xyz:2083/realplayer/Ctb5Dty6Hq/178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
@@ -365,12 +367,12 @@ https://stream.kystream.com/h9ydbwnjcoe/p7UAKSv6AZ_med/index.m3u8
 https://dai.google.com/linear/hls/pa/event/ECXczcxAQfa-nq14eQW2gg/stream/0fc8f483-f189-44b2-bcab-cbe6f9bfa891:CHS/variant/d0533a5e0d69cbe03b5e65ebec940347/bandwidth/645920.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="MEXICO", Canal 4
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO HD
-https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/20|User-Agent=megaplayer
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO HD 
 http://rv.imax.re:80/5124037472/1572081885/87042
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png",CINEMA DINAMITA HD
 http://rv.imax.re:80/5124037472/1572081885/86976
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg",CLARO CINEMA
+https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/19|User-Agent=domingo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg",CLARO CINEMA
 http://tecnotv.club/full/android.php?c=104|User-Agent=UltimateReloadTv                                                                                 .
 #EXTINF:- 1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/236216358595/medium/100/1473533372a735701586a612a03d0325f0a116f965.jpg",AZTECA CINEMA HD
@@ -410,7 +412,7 @@ http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN FUL-HD
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
-http://iptvhd.club:8081/televall2021/1704_.m3u8?token=L7oTwyQrIudgbXTrAbKXUA&expires=1612825190
+http://iptvhd.club:8081/televall2021/1704_.m3u8?token=ifro5xjcO-e-SqSr0Yuqpg&expires=1612840426
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://tecnotv.club/full/android.php?c=93|User-Agent=UltimateReloadTv 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
@@ -420,7 +422,7 @@ http://89.105.194.59:25461/live/3movl!R1/3movl!R1/14.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER FUL.HD
-http://iptvhd.club:8081/televall2021/1710_.m3u8?token=BWdh03F6MbSxjfEAS7Nqsw&expires=1612825238
+http://iptvhd.club:8081/televall2021/1710_.m3u8?token=7dNa21TC41Ik-bJvx29Sww&expires=1612840294
 #EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER FUL.HD
 http://tecnotv.club/full/android.php?c=315|User-Agent=UltimateReloadTv                                                                                 .
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
@@ -455,7 +457,7 @@ http://tecnotv.club/full/android.php?c=110|User-Agent=UltimateReloadTv          
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
 https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/31|User-Agent=domingo
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
-http://iptvhd.club:8081/televall2021/1614_.m3u8?token=6uyKhM4Via_5DylDSb3c1A&expires=1612825152
+http://iptvhd.club:8081/televall2021/1614_.m3u8?token=AjGaoDKRzOWesC0pRO8iQg&expires=1612840367
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 http://latvonlive.com:33612/Rico/1234/97
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
