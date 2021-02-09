@@ -289,7 +289,7 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?Playlis
 #EXTINF:-1 tvg-logo="https://maxmediasa.co/images/logohd-03.png?crc=3861341833", Cantinazo TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
 #EXTINF:-1 tvg-logo="https://noticieros.televisa.com/wp-content/uploads/2017/08/venezuela-saca-del-aire-el-canal-clombiano-rcn-tv.jpg",RCN HD
-https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/201|User-Agent=playerlat
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/629052
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7xlFfI8Vkz4VaK3ioAZwqSkJ8BxKPByoUvBjt8pGr9OW_JKua",CITV
 https://streaming4.rtvc.gov.co/live-750/CI/index.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/redmas.png",RED
@@ -583,7 +583,9 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/639
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/671341
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6552
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/7378
+#EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/8975
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/627
 #EXTINF:-1 tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg?w=600&auto=format&s=2df94318394a38a90c12585ff0f4a4da", SKY ATLANTIC HD
@@ -1088,6 +1090,10 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 http://120.130.128.134.200
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2839335306/d95b1b44c9d2c10aa54fe5d6086ce7bf_400x400.jpeg", CINE SERIE HD
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1011.png", CINE SERIES HD
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/665254
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTxMizGRuNNsTzTzUuqhyVD3zW3niP5SeLOA&usqp=CAU", CINE FILM
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/665255
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest/scale-to-width-down/340?cb=20200430075830", & PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3164970620/b5e3024d6d25ca6546cd3f78c6178690.jpeg", *ADA.TV HD
@@ -1316,12 +1322,14 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/13520
 
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Kırk Yalan HD
-http://mlkip.co:8080/movie/FreePanel/5lf5XVsG3U/48157.mkv
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", | Horror | Dreamkatcher 2020 HD
+http://ipflix.click:8080/movie/uoplj5soni/rgu4a63btk/673902.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Türkler Geliyor: Adaletin Kılıcı
 http://mlkip.co:8080/movie/FreePanel/5lf5XVsG3U/41789.mkv
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Shahid SciFi
-http://jo.sarhantv.xyz:8880/star7arab/mahdi/652
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", Türkler Geliyor: Adaletin Kılıcı
+http://ipflix.click:8080/movie/uoplj5soni/rgu4a63btk/676776.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", | Action | Fast and Fierce: Death Race 2020
+http://ipflix.click:8080/movie/uoplj5soni/rgu4a63btk/676776.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", CINE TERROR HD
 https://teleclub.xyz/ver/canal?plutotv=CINE_TERROR&format=.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-u_uVpBCZqrw/XOG-yjpdcvI/AAAAAAAAANM/ygO-wgnnRzsfQJFUou9op7_og3i_lndlQCK4BGAYYCw/s1600/Screenshot_2019-05-19%2B%252810%2529%2BCine%2BPelicula%2BTV%2B-%2BInicio.png", CINEFR: CINEACCION HD
@@ -1350,9 +1358,7 @@ https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ebba677b-0d63-481c-9986-b14da96efe2b-profile_image-70x70.png", ZONAFILM TERROR
 
 #EXTINF:- 1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-70x70.png", zonaFilmstv FUL-HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Co0FJ69ndOzJ1pYZXKemAxeq1XDQPnMnh16BEIa4D3xC8SX9jKaa-f8LF8N20yRoZt4ONg4gw89xRUqXNjfx1dHEm2BRWoUvKVD8UODt3b0t73jRctyxnoD3l2-baW6EAX9lf0yH9Hl4W14JWoYmhq2D47rAZLNWPyRrgRaBALWxazMKenf-P22ekKDzqaP2nevEnjUMI47UnIaoB-f6xqppybZN1viOXTOOnQNbIUQFWPxT9_0ACQkyNvzLxeeqYJGVHEFCJR0pXWIyyFzg9_A4fwUXUMYmGsrZk-ORNSKS1k2JmX28pnbMG-GtRPwcioyJe9ISFVP1uloQxJYf4l1CDxZMm2k81tXqesuenzPPjciiq1zeQ0WCxrckX1gJ8-APmlP1ZwLXmAPP7EgqG32mafJAbyOlveMUyfLKaya7MpLpPCIFGbXxg3uBxboWUm5FooBkT5ZErIn6ZQVNQfFPQ9ueUrlW5zafYZyXtPpu_NZFU6VULxsOmrxkPjGFWNxGwL07b7Pa3yOeDHhW0dte93ZVJXxQnnkFL9MNwlIMDNjWVvUZ4woqT0PSUKevzQygHm1W7U6SeQ0QAk_QVuvPalrbEg5S642adDfkcYOAiSul6l8TS3a5-0ngoqF70XgSQtBXspzZihcxGCLWXrZbeGgF79Pcx3Dpq1_ZemBN8TdvMFIYqAqCzets2_gsB-P3hqiMLvUY_jDx0ZpqdqEc4CCGIzXaN9KcjiSvrub2lh8XB5mgm_zzM90H21xfO7p9kgkslm42p4285I3rWqqsoiP3V9-4vv6-u7FESRfrTwLHiq-WFUOVp8L2GVFJmzINnxLLCPqprbjSM4ZKY1_4mmVTz0BNS18UdBGzhpQSEMlLPhu7c4M2WZlssfME-EEaDGxo3py1bsptrwgm4Q.m3u8
-#EXTINF:- 1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-70x70.png", zonaFilmstv FUL-HD
-https://n9.cl/molxx
+htttps://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Co0FJ69ndOzJ1pYZXKemAxeq1XDQPnMnh16BEIa4D3xC8SX9jKaa-f8LF8N20yRoZt4ONg4gw89xRUqXNjfx1dHEm2BRWoUvKVD8UODt3b0t73jRctyxnoD3l2-baW6EAX9lf0yH9Hl4W14JWoYmhq2D47rAZLNWPyRrgRaBALWxazMKenf-P22ekKDzqaP2nevEnjUMI47UnIaoB-f6xqppybZN1viOXTOOnQNbIUQFWPxT9_0ACQkyNvzLxeeqYJGVHEFCJR0pXWIyyFzg9_A4fwUXUMYmGsrZk-ORNSKS1k2JmX28pnbMG-GtRPwcioyJe9ISFVP1uloQxJYf4l1CDxZMm2k81tXqesuenzPPjciiq1zeQ0WCxrckX1gJ8-APmlP1ZwLXmAPP7EgqG32mafJAbyOlveMUyfLKaya7MpLpPCIFGbXxg3uBxboWUm5FooBkT5ZErIn6ZQVNQfFPQ9ueUrlW5zafYZyXtPpu_NZFU6VULxsOmrxkPjGFWNxGwL07b7Pa3yOeDHhW0dte93ZVJXxQnnkFL9MNwlIMDNjWVvUZ4woqT0PSUKevzQygHm1W7U6SeQ0QAk_QVuvPalrbEg5S642adDfkcYOAiSul6l8TS3a5-0ngoqF70XgSQtBXspzZihcxGCLWXrZbeGgF79Pcx3Dpq1_ZemBN8TdvMFIYqAqCzets2_gsB-P3hqiMLvUY_jDx0ZpqdqEc4CCGIzXaN9KcjiSvrub2lh8XB5mgm_zzM90H21xfO7p9kgkslm42p4285I3rWqqsoiP3V9-4vv6-u7FESRfrTwLHiq-WFUOVp8L2GVFJmzINnxLLCPqprbjSM4ZKY1_4mmVTz0BNS18UdBGzhpQSEMlLPhu7c4M2WZlssfME-EEaDGxo3py1bsptrwgm4Q.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA&usqp=CAU", MOVIEZ TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU",STAR MOVIEMI HD
@@ -1675,6 +1681,8 @@ https://rds3.desdeparaguay.net/movhei/movhei.stream/chunklist_w1142810062.m3u8?k
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyyY3i6DF4kR0pnyu4_Gi7XnTR6Q8LyOsvQU-iK=s900-c-k-c0xffffffff-no-rj-mo", MUSICALES TV
 http://iptvlatinacr.live_listolay/cr¿?.tv_127.0.0.10.m3u8
+#EXTINF:-1 tvg-logo="http://speedinfonet.in/cable_admin/sub_sub_category/8619MUSIC%20INDIA.jpg", MUSIC INDIA 
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/3988
 #EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2019/10/LOGO-MAXIMA-MIO-ESTATICO-e1572548123359.png",MAXIMA
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/chunklist_w400572797.m3u8
 #EXTINF:-1 tvg-logo="https://st3.depositphotos.com/9543826/14430/v/1600/depositphotos_144301425-stock-illustration-letter-and-digit-m2-logo.jpg", M2
@@ -1807,7 +1815,7 @@ http://planettvweb.com:8091/German/German/16537
 #EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN HD
 https://teleclub.xyz/tv/canal?tele=WIN_SPORT_HD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN 
-https://s1.dominiopersonal.xyz:2083/megaplayer/UwZTYD9sZ0/374|User-Agent=megaplayer
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/629053
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/goltv-1650.png", GOLTV 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/goltv-1650.png", GOLTV 
