@@ -326,6 +326,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS FUL.HD
+https://video-weaver.jfk06.hls.ttvnw.net/v1/playlist/CoAFCuWplemJz4bMpOEVyaczjnYPA7BjdvNr3vuRXe08On5hhNBUZuLbICRsxcrPAPgwPBy_1eHRh2w8WX117_6T2zMlv9RH382N1VmEbKNuqvax8ILzF5e-yRIvlOs0CRfmTam4Ar-xPo01iiUZM_YQbP0wxLhaCqEwZTUodQ1a12C0YEysx3SSQQ5t_JNQSt2valJr8Gd-CsGrKAjiugN0cPMa-4vPkua6X6e2c8md4niflMg6SYadDAW1UURgEUpR_coNdAkRdAuZKbayMJet2nvrSw8aqYqN7t3OenPcD4Cl3Bt9AYCyJyNf4w3c0CCN_XoLY1QkXKTx4Hg_BzX5ZWqdKUeEEpoqyCaJ_eObAnQecPz7OBf05SS-xCDCGW9XHHxiStgFDOIIBQO_uFuej_fnuQ-jIrBsMTcOM7RLMejxAI-_nnWMsTAggbTHymFUcrQS9zQ-JvrVJKZFPXtekbMBW7b_W5flH9lPRRAq5ToZL1bVODfakD8ozV4Wa8ZJVC7iKbcq8Js_Ywb9M_RIo7txkXlpLesxNfnCjFMgR7SqaF3aIwNQLCgod07qJKXCWVjo_ucSDYHXCVkpua9gY1ERL3Vbi-MEO6dRRocXISA1025msBa2gl1X_xUmTL5Popb4f3-S-2rSySqoSLcBy2kPWs-KaV5geKvxh_PCslFdA_ww_kc90t0Xgl50Ozd-qBJIlUgNXEtiqntviimbR36Y1Weee2qyJ2cJ_hcRbXK1Q3v34DY-P2YJdEQJA9swF12UlOV2SrnqnfxV8ddjfxyqUVOL-thXy27LTMOwZK1P-0RT2MkiXl9yafWzrrhUyYZx2MeCpRwuBweguZCouhIQRwUxzjMdOkE6nsce5Ic_fhoMH_tb_yZUYDYHKZCb.m3u8
+#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS FUL.HD
 https://8jwxe44murx4wag7.ezcdn462.net:8443/hls/6lvtai0wryyudh.m3u8?s=q4j99mBYzXy67d9I6Y9euw&e=1612850731
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg", TV MAR
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w2040795390_b3428000_sleng.m3u8
@@ -374,13 +376,13 @@ http://rv.imax.re:80/5124037472/1572081885/86976
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg",CLARO CINEMA
 https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/19|User-Agent=domingo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg",CLARO CINEMA
-http://tecnotv.club/full/android.php?c=104|User-Agent=UltimateReloadTv                                                                                 .
+http://tecnotv.club/full/android.php?c=104|User-Agent=UltimateReloadTv                                                                                 
 #EXTINF:- 1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/236216358595/medium/100/1473533372a735701586a612a03d0325f0a116f965.jpg",AZTECA CINEMA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQji_M_I-fBvlZd74-GUhn0XGQr2xUMoCsjlDql-dPXhnhzBj6G",AZTECA CINEMA
-http://tecnotv.club/full/android.php?c=15|User-Agent=UltimateReloadTv                                                                                 .
+http://tecnotv.club/full/android.php?c=15|User-Agent=UltimateReloadTv                                                                                
 #EXTINF:- 1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png",DE PELICULA
-http://tecnotv.club/full/android.php?c=98|User-Agent=UltimateReloadTv                                                                                 .
+http://tecnotv.club/full/android.php?c=98|User-Agent=UltimateReloadTv                                                                                
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/azcorazon.png", Az Corazon HD
@@ -411,6 +413,8 @@ http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/7.m3u8
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN FUL-HD
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
+http://ipeteve.com/php/regio080220/smartv.php?c=225_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://iptvhd.club:8081/televall2021/1704_.m3u8?token=ifro5xjcO-e-SqSr0Yuqpg&expires=1612840426
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
