@@ -741,7 +741,7 @@ https://acortar.link/KjOnE
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
 #EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png", EURO CHANNEL FUL-HD
-http://iptvhd.club:8081/televall2021/1700_.m3u8?token=ckzpAYxY31vMq3nRiV3nng&expires=1612825027
+http://iptvhd.club:8081/televall2021/1700_.m3u8?token=85lNUR3bfe0b1mTrbV2dvA&expires=1612840576
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 http://tecnotv.club/full/android.php?c=49|User-Agent=UltimateReloadTv 
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
@@ -809,19 +809,19 @@ http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4QqrfWb_WlIEdyWt1uvGLgKqVz59RZYC0OA&usqp=CAU", URUGUAY
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg", IR TELE FUL-HD
-https://ya.co.ve/t0u
+https://vxlive.cdn.antel.net.uy/auth_livesignal_884,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODg0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI4NTE1NzMmcmFuZG9tPXphUG1NZzVKNHkmYy1pcD0yMDEuMTkxLjI1NS4xNSw0OGU1MWZkNGIzZTA1ZGEwM2M0NDk3YjAxMTY1MjEwMDJkOTU0NTg4ZmY4ODA5ZWY1YzRiOGUxOTRmMjY2YWRj/vxfmt=hls/h_d0912d6b9d5f24e30d61fc23ee4ed628/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg?size=web_v_m", RIO RU TV CINE
-https://ya.co.ve/mdO
+https://vxlive.cdn.antel.net.uy/auth_livesignal_852,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODUyJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI4NTE2NjEmcmFuZG9tPWxuRmtTVEpJY04mYy1pcD0yMDEuMTkxLjI1NS4xNSw5YmY0MWEyY2I5ZjIyM2RjZjcxY2ExMmEyNGIxMzY0ZDIxMzk3OWU0YjU3OTZjMzZlYzk1MTEzOTYwOTA2OTQ1/vxfmt=hls/h_0be1c15e1d6d5dd8022734de149c9be0/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HJXw2zYoMHGSdrS5FgrQPIQwNdvQVD0aqo4d_OoDRUenekQ6PoI2yeRRm_Z4z5NG9yqf4w=s86", Canal 4 Chuy 
-https://ya.co.ve/5Lm
+https://vxlive.cdn.antel.net.uy/auth_livesignal_601,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI4NTE3MDYmcmFuZG9tPThJSzE5bVBtcHUmYy1pcD0yMDEuMTkxLjI1NS4xNSwxMmVmYzYwOThhMmVjMzliYzhmZjMzZDFlNjk4MWM0NmNhODY1YzhmYzE5NTFkNTRmYWE5ZTlkN2ZjOTNlOGYz/vxfmt=hls/h_050aea287c6bad7541646edb7692a270/var800000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg",CANAL 7 PUNTA DEL ESTE
-https://vxlive.cdn.antel.net.uy/auth_livesignal_693,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjkzJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI3NzQzMzkmcmFuZG9tPUV6Y0V6aXhKVW4mYy1pcD0yMDEuMTkxLjI1NS42Niw4ZjI3NGZmZDM2OTM1MTU0NWRmYmZhY2VjYzgwMTM0OTZiMmY2ZjcxMDcyZTJjZDUyYzQ3NWU3NzVhYmE4M2Ni/vxfmt=hls/h_723370a04e844daa250b12228e4dc328/var1200000/playlist.m3u8
+https://vxlive.cdn.antel.net.uy/auth_livesignal_693,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjkzJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI4NTE3NjAmcmFuZG9tPW53SVpFNEd0NzImYy1pcD0yMDEuMTkxLjI1NS4xNSw3ZWI4NjgxNGU0ODhkZTkxZGE0N2ViNzk2N2FjN2Y2NzgzNzJlMTliOThiNWY5NWE0MWFmNGEwNzk2YzI4NDc3/vxfmt=hls/h_723370a04e844daa250b12228e4dc328/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg?size=web_v_m",Canal 8 Televisora CINE
-https://ya.co.ve/LwC
+https://vxlive.cdn.antel.net.uy/auth_livesignal_614,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjE0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI4NTE4MDYmcmFuZG9tPVN1cXdGbVhsREMmYy1pcD0yMDEuMTkxLjI1NS4xNSxmZGU5NWY0Y2Q4YWQ5YjhhZDAyZjlhZTUxNDE4MWQ4ZmZlNjBiMWMyODY5YWQ5NTFmMzQ4MzQ3Nzk5YjAxNDRk/vxfmt=hls/h_d1aa072b89b67745c4f1e410aa1b6fc5/var3000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9369/240/default.jpg", Canal 8 Rivera CINE
-https://ya.co.ve/3DB
+https://vxlive.cdn.antel.net.uy/auth_livesignal_500,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNTAwJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI4NTE4NTYmcmFuZG9tPWdOSUVYUlJZblAmYy1pcD0yMDEuMTkxLjI1NS4xNSxmZGU0OWJmNzUwNjI5NTYxY2YwNzcyNGM4YTU0N2Q0ZTEyNDVlNzMwNjRmYzdjYmQ0MGE2ODk3NDkwZGMxZDY5/vxfmt=hls/h_d42fc4c9e2f1bab2612596b20cbfcc13/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal9telerocha.com.uy/wp-content/uploads/2020/06/cropped-LOGO-9-HD-carta-1.png",Canal 9 Telerocha HD CINE
-https://ya.co.ve/BDS
+https://vxlive.cdn.antel.net.uy/auth_livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI4NTE5MjAmcmFuZG9tPXU0VFl4T2lheVgmYy1pcD0yMDEuMTkxLjI1NS4xNSwzZjc2NjQwOGY2NzI2YzY2MTI3MDQxODJmNjljMmQ0Y2M5YjkzODZkNWU4MGQ3ZmVmM2Y2OTNkZWRkZGUyNWZl/vxfmt=hls/h_e9e31ce7b7b0f375a7f0a07ccffb2672/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg",Artigas Televisión HD CINE
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png", CANAL 10
@@ -829,7 +829,7 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/C
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDA0bss0aR_SZcATNidLC8kNGbi4Jnivs1A&usqp=CAU", CANAL 11 PUNTA DEL ESTE 
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 FUL-HD
-https://ya.co.ve/WQu
+https://vxlive.cdn.antel.net.uy/auth_livesignal_896,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODk2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI4NTIwMjAmcmFuZG9tPU9lWlpSdjNycWkmYy1pcD0yMDEuMTkxLjI1NS4xNSw1ZjdhZmU3OWE2ZjYwZmNmYzU2M2Y4MTRlY2MwZDdlNGQyZWY3NWYzYTc5YTY4OWVmYjVkYzEzMmU4M2I4NmUz/vxfmt=hls/h_c41f1d8113bde6839b616e7cfeff5112/var1200000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png", BOLIVIA
 http://125.139.128.132
