@@ -510,7 +510,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.t
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xNmIb6wjBvrdOPGa-nx9bJyy7IC6UnLoKALyXkBGT88od4oJrXoEul5uLnMSg6fQqSgfCQ=s110",TNT FUL.HD
 http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xNmIb6wjBvrdOPGa-nx9bJyy7IC6UnLoKALyXkBGT88od4oJrXoEul5uLnMSg6fQqSgfCQ=s110",TNT FUL.HD
-http://tecnotv.club/full/android.php?c=85|User-Agent=UltimateReloadTv                                                                                 .
+http://tecnotv.club/cann/android.php?c=85|User-Agent=UltimateReloadTv  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/13.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE FUL-HD
@@ -759,7 +759,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV
 http://rv.imax.re:80/5124037472/1572081885/87114
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",FIM & ARTS HD
-http://tecnotv.club/full/android.php?c=50|User-Agent=UltimateReloadTv
+http://tecnotv.club/cann/android.php?c=50|User-Agent=UltimateReloadTv                                                                                 
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",FIM & ARTS HD
 https://acortar.link/Rf5ok
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",Film&Arts 
@@ -813,19 +813,19 @@ http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4QqrfWb_WlIEdyWt1uvGLgKqVz59RZYC0OA&usqp=CAU", URUGUAY
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg", IR TELE FUL-HD
-https://ya.co.ve/fYi
+https://vxlive.cdn.antel.net.uy/auth_livesignal_884,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODg0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI5NTA4NzUmcmFuZG9tPXFGVmdEVk1RTHImYy1pcD0yMDEuMTkxLjE5OS4zNiwyZWYwNmM2OWJkZTE4MGQ1MzQzYjQ1NDU2YzRlNGRiMjFjNTE2MWY0M2IzMmVhOTEyYjc2YzI4YTk0ZWZkMjAz/vxfmt=hls/h_d0912d6b9d5f24e30d61fc23ee4ed628/var3000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg?size=web_v_m", RIO RU TV CINE
-https://ya.co.ve/1rt
+https://vxlive.cdn.antel.net.uy/auth_livesignal_852,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODUyJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI5NTA5MjEmcmFuZG9tPUpXVW43RWliQ1EmYy1pcD0yMDEuMTkxLjE5OS4zNiw1OWQ3Y2MxZGE2MjQwNWExNzAxOWQxZThiMDIwOTM4MWQxY2ZjOTMzYzZmYjRiZmZkMDgzNzY2M2JlMDM3YzVi/vxfmt=hls/h_0be1c15e1d6d5dd8022734de149c9be0/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HJXw2zYoMHGSdrS5FgrQPIQwNdvQVD0aqo4d_OoDRUenekQ6PoI2yeRRm_Z4z5NG9yqf4w=s86", Canal 4 Chuy 
-https://ya.co.ve/cq0
+https://vxlive.cdn.antel.net.uy/auth_livesignal_601,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI5NTA5NzImcmFuZG9tPUVLUUVhMjQ2VUMmYy1pcD0yMDEuMTkxLjE5OS4zNixiYjUyN2ZhNzdkZTBjZDk0MWMxM2M5YTk2YjFmOTM0MWMyOWM2YzhlMDQxOGE2NDc4Y2JhZjFhNTgwYmE0NjUz/vxfmt=hls/h_050aea287c6bad7541646edb7692a270/var800000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg",CANAL 7 PUNTA DEL ESTE
-https://ya.co.ve/eva
+https://vxlive.cdn.antel.net.uy/auth_livesignal_693,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjkzJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI5NTEwNDAmcmFuZG9tPU9jWWRKRmdaWk4mYy1pcD0yMDEuMTkxLjE5OS4zNiw0MjcyN2RmYjY1NmM1MzIxZjIzMGUyZTI0M2RjMDM1NTZlNDg5ZDYxYTA5MTlmNDhjZGZiNDA0ZTliMzhkMDZk/vxfmt=hls/h_723370a04e844daa250b12228e4dc328/var3000000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg?size=web_v_m",Canal 8 Televisora CINE
-https://ya.co.ve/B4F
+https://vxlive.cdn.antel.net.uy/auth_livesignal_614,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNjE0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI5NTEwODUmcmFuZG9tPThqQXpJRlY4cmgmYy1pcD0yMDEuMTkxLjE5OS4zNixkNGYxMTcwN2ZhNjFkMGYxZGQwNTBmMDI4M2UzYTBkNjgxNDc3ZGUyNzY0ZDEyMDU3YTU1NjM5ZTc3OGJmYTQ0/vxfmt=hls/h_d1aa072b89b67745c4f1e410aa1b6fc5/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9369/240/default.jpg", Canal 8 Rivera CINE
-https://ya.co.ve/091
+https://vxlive.cdn.antel.net.uy/auth_livesignal_500,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNTAwJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI5NTEzODkmcmFuZG9tPXhuRWZqeWJyaE0mYy1pcD0yMDEuMTkxLjE5OS4zNiwzNDlmYjhmOWQxNDllMzBkMWRiMzViNjQ0NTliZDJlNjRmY2U3MDhiNDdkN2ViNTFiYjhhYzQ4ODI0NjI3ZDIz/vxfmt=hls/h_d42fc4c9e2f1bab2612596b20cbfcc13/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal9telerocha.com.uy/wp-content/uploads/2020/06/cropped-LOGO-9-HD-carta-1.png",Canal 9 Telerocha HD CINE
-https://ya.co.ve/87c
+https://vxlive.cdn.antel.net.uy/auth_livesignal_454,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNDU0JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI5NTE0NjAmcmFuZG9tPTc5WnVLMXdGMDYmYy1pcD0yMDEuMTkxLjE5OS4zNixkNTQyNGYyMGQxNWI0YjBiNjM2NWIzNTU2YWI1ZDIzNzFjMDgxNGI4YzZkN2U1ZjA3Y2ZjOTY5M2QwY2JmOWNk/vxfmt=hls/h_e9e31ce7b7b0f375a7f0a07ccffb2672/var1200000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6044/240/default.jpg",Artigas Televisión HD CINE
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png", CANAL 10
@@ -833,7 +833,7 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/C
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDA0bss0aR_SZcATNidLC8kNGbi4Jnivs1A&usqp=CAU", CANAL 11 PUNTA DEL ESTE 
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 FUL-HD
-https://ya.co.ve/rBM
+https://vxlive.cdn.antel.net.uy/auth_livesignal_896,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfODk2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MTI5NTE2MDImcmFuZG9tPVJhczZyd1pwNTYmYy1pcD0yMDEuMTkxLjE5OS4zNixlYWViYTk1ZGRjOGZmZTE0NmM2MTY0NjE1N2RjZjllNzYxOGEyNzdjNjZiYmVjODQzMDc3NDQxMjE4NTAxOTU4/vxfmt=hls/h_c41f1d8113bde6839b616e7cfeff5112/var1200000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png", BOLIVIA
 http://125.139.128.132
