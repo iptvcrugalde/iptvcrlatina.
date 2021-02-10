@@ -388,7 +388,7 @@ http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/41.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/4FTOjTwWmOU0-ZsBc8NqEa8nlcwjMoohWnLFzEoiijVDMLr6mBogCOLEKNvZuexFcPu8Ww=s170", AZ MUNDO HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/38.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
-http://tecnotv.club/full/android.php?c=46|User-Agent=UltimateReloadTv  
+http://tecnotv.club/cann/android.php?c=46|User-Agent=UltimateReloadTv                                                                                 .
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
 https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoP
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/glitz.jpg",Glitz HD
