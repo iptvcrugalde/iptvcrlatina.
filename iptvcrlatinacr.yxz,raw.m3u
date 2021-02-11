@@ -240,9 +240,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK6t7FP.jpg" group-title="GUATEMALA", Guatevision HD
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 HD
-https://ya.co.ve/w2J
+https://ya.co.ve/e0F
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xDNU1GWXS9c/maxresdefault.jpg", TELEVISIETE 7 HD
-https://ya.co.ve/EwN
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/11_de_guatemala-mediano.png",CANAL 11
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/53026.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzUR7WIiOIsD7E3qS30sTr6-US2LBWcVD4A&usqp=CAU",TELE DOCE 12 HD
@@ -326,7 +326,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS FUL.HD
-https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CoIFZcA5iQgP3Xm5DxTYcmvM2ciCpHvcYDox-PcxbgcFB9KnerKgrWcskYGFvwvdwiR0uujaao14g4QlWL952jUAPBBi8GVqbS9f_sb6BnfD504LxeiNm0kLNGu9suQesNnc1QBeUjMBNvDCRHrNe1IbDAVbL5RZQ6rtkdT24eWCvvtZ6h_9bnsTfQytcRs1Ds8l61nWUQ_9EVDRs43Guvbj2hXytCH5zJgciKyY6GEHWYu1jTLACnAAPZ_ETQlPN3zc3911Wmc8P-N1PkpdTWkFUVSCB2yFIkyxDX5iPdLrrj9vKA6wd-bm41BjPf_xn2Wv8ZmpYzp-SQMYF6xsQ2m02PdswHcVoo0n0ypOZu4kQFgNRzwBRUIUEPyEljXYJ7Rtqrlr7g7oFy3wl72EwqVgaT6LO0kovcsoLyh8kpBVHT_bbSXFUlqUNl-mJ6Brkz1-R66arRpwfS_EBYR3Q0ashEtr6H25s3KXh5rJG9URMFqDohlqKo-IgHDVnVMvX7Qh4HC5W5oOvKWeqYhrSxoFG0sV5PJmGvKoas4wU-E8Nt15L6e_hqCVQSQ-8XStov-4Ie0_A3xvqrWk7ufsjYrvzQbN88X-Wq2rkl47eOXtLV48oEh17YWUjYaqV-6sAuoFU4rqZ9vMZWrOUxVdJRFxBKXt8RNhDzvrVZ3UXEsXvZw8145myO0pp5k3nOQHzo03iiMvtcqiaj5dyXMmw-IVPpBFuffapW6aRQXRI-udvBXfvJWw1OvBvmcnvo9m52LFQKUyAdrHkH3bfGcvUfPl4x9m98yvYAPI7jZynmzAXjiciNHl8NPMZHKjJrgwmwvoVpCraX-WtqThNHdj6Mbd3UMEEhAOaVUw-dNBJKXI7Mj7YSReGgxEnIrwgwQew63Pq-E.m3u8
+https://ya.co.ve/i2V
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg", TV MAR
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w2040795390_b3428000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU",POP TV
@@ -374,11 +374,11 @@ http://rv.imax.re:80/5124037472/1572081885/86976
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg",CLARO CINEMA
 https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/19|User-Agent=domingo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg",CLARO CINEMA
-http://tecnotv.club/full/android.php?c=104|User-Agent=UltimateReloadTv                                                                                 
+
 #EXTINF:- 1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/236216358595/medium/100/1473533372a735701586a612a03d0325f0a116f965.jpg",AZTECA CINEMA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQji_M_I-fBvlZd74-GUhn0XGQr2xUMoCsjlDql-dPXhnhzBj6G",AZTECA CINEMA
-http://tecnotv.club/full/android.php?c=15|User-Agent=UltimateReloadTv                                                                                
+
 #EXTINF:- 1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png",DE PELICULA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
