@@ -51,7 +51,7 @@ http://201.201.149.86:8080/livestream/stream.m3u8
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-tv-sur-5-radio-en-vivo-554x328.jpg", TVSUR RADIO CANAL 5 HD
 https://ok.ru/live/1906333261342
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gorZ72hJ0AytU9QASNupmgqbez6OKXlaG3TZEehu1uLGNQ0KKbAgrCJ6WcwT9sDwqJsPY1w=s85", CANAL SUPER 5 HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZTBpJSaIpXHNIsJqR_ubJPJJu7CmjggQYQB5KxeFJqA_6qveIhEGvjYyletvXCvi93Js8p0=s85", CANAL SUPER 5 HD
 https://ya.co.ve/wxU
 #EXTINF:-1 tvg-logo="https://www.limontv36.com/gallery_gen/314cea1de7e0e690d4275dcec61d5ca2_590x373.png", LIMOM TV 
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
@@ -136,15 +136,15 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqlIns4Y750/WWwASgrkb3I/AAAAAAAAwwo/gP0jGDCOUuIvh6wsDVOkWYtw7RFnBcV2ACLcBGAs/s1600/201854338-1-multimedios-radio-y-television-publicidad-en-radio-y-television.jpeg",MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="http://televisiongratisenvivo.com/wp-content/uploads/2019/03/TIGO-SPORTS-COSTA-RICA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png",TIGO SPORT HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/4622
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/54959
 #EXTINF:-1 tvg-logo="http://televisiongratisenvivo.com/wp-content/uploads/2019/03/TIGO-SPORTS-COSTA-RICA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png",TIGO SPORT FUL.HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/31195
+
 #EXTINF:-1 tvg-logo="http://televisiongratisenvivo.com/wp-content/uploads/2019/03/TIGO-SPORTS-COSTA-RICA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.png",TIGO SPORT
 http://186.176.194.213/hlsl/1/TIGOSPORTSHDjb_PHONE/02.m3u8?token=HURYWUQKGwxDBAANCAcEVghUCQIBUAVQAAEHVARWDwICBAdZBlAIAwcUGhZLF0MBUQtuWABEWQMDAwdSUgUaEhMVVUpoC10UWxQEBgpRCFMSShNFDQsGEAoHHkQVWlISXEQCCwFWDxRNFFNMTAZDClEKblUBEApRVRUICBBfWhxECV5nUwdUVw9SFA4aUhNIEg9CQUZcDUdcWx5EB1pCQgcSVRoNQAoGWAcUGBoAXhFeEkNIRlxBcWIVHkQAS0JVCBVZV1lAAxQMBUMMGk8TDUM5Q1QXEhFXUVpXFEcJFABEShJVVhpmVQ5YWFFbF1gLXhUTC0ZUQR4SWl0IDEdZQjkWWVwVWBsHWQADAhoe
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUL.TV 
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/32840 
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/54957
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUL.TV FUL.HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/72054
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/59242?token=HURYWUQKGwxDBAANCAcEVghUCQIBUAVQAAEHVARWDwICBAdZBlAIAwcUGhZLF0MBUQtuWABEWQMDAwdSUgUaEhMVVUpoC10UWxQEBgpRCFMSShNFDQsGEAoHHkQVWlISXEQCCwFWDxRNFFNMTAZDClEKblUBEApRVRUICBBfWhxECV5nUwdUVw9SFA4aUhNIEg9CQUZcDUdcWx5EB1pCQgcSVRoNQAoGWAcUGBoAXhFeEkNIRlxBcWIVHkQAS0JVCBVZV1lAAxQMBUMMGk8TDUM5Q1QXEhFXUVpXFEcJFABEShJVVhpmVQ5YWFFbF1gLXhUTC0ZUQR4SWl0IDEdZQjkWWVwVWBsHWQADAhoe
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngJYYZLWge0V1CDIg_JnHoieqneux2UR98pmSxi=s900-c-k-c0x00ffffff-no-rj", TD+
 http://uruguayiptv.com:25461/leandro1/leandro123/72752
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOADyWhBpe7nfbTWNOurV0kYQfw92G8zZ9Xu1cs=s1600-w400", SAN RAFAEL GUATUSO
@@ -346,7 +346,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w148
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aizYxAy.png", TV UNAM
 https://playback2.akamaized.net/streams/27177136_8970901_lsitpsrwj3wsl3hxe9r_1/exp=1601173026~acl=%2f*~data=hdntl~hmac=3658816c3f12bdb76f382cda2473018b3991bfeed4d4f8bc578437340eb193f5/media/27177136_8970901_lsitpsrwj3wsl3hxe9r_1@1628000p.m3u8?dw=14400&ts=1601085600
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD 
-http://tecnotv.club/boom/android.php?c=174|User-Agent=..Darkiptv.com   
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26944
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV 
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39249
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
@@ -439,7 +439,6 @@ http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1487
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39279
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 https://s1.dominiopersonal.xyz:2083/playerlat/YxA2PPbQJq/1
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReTowHWsTq1LE-bi4Ubbu1vdC8yZNICI1Hw&usqp=CAU", SONY MOVIEZ 
 http://latvonlive.com:33612/Rico/1234/818
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10y1jppgDUbaVj_ifv8_3k8anil2DUoNS9A&usqp=CAU", CINE SONY
@@ -503,6 +502,8 @@ https://miap.xyz/25/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC FUL-HD
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/11.m3u8
+#EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC HD
+http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39151
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E FUL-HD 
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM HD
@@ -513,9 +514,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo=https://lh3.googleusercontent.com/IwhNxP3yrIPPw2_PpH5hEE7Q1qNVb21xussHu_BdAbWEYud4wjV2Xa52do0xBlALg2yKaQ=s103"",TNT FUL.HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/N_9dBpvGHz8E7Sw-Fcs_sGmVeKBhKR4hRcyRq476AVEAktLw7WMB-Lxv3LOhGH5ETbk0ZA=s109",TNT FUL.HD
 http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
-#EXTINF:-1 tvg-logo=https://lh3.googleusercontent.com/IwhNxP3yrIPPw2_PpH5hEE7Q1qNVb21xussHu_BdAbWEYud4wjV2Xa52do0xBlALg2yKaQ=s103"",TNT FUL.HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IwhNxP3yrIPPw2_PpH5hEE7Q1qNVb21xussHu_BdAbWEYud4wjV2Xa52do0xBlALg2yKaQ=s103",TNT FUL.HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39291
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/13.m3u8
@@ -1131,7 +1132,8 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4192
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/o3YxgrPTLDCFuNeXW0CbueTGGui09efVNp1aMoprM_0J7O9qvfQUEUPypazXjxgsTVzFRA=s170", X GOLD 1 HD
 #EXTINF:-1 tvg-logo="https://latina.biz/wp-content/uploads/2020/04/top-crime.jpg", TOP CRIME HD
 http://halowtv.online:8080/HalowTV/FSyzHfEhvb/139
-
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/mundomax.png", MUNDOMAX
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63000
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/VOX.png", VOX.HD
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6153
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/VOX.png", VOX.HD
