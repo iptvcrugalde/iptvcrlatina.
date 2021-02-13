@@ -414,21 +414,21 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="http://www.telebunker.com/img/lifetime.png",LIFETIME HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/96.m3u8
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN FUL.HD
-http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/7.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE GOLDEN FUL-HD
-http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/8.m3u8
+https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/otatv.m3u8?s=vYToRrktoYvyNKyLkQjZFg&e=1613275087
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE FUL-HD
+https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/a71es.m3u8?s=L8L6xGmbqZp238PlYT11NA&e=1613275882
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN FUL-HD
-http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/4.m3u8
+https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/j0sp1ce0j09.m3u8?s=mhQODbLH5wZ32O-lOXGvkw&e=1613276086
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN-HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1477
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
-http://tecnotv.club/boom/smtv.php?c=75_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1474
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
-http://89.105.194.59:25461/live/3movl!R1/3movl!R1/14.m3u8
+https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/3zz6wk.m3u8?s=21X_El7NwCPyh7rSG22XNA&e=1613276235
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER FUL.HD
@@ -487,13 +487,13 @@ http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39216
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/100.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
-https://miap.xyz/64/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 9) ExoPlayerLib/2.8.4
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ",FXMOVIES HD
 http://89.105.194.59:25461/live/5mov$!19/5mov$!19/131.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX FULHD
-http://89.105.194.59:25461/live/3movl!R1/3movl!R1/10.m3u8
+https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/01uzpez2.m3u8?s=epGwrVQS2l9308rSNWCtTg&e=1613276541
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL FULHD
@@ -503,7 +503,7 @@ https://miap.xyz/25/serverkey.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="CINE PREMIUM",CiNEMA+ PLUS HD
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC FUL-HD
-http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/11.m3u8
+https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/rguttxcpijxb1.m3u8?s=AdOD1oN0WNvYHAv42SoiTA&e=1613276440
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26744?token=HURYWUQKGwxDBAANCAcEVghUCQIBUAVQAAEHVARWDwICBAdZBlAIAwcUGhZLF0MBUQtuWABEWQMDAwdSUgUaEhMVVUpoC10UWxQEBgpRCFMSShNFDQsGEAoHHkQVWlISXEQCCwFWDxRNFFNMTAZDClEKblUBEApRVRUICBBfWhxECV5nUwdUVw9SFA4aUhNIEg9CQUZcDUdcWx5EB1pCQgcSVRoNQAoGWAcUGBoAXhFeEkNIRlxBcWIVHkQAS0JVCBVZV1lAAxQMBUMMGk8TDUM5Q1QXEhFXUVpXFEcJFABEShJVVhpmVQ5YWFFbF1gLXhUTC0ZUQR4SWl0IDEdZQjkWWVwVWBsHWQADAhoe
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC HD
