@@ -395,7 +395,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/azcorazon.png", Az Corazon HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/41.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/4FTOjTwWmOU0-ZsBc8NqEa8nlcwjMoohWnLFzEoiijVDMLr6mBogCOLEKNvZuexFcPu8Ww=s170", AZ MUNDO HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/oRFYnZNHUgBvuCSEvFPquIQxgFrFWCVXvC1arPwU0VGJ5F8T7orcRAs-z1RYzolyYzCQPQ=s170", AZ MUNDO HD
 http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/38.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HHD
 https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoP
@@ -413,7 +413,7 @@ http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/35.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 tvg-logo="http://www.telebunker.com/img/lifetime.png",LIFETIME HD
 http://89.105.194.59:25461/live/1musT99$!/1musT99$!/96.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.543974-8c.png.abe3be998c2b20526306310083ada7aa.png", GOLDEN FUL.HD
+#EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN FUL.HD
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/7.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE GOLDEN FUL-HD
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/8.m3u8
@@ -422,10 +422,10 @@ http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://tecnotv.club/boom/smtv.php?c=75_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
-http://iptvhd.club:8081/televall2021/1704_.m3u8?token=zl15tb4X10M3oWqT-J-epA&expires=1613190947
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1474
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HDHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/14.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://136.243.177.164/AXN/playlist.m3u8
@@ -503,7 +503,7 @@ http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC FUL-HD
 http://89.105.194.59:25461/live/4mov$22!!$/4mov$22!!$/11.m3u8
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC HD
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26744
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26744?token=HURYWUQKGwxDBAANCAcEVghUCQIBUAVQAAEHVARWDwICBAdZBlAIAwcUGhZLF0MBUQtuWABEWQMDAwdSUgUaEhMVVUpoC10UWxQEBgpRCFMSShNFDQsGEAoHHkQVWlISXEQCCwFWDxRNFFNMTAZDClEKblUBEApRVRUICBBfWhxECV5nUwdUVw9SFA4aUhNIEg9CQUZcDUdcWx5EB1pCQgcSVRoNQAoGWAcUGBoAXhFeEkNIRlxBcWIVHkQAS0JVCBVZV1lAAxQMBUMMGk8TDUM5Q1QXEhFXUVpXFEcJFABEShJVVhpmVQ5YWFFbF1gLXhUTC0ZUQR4SWl0IDEdZQjkWWVwVWBsHWQADAhoe
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26744
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E FUL-HD 
@@ -520,6 +520,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.t
 http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IwhNxP3yrIPPw2_PpH5hEE7Q1qNVb21xussHu_BdAbWEYud4wjV2Xa52do0xBlALg2yKaQ=s103",TNT FUL.HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39291
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IwhNxP3yrIPPw2_PpH5hEE7Q1qNVb21xussHu_BdAbWEYud4wjV2Xa52do0xBlALg2yKaQ=s103",TNT HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26763?token=HURYWUQKGwxDBAANCAcEVghUCQIBUAVQAAEHVARWDwICBAdZBlAIAwcUGhZLF0MBUQtuWABEWQMDAwdSUgUaEhMVVUpoC10UWxQEBgpRCFMSShNFDQsGEAoHHkQVWlISXEQCCwFWDxRNFFNMTAZDClEKblUBEApRVRUICBBfWhxECV5nUwdUVw9SFA4aUhNIEg9CQUZcDUdcWx5EB1pCQgcSVRoNQAoGWAcUGBoAXhFeEkNIRlxBcWIVHkQAS0JVCBVZV1lAAxQMBUMMGk8TDUM5Q1QXEhFXUVpXFEcJFABEShJVVhpmVQ5YWFFbF1gLXhUTC0ZUQR4SWl0IDEdZQjkWWVwVWBsHWQADAhoe
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://89.105.194.59:25461/live/3movl!R1/3movl!R1/13.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE FUL-HD
