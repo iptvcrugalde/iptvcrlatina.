@@ -195,7 +195,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s", CANAL TVX HD
-https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CoAFyUmqxBpD_ElnyJiMAG1Todpj0uRPXU6F_BZcPXQoj9hEu9325l1iaoxH9eLaMsJPSc0cEi95f_Vr_q8xjE8rq-BSZMfAykcrK_bAouzZEMAdjcLIlVGjVXvygX1B7eiwq-IZ5fLtP6jc2lll8E_C4JufOwiWyyuQsBP8z6BzPQiPmiCN_N8y9enFK0Q1W0vmwskyLSkSRCHPhdyjSGegpaR9hIo9xf8uSehkXmfKD06Xbmpbl8nYvrANswTO6IByJjRN7OCWX223rl0xmOKkicw7owM4UNvwY51KCTe2O0AEfkbq0qQNXZCJtwkwSuRfpvF0uuzkbtfjFRSJ4f7IuEu9DpvcN698EIJDhJ54IvcxphVCZNQt8WILTnN2ZyCcVn1ODv4nQL0wO5K25q3Ef6WTuBZIoelVmk-Ogn9jIVWuDl89JoNhS8j71OND_M2SwKEhERd47e7yK1uYhmQ2r9BasOCWrlzUnPtTSwkJes5xqCsO3iExLYeUTVlB7H00RrDz9HCuQB8DqIYlG-SeF1X40aByjGS0VM8lSf2ATHBsk9mS5PgGjs8dCTPWTAckRON0Oav78O2IuiJs--oTSrZVlMpUaB_oPUw0MsDCSMsdU8r9IEFJQNWYZW6-dglq54a8xIOFGrStk-u2G74NqulX15Lf55cQpqPtBl5V3AGeZXIQqjKKO2NiPHziVYDAzYyvJgusn6yrWkR1K1MRhbnaF0jSt0MfyjLKUVFTkaL520Q95yUJznc7Ug8WIA2Gs_rlauUTCbFj5-i8rUgl_5PXtOUX1eGNrw4EZ8L7ETrlRJjS_M7lWk81MDJ4NvdghtnFqU-GR_kHpeYlFSUL9RIQTXKhk70Jcysh3FhV5ewXmBoMWfZZzm4GnFdqUUcc.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoEFCyL0IU74YMjYmx-TSc5acOywbvlPhqG8F4ec88aeofoYIOjctCEFXOaxqSTIaxY6-QrsXgJbL--T-CIVqQdjT227Wc_AcO_m-KZ1JkGSNQIxNTI2KkY2VxJvbAoCebsCk14QR1BFRTwmsPDL3SSFpY0iJKoWHjqN5p5vfOLsiPYnyXtE3hBGPbCqT5jUomyD2zIGS8GqQr_efzKz2MyfHeWXBu2m91vPIHDgZD9Jt4DuEExTXcKNVfN6dtLz_4lbA9O_kYVJgIuvnKkqvBrVJFNHEW60g1B35oeIuDP73TOfhqMaz432hSwKDLaj2hp4Ci28jnKhkwgDRCALtHz42qJkkPgVDG9eQV9TwOCYJS31ayI30JkWX-SgSAi5m8f1FOeBO-3HtbOrT_vIyPOy8igdSWDA-xuQ26P6MNZ-s2B-uoqtW8PUJSGJ7vdPHUBw0pFUSqhgfo7kxtyn-VRl9U1pTaJHIww_-LeA4lIPNJ_nayxlgetNHCCo268zJheqdneDlnoZMkxCguY9L1-ZzNV1A6pwnlkj9CsOtlpfYMe1Hb7nWWn1_4Ahd3Sg7n7B2ILB7g9i8io1L_yI8gDIFitDOQx7A64P_ZWlN3SmCgDK-OON6JXSws1NWuBgLoxTE2rn_njKIYiSwDJMCZRTa4z_HoS4ilpIWjQowFmlYzFimWhzdttNz5qaQCdhUdZktiTcMMMfG9LgwK0mgJQobtdi3S7IWMXJJt7FxhhTiBP1qeJdSlibzDb9SvxlR6yoqxO7-glAPgcoOUpMpKzjiykjL-bhXqFYTFR_2dLuHC2xdeHrR77dYbN3rH4TtRBdobmimyebz5sAzYXQR0dWFP4SEKZQ2tgkZfJ7kKs8FSuUbHoaDPpfLeI0RrRiTseMEg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -432,9 +432,9 @@ https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/3zz6wk.m3u8?s=21X_El7NwCPyh7rSG22
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER FUL.HD
-http://tecnotv.club/boom/smtv.php?c=81_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER FUL.HD
-http://tecnotv.club/boom/android.php?c=315|User-Agent=..Darkiptv.com                                                                                                   --- .                          .
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1487
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
@@ -462,9 +462,12 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6167
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", Multicinema 
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
+
+#EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="Cataluña" tvg-name="etv", MC 
+#EXTVLCOPT:http-user-agent=TDTChannels#CrKeyTDT#
 http/tecnotv.club/pop/android.php?c=110
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
-http://127.0.0.1:36895/http/tecnotv.club/pop/android.php?c=110
+http://tecnotv.club/pop/android.php?c=110|User-Agent=..Darkiptv.com  
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
 http://127.0.0.1:43570/http/tecnotv.club/boom/smtv.php?c=253_&f=.m3u8
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
@@ -529,7 +532,7 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26763?token=HURYWUQKGwxDBA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE FUL-HD
-http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/6.m3u8
+
 #EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL FUL-HD
 
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL FUL-HD
