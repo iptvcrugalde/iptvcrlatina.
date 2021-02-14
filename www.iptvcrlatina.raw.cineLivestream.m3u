@@ -327,11 +327,11 @@ https://5a3911d64928b.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/img/lasestrellas.png",Canal 2 de las Estrellas FUL-HD
 http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/36.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO HD
-http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/34.m3u8
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/7tmke.m3u8?s=ueum5_PTYDf64HOKRiciNQ&e=1613367610
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/pasiones.png", PASION FUL-HD
-http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/40.m3u8
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/8wqhqaz576e4by.m3u8?s=sjgNbRg8qU_1LV8CkwtdNA&e=1613366701
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjWETQvmSA6mHrlEoiT8LKaacZJ-IwP9GS0S00f3w=s900-c-k-c0x00ffffff-no-rj", QUIERO TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
@@ -395,21 +395,23 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1450
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/azcorazon.png", Az Corazon HD
-http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/41.m3u8
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/cr3vnys.m3u8?s=s1ptWP1ZCykDv38j1WPoGg&e=1613367171
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/oRFYnZNHUgBvuCSEvFPquIQxgFrFWCVXvC1arPwU0VGJ5F8T7orcRAs-z1RYzolyYzCQPQ=s170", AZ MUNDO HD
-http://89.105.194.59:25461/live/2mxGX$0/2mxGX$0/38.m3u8
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/8zocra2rg7mctqo.m3u8?s=buwZPrJeSPAXQYK5rQq4pw&e=1613367047
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HHD
 https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoP
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/glitz.jpg",Glitz HD
-http://89.105.194.59:25461/live/1musT99$!/1musT99$!/94.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.gracomonline.com.br/site/images/logo_curso/cinetv.png",CANALES CINE.TV
 https://www.gracomonline.com.br/site/videos/CINETV.MP4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-0xxwz6sHqQU1L44LgT5QdNVpoA8CaqGv7g&usqp=CAU",Azteca 7 FUL-HD
-http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/33.m3u8
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/jykbz8ou4rw9.m3u8?s=37cR5C_r3l468ac1op76dg&e=1613367307
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas HD
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/nju7qqu4.m3u8?s=yDQJ9991mFBEeN6scRNWcg&e=1613366893
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 FUL-HD
-http://89.105.194.59:25461/live/1mx$!9$!/1mx$!9$!/35.m3u8
+https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/lrpme.m3u8?s=cCegPqqyvU6QiDsfzpaZCQ&e=1613367400
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 tvg-logo="http://www.telebunker.com/img/lifetime.png",LIFETIME HD
@@ -425,7 +427,7 @@ https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/j0sp1ce0j09.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN-HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1477
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
-Ahttp://ipeteve.com/php/REGIO_PLAY120220/android.php?c=93|User-Agent=PlOAKiHuag8HYgauhuauah9Y7agagsiuaiast8Yauaokzkhgxstayta76ueysihztftfrE6R67tRTuIAYiLOA
+http://tecnotv.club/pop/smtv.php?c=75_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1474
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
@@ -435,9 +437,7 @@ http://ipeteve.com/php/REGIO_PLAY120220/android.php?c=25|User-Agent=PlOAKiHuag8H
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER FUL.HD
-http://ipeteve.com/php/REGIO_PLAY120220/android.php?c=315|User-Agent=PlOAKiHuag8HYgauhuauah9Y7agagsiuaiast8Yauaokzkhgxstayta76ueysihztftfrE6R67tRTuIAYiLOA
-#EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER FUL.HD
-http://tecnotv.club/pop/android.php?c=315|User-Agent=..Darkiptv.com                                                                                                   --- .                          .
+http://tecnotv.club/pop/smtv.php?c=81_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL FUL-HD
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1487
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
