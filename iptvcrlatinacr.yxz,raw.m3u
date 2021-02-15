@@ -487,6 +487,8 @@ http://www.lengua.com/anthems/USA.mp3
 http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL.HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39216
+#EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL HD
+https://ya.co.ve/XYF
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://ipeteve.com/php/REGIO_PLAY120220/android.php?c=32|User-Agent=PlOAKiHuag8HYgauhuauah9Y7agagsiuaiast8Yauaokzkhgxstayta76ueysihztftfrE6R67tRTuIAYiLOA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES HD
@@ -821,10 +823,12 @@ http://127.0.0.1
 http://201.217.3.212/TV/intercable/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg", SUR.TV TELEVISION ITAPUA HD
 https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=530000.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg", SUR.TV TELEVISION ITAPUA 
+https://rds3.desdeparaguay.net/tvs/tvs/chunklist_w685773919.m3u8?k=079b892ffae799bb6a3bcc4bce87941b2c76b0a28565c99ce225249debfb8a26&exp=1613350083
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QO8cMnbx8NkkC2zXCJi1EMYS41VwJfMZNzU6EBrNJh1Q2VI7-2ObzWqXl__bciFL7aXi", HVN TV HD
 https://59ce1298bfb98.streamlock.net/hvntv/hvntv/chunklist_w351870078.m3u8
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", TELEFURO HD
-https://acortar.link/FcG58
+
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", Telefuturo 
 http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
 
