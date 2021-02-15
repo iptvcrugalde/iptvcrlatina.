@@ -217,6 +217,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 https://5948cea281c58.streamlock.net/canal11/canal11/chunklist_w949592674.m3u8 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12 HD
+http://tv.iptv5latino.cl:8000/jorge18/1234/17743
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53665
 #EXTINF:-1 tvg-logo="https://dl1.cbsistatic.com/i/2019/10/29/9c260217-58c4-4b1a-add4-e9161eb7949e/5d41129a7de8473c0c4333f22911ba0d/imgingest-5893418581603857376.jpg", TVO CANAL 23
