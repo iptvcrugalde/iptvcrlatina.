@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:0 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg", IPTV LATINA CR
 https://wa.me/message/Y36OKHMC7QZVG1
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 14 02 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 15 02 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -40,6 +40,8 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/3731
 https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53HETZSDDN_bEFlibQK8cQc)/dm/3/x29e3wg/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 -HD
 https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO56d6Y7oKfzqakl0qGyHvZx8)/dm/3/x29e3wg/s/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/3734
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg",CANAL 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iO6qmgY.png", TELERED TELEVISION HD 
@@ -184,7 +186,11 @@ https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/60580
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xNFo69.png" group-title="PARAGUAY", Unicanal
 #EXTINF:-1 tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/Emblema-TELEMETRO-.jpg", TELECENTRO CANAL 13 HD
 https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1266 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1229
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dfa1f6bf-3760-4b79-8f4e-2fcf956444c6-profile_image-300x300.png", BTV PANAMA HD
 https://5fcbeb2219aa3.streamlock.net:455/btv/btv/chunklist_w1650351897.m3u8
@@ -211,6 +217,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 https://5948cea281c58.streamlock.net/canal11/canal11/chunklist_w949592674.m3u8 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53665
 #EXTINF:-1 tvg-logo="https://dl1.cbsistatic.com/i/2019/10/29/9c260217-58c4-4b1a-add4-e9161eb7949e/5d41129a7de8473c0c4333f22911ba0d/imgingest-5893418581603857376.jpg", TVO CANAL 23
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg", TVO CANAL 23 HD
@@ -409,7 +417,7 @@ https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoP
 #EXTINF:-1 tvg-logo="https://www.gracomonline.com.br/site/images/logo_curso/cinetv.png",CANALES CINE.TV
 https://www.gracomonline.com.br/site/videos/CINETV.MP4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-0xxwz6sHqQU1L44LgT5QdNVpoA8CaqGv7g&usqp=CAU",Azteca 7 FUL-HD
-https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/jykbz8ou4rw9.m3u8?s=37cR5C_r3l468ac1op76dg&e=1613367307
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26680
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas HD
 https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/nju7qqu4.m3u8?s=yDQJ9991mFBEeN6scRNWcg&e=1613366893
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas FUL-HD
@@ -849,11 +857,11 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6085/240/default.jpg", IR TELE FUL-HD
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10032/240/default.jpg?size=web_v_m", RIO RU TV CINE
-
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/59838
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HJXw2zYoMHGSdrS5FgrQPIQwNdvQVD0aqo4d_OoDRUenekQ6PoI2yeRRm_Z4z5NG9yqf4w=s86", Canal 4 Chuy 
-
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/59821
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/10425/240/default.jpg",CANAL 7 PUNTA DEL ESTE
-
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/59825
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6769/240/default.jpg?size=web_v_m",Canal 8 Televisora CINE
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/9369/240/default.jpg", Canal 8 Rivera CINE
@@ -867,7 +875,7 @@ http://edge2-ccast-sl.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating/C
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzDA0bss0aR_SZcATNidLC8kNGbi4Jnivs1A&usqp=CAU", CANAL 11 PUNTA DEL ESTE 
 
 #EXTINF:-1 tvg-logo="https://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg", CANAL 12 FUL-HD
-
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53764
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png", BOLIVIA
 http://125.139.128.132
@@ -920,6 +928,8 @@ https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg", LATINA FUL-HD
 http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/138.m3u8
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png", Antena 7 HD
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53643
+#EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png", Antena 7
 http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/chunklist_b296000.m3u8 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Imfdu7EIPEKO8em81Z7axvgCCORz7DREbFrprfPAU9j2EnMdtyRWcu2-CeT3pKf2u04=s180",Venezuela TV
 http://www.lengua.com/anthems/Venezuela.mp3
