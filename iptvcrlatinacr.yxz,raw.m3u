@@ -521,6 +521,8 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/55015
 http://tv.iptv5latino.cl:8000/jorge18/1234/55420
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE CHANEL FUL.HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39217
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE CHANEL
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/909
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26920
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXM HD
@@ -663,9 +665,7 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6190
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/5049
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
-http://supertv.live:80/mZ82PN2p/gM9Nyc4x/53848
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4515
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/910
 
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
@@ -840,9 +840,11 @@ https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w8571
 http://89.105.194.59:25461/live/spart$!bitch/spart$!bitch/121.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg84RxHjkboUjpSwVwVYl7oviFLwGDJs-4UCKzP-JMCdIE4MOb&s", CANAL.9 MULTIVISION
 https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro HD
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png",Encuentro HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39205
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro HD
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png",Encuentro 
+https://r4---sn-pjx-nwvs.googlevideo.com/videoplayback?expire=1613471751&ei=p0srYKXJDeqHzLUP9qWLsAo&ip=201.191.199.110&id=AEiH9XZGvWQ.1&itag=136&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=fM&mm=44%2C29&mn=sn-pjx-nwvs%2Csn-hp57knz6&ms=lva%2Crdu&mv=m&mvi=4&pcm2cms=yes&pl=24&initcwndbps=65000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=y5H5ehjQggKyuVH6lC7WR1sF&gir=yes&mt=1613449942&fvip=4&keepalive=yes&c=WEB&n=rIAraG2EP0w0KbBXRA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&signature=AOq0QJ8wRQIgD9gSq4a8Uo7bKMZLQCGa27mlsi2nazAk8B_WHiUsbLACIQDE3j84FZwNy0h0mbKdmr0HChkaOzQKrbxsm--bdynbgA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPFjir5cPxO9cx5_OAcb5Z_3oycJekp-P0I-W34BGAEQAiBs1lWxktpIS8FQSX076KMgjioCQGN0HOr3ozS_J0XRqg%3D%3D
+#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal_encuentro_2020.png",Encuentro HD
 https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_480x270_446k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jEkH6Rj.png" group-title="TV ARGENTINA",TELEFE HD
 https://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/index_11_av-b.m3u8?sd=10&rebase=on
@@ -1054,9 +1056,9 @@ http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8?PlaylistM3UCL
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx7H4ZZVpypexXqbp7Devw9Jo8H1FMPIv4eA&usqp=CAU", ITV PATAGONIA HD 
 https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BiCrayx7GAX4kwcDYShXfsNUlxS7Mr5yCWsFSsxFkazS_RhOQPAxFx0e3RCRAbkYYz1j=s85", TVN HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN4WfUMrRsD0b04jbG3EnYrnlV4FYPZURRw&usqp=CAU", TVN HD
 http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/BiCrayx7GAX4kwcDYShXfsNUlxS7Mr5yCWsFSsxFkazS_RhOQPAxFx0e3RCRAbkYYz1j=s85", TVN HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN4WfUMrRsD0b04jbG3EnYrnlV4FYPZURRw&usqp=CAU", TVN HD
 http://89.105.194.59:25461/live/clsp100$/clsp100$/158.m3u8
 #EXTINF:-1 tvg-logo="http://tvsurvision.cl/wp-content/uploads/2020/10/LOGO-PNG.png", SUR VISION ALERCE HD
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1268767532.m3u8?_=1
