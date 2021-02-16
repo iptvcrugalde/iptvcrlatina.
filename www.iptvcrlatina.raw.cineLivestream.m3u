@@ -415,6 +415,8 @@ https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/cr3vnys.m3u8?s=s1ptWP1ZCykDv38j1W
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/oRFYnZNHUgBvuCSEvFPquIQxgFrFWCVXvC1arPwU0VGJ5F8T7orcRAs-z1RYzolyYzCQPQ=s170", AZ MUNDO HD
 http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=53_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HHD
+http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=63_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE 
 https://miap.xyz/158/serverkey.m3u8|User-Agent=ExoP
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/glitz.jpg", Glitz HD
 
@@ -526,14 +528,16 @@ https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/01uzpez2.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL FULHD
+http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=44_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL 
 http://ipeteve.com/php/REGIO_PLAY120220/android.php?c=105|User-Agent=PlOAKiHuag8HYgauhuauah9Y7agagsiuaiast8Yauaokzkhgxstayta76ueysihztftfrE6R67tRTuIAYiLOA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="CINE PREMIUM",CiNEMA+ PLUS HD
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC FUL-HD
 http://ipeteve.com/php/REGIO_PLAY120220/android.php?c=26|User-Agent=PlOAKiHuag8HYgauhuauah9Y7agagsiuaiast8Yauaokzkhgxstayta76ueysihztftfrE6R67tRTuIAYiLOA
-#EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC HD
-http://tv.iptv5latino.cl:8000/jorge18/1234/42431
-#EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg",AMC HD
+#EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC HD
+http://tv.iptv5latino.cl:8000/jorge18/1234/42431 
+#EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26744
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E FUL-HD 
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26749
@@ -619,17 +623,11 @@ http://ipflix.click:8080/uoplj5soni/rgu4a63btk/656994
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkyCinemaHitsHd",SKY CINEMA HITS
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
-http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6555
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/635
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/630
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81mOG9IQ46L.jpg", SKY CINEMA 
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/15712
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/643
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png",SKY CINEMA ACTION FUL-HDHD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/639
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png",SKY CINEMA ACTION FUL-HDHD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/639
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
@@ -666,27 +664,23 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4515
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES FUL.HD
-http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/18.m3u8
+http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=38_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/7072
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION HD
-http://89.105.194.59:25461/live/5spk$lllW/5spk$lllW/19.m3u8
+http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=37_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6714
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES FUL-HD
-http://89.105.194.59:25461/live/2mov!!X9$/2mov!!X9$/20.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES-HD
+http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=68_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
-http://89.105.194.59:25461/live/5mov$!19/5mov$!19/129.m3u8
+http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=237_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU", FOX FAMILY HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39224
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU", FOX FAMILY HD
-http://tecnotv.club/cann/android.php?c=114|User-Agent=UltimateReloadTv 
+http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=69_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6716
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
-https://s1.dominiopersonal.xyz:2083/elplayer/bIjmhB0cyY/86
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
-https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/85|User-Agent=domingo
+http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=133_&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://ipeteve.com/php/REGIO_PLAY120220/android.php?c=112|User-Agent=PlOAKiHuag8HYgauhuauah9Y7agagsiuaiast8Yauaokzkhgxstayta76ueysihztftfrE6R67tRTuIAYiLOA
