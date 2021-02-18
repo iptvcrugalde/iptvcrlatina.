@@ -854,15 +854,15 @@ http://89.105.194.59:25461/live/spart$!bitch/spart$!bitch/121.m3u8
 https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
 #EXTINF:-1 tvg-id="https://foroalfa.org/imagenes/ilustraciones/Caso_Canal_Encuentro.gifh",Encuentro HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39205
-#EXTINF:-1 tvg-id="https://12noticias.tv/wp-content/uploads/2014/10/CANAL-ENCUENTRO-LOGO.jpg",Encuentro 
+#EXTINF:-1 tvg-logo="https://12noticias.tv/wp-content/uploads/2014/10/CANAL-ENCUENTRO-LOGO.jpg",Encuentro 
 https://r4---sn-pjx-nwvs.googlevideo.com/videoplayback?expire=1613471751&ei=p0srYKXJDeqHzLUP9qWLsAo&ip=201.191.199.110&id=AEiH9XZGvWQ.1&itag=136&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=fM&mm=44%2C29&mn=sn-pjx-nwvs%2Csn-hp57knz6&ms=lva%2Crdu&mv=m&mvi=4&pcm2cms=yes&pl=24&initcwndbps=65000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=y5H5ehjQggKyuVH6lC7WR1sF&gir=yes&mt=1613449942&fvip=4&keepalive=yes&c=WEB&n=rIAraG2EP0w0KbBXRA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&signature=AOq0QJ8wRQIgD9gSq4a8Uo7bKMZLQCGa27mlsi2nazAk8B_WHiUsbLACIQDE3j84FZwNy0h0mbKdmr0HChkaOzQKrbxsm--bdynbgA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPFjir5cPxO9cx5_OAcb5Z_3oycJekp-P0I-W34BGAEQAiBs1lWxktpIS8FQSX076KMgjioCQGN0HOr3ozS_J0XRqg%3D%3D
-#EXTINF:-1 tvg-id="https://yt3.ggpht.com/ytc/AAUvwnhjjN47BtrB5Wi3ZPvCn9wr1PvfTtfokttvSDEnfw=s900-c-k-c0x00ffffff-no-rj",Encuentro HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-D3Rt3VXwXAS0wMCCH2pKPU4tFL1SgKDGw&usqp=CAU",Encuentro HD
 https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_480x270_446k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jEkH6Rj.png" group-title="TV ARGENTINA",TELEFE HD
 https://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/index_11_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png",TLX
+#EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB4egqZZ0HehM7pqv68AbGzu0an2mJtUivYw&usqp=CAU", A24 HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39150
@@ -979,6 +979,8 @@ http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4151/square_150x150-2.jpg" group-title="REGIONALES",VTV Viña del Mar 
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/U2SaaFpdfTqGF76V04yffFX0smutIlFzsm8HQ6DjfMbYC6PSxLhmbw6Sca4rz7VyKwZCbg=s85", GLOBAL TV TELEVISION 
+https://cdnhd.iblups.com/hls/hSv9O1CLLc.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZYJO4FGQ0oUbyAq2vTbqLTRhzZ-Hlu3bdE11CX0RkMAc5AI3Dkls5U-h6wnGXDonuvw=s180",República Dominicana
 http://127.0.0.1
@@ -1278,13 +1280,11 @@ https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 https://ss5.domint.net:3036/ctv_str/cascaratv/chunklist_w1327801611.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ElEaeSovA9c/T8CRBqmTasI/AAAAAAAADVc/WTTU--RlcwU/s1600/globo_tv_honduras_telecatracha_television_honduras_noticias.jpg",TV GLOBO HD
 https://panel.dattalive.com/8122/8122/chunklist_w472965034.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/120539726_162090315518608_1412863809390009801_n.jpg?_nc_cat=108&ccb=2&_nc_sid=730e14&_nc_ohc=jPAdCrM9SAgAX98Dv9M&_nc_ht=scontent.fsyq1-1.fna&oh=1d05751e12d507b5c0aaccabe43fbfe5&oe=6021B91A", GLOBAL TV TELEVISION 
-https://cdnhd.iblups.com/hls/hSv9O1CLLc.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1271993632573267969/iebucZUM_400x400.jpg",VISION GLOBAL TV
 https://panel.livetvvideo.net:1936/8312/8312/chunklist_w1495541210.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/13rioja.png",,Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canalprovincial.com/wp-content/themes/canalprovincia/images/logo.jpg",Canal Provincial San Miguel
+#EXTINF:-1 tvg-logo="file:///C:/Users/evyan/OneDrive/Pictures/Screenshots/Captura%20de%20pantalla%20(131).png",Canal Provincial San Miguel
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rionegro.com.ar/wp-content/uploads/documents/1/0/2198928.jpg?w=920&h=520&crop=1",Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
