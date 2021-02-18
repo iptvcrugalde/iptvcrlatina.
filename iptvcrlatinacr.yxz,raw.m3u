@@ -74,7 +74,7 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
 http://cdn2.envivo.win/HLS/?canal=zonafilmstv&c=ZwNjYwRkBF4kBQLhZmt=&p=ZGH4AGD1ZGtjZN==https://59ef525c24caa.streamlock.net/tvcartago/tvcartago/chunklist_w1703137278
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-5-stv-en-vivo.jpg", STV CABAL 5 SANVITO TELEVISION HD
 http://k4.usastreams.com/vitotv/vitotv/chunklist_w585930838.m3u8
-#EXTINF:-1 tvg-logo="https://www.norteinformativo.com/img/Logo.png", NORTE INFORMATIVO HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7TPuTuWXGBMXGcgL3B20_WQG3bRX9r1_wMNZdVp610dPxpjALkCqKmZkptHsvkmXFz0Whw=s85", NORTE INFORMATIVO HD
 https://inliveserver.com:1936/8328/8328/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/lPSoc5J0Wchm2xaz2mfA3MlbZO2xXFU1GSjhb_A0hyfsPX4nIIwLh3W4NtzT3_bWc6yNxQ=s85", COSTA BALLENA.TV
 https://panel.livetvvideo.net:1936/costaballenatv/costaballenatv/chunklist_w1833314676.m3u8
@@ -352,9 +352,7 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
-#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png", TIN NOVELAS FUL.HD
-
-#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png" group-title="CINE Y SERIES", TLN NOVELAS HD
+#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png" group-title="CINE Y SERIES",TLN NOVELAS HD
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=35|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg", TV MAR
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w2040795390_b3428000_sleng.m3u8
@@ -454,7 +452,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1743
 https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/j0sp1ce0j09.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN-HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1477
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU",PREMIER HD
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=93|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1474
@@ -498,8 +496,9 @@ https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6167
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", Multicinema 
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
-#EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", MC FUL-HD
-
+#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png
+" group-title="CINE Y SERIES",MC
+http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=110|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://i.ibb.co/5xJyrVr/mc.png" group-title="CINE Y SERIES",MC
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=110|User-Agent=UniversalOficiaI
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
