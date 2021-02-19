@@ -806,6 +806,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 https://inliveserver.com:1936/10038/10038/chunklist_w1402692798.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZcUo2tNHLclj6aCa6SRgY8tbjL8xn-sD9IA&usqp=CAU", GEN TV HD
 https://videohd.live:19360/8010/8010.m3u8?_=1
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521", CANAL 13 SAN LUIS
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w22689037_b581072.m3u8
 #EXTINF:-1 tvg-logo="https://www.latinatv.com.ar/images/logo%20125.png", CANAL 42.1 TDA HD
 https://ya.co.ve/UN4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA EUROPA FUL_HD
@@ -1120,7 +1122,7 @@ http://ecuastreamhd.com:1935/UCSGTVmoviles/UCSGTVmoviles/chunklist_w440744487.m3
 #EXTINF:-1 tvg-logo="https://tpc.googlesyndication.com/simgad/1580634957046508323", TVC TELEVICENTRO
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYZEE8t0cZvNBrAJ9AFqDxCRwy4TFc89n2WuQurjmM2ph6gjKr&usqp=CAU", RTS HD
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjExOTg0NjAxLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTkuNjgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4xOTkuNjgiXX0sInNpZ25hdHVyZSI6ImYxZTU1N2M1ZTE2YTdiYTNjNmFlNjkwZDg2YTY3ODBmMWUyYTBlMjkifQ%3D%3D
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b248000.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", RTS
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h9qHSmD2AOn_SjlglQv0Y_l9PKd22wg-Cw&usqp=CAU",Educa TC HD
@@ -1314,8 +1316,6 @@ https://magselect-stirr.amagi.tv/playlist720p.m3u8
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ir-ifilm-4421.jpg", IFILM CINE 
 https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/chunklist_w408656797_b944100_slen.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521", CANAL 13 SAN LUIS
-https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1280030537_b2179072.m3u8
 #EXTINF:-1 tvg-logo="https://b1.pngbarn.com/png/371/638/tv-channel-icons-pack-gran-cine-black-png-clip-art.png", GRAN CINE
 http://stream.pcriot.com/Zv7x/v1.php/grancine/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://ondemo.tmsimg.com/assets/p196753_l_h6_ab.jpg", MIHTV
