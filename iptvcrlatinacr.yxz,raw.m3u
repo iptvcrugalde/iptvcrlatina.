@@ -795,6 +795,8 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8?PlaylistM3UC
 https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepremiumhd/video.m3u8?md5=dglTOyG7KysC47rUB7b1lQ&expires=1613749774
 #EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/0cfe9e50e5f26aca089126d96641749e.jpg",TELECINE FUN 
 https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunsd/video.m3u8?md5=zlDlsviOZONThhkUf9ytnA&expires=1613750374
+#EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/fa676fc3ff942e6e39ba98c72ba0b515.jpg", TELECIE PIPOCA
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocasd/video.m3u8?md5=e9OnJ26BbP_UXbkFV2wR-w&expires=1613750796
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Jud10w2-cxdmYn9nt4KY5siUtaJJphmMaT0cLQCn7Xo8QFvCp-dGW7h5zX69wleuAa8=s180",ARGENTINA
 http://127.0.0.1
