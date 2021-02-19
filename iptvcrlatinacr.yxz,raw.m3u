@@ -785,6 +785,12 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
 http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/82399
 #EXTINF:-1 tvg-logo="https://olhardigital.com.br/wp-content/uploads/2019/10/20191015050451.jpg", TELE CINE ACTION HD
 http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/82396
+#EXTINF:-1 tvg-logo="https://i0.wp.com/itu.tv.br/wp-content/uploads/2020/03/Sem-t%C3%ADtulo-1.jpg?fit=1920%2C1080&ssl=1", ITV
+http://regioflix.club/apoyo.mp4
+#EXTINF:-1 tvg-logo="http://tv0800.xyz/wp-content/uploads/2020/09/trianon-185x200.png", Cine Trianon TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w48351978.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppL6n53PBbAfSGmT7iTtb3DxFJnshjqljGw&usqp=CAU", TELECINE ACTION
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Jud10w2-cxdmYn9nt4KY5siUtaJJphmMaT0cLQCn7Xo8QFvCp-dGW7h5zX69wleuAa8=s180",ARGENTINA
 http://127.0.0.1
