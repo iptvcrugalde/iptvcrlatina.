@@ -791,6 +791,10 @@ http://regioflix.club/apoyo.mp4
 https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w48351978.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppL6n53PBbAfSGmT7iTtb3DxFJnshjqljGw&usqp=CAU", TELECINE ACTION
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://sollutio.com/img/img/filmes-e-series/telecine-premium-2.png", TELECINE PREMIUM 
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepremiumhd/video.m3u8?md5=dglTOyG7KysC47rUB7b1lQ&expires=1613749774
+#EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/0cfe9e50e5f26aca089126d96641749e.jpg",TELECINE FUN 
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunsd/video.m3u8?md5=zlDlsviOZONThhkUf9ytnA&expires=1613750374
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Jud10w2-cxdmYn9nt4KY5siUtaJJphmMaT0cLQCn7Xo8QFvCp-dGW7h5zX69wleuAa8=s180",ARGENTINA
 http://127.0.0.1
