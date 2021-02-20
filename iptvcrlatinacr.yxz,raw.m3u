@@ -71,9 +71,9 @@ http://cdn2.envivo.win/HLS/?canal=zonafilmstv&c=ZwNjYwRkBF4kBQLhZmt=&p=ZGH4AGD1Z
 http://k4.usastreams.com/vitotv/vitotv/chunklist_w585930838.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7TPuTuWXGBMXGcgL3B20_WQG3bRX9r1_wMNZdVp610dPxpjALkCqKmZkptHsvkmXFz0Whw=s85", NORTE INFORMATIVO HD
 https://inliveserver.com:1936/8328/8328/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://lh3.googleusercontent.com/sHdM0_0_N0Ai_YpXoOTCk21mbGnVZpNZmilKGN5c67jl0XZywHp8KNqnX9XLoxTVkEz_Rg=s85"", COSTA BALLENA.TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/EKtnyKuARqsfJrE4Je1DrBPwnp2bM52Gj2XhXaMKRroIRMiu1YwVkjY_LZkOFBcQ-DeT=s85", COSTA BALLENA.TV
 https://panel.livetvvideo.net:1936/costaballenatv/costaballenatv/chunklist_w1833314676.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/4w1A0KoYr8hXgjQ7PWfeD4WDSRALuqVgwG7X4OMJ0_7nmxGTQFA_wNhn92S8c1rDNzOHONc=s85", TVO OCCIDENTE
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/QHpkaZBa8iIKW5D17MPKnadvv9hxJ_6pRDQYb2KF9_lPUkcztZ6emCAAE9q3idp_6fg51w=s85", TVO OCCIDENTE
 http://k4.usastreams.com/tvoccidente/tvoccidente/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY", Antena Seis TV CANAL 32 HD
 http://inliveserver.com:1935/14510/14510/chunklist_w1591822251.m3u8
