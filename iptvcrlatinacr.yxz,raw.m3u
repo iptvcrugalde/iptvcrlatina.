@@ -197,7 +197,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s", CANAL TVX HD
-
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CqMFOy5tEX-OO0QxxCl3v7mftwEJFgBjX1jqAlLh4Qrvfb1F1xGlRnqYMqBaVfNi-R4I_XIcCFf5dzsorqKoYAnEcZl6pyzf8Egur5hPcl0-fsTxYyJV26Xab49MMj0YmtIeEeozuz0RdJSATLXfsutcJypvlnN5VqeK0IDohtloU28HyyEFi8cFisbUX3MOTn-q73L0kYTXtPySMH0n8U56j4ZorXt9jp4TPxS2j069caFgtIlmrmt1sfN0aqXKW8rnnNQlqXuVkCCSuHk6FAnPg_CAnQj1xekt9dM2w5EK-l6zTOC6r3tWb8dPqIHhnFwHob57UANxBS8DRvDUZlapnvC1U52xdjIQ7RUFy-iK5esJu73f3Q6WhaUOfbFd--3ztuoqzNEczM8f_fIr88MAyHyL2Nko_-DC5uzmeYyTO8Iw2BFavOFXPhx8UcD97Ts1LKwFTFA34CqiPNiAaxzOiSxjgf99TfiKsZNp0JToXEV_7Xfjy7d4mMlmFG4XWTfBFgvITsKQAtzNeiIBssOTlLlDEjeTFq1qrUtypmm9dqRrJHf_nzdMcje5GBGcI3s1HOPBCwqxac1huBrmZhaZbF035FtVI0M9jd_RKSeexnpkfVPnraJKmMUDQ6OVo7gYWD54cNFBqw-RcfTX6--WIX2d7L4YW8nw84g3-oPK5QEJ_2B3rfhcos8WIZ4j38A_8_6bHXyW9i_Jj78WP8AOmEJdqT5rtywNUcOhBms94XrDWXZwa4adPtZ6Mht7ucbdTscDj8rZzx-pKjA_2j3lMaPKqQOaD_C8bDnIvtQE2chMVKiA3m26rA6irK8tP4eTJW77RNznYc2WJdx-uesMjIKyqvxjp6mDjPgdQ6kqnZI8kfYT29EWaBurseRG3aUsHE7AEhBztr0P31e4oclxemMABlwZGgyexsMfr94qt6QN4Oc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -424,11 +424,11 @@ https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/nju7qqu4.m3u8?s=yDQJ9991mFBEeN6sc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 FUL-HD
-https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/lrpme.m3u8?s=cCegPqqyvU6QiDsfzpaZCQ&e=1613367400
+https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/lrpme.m3u8?s=AsCTTEYYoujnmriSRCR4Eg&e=1613854435
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
-#EXTINF:-1 tvg-logo="http://www.telebunker.com/img/lifetime.png",LIFETIME HD
-http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=104_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.telebunker.com/img/lifetime.png",LIFETIME HD
+https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/iz7ab.m3u8?s=_NNBgtm5gqgb6FjpWVrs-w&e=1613856010
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN FUL.HD
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=90|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN
