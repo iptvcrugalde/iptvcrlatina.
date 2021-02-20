@@ -405,10 +405,10 @@ http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=85_&f=.m3u8
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1450
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/azcorazon.png", Az Corazon HD
-https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/cr3vnys.m3u8?s=s1ptWP1ZCykDv38j1WPoGg&e=1613367171
+#EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/azcorazon.jpg", Az Corazon HD
+http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=13|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png", AZ MUNDO HD
-http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=53_&f=.m3u8
+http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=14|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HHD
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=46|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE 
@@ -549,7 +549,7 @@ http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39174
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="CINE PREMIUM",CiNEMA+ PLUS HD
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://landing.qlobbi.com/wp-content/uploads/2020/11/amc.png",AMC FUL-HD
-http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=26|User-Agent=UniversalOficiaI
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/rguttxcpijxb1.m3u8?s=IUJGDQ0VpdSNjz96i5jx-Q&e=1613813176
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/42431 
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC 
@@ -561,8 +561,8 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26749
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E FUL-HD 
 http://tv.iptv5latino.cl:8000/jorge18/1234/38796
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM HD
-http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=101|User-Agent=UniversalOficiaI
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM 
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/614dpngfd1w7.m3u8?s=FUw2G3xER4pQ07x3mzFhrQ&e=1613813462
+EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM 
 http://tv.iptv5latino.cl:8000/jorge18/1234/1759http://tv.iptv5latino.cl:8000/jorge18/1234/42431
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
@@ -677,13 +677,13 @@ http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/910
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/Fox-Premium-Canales-783x400-609637451.jpg",FOX PREMIUM
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES FUL.HD
-http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=38_&f=.m3u8
+http://www.iptvtools.net/liveplayer/media/beacon.webm
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
 http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=37_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6714
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES-HD
-http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=68_&f=.m3u8
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/1stc7s04z.m3u8?s=QP1dQCA9rZZXAfn07bpxnQ&e=1613812228
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
 http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=237_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU", FOX FAMILY HD
