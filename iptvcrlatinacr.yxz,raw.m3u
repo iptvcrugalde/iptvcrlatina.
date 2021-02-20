@@ -1075,7 +1075,7 @@ http://127.0.0.1
 
 #EXTINF:-1 tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/07/uestvlogo.png", U ESTV 
 https://tls.cdnz.cl/uestv/live/chunklist_w168368058_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/s9S_nNxGGIr8rJ_Ds0M-5FtY5QdPKoCtBJEDBWziDrWEcZwI_ldodZyOMfoqZQrC1ab4rQ=s85", ESTACION TV HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/O_FvjzTQVLyZYZPF7G25rTed_Buaf1c1h0bgBIIiB2reH_rwCqYkbtefY6eQjfXpXY-9=s85", ESTACION TV HD
 http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", MÁS+.TV CHILE 
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8?PlaylistM3UCL
@@ -1102,7 +1102,7 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png",TV POP 
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2019/08/la-red.jpg", LA RED HD
-https://n9.cl/laredendirecto
+https://cl-lared-lared-live.ned.media/live-720.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzODg0MjQwLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTUuMzciLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTUuMzciXX0sInNpZ25hdHVyZSI6ImEzNTRmZmE0ZDIyNGI0NGFjZjU2ZTkwZTY0OTU0ZmFkNWYwNDViNjYifQ%3D%3D
 #EXTINF:-1 tvg-logo="http://cl.heytv.org/wp-content/uploads/2019/04/VTV-Valle-de-Aconcagua-webtvonlive.com_.jpg",CANAL VTV VALLE
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/998322332992061441/-5x2rRt8_400x400.jpg", TELE SUR.TV FUL.HD
@@ -1193,7 +1193,7 @@ https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
 http://51.210.199.15/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUFfD9LAfdK9qGDFGwlYeMf4icEmMcYvt2w&usqp=CAU", CINE MUNDO HD
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/9419
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/46wdgGh9ODAG1sB-L0HL_c9wjxfeWhXdIRsglb2RVm7IAjU0rTpCfa1OGBxB8Jx5JdSilw=s114", SUPER CANAL HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RaeyFZF8lxW4z42zCDOGpNnFoHggGMzdepxPveaWZSjJlRFTU-GFHcUwaV0Bw72U1eboOAM=s114", SUPER CANAL HD
 http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w101413378.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/dn7TlqevsNMMX1oS85dpyBlIpWFyiHHt5yOfFSUiuMbT-j-oiTWpn87jRAU3kV5Pfi5pgt0=s138", MIX CINEMA HD
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/131
