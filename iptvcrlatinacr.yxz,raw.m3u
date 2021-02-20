@@ -337,8 +337,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/7tmke.m3u8?s=ueum5_PTYDf64HOKRiciNQ&e=1613367610
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO HD
 http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=52_&f=.m3u8
-#EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/pasiones.png", PASION FUL-HD
-http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=51_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://tvcablesdechile.cl/wp-content/uploads/2020/07/se%C3%B1ales-logo3-21.png", PASION FUL-HD
+http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=38|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjWETQvmSA6mHrlEoiT8LKaacZJ-IwP9GS0S00f3w=s900-c-k-c0x00ffffff-no-rj", QUIERO TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
@@ -360,7 +360,7 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26944
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV 
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39249
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
-https://s1.dominiopersonal.xyz:2083/domingo/DxGROeCfKM/26|User-Agent=domingo
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
 https://s1.dominiopersonal.xyz:2083/realplayer/Ctb5Dty6Hq/178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L7XHXqu.jpg" group-title="MUSICA" group-title="TV MEXICO",RMS RITMOSON LATINO HD
@@ -407,7 +407,7 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1450
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.teleblanca.com/img/azcorazon.png", Az Corazon HD
 https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/cr3vnys.m3u8?s=s1ptWP1ZCykDv38j1WPoGg&e=1613367171
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/oRFYnZNHUgBvuCSEvFPquIQxgFrFWCVXvC1arPwU0VGJ5F8T7orcRAs-z1RYzolyYzCQPQ=s170", AZ MUNDO HD
+#EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png", AZ MUNDO HD
 http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=53_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HHD
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=46|User-Agent=UniversalOficiaI
