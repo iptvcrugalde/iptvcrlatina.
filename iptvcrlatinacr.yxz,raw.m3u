@@ -559,7 +559,7 @@ http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39174
 http://184.173.181.2:1935/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://landing.qlobbi.com/wp-content/uploads/2020/11/amc.png",AMC FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/40116
-#EXTINF:-1 tvg-logo="https://http://tv.iptv5latino.cl:8000/jorge18/1234/40116tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC HD
+#EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/42431 
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC 
 http://tv.iptv5latino.cl:8000/jorge18/1234/42431?token=HURYWUQKGwxDBAANCAcEVghUCQIBUAVQAAEHVARWDwICBAdZBlAIAwcUGhZLF0MBUQtuWABEWQMDAwdSUgUaEhMVVUpoC10UWxQEBgpRCFMSShNFDQsGEAoHHkQVWlISXEQCCwFWDxRNFFNMTAZDClEKblUBEApRVRUICBBfWhxECV5nUwdUVw9SFA4aUhNIEg9CQUZcDUdcWx5EB1pCQgcSVRoNQAoGWAcUGBoAXhFeEkNIRlxBcWIVHkQAS0JVCBVZV1lAAxQMBUMMGk8TDUM5Q1QXEhFXUVpXFEcJFABEShJVVhpmVQ5YWFFbF1gLXhUTC0ZUQR4SWl0IDEdZQjkWWVwVWBsHWQADAhoe
@@ -572,7 +572,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/38796
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1759
 EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM 
-
+http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=101|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
@@ -602,6 +602,8 @@ https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=-zNtbsNi3JET
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1755
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER CHANNEL FUL-HD
+http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=95|User-Agent=UniversalOficiaI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER CHANNEL
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=95|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY FUL-HD
 http://latvonlive.com:33612/Rico/1234/78
