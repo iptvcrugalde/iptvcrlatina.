@@ -684,9 +684,11 @@ http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b162
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU", FOX FAMILY HD
 http://nano.zappingtv.com:1935/foxcomedy/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
+http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS H
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6716
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
-http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=133_&f=.m3u8
+http://nano.zappingtv.com:1935/foxcomedy/foxmoviesmobile.smil/chunklist_b1628000_sles.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://tecnotv.club/ggh/smtv.php?c=207_&f=.m3u8
@@ -1237,7 +1239,6 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681941
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681948
 #EXTINF:-1 tvg-logo="http://www.cinerdia.com.br/wp-content/uploads/2014/09/Cinerdia-Logotipo-800px.png", CINERDIA
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29886
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Ja%C3%A9n.png", CANAL 45 TV
 https://cdn01.yowi.tv/503L6OKTE2/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSyXKRWaD-KP7geIaWZucbJCLFc0SDrjbKbIA&usqp=CAU", DISTRITO DTV
@@ -1404,6 +1405,8 @@ http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1381385764.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Sonic_La_Pel%C3%ADcula_Logo.png", SONIC LA PELICULA
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/13520
+#EXTINF:- 1 tvg-logo="https://acc.tv/wp-content/uploads/2019/10/ACCTV-RGB-Logo-on-White.jpg", ACCTV 
+https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
