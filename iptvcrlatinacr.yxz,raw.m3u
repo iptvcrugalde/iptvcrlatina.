@@ -1586,7 +1586,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://static.fecam.net.br/uploads/878/imagens/1582236.jpg",CULTURA
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
-http://89.105.194.59:25461/live/1docT9n!$/1docT9n!$/81.m3u8
+https://zf8113m9dpznta9.ezcdn462.net:8443/hls/0mv17x.m3u8?s=_I7g21LoxsmADznZqBkY5Q&e=1613816589
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png",Investigation Discovery ID HD 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png",Investigation Discovery ID HD 
