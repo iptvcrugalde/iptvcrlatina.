@@ -610,7 +610,7 @@ http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/664
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/895.png",DIRECTV CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/z046Oqsv5PC7ou0ZZe32wJ0XVYgyMXWlWiLH1FTaM1hDq55PnU-oX9jSQAxgxjEcw-OV7A=s116", bloody
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ITTCfZp_Y4w5hX8s19tliTDucRsCA2-cCA_lE0xWmLqB-yXNwbKG_AZXihfjhrOjhx70zA=s116", bloody
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/3f/ec/fe3fec00bbd6e6d98fb18dce16a5c8f7.jpg",CINE MOVIES FUL-HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4212
@@ -768,22 +768,24 @@ http://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w193121363.m3
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxidcVRiaHpLfTFFH2sosNAnZj2LldOUYpg&usqp=CAU", SBT PE 
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
-#EXTINF:-1 tvg-logo="https://olhardigital.com.br/wp-content/uploads/2019/10/20191015050451.jpg", TELE CINE HD
-http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/82399
 #EXTINF:-1 tvg-logo="https://olhardigital.com.br/wp-content/uploads/2019/10/20191015050451.jpg", TELE CINE ACTION HD
-http://rv.imax.re:80/IcXuKdFSjp/uOtoaNTNW9/82396
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecineactionsd/video.m3u8?md5=4Ybzzg0lU2k6XsqNmMC2RQ&expires=1613977159
 #EXTINF:-1 tvg-logo="https://i0.wp.com/itu.tv.br/wp-content/uploads/2020/03/Sem-t%C3%ADtulo-1.jpg?fit=1920%2C1080&ssl=1", ITV
 http://regioflix.club/apoyo.mp4
 #EXTINF:-1 tvg-logo="http://tv0800.xyz/wp-content/uploads/2020/09/trianon-185x200.png", Cine Trianon TV
-https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w48351978.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppL6n53PBbAfSGmT7iTtb3DxFJnshjqljGw&usqp=CAU", TELECINE ACTION
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://sollutio.com/img/img/filmes-e-series/telecine-premium-2.png", TELECINE PREMIUM 
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepremiumhd/video.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecinepremiumsd/video.m3u8?md5=d1W65FufIf2iqPT1bPGzOw&expires=1613979827
 #EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/0cfe9e50e5f26aca089126d96641749e.jpg",TELECINE FUN 
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunsd/video.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunsd/video.m3u8?md5=u4T8y2_e_g73DX-GnTHS5g&expires=1613979648
 #EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/fa676fc3ff942e6e39ba98c72ba0b515.jpg", TELECIE PIPOCA
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocasd/video.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocasd/video.m3u8?md5=Iqk0XPPIGCbBBSbmAhthPA&expires=1613979681
+#EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/e753dc568fd2323a7553cf6b80d2e7e5.jpg",TELE CINE CULT
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinecultsd/video.m3u8?md5=DxirSVG1C4jdcNfGoNRdjw&expires=1613980126
+#EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/af03110534bb069a9cb32a3e4e576ca7.jpg", TELE CINE TOUCH
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinetouchsd/video.m3u8?md5=wHk676ICWNUyKYuRgHAR9Q&expires=1613979907
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Jud10w2-cxdmYn9nt4KY5siUtaJJphmMaT0cLQCn7Xo8QFvCp-dGW7h5zX69wleuAa8=s180",ARGENTINA
 http://127.0.0.1
@@ -820,7 +822,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26752
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
-https://s1.dominiopersonal.xyz:2083/tplayer/L3pikcUgl1/369
+http://tecnotv.club/ssd/smtv.php?c=86_&f=.m3u8
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 http://tv-prime.tv:8080/live/Cruzado/nsNviFCPtn/926.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV HD
@@ -1099,9 +1101,9 @@ http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://elfiltrador.com/wp-content/uploads/2019/03/53311917_1258469654318918_8926059123426983936_n.png", TVR 
 https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/j9FnbsTEBwgtizgoWs_X9mHU2kdo30TTFMXHGxKMsRCQPuxzXidLhNqqKJQ183gSaJAl=s151",FMH MOVIES HD
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/j9FnbsTEBwgtizgoWs_X9mHU2kdo30TTFMXHGxKMsRCQPuxzXidLhNqqKJQ183gSaJAl=s151",FMH MOVIES
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/FGZnzHuQAluRaGol1LUaH57t5XvL_483CV0VDsWMO5Ri0IJREZ0xJNVuFhUQPUMr0SOw2Q=s151",FMH MOVIES HD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b500000_slesp.m3u8 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/FGZnzHuQAluRaGol1LUaH57t5XvL_483CV0VDsWMO5Ri0IJREZ0xJNVuFhUQPUMr0SOw2Q=s151",FMH MOVIES 
 http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal33.cl/assets/images/logo.png",CANAL 33 HD
 https://590c5dc5c3271.ttp://wwstreamlock.net/eduardo555/eduardo555/chunklist_w1161757561.m3u8_2630.ts?_=1
@@ -1133,7 +1135,7 @@ https://ott.streann.com/loadbalancer/services/public/channels-secure/57cef28b2cd
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnR2ZXNwb3J0ZW9ubGluZV9pY29uXzE1NDYzNDQ3NzRfMDM4/icon.png?w=170&fakeurl=1",CINE TV
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Qp9tF_sRjCrR70AO-0QJM04ioNMMe7aWo-4QINfHdmn7glMDBeAaRiPlKoNjf05yljwO=s105",RED.TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gOR235AijQO6nyF5f0phUK7X77ZAeWZ_TSouJ3VZmq3QdJWavnf_QBbmcKPVnSWXEXLoqx0=s85",RED.TV
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1692526373.m3u8
 #EXTINF:-1 tvg-logo="http://canalmundovision.com/wp-content/uploads/2017/06/logo-mundo-vision-1.png", MUNDO VISION TV
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
@@ -1361,7 +1363,7 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 http://cm.hostlagarto.com:8081/Telecibao/Telecibao/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.onlinepokerreport.com/wp-content/uploads/2013/09/wms-industries-online-poker.jpg",WMS HD TV
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OU3MOkxEf1VonguI6NKmZySNw05daEYXqDospABjvJ6CFe02aJ26UrIm7oUUW4ifWEYdbQ=s85",TELE CANAL 12 HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jqOh7EuTPDeGrEhyDyqN3RE7teHsu1DPz7R-_UK65FohuWdEagJ1vKaJnqP3naHcwExVzJk=s85",TELE CANAL 12 HD
 https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhNXeL2j6nDfgnmZxLlnMTAMne2l7IZ7boVIGUPL8h0VaFCFV2",,CIBERVISION CANAL 3 HD
 http://108.175.14.125:1935/tdn/tdn/chunklist_w1416269518.m3u8
