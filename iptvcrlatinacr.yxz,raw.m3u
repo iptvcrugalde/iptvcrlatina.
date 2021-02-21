@@ -832,8 +832,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39172
 #EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",FIM & ARTS HD
-https://acortar.link/Rf5ok
-#EXTINF:-1 tvg-logo="https://images.mi.tv/channels/cl_film-arts_m.png",FIM & ARTS HD
+http://nano.zappingtv.com:1935/filmandart/filmandart.smil/chunklist_b4128000_sles.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/UNTtCR-8FQg-kKpVfqEgRjf4Su6rE4YsSey8YTx6dPMR2M8xUyPM3coXa5l2kp9pfXbqqQ=s152", REEL TRUTH CRIME 
 https://endemol-reeltruthcrime-1.roku.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="https://telesol.tv/wp-content/uploads/2020/06/LOGO-FINAL-TELESOL-2020.png", TLS HD
 https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
