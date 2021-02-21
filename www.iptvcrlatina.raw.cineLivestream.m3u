@@ -24,13 +24,13 @@ https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml" Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJdbE6lh-DvUr5187cZJ4OwxyA0VXsxbWE5Q2JzFyrrTS5DSTx", REPRETEL CANAL 6 FULHD
-https://ya.co.ve/wPf
+https://ya.co.ve/UnO
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png", REPRETEL CANAL 4 FULHD
-https://ya.co.ve/15n
+
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica.png" group-title="Costa Rica", REPRETEL CANAL 2 HD 
-https://ya.co.ve/9Oh
+https://ya.co.ve/rDe
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png", REPRETEL CANAL 11 HD
-https://ya.co.ve/uDj
+
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FUL_HD
 https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53HETZSDDN_bEFlibQK8cQc)/dm/3/x29e3wg/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7-HD
@@ -1212,31 +1212,41 @@ http://halowtv.online:8080/HalowTV/FSyzHfEhvb/139
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/mundomax.png", MUNDOMAX
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63000
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/VOX.png", VOX.HD
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6153
+http://channelstv.online:80/01013153474A/01551832488A/117224
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/VOX.png", VOX.HD
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6153
 #EXTINF:-1 tvg-logo="https://www.kabeleinsclassics.de/logo.jpg", Kabel 1 Kabel 1 Classic HD 
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/9151
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/MoviesHD4.png/120px-MoviesHD4.png",beIN_Movies_Family
+http://mynetworks.info:80/hossam/hossam1234/17883
+#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/07/beinmovie2.png", beIN_Movies_Action
+http://mynetworks.info:80/hossam/hossam1234/17881
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWafRMuEMCC0WE_sTKekwL4oeIKH0VaNrjXw&usqp=CAU", beIN_Movies_Drama_HD
+http://mynetworks.info:80/hossam/hossam1234/1661
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MtNVup5d8Bg7tNXoXSvhI0VRBItBmk9zwUomBayCg530PzD8pN3cHrhx92-ADAimkIN7ag=s144", Kabel 1 Kabel 1 Classic HD 
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/679844
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Snake in the Eagle's Shadow
+http://mynetworks.info:80/movie/hossam/hossam1234/16613.mkv
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Premiere FHD
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681946
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Eagle Cinema Horror FHD
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681942Eagle
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Cinema Thriller FHD 
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681950
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Eagle Cinema Sci-Fi FHD 
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681949
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Eagle Cinema Animation HD 
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681939
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Mythologie HD 
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681945
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Eagle Cinema Lächeln HD 
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681944
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Geschichte HD 
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681941
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Romantisch FHD 
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/681948
+
+
 #EXTINF:-1 tvg-logo="http://www.cinerdia.com.br/wp-content/uploads/2014/09/Cinerdia-Logotipo-800px.png", CINERDIA
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29886
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Ja%C3%A9n.png", CANAL 45 TV
@@ -1410,16 +1420,17 @@ https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/GHUuxGo1lqf5j2i4qgUHDnvlFiWY8iDUVNkP5omO_R2NvF_xMTm6MhkzDUOZkh45PaTYgg=s151", GINETES DEL ESPACIO
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yWMrwSSfTCrpuRz8oiaWce5i05qxBjJMUtRaeEx5SJ6Y8WUb1pdvwCHKv9ET1VDoMlOXw_Y=s151", GINETES DEL ESPACIO
 http://tv.masterplaytv.xyz:8000/movie/mv38Y9TW8b/XHHpMhvLCK/64511.mkv
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/GHUuxGo1lqf5j2i4qgUHDnvlFiWY8iDUVNkP5omO_R2NvF_xMTm6MhkzDUOZkh45PaTYgg=s151", Color Out of Space (2020)(4k)
-http://tv.masterplaytv.xyz:8000/movie/mv38Y9TW8b/XHHpMhvLCK/36621.mkv
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/GHUuxGo1lqf5j2i4qgUHDnvlFiWY8iDUVNkP5omO_R2NvF_xMTm6MhkzDUOZkh45PaTYgg=s151", La casa de papel: El fenómeno (2020)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yWMrwSSfTCrpuRz8oiaWce5i05qxBjJMUtRaeEx5SJ6Y8WUb1pdvwCHKv9ET1VDoMlOXw_Y=s151",  Color Out of Space (2020)(4k)
+http://tv.masterplaytv.xyz:8000/movie/mv38Y9TW8b/XHHpMhvLCK/36621.mkv La casa de papel: El fenómeno (2020)
 http://tv.iptv5latino.cl:8000/movie/jorge18/1234/31640.mkv
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/GHUuxGo1lqf5j2i4qgUHDnvlFiWY8iDUVNkP5omO_R2NvF_xMTm6MhkzDUOZkh45PaTYgg=s151",  La caída de la Casa Blanca - 2013
 http://tv.iptv5latino.cl:8000/movie/jorge18/1234/17001.mkv
-#EXTINF:-1 tvg-logo=https://i1.wp.com/www.dpscomputing.com/blog/wp-content/uploads/2016/09/criminal-minds-logo.png?resize=480%2C240",Esprits criminels S09 Les racines de la haine
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yWMrwSSfTCrpuRz8oiaWce5i05qxBjJMUtRaeEx5SJ6Y8WUb1pdvwCHKv9ET1VDoMlOXw_Y=s151", Esprits criminels S09 Les racines de la haine
 http://rv.imax.re:80/series/IcXuKdFSjp/uOtoaNTNW9/139255.mkv
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/202011135721913.png",OSN_Movies_First_HD 
+http://channelstv.online:80/01013153474A/01551832488A/82504
 
 #EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/netflix_tv_pixabay_1605005703348.jpg", NEFLIX CINE
 https://128.130.01.125
@@ -1441,9 +1452,9 @@ http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/34062
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-O2mB7eLoXTc/Xj3fc8g0LVI/AAAAAAAAAiA/-oOdUkmzvo4SIjAEmqZX6TtubW2zZ0fkACK4BGAYYCw/s1600/0000ZONAFILMSTV-TITULOwebs.png", ZONAFILMS TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ebba677b-0d63-481c-9986-b14da96efe2b-profile_image-70x70.png", ZONAFILM TERROR
-https://ya.co.ve/H8w
-#EXTINF:-1https://ya.co.ve/qAm tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-300x300.png", ZOAFILMS.TV HD
-https://ya.co.ve/mw6
+https://ya.co.ve/2ML
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-300x300.png", ZOAFILMS.TV HD
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA&usqp=CAU", MOVIEZ TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU",STAR MOVIEMI HD
@@ -1463,25 +1474,23 @@ https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/2315/latinomoviez.jpg", LATINO MOVIEZ HD
 
 #EXTINF:-1 tvg-logo="https://mb.cision.com/Public/2355/2013115/89509122b8543e8c_org.jpg",FOX MOVIES
-http://ipflix.click:8080/uoplj5soni/rgu4a63btk/8843
+http://channelstv.online:80/01013153474A/01551832488A/82503
 #EXTINF:-1 tvg-logo="https://mb.cision.com/Public/2355/2013115/89509122b8543e8c_org.jpg",FOX MOVIES
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4218
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU", MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/3ukLoneFe7-2m5908AU54juSNJQo1Ep1pfHPIh05QRU_S1y76roTIluDyIduvRyhpXyUuw=s90", VITATOTV HD
-http://cdn2.envivo.win/HLS/?canal=ayetv&c=ZwNkYwR5ZF4kBGthAGp=&p=ZGH4AmV0BQL1ZD==
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK CHANNEL HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
+#EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK CHANNEL HD
+http://supersonictv.live:25461/903310/034806/22892
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK MOVIEZ HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a05fa9feb340d57.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK ACTION HD
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8a8b8e9dcaced2e.ts|User-Agent=1m3u8
+http://supersonictv.live:25461/903310/034806/22892
 #EXTINF:-1 tvg-logo="http://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8.png", CANAL OCHO SAN JUAN
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1932/terror_mania.jpg",	TERROR MARIA HD
-https://ya.co.ve/Dip
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d2d645e9-a373-49e7-99a6-4b6fa08013d1-profile_image-300x300.png",KATY HD 
-
+https://ya.co.ve/406
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ccf5be60-2c07-4aef-9fcc-a4ed3033663e-profile_image-70x70.png",JJ PARCHE.TV HD
 https://ya.co.ve/SF8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png", TV CLASSICS
@@ -1563,9 +1572,7 @@ https://s1.dominiopersonal.xyz:2083/elplayer/bIjmhB0cyY/44|User-Agent=elplayer
 #EXTINF:-1 tvg-id="MX - Disney XD" tvg-name="Disney XD FHD (MX)" tvg-logo="http://img.tvcl.xyz/infantiles/xd.png" group-title="Infantiles",Disney XD FHD 
 http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/59.m3u8
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_disney-channel-renueva-su-imagen.jpg", DISNEY CHANNEL HD
-
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_disney-channel-renueva-su-imagen.jpg", DISNEY CHANNEL HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=62|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg",DISNEY JUNIOR HD 
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/60.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbFr_3ChxUrcftwYsmwpKwZTs7UT6JmYx30NVG68usPDSt1iEN", DISCOVERY KIDS
@@ -2117,10 +2124,6 @@ https://e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/chunklist.m3u8?at=7380d951fb9895
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/mijas-340.png", MIJAS.TV 3.40
 https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 FUL-HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/1871
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 HD
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/7247
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 FUL-HD
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/7247
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION FULHD
 https://cortino4.mitopo.me/live/plusaccion/index.m3u8?token=-HYa7sUMJLzen-zvM0zsug&expires=1612283989
@@ -2263,7 +2266,7 @@ http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11665
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/sat-1-live-stream-tv.png", SAT 1 HD
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6210
 #EXTINF:-1 tvg-logo="https://www.ecanlitvizle.live/logo/sat-1-live-stream-tv.png", SAT HD
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/683455
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/4089
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sat.1_Gold_HD_Logo_2019.png/1200px-Sat.1_Gold_HD_Logo_2019.png", Sat1 Gold HD
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/271
 
