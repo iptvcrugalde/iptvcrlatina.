@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg", IPTV LATINA CR
 https://ventas.tecnosyste.net/wp-content/uploads/2019/08/Tecnosyste-Ingenieria__downloaded_mp4.mp4?_=1
 #EXTINF:0 = https://wa.me/message/Y36OKHMC7QZVG1
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 21 02 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 22 02 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -432,13 +432,13 @@ https://p3fe2ar62kvh8vrp.ezcdn483.net:8443/hls/lrpme.m3u8?s=AsCTTEYYoujnmriSRCR4
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 #EXTINF:-1 tvg-logo="https://www.telebunker.com/img/lifetime.png",LIFETIME HD
-http://tecnotv.club/ssd/smtv.php?c=104_&f=.m3u8
+http://tecnotv.club/ggh/smtv.php?c=104_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN FUL.HD
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=90|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1472
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE FUL-HD
-http://tecnotv.club/ssd/smtv.php?c=74_&f=.m3u8
+http://tecnotv.club/ggh/smtv.php?c=74_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE
 https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/a71es.m3u8?s=L8L6xGmbqZp238PlYT11NA&e=1613275882
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS HD
@@ -446,7 +446,7 @@ http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=92|User-Agent=UniversalOfi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN FUL-HDD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1477
 #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU" group-title="CINE Y SERIES",PREMIER GOLDEN HD
-http://tecnotv.club/ggh/smtv.php?c=75_&f=.m3u8
+http://tecnotv.club/ssd/smtv.php?c=75_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1474
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
@@ -458,9 +458,9 @@ http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=25|User-Agent=UniversalOfi
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER FUL.HD
-
+http://tecnotv.club/ssd/smtv.php?c=81_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER FUL.HD
-http://tecnotv.club/ggh/smtv.php?c=81_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1487
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
@@ -493,6 +493,8 @@ http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=110|User-Agent=UniversalOf
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=110|User-Agent=UniversalOficiaI
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
 http://127.0.0.1:43570/http/tecnotv.club/boom/smtv.php?c=253_&f=.m3u8
+EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
+http://tecnotv.club/ssd/smtv.php?c=253_&f=.m3u8
 EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 http://latvonlive.com:33612/Rico/1234/97
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
@@ -2301,4 +2303,3 @@ https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
 http://120.130.128.134.200
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg", MTV Murr Television HD
 https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1613952519~dirs=1~hash=068af11fd03c70e1269c0/mtvlive.smil/murrtelevision_480p_chunks.m3u8
-
