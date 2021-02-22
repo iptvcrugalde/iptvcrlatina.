@@ -157,6 +157,8 @@ http://127.0.0.1
 http://162.244.81.181:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_624/https://puntos.org.ni/wp-content/uploads/2019/12/canal-4-nicaragua.jpg",CANAL 4
 https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj3dq72GFJF0zopKcKAhKBe0)/dm/3/x7rwv8c/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Canal-6-Nicaragua-en-vivo-Online-218x150.png", CANAL 6 
+https://stream-01.nyc.dailymotion.com/sec(3LGBMbo2Zno2o8YrbIxOftq8KVDY2-QTU9xe-OWpwCY)/dm/3/x7nngbi/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yUGDLHxApzVsjQG7h2HoalYXCK0F4N8GtA&usqp=CAU",CANAL 8 HD
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/27166.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6yUGDLHxApzVsjQG7h2HoalYXCK0F4N8GtA&usqp=CAU",CANAL 8
