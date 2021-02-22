@@ -413,8 +413,10 @@ http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=14|User-Agent=UniversalOfi
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HHD
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=46|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE 
-http://tv.iptv5latino.cl:8000/jorge18/1234/3815
+http://tv.iptv5latino.cl:8000/jorge18/1234/3815 
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/glitz.jpg", Glitz HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/glitz.jpg", Glitz
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123
 
 #EXTINF:-1 tvg-logo="https://www.gracomonline.com.br/site/images/logo_curso/cinetv.png",CANALES CINE.TV
@@ -617,7 +619,7 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ITTCfZp_Y4w5hX8s19tliTDucRsCA2-cCA_lE0xWmLqB-yXNwbKG_AZXihfjhrOjhx70zA=s116", bloody
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/3f/ec/fe3fec00bbd6e6d98fb18dce16a5c8f7.jpg",CINE MOVIES FUL-HD
-http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4212
+http://supersonictv.live:25461/903310/034806/40492
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cPIbHGuiUoWqtRjJjmK5Rn0NkbLEI3HdfWiD3Wc0Mg9CsA7by_QfPITAoiBxCTRy58hZ", MahaMovies
 http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28686
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1190289688021684225/83z8wBT4.jpg", LMN HD
@@ -630,17 +632,17 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/614.png", SKY CINEMA CLASSIC HD
 
 #EXTINF:-1 tvg-logo="https://vectorbn.net/wp-content/uploads/2019/11/Sky-Cinema-Disney.jpg", SKY CINAMA DISNEY HD
-
+http://supersonictv.live:25461/903310/034806/78344
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/616.png", SKY CINEMA EMOTION HD
 
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkyCinemaHitsHd",SKY CINEMA HITS
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
-
+http://supersonictv.live:25461/903310/034806/77466
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81mOG9IQ46L.jpg", SKY CINEMA 
 
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
-
+http://supersonictv.live:25461/903310/034806/77468
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png",SKY CINEMA ACTION FUL-HDHD
 
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
@@ -657,12 +659,10 @@ http://127.0.0.1
 
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/617.png", Sky-Cinema-Fun
 
-#EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/617.png", Sky-Cinema-Fun
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
 
 #EXTINF:-1 tvg-logo="https://ia800805.us.archive.org/24/items/SkyCinemaSciFiAndHorrorHd/sky%20cinema%20sci-fi%20and%20horror%20hd.png", Sky ScFi Horror HD
-
+http://supersonictv.live:25461/903310/034806/77470
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/5049
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
@@ -1415,7 +1415,8 @@ https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1381385764.m3
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/13520
 #EXTINF:- 1 tvg-logo="https://acc.tv/wp-content/uploads/2019/10/ACCTV-RGB-Logo-on-White.jpg", ACCTV 
 https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
-
+#EXTINF:-1 tvg-logo="https://atlanta.cbslocal.com/wp-content/themes/cbs-local/images/share-logos/default.png",CBS Atlanta WGCL
+http://supersonictv.live:25461/903310/034806/71291
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yWMrwSSfTCrpuRz8oiaWce5i05qxBjJMUtRaeEx5SJ6Y8WUb1pdvwCHKv9ET1VDoMlOXw_Y=s151", GINETES DEL ESPACIO
@@ -1480,6 +1481,8 @@ http://supersonictv.live:25461/903310/034806/22892
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a05fa9feb340d57.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK ACTION HD
 http://supersonictv.live:25461/903310/034806/22892
+#EXTINF:-1 tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png",HALIMARK DRAMA 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/562
 #EXTINF:-1 tvg-logo="http://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8.png", CANAL OCHO SAN JUAN
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1932/terror_mania.jpg",	TERROR MARIA HD
