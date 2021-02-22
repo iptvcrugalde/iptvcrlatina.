@@ -773,7 +773,7 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://olhardigital.com.br/wp-content/uploads/2019/10/20191015050451.jpg", TELE CINE ACTION HD
 https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecineactionsd/video.m3u8?md5=4Ybzzg0lU2k6XsqNmMC2RQ&expires=1613977159
 #EXTINF:-1 tvg-logo="https://i0.wp.com/itu.tv.br/wp-content/uploads/2020/03/Sem-t%C3%ADtulo-1.jpg?fit=1920%2C1080&ssl=1", ITV
-http://regioflix.club/apoyo.mp4
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 #EXTINF:-1 tvg-logo="http://tv0800.xyz/wp-content/uploads/2020/09/trianon-185x200.png", Cine Trianon TV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppL6n53PBbAfSGmT7iTtb3DxFJnshjqljGw&usqp=CAU", TELECINE ACTION
