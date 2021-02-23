@@ -343,7 +343,7 @@ https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/7tmke.m3u8?s=ueum5_PTYDf64HOKRici
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WTBjdEb.png" group-title="CANALES LISTA PRIVADA" group-title="TV MEXICO",AZTECA UNO HD
 http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=52_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvcablesdechile.cl/wp-content/uploads/2020/07/se%C3%B1ales-logo3-21.png", PASION FUL-HD
-http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=38|User-Agent=UniversalOficiaI
+http://ipeteve.com/php/SR_REGIO220221/android.php?c=38|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjWETQvmSA6mHrlEoiT8LKaacZJ-IwP9GS0S00f3w=s900-c-k-c0x00ffffff-no-rj", QUIERO TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
@@ -351,7 +351,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/03/galavision.jpg", GALAVISION TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/tlnovelas_2.png" group-title="CINE Y SERIES",TLN NOVELAS HD
-http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=35|User-Agent=UniversalOficiaI
+http://ipeteve.com/php/SR_REGIO220221/android.php?c=35|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TV_MAR_LOGO.jpg", TV MAR
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/chunklist_w2040795390_b3428000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShLhiaq_qKJnVjmogg7QWaHm1cOyXpuo8Y2A&usqp=CAU",POP TV
