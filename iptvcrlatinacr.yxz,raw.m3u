@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg", IPTV LATINA CR
 https://ventas.tecnosyste.net/wp-content/uploads/2019/08/Tecnosyste-Ingenieria__downloaded_mp4.mp4?_=1
 #EXTINF:0 = https://wa.me/message/Y36OKHMC7QZVG1
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 22 02 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 23 02 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -886,8 +886,6 @@ http://201.217.3.212/TV/intercable/playlist.m3u8
 https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=530000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg", SUR.TV TELEVISION ITAPUA 
 https://rds3.desdeparaguay.net/tvs/tvs/chunklist_w685773919.m3u8?k=079b892ffae799bb6a3bcc4bce87941b2c76b0a28565c99ce225249debfb8a26&exp=1613350083
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QO8cMnbx8NkkC2zXCJi1EMYS41VwJfMZNzU6EBrNJh1Q2VI7-2ObzWqXl__bciFL7aXi", HVN TV HD
-https://59ce1298bfb98.streamlock.net/hvntv/hvntv/chunklist_w351870078.m3u8
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", TELEFURO HD
 https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w1112554294.m3u8?k=29cdb4d4d97bf9dcf0dd5078576f867709afc6cd55f5b56c0716bc1867aa0cd4&exp=1613593993
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", Telefuturo 
@@ -952,10 +950,8 @@ http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w1046929006.m3u8
 https://59d39900ebfb8.streamlock.net/str15live/str15live/chunklist_w975422742.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zAoX4ykEPUn2ihI6QlGNcqflvOBLsUCmAv0Kv_xoyBvM4QiJ",Panamericana TV HD
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png", America HD
-http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/139.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png", America
-http://z3.reporteperuano.com:1935/liverp3/loi/master.m3u8
+#EXTINF:-1 tvg-logo="https://peru.info/Portals/0/Images/MIPCOM/Productoras/1/7/logo.jpg", America HD
+http://latiniptv.vip:8008/live/Cuentas3/Cuanta31/6386.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV HD
 http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/141.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV HD
@@ -967,7 +963,7 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png", CANAL IPE
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg", LATINA FUL-HD
-http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/138.m3u8
+http://latiniptv.vip:8008/live/Cuentas3/Cuanta31/6603.m3u8
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png", Antena 7 HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53643
 #EXTINF:-1 tvg-logo="http://media.tvalacarta.info/canales/256x256/antena7.png", Antena 7
@@ -1221,9 +1217,6 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6153
 http://mynetworks.info:80/hossam/hossam1234/17883
 #EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/07/beinmovie2.png", beIN_Movies_Action
 http://mynetworks.info:80/hossam/hossam1234/17881
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWafRMuEMCC0WE_sTKekwL4oeIKH0VaNrjXw&usqp=CAU", beIN_Movies_Drama_HD
-http://mynetworks.info:80/hossam/hossam1234/1661
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MtNVup5d8Bg7tNXoXSvhI0VRBItBmk9zwUomBayCg530PzD8pN3cHrhx92-ADAimkIN7ag=s144", Kabel 1 Kabel 1 Classic HD 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Snake in the Eagle's Shadow
