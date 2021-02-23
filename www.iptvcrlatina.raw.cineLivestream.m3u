@@ -307,8 +307,8 @@ http://127.0.0.1
 http://201.217.3.212/TV/intercable/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/804016687108521985/L4G3JMvc_400x400.jpg", SUR.TV TELEVISION ITAPUA HD
 https://edge7-ccast-sl.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=530000.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QO8cMnbx8NkkC2zXCJi1EMYS41VwJfMZNzU6EBrNJh1Q2VI7-2ObzWqXl__bciFL7aXi", HVN TV HD
-https://59ce1298bfb98.streamlock.net/hvntv/hvntv/chunklist_w351870078.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/9ad73a64-1be6-4900-852d-4b7a480187ba_m.jpg", TVS HD
+https://rds3.desdeparaguay.net/tvs/tvs/chunklist_w685773919.m3u8?k=079b892ffae799bb6a3bcc4bce87941b2c76b0a28565c99ce225249debfb8a26&exp=1613350083
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4QqrfWb_WlIEdyWt1uvGLgKqVz59RZYC0OA&usqp=CAU", URUGUAY
