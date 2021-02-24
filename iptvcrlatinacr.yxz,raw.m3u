@@ -640,15 +640,15 @@ http://supersonictv.live:25461/903310/034806/77466
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
 http://supersonictv.live:25461/903310/034806/77468
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png",SKY CINEMA ACTION FUL-HDHD
-
+http://supersonictv.live:25461/903310/034806/77462
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
-
+http://supersonictv.live:25461/903310/034806/77470
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
 
 #EXTINF:-1 tvg-logo="https://img.cdndtl.co.uk/umbraco2017/23974/sky-atlantic.jpg?w=600&auto=format&s=2df94318394a38a90c12585ff0f4a4da", SKY ATLANTIC HD
 
 #EXTINF:-1 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/sky_cinema_premiere.png", SKY CINEMA PREMIER FHD
-
+http://supersonictv.live:25461/903310/034806/77468
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9oPaBBAVR-XMg8PHP3dcaQzP0UoqWvmqbHw&usqp=CAU", Sky Primafila 6 FHD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
@@ -1234,6 +1234,24 @@ http://mynetworks.info:80/movie/hossam/hossam1234/16613.mkv
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Geschichte HD 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Romantisch FHD 
+
+
+#EXTM3U
+#EXTINF:-1,|AR| beIN MOVIES 1 HD
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/25
+#EXTINF:-1,|AR| beIN MOVIES 2 HD
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/26
+#EXTINF:-1,|AR| beIN MOVIES 3 HD
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/27
+#EXTINF:-1,|AR| beIN MOVIES 4 HD
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/28
+#EXTINF:-1,|AR| beIN SERIES 1
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/29
+#EXTINF:-1,|AR| beIN FATAFEAT
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/30
+#EXTINF:-1,|AR| beIN JEEM
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/31
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cinerdia.com.br/wp-content/uploads/2014/09/Cinerdia-Logotipo-800px.png", CINERDIA
