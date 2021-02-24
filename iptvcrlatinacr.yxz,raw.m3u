@@ -2322,4 +2322,4 @@ https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/iY46e8xBcdHCvXB7ArINqoPJzhY00tu5Slhl-OeNms8pxa4_Lta8sG0OJ8OjUd8wZA", LIBANO TV
 http://120.130.128.134.200
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg", MTV Murr Television HD
-https://cllive.itworkscdn.net
+https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1614208796~dirs=1~hash=0d6183fb6c9ba6d738511/mtvlive.smil/murrtelevision_480p_chunks.m3u8
