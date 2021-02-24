@@ -1186,11 +1186,11 @@ http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/9419
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RaeyFZF8lxW4z42zCDOGpNnFoHggGMzdepxPveaWZSjJlRFTU-GFHcUwaV0Bw72U1eboOAM=s114", SUPER CANAL HD
 http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w101413378.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jGTirWcJmdzQewpGJ1R-1H8xHnT2REcLAbZJ5pgrv3Zs83QRq1IRn1P0IlwrGwi9i-U0=s138", MIX CINEMA HD
-http://jo.sarhantv.xyz:8880/star7arab/mahdi/131
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/120
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fWOv9EbrYOplEtlTjUBjlmqeYr_ikSamAEdgAiqJn_CTExurvtzhgqM_x-HxS3gYbb4EVQ=s135", Mix Action
-http://jo.sarhantv.xyz:8880/star7arab/mahdi/117
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/119
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OxI0X5cQFiLs5vqZ35CPkmAHTqmehoLBu6owPoRaPhQ2R1Wa4qBgHKVYGSzMc4ftMy5mWg=s112", Mix Mystery
-http://jo.sarhantv.xyz:8880/star7arab/mahdi/159
+http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/122
 #EXTINF:-1 tvg-logo="https://elwekalanews.net/wp-content/uploads/2020/07/images-2-6.jpeg", Majestic Cinema
 http://jo.sarhantv.xyz:8880/star7arab/mahdi/48 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1465286413/chV_ph1_copy_copy_400x400.jpg", (ID) V CHANNEL
@@ -1570,11 +1570,9 @@ http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/67.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil", Nick JR HD
 https://s1.dominiopersonal.xyz:2083/elplayer/bIjmhB0cyY/44|User-Agent=elplayer
 #EXTINF:-1 tvg-id="MX - Disney XD" tvg-name="Disney XD FHD (MX)" tvg-logo="http://img.tvcl.xyz/infantiles/xd.png" group-title="Infantiles",Disney XD FHD 
-http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/59.m3u8
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_disney-channel-renueva-su-imagen.jpg", DISNEY CHANNEL HD
-http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=62|User-Agent=UniversalOficiaI
+
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg",DISNEY JUNIOR HD 
-http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/60.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbFr_3ChxUrcftwYsmwpKwZTs7UT6JmYx30NVG68usPDSt1iEN", DISCOVERY KIDS
 http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/63.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="INFANTIL", CARTOON NETWORK HD
@@ -1582,7 +1580,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="INFANTIL", CARTOON NETWORK HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjKIC7p.png",BOOMERANG HD
-http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/62.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png", NATGEO KIDS HD
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/65.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png", NATGEO KIDS HD
@@ -1644,8 +1642,6 @@ http://tecnotv.club/dinos/principal.php?c=99&f=.m3u8
 http://89.105.194.59:25461/live/2docG!!$/2docG!!$/80.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5CXRhw.png" group-title="ENTRETENIMIENTO",DISCOVERY SCIENCE
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5CXRhw.png" group-title="ENTRETENIMIENTO",DISCOVERY SCIENCE
-http://89.105.194.59:25461/live/2docG!!$/2docG!!$/83.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N8ueokL.gif" group-title="Entretenimiento",DW Latino America
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rm9knz8.png" group-title="ENTRETENIMIENTO",DW Entretenimiento
