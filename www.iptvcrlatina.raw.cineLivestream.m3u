@@ -179,17 +179,17 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1742
 http://tv.iptv5latino.cl:8000/jorge18/1234/10870
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
-#EXTINF:-1 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png", MULTIPREMIER FUL.HD
-
 #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE Y SERIES",MC
 http://tv.iptv5latino.cl:8000/jorge18/1234/42439
 
 #EXTINF:-1 tvg-id="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 
+#EXTINF:-0 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png"group-title="CINE Y SERIES",MULTIPREMIER HD
+http://tecnotv.club/rrt/smtv.php?c=81_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png",DE PELICULA HD
-http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=85_&f=.m3u8
+http://tecnotv.club/rrt/smtv2.php?c=85_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png",CINEMA DINAMITA HD
 http://rv.imax.re:80/5124037472/1572081885/86976
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg",CLARO CINEMA
@@ -197,7 +197,7 @@ http://rv.imax.re:80/5124037472/1572081885/86976
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/490px-TV_Azteca_Cinema_logo.svg.png",AZTECA CINEMA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png", AZ MUNDO HD
-
+http://tecnotv.club/rrt/smtv2.php?c=53_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO HD 
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/21333
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HHD
@@ -205,7 +205,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/3815
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-0xxwz6sHqQU1L44LgT5QdNVpoA8CaqGv7g&usqp=CAU",Azteca 7 FUL-HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26680
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas HD
-https://hschhfq9nnmgm7w7.ezcdn483.net:8443/hls/nju7qqu4.m3u8?s=yDQJ9991mFBEeN6scRNWcg&e=1613366893
+http://tecnotv.club/rrt/smtv2.php?c=64_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.telebunker.com/img/lifetime.png",LIFETIME HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/16161
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 FUL-HD
