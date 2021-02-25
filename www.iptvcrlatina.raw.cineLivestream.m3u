@@ -2,7 +2,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA.CR
 http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 24 02 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 25 02 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -44,7 +44,7 @@ http://201.201.149.86:8080/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc",CANAL 14 SAN CARLOS
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/axIKwIUWOXvCzS9kbYmC5VRwz2itDf2ynvKf2gmKdqS8qc4xQkJb8U_zmEyifDt4LPuPUA=s85", CANAL SUPER 5 HD
-
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Cp0FLe5PCOQYvbefEp1KEh3PMae_-w7WHW46gBAtlIH0HKTuHxfRoljfGEiilveqIBX411YwsT1Hj_Fox_7TZgHpnn83oTOJRJUV3UwJL2xb5JhcANnIlaXCZQHgRJHF1OMOOW_KXahNZAVM6yakR_1zJZJ2rxN9sGhven6lxpQ4OOgGgLmkt2yrXK8rrfsyy4IPuIVU-_te-cG_5649_NH0Wibrg65qfpVtweVd4WuQaiI7dIafbqGNjLjlGul6glo2QXoopH1ei80_blFyJNUXEMlq8MgMQdmwYZ3s2_W8kRTOTPLbwAF9b0VnxET4SN2WyQMQ6D_fU1hJOrio2R4B-UL5OqwsZQJnkwNk5QWVeuXaPrT5EdcicvUvywcaR6b2bA6UNTM9sr3N_wJ26NfmVwJjYzS8BDi9gJYCZYh4azEJcyfX4nN_LwmICUQdAwHprEs7iUQtRF06zr9LUQ-QRdwnOqbpvyvN-QvwcrxIOHrzreNtmFQsGbleIofA76jpXZLacfxc0iBACcH-WoqvxSdybkN_rXgf3WDYut5GbnADQjb0IvRylEY4yGqfuirSIp8gvDyayoueNKurbI6sJ8GpwbVK5Hzzp0LyyLKGMIxsgq3-3nLiynHe_kPpOXr2PApdnDzTCWvJr_F8JfYsGIWJ7VqpEEBEQX0PcoUuIVKrRNR4-byStW6Pwjf8h4yXgV-KwEeiOGYgKcsOFScphfzyK1wQHL9LC43-u6NjyfOn_Yec11-f1HiVsR2cz3H2cJj4K0eLeolUeVyy3NwpdlfKTOwaqpQgCRLaN0XsNH3n053quclpQ76X16JjNPp6Hyrl2QAPykJYdhaNHO8UzwD48YG1lZHlzCDJLgNfQmt_volPaZ8Vvvl0xX7bEhAmc_PFg3TLjT4GsngA9-69GgzaQOozhcSPR81RlQ0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-OY0ZgEsieLQLoblfUBBldQ5f1f3ZVhN-g&usqp=CAU", LIMOM TV HD
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV SUR CANAL 14 
