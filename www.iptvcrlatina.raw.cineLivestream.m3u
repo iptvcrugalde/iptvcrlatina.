@@ -43,7 +43,7 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1535730648.m3u8
 http://201.201.149.86:8080/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc",CANAL 14 SAN CARLOS
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/FDRbUpunUhGhI0ep2GmRhMxTzdoIxkB1dk_c-RW_xwa-KQvuDvsaH5WVogdX2H53zzYdeA=s85", CANAL SUPER 5 HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/axIKwIUWOXvCzS9kbYmC5VRwz2itDf2ynvKf2gmKdqS8qc4xQkJb8U_zmEyifDt4LPuPUA=s85", CANAL SUPER 5 HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-OY0ZgEsieLQLoblfUBBldQ5f1f3ZVhN-g&usqp=CAU", LIMOM TV HD
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
@@ -59,9 +59,9 @@ http://cdn2.envivo.win/HLS/?canal=zonafilmstv&c=ZwNjYwRkBF4kBQLhZmt=&p=ZGH4AGD1Z
 http://k4.usastreams.com/vitotv/vitotv/chunklist_w585930838.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvnC1idEPifXp_-FSxNoYKwfxcuTLN9fGAXw&usqp=CAU", NORTE INFORMATIVO HD
 https://inliveserver.com:1936/8328/8328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/EKtnyKuARqsfJrE4Je1DrBPwnp2bM52Gj2XhXaMKRroIRMiu1YwVkjY_LZkOFBcQ-DeT=s85", COSTA BALLENA.TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/SGFTPqMF1KV8-V9FfbIdaF75e8TfYgi9T4Gf-pQhER68k8pRMFnKqFEZmIh2BHF-pfMAPg=s85", COSTA BALLENA.TV
 https://panel.livetvvideo.net:1936/costaballenatv/costaballenatv/chunklist_w1833314676.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/QHpkaZBa8iIKW5D17MPKnadvv9hxJ_6pRDQYb2KF9_lPUkcztZ6emCAAE9q3idp_6fg51w=s85", TVO OCCIDENTE HD
+#EXTINF:-1 tvg-logo="https://acortar.link/G0JPP", TVO OCCIDENTE HD
 http://k4.usastreams.com/tvoccidente/tvoccidente/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY", Antena Seis TV CANAL 32 HD
 http://inliveserver.com:1935/14510/14510/chunklist_w1591822251.m3u8
@@ -182,7 +182,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/10870
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE Y SERIES",MC
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=110|User-Agent=UniversalOficiaI
-#EXTINF:-1 tvg-id="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
+#EXTINF:-0 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=103|User-Agent=UniversalOficiaI
 #EXTINF:-0 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png"group-title="CINE Y SERIES",MULTIPREMIER HD
 http://tecnotv.club/rrt/smtv.php?c=81_&f=.m3u8
@@ -411,7 +411,7 @@ http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg", CANAL 3 LA VICTORIA
 https://video-weaver.ymq01.hls.ttvnw.net/v1/playlist/CpsFA_mFgJZQrmOHUFkRzN3UxUHOPmVlprLm8ZYXGFa478TyHRv_f-MEWYtLuSd6-FA4vTui-CflH1AEARzxQASo8Zvitw65dyoeSDR8O2PSXk8IQosgp696ECAgtQ_EjiNl71Q3z1ETh3l3q-2BmTK1hpDGBRxbzc_ACKU8Ofjx0pcNO2qNSBI6QJA9CqJBPR-Gs9okpKliIyDCSs0fHFNoZMiYr0avV3DGz2CsZH1tJvUuLaF9nYbDD_jyUBNEC9RbXKw9-mj_F2vy9pq9ceMI9TeJHFzSa_cUvTzCc45pAl1X13nQgnXNptvOQJdR1NS5fXpKyQWIlsMosPARxpmvfyfXmGynSTiF_XJf9HQWOVsxsE7XUpQBEokAwd1G0AIoqT1CSS79rQAtRkmKTg3RRomhse2J9cz0zBZYa2vTXor0e82tW2J4euSEoPYU3Gx8wDgmxFqtxECL3TtzS7Hb6dxNtLO-HxZUN0g2l6A3NxVxM51loo1LvSnHB-q5OBTWqj1-8UxcOkUzUt5wYb5nwbY2PkLPSLLp5sGwKe6K_-8WJj_i6JmGHGI7K6lOKUUhmwlDvWPF2WhcGBPKpiY7HOBZrGTTe0yvpi0QaUHjiFtoh5aZazd4f5Y60eHFL8l2CiOBKmXhK0rogLhg7-9mk19dIrR_T3Qu5Oh8RMm_frh8hCTU1aBmgVonpdxYnHrpt5dAXy97Z50F0U4a2CTlpHHkZsMDE1zVfL93fQK3eweGjnmR3Gtf18t2TkrStFU7dmgwDHO2shaqEARI_hLvYe-rYzw8ZTi2FU7EOBn0dhNqVCeYFrhOj3BH4nj1BnaXk2yWSbW5GJlMLmdOP-PF7nZW6rD3E_g7zq5zUNGWJvvNqxl_lcw3RVDARRIQMuB1ab6Zrj6bcwMhRfNfNhoMEmDw0eb-r0iCCXyx.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/O_FvjzTQVLyZYZPF7G25rTed_Buaf1c1h0bgBIIiB2reH_rwCqYkbtefY6eQjfXpXY-9=s85", ESTACION TV HD
+#EXTINF:-1 tvg-logo="https://acortar.link/cJPP4", ESTACION TV HD
 http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", MÁS+.TV CHILE 
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8?PlaylistM3UCL
