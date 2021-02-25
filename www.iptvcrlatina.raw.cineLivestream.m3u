@@ -24,7 +24,7 @@ https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJdbE6lh-DvUr5187cZJ4OwxyA0VXsxbWE5Q2JzFyrrTS5DSTx", REPRETEL CANAL 6 FULHD
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0MzEzOTgwLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuODkiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuODkiXX0sInNpZ25hdHVyZSI6ImM3MmM4ODIzNzQ4Mzk0ZWQyMWEwNjg4YTI2ZDA0Zjc3ZWI4MzI1ODQifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png", REPRETEL CANAL 4 FULHD
-https://r2---sn-pjx-nwvl.gvt1.com/videoplayback/id/6bd66c6e6623b679/itag/18/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1614249272/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,source/signature/7E5E94EC22A0C929E756AED87F8A43FF322C6AE1.2C4052CC113624928297E7911B0F3819B94E2503/key/cms1/cms_redirect/yes/mh/UO/mip/201.191.254.89/mm/28/mn/sn-pjx-nwvl/ms/nvh/mt/1614227294/mv/m/mvi/2/pl/24/file/file.mp4
+https://r2---sn-pjx-nwvl.gvt1.com/videoplayback/id/6bd66c6e6623b679/itag/18/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1614250596/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mime,mip,mm,mn,ms,mv,mvi,pl,requiressl,source/signature/2B67B090DEF4EF6676DF19F9CC72195D777C8AA5.693B88DE41E5CF482CB8CEB456FAFDD7B0EB105A/key/cms1/cms_redirect/yes/mh/UO/mip/201.191.254.89/mm/28/mn/sn-pjx-nwvl/ms/nvh/mt/1614228254/mv/m/mvi/2/pl/24/file/file.mp4
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-Costa-Rica.png" group-title="Costa Rica", REPRETEL CANAL 2 HD 
 https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0MzEzNjY5LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuODkiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuODkiXX0sInNpZ25hdHVyZSI6IjEwZTBlMWYzNDhjM2ZhNmU3YWQzOTgzNGFmNzA1YmViMTkzOGY3NjMifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png", REPRETEL CANAL 11 HD
@@ -57,7 +57,7 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
 http://cdn2.envivo.win/HLS/?canal=zonafilmstv&c=ZwNjYwRkBF4kBQLhZmt=&p=ZGH4AGD1ZGtjZN==https://59ef525c24caa.streamlock.net/tvcartago/tvcartago/chunklist_w1703137278
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-5-stv-en-vivo.jpg", STV CABAL 5 SANVITO TELEVISION HD
 http://k4.usastreams.com/vitotv/vitotv/chunklist_w585930838.m3u8
-#EXTINF:-1 tvg-logo=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvnC1idEPifXp_-FSxNoYKwfxcuTLN9fGAXw&usqp=CAU, NORTE INFORMATIVO HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvnC1idEPifXp_-FSxNoYKwfxcuTLN9fGAXw&usqp=CAU", NORTE INFORMATIVO HD
 https://inliveserver.com:1936/8328/8328/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/EKtnyKuARqsfJrE4Je1DrBPwnp2bM52Gj2XhXaMKRroIRMiu1YwVkjY_LZkOFBcQ-DeT=s85", COSTA BALLENA.TV
 https://panel.livetvvideo.net:1936/costaballenatv/costaballenatv/chunklist_w1833314676.m3u8
