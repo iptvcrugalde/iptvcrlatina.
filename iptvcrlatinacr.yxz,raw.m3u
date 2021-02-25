@@ -665,7 +665,7 @@ http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1496_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES-HD
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=123|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
-http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
+http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=235_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU",FOX FAMILY HD
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=125|User-Agent=UniversalOf
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU",FOX PREMIUM CLASSICS HD
@@ -1570,10 +1570,12 @@ http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/61.m3u8
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/67.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infantil", Nick JR HD
 https://s1.dominiopersonal.xyz:2083/elplayer/bIjmhB0cyY/44|User-Agent=elplayer
+#EXTINF:-1 tvg-logo="https://www.nexusds.com/wp-content/uploads/2018/04/tv_36-300x300.gif",DISNEY CHANNEL HD
+http://ipeteve.com/php/SR_REGIO220221/android.php?c=62|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-id="MX - Disney XD" tvg-name="Disney XD FHD (MX)" tvg-logo="http://img.tvcl.xyz/infantiles/xd.png" group-title="Infantiles",Disney XD FHD 
-
+http://ipeteve.com/php/SR_REGIO220221/android.php?c=64|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="http://i.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg",DISNEY JUNIOR HD 
-
+http://ipeteve.com/php/SR_REGIO220221/android.php?c=62|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbFr_3ChxUrcftwYsmwpKwZTs7UT6JmYx30NVG68usPDSt1iEN", DISCOVERY KIDS
 http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/63.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="INFANTIL", CARTOON NETWORK HD
@@ -1581,7 +1583,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WObsey5.png" group-title="INFANTIL", CARTOON NETWORK HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fjKIC7p.png",BOOMERANG HD
-
+http://ipeteve.com/php/SR_REGIO220221/android.php?c=67|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png", NATGEO KIDS HD
 http://89.105.194.59:25461/live/2toonQ!$/2toonQ!$/65.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png", NATGEO KIDS HD
@@ -1596,9 +1598,7 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
 https://zf8113m9dpznta9.ezcdn462.net:8443/hls/0mv17x.m3u8?s=_I7g21LoxsmADznZqBkY5Q&e=1613816589
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png",Investigation Discovery ID HD 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png",Investigation Discovery ID HD 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxPx-yCCB2v7We-1wVM0A_ML_sPC38BzM44Sw=s240-c-k-c0xffffffff-no-rj-mo", ID HD USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxPx-yCCB2v7We-1wVM0A_ML_sPC38BzM44Sw=s240-c-k-c0xffffffff-no-rj-mo", ID HD USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d01c3cfe0f2380e.ts|User-Agent=1m3u8
