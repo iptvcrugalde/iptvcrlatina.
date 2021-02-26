@@ -562,9 +562,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.ts|User-Agent=1m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JjhtxOL7QDuCV8LKLk_d2JuRBMza_9Ayi1-Ei8KF7vBPk4amPi-axoAv3mlPWVupPAGf6A=s109",TNT FUL.HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_MYtiVQW09sbo_OS4moKJTImU6vYIGGByfA04uWBD9tJmxrVsLL3SWOfaY7Cby9xMwKEAA=s85",TNT FUL.HD
 http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JjhtxOL7QDuCV8LKLk_d2JuRBMza_9Ayi1-Ei8KF7vBPk4amPi-axoAv3mlPWVupPAGf6A=s109",TNT HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_MYtiVQW09sbo_OS4moKJTImU6vYIGGByfA04uWBD9tJmxrVsLL3SWOfaY7Cby9xMwKEAA=s85",TNT HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1760
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=86|User-Agent=UniversalOficiaI
