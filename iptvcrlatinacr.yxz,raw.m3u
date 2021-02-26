@@ -76,12 +76,10 @@ http://k4.usastreams.com/tvoccidente/tvoccidente/playlist.m3u8
 http://inliveserver.com:1935/14510/14510/chunklist_w1591822251.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY", Antena Seis TV CANAL 32
 https://5d4a00b8a0738.streamlock.net:443/8102/8102/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KtLoQlS0r1WpUHuzVhczDJSfcPQnm5Zyo4n7fnbWnj3r4DkyJdi5GuR23T383tHtZT0wMs4=s142", SAN RAFAEL.TV HD LINE
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://lh3.googleusercontent.com/wQOhUVURUYEGLxajWQMr2jaPalhgC7r-r8JZoTbs8Rgilf9C4Ev9cyUlY6C4USMxGkThsw=s142" group-title="ENTRETENIMIENTO",SAN RAFAEL.TV HD LINE
 https://cp.sradiotv.com:1936/8064/8064/chunklist_w642039581.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/CB24.png", CB24
 http://18.191.91.130:1935/live/CB24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tigo.cr/sites/tigodiscovery.cr/files/styles/square_thumbnail/public/33-XPERTV.png",XPERTV
-
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/canal-36.png",CANAL 36 
 http://servicioamerica.com:1935/8356/8356/chunklist_w136680302.m3u8 
 #EXTINF:-1 tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg", CANAL 38
