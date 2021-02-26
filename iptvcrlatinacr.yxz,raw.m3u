@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA.CR
 http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
 #EXTINF:0 = https://wa.me/message/Y36OKHMC7QZVG1
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",25 02 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",26 02 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -750,24 +750,24 @@ http://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/chunklist_w193121363.m3
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxidcVRiaHpLfTFFH2sosNAnZj2LldOUYpg&usqp=CAU", SBT PE 
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?ChannelsON
-#EXTINF:-1 tvg-logo="https://olhardigital.com.br/wp-content/uploads/2019/10/20191015050451.jpg", TELE CINE ACTION HD
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecineactionsd/video.m3u8?md5=4Ybzzg0lU2k6XsqNmMC2RQ&expires=1613977159
 #EXTINF:-1 tvg-logo="https://i0.wp.com/itu.tv.br/wp-content/uploads/2020/03/Sem-t%C3%ADtulo-1.jpg?fit=1920%2C1080&ssl=1", ITV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 #EXTINF:-1 tvg-logo="http://tv0800.xyz/wp-content/uploads/2020/09/trianon-185x200.png", Cine Trianon TV
 
+#EXTINF:-1 tvg-logo="https://olhardigital.com.br/wp-content/uploads/2019/10/20191015050451.jpg", TELE CINE ACTION HD
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecineactionsd/video.m3u8?md5=f8mNkfYR6x_7aij0WwqKBw&expires=1614355080
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppL6n53PBbAfSGmT7iTtb3DxFJnshjqljGw&usqp=CAU",TELE CINE ACTION
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://sollutio.com/img/img/filmes-e-series/telecine-premium-2.png", TELE CINE PREMIUM 
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepremiumhd/video.m3u8?md5=2RpQrlmIWkT4wAi0ntRHqA&expires=1614348448
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/telecinepremiumsd/video.m3u8?md5=lIbUVQz1NVLJZgOg8bkLFA&expires=1614354882
 #EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/0cfe9e50e5f26aca089126d96641749e.jpg",TELECINE FUN 
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunhd/video.m3u8?md5=DgOKjbpIZ_erqmuZq2bUeg&expires=1614348652
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunsd/video.m3u8?md5=KPwKL-l38bzM1LunBDj84A&expires=1614354918
 #EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/fa676fc3ff942e6e39ba98c72ba0b515.jpg",TELE CINE PIPOCA
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocahd/video.m3u8?md5=oF9tDI_pdGcjLyjS6IRYoA&expires=1614348769
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocasd/video.m3u8?md5=fP_Pa7cG-yMeUQJuLgqxEA&expires=1614354969
 #EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/af03110534bb069a9cb32a3e4e576ca7.jpg",TELE CINE TOUCH
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinetouchsd/video.m3u8?
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinetouchsd/video.m3u8?md5=qjzA5lq9t3u1EiikV6QmXA&expires=1614354984
 #EXTINF:-1 tvg-logo="https://static.futemax.live/wp-content/uploads/e753dc568fd2323a7553cf6b80d2e7e5.jpg",TELE CINE CULT
-https://geralorigin.eu-central-1.edge.mycdn.live/live/telecineculthd/video.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinecultsd/video.m3u8?md5=9aqpHSmeieZxCt6VLyumiQ&expires=1614355053
 #EXTINF:-1 tvg-logo="http://tv0800.xyz/wp-content/uploads/2019/08/tvsid-185x200.png",TV J.SID 
 https://livefocamundo.com:8081/8650/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/5Nmn6sQpWF4JsBdFzWIq2PvKeJGFr3DJh1FT-dYqa0fY-rWNdwPULncs5WgmJ8998Hvv=s85", TV SERIES 
@@ -776,8 +776,6 @@ https://StmV4.srvstm.com/tvserie/tvserie/playlist-480p.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Jud10w2-cxdmYn9nt4KY5siUtaJJphmMaT0cLQCn7Xo8QFvCp-dGW7h5zX69wleuAa8=s180",ARGENTINA
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/732661005952618496/5pxo5q9h_400x400.jpg" group-title="SudAmerica",CANAL 4
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1gHj_nLWhaGNfk5gYfEoENvdvYEEnrlFWCQ&usqp=CAU",CANAL 4
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-4.png",CANAL 4 POSADAS
@@ -832,11 +830,11 @@ http://89.105.194.59:25461/live/spart$!bitch/spart$!bitch/124.m3u8
 http://coninfo.net:1935/13maxhd/live_720p/chunklist_w147044278.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ggyiEM.png", Canal 26 Aguascalientes
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-jujuy-2978.jpg",CANAL 7
-https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w870152189_b407344.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-jujuy-2978.jpg",CANAL 7 Jujuy
+https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3v0JfX-x7l_CBLGgk-PyioJ4pEOIlRkwaOA&usqp=CAU",CANAL 7 SALTA 
+https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png?resize=324%2C160", Canal 8 Catamarca
-https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1882978628.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyFMgJFp-O-aOlslC9vGcwIYzq3sYWrTeexAewjmA=s900-c-k-c0x00ffffff-no-rj", Canal 8 Catamarca
 https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1882978628.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",EL CANAL 9 HD
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w857109780_b850000_slesp.m3u8
@@ -849,8 +847,10 @@ http://panel.dattalive.com:1935/8204/8204/chunklist_w448763530.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-D3Rt3VXwXAS0wMCCH2pKPU4tFL1SgKDGw&usqp=CAU",Encuentro HD
 https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_480x270_446k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jEkH6Rj.png" group-title="TV ARGENTINA",TELEFE HD
-https://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/index_11_av-b.m3u8?sd=10&rebase=on
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America HD
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
