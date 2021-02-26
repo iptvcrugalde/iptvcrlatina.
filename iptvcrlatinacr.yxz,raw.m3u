@@ -1040,7 +1040,7 @@ https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1366602525.m3u8
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg",CANAL 56  
 https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/QxC4z1VD9uf9Sv_N5/x240", COLOR VISION HD
-https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYyJ1uNpapoGt5FZC7vE8Hx4)/dm/3/x7gy059/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYxqSs30kQ6ndkGndqqrMxOk)/dm/3/x7gy059/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png", TELEFUTURO CANAL 23
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87fKgc4.jpg",TELENORD CANAL 8
@@ -1086,7 +1086,7 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png",TV POP 
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2019/08/la-red.jpg", LA RED HD
-https://cl-lared-lared-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0MjgxMjIxLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTE3Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjExNyJdfSwic2lnbmF0dXJlIjoiMjFmY2EzMTAzNzMwMTYwNTRkYTgwNGI0NDEyMDY4MWE3ZWU5ZWE0ZiJ9
+https://cl-lared-lared-live.ned.media/live-480.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0NDA4Nzg2LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuOTIiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuOTIiXX0sInNpZ25hdHVyZSI6ImQ4NzRkZTJhNzI3Y2Q1OTYxZDFiNTRlMmZmYmE3ZmZkODY3MmRmNmIifQ%3D%3D
 #EXTINF:-1 tvg-logo="http://cl.heytv.org/wp-content/uploads/2019/04/VTV-Valle-de-Aconcagua-webtvonlive.com_.jpg",CANAL VTV VALLE
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/998322332992061441/-5x2rRt8_400x400.jpg", TELE SUR.TV.HD
@@ -1166,6 +1166,8 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/PXmPjxYifR4PrbS3HdvakqBH5cAu6djcWdRyH5yHzmJFSPbRcnxm0ALSUv56EEQ5iQ=h1024-no-tmp_cine_club_box_apk_poster.jpg", CINE CLUP
 http://120.130.128.134.200
+#EXTINF:-1 tvg-logo="https://acortar.link/mpuRy", SUPER CANAL HD
+http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w101413378.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2839335306/d95b1b44c9d2c10aa54fe5d6086ce7bf_400x400.jpeg", CINE SERIE HD
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1011.png", CINE SERIES HD
@@ -1180,8 +1182,6 @@ https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
 http://51.210.199.15/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUFfD9LAfdK9qGDFGwlYeMf4icEmMcYvt2w&usqp=CAU", CINE MUNDO HD
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/9419
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RaeyFZF8lxW4z42zCDOGpNnFoHggGMzdepxPveaWZSjJlRFTU-GFHcUwaV0Bw72U1eboOAM=s114", SUPER CANAL HD
-http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w101413378.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jGTirWcJmdzQewpGJ1R-1H8xHnT2REcLAbZJ5pgrv3Zs83QRq1IRn1P0IlwrGwi9i-U0=s138", MIX CINEMA HD
 http://163.172.25.83:25461/BEST-LIVE2121/BEST-LIVE2121/120
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fWOv9EbrYOplEtlTjUBjlmqeYr_ikSamAEdgAiqJn_CTExurvtzhgqM_x-HxS3gYbb4EVQ=s135", Mix Action
