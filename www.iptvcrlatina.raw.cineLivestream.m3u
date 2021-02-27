@@ -641,7 +641,7 @@ https://liveingesta119.cdnmedia.tv/etvlive/smil:live.smil/master.m3u8
 http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUVLq8nJbqLUY6jVbJvX0VMaoj1HVYu-OKg&usqp=CAU",CUATRO 4 TV VALL UXA
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
-#EXTINF:-1 tvg-logo="https://www.punt3.es/images/punt%203%20hd.png", Canal 3 HD 
+#EXTINF:-1 tvg-logo="https://acortar.link/URfgS", Canal 3 HD 
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVXtf5l2iZoZo4AKgYHsJNHL4R_6zILEFrA&usqp=CAU", Canal 3 Las Heras Paralelo 46 TV 
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/chunklist_w1381385764.m3u8
@@ -666,7 +666,7 @@ https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-O2mB7eLoXTc/Xj3fc8g0LVI/AAAAAAAAAiA/-oOdUkmzvo4SIjAEmqZX6TtubW2zZ0fkACK4BGAYYCw/s1600/0000ZONAFILMSTV-TITULOwebs.png", ZONAFILMS TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ebba677b-0d63-481c-9986-b14da96efe2b-profile_image-70x70.png", ZONAFILM TERROR HD
-https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CpUFR4W8dMh6Tjkg7nfC6Qt1b_SMl7xKLxjL5Om5rnLVOd-7nLnGUkM6lOpSO8bE7wlWAhX0y6NoQ7GCPzN4VMhr1dcJyovU0jNgiKvTYwOy6gJ_KVvWvEO1dJ3PQ8RpJZBPwamQVPWGTxaqnZJmdfbKuo5TYgt2a018vZ7qvZtWpJZZaPXd8nOvFJzt7SWnQGgXK9t0bxk3H61-ZFHGo12RFSYP24QE8BLQEgSs9oUKlxG5AOCccbYCje99rtKxqjkUBocepTy2bSD6grfwbHyxOZriX65ei7JjmVC71MiEN-ZpfDcAvdSOcy4L7SR_-pypVqbhV-p4C_GfE00V29Qfo8kYCQ7oFLh0cu4L7vft-cqx8XV5mQnez6N2FaRFuUtksv7ZX04MfJI7JoCNPoSbtwVMj1BsObtOaThDpNyGxkHWFNPKJ--V4UQALKeZ4f_JWFDw8l_OGUg1z0mLeKCRPJrMNEmsGzC_uM3G6ZsMtBmHJvQSsD8edYAhKfeLQjljlQ8UDV-UGRAH87PMwgQlg59fPJW3OT-BgbiuM2XAlr59TdFLRyzqbNLpfr0T_hYntD6CREWQ7oP2ukUW-z9KdPMvMNgBVKUEIRcqQoPItWp7oImg_ROr3exzQiC52_-vj-Zx6rTBUDDogx_azyZmOuWEpRLmVW5CRqB2K2s8_oGuNBJCaMrw7VBxj9SwBqoJUWKeu_kuEE5ENw6soFsc9KmEk-N9eHJaql8Zbj4Sandxyg4ttgaEowJ3z6WtY6NGIknGNVsjl45UZwmGtyqOkOxrDNxMSlE0_pKaVXb5IU88Tt7fUDpLCMymBmNK_TIDCA6nUD-iCDvaxqpfX2g8AWIwyN4MCOI6ZUfHWrJqReWEQ4sbXxIQSDpRMnyKf12HNw1VLfs7uxoM1EaZ_9AkRoe9KnST.m3u8
+https://acortar.link/4B3Ne
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA&usqp=CAU", MOVIEZ TV
@@ -675,8 +675,8 @@ https://128.130.01.125
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/lmn.png", Lifetime Movies HD
 https://peer3.ustv24h.live/LifetimeM/myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1932/terror_mania.jpg",	TERROR MARIA HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpIFy098Z87ho8kw5CILlmjgFwnOl8cCjUBTd403K6lhUaIjq9PNtAvdm6VGLd0waX546wJHnMMSU8mO5cnawQJpRUfVc2_Htffntxcxr5nymU2ykLuwwijRw1IMT9f9rvHGCDSigblGpNruQS_BhK4uSU8YvxPhePsnwbPls23bqTfxgK3D2rxsFMSbGx2MAtokdXaHKbaXMMpvGmtqd53APyFNKfttvrRRySU9rOXEyXCTkWYvYY4YS5irSg5CoIGBY_CccIuP490S_8AQ0sd6N0eedI-9d496W3KLl_XXMj-jJFqw7e1yMvAwoUbXsCtF5oeReuRZyu19ecW7dLybBrwRsi6BWpigofAkE4xf0voV3FCbo39DCjXz6L0Ky-RPY64Q2rPpAPqXvpNq0gUfeOJvhiLLzw09O06PImZDS9fXHRo94TNJyVjOfjnVjpfHKiQCzf6aGdqRRwJx45vppidCcohsinIe_RzTEendwlUKlgNC6eK8qu4Hen5CYF-9oT9MPdXXGs6rYgzNRf2Uq_Lxq8xKG2H1eHP1sjOZdTcIqyrVla0QRqQ9ksQSsUKnQ6e_AKY_-RjIAm8tL7UPFZyjycKPZ0xkSJGtyOML1NXqd4Eay47mUMKj-mKA2YsNGcVpa-Xos7gt7HnlgbANqyGhzQ1E_259rAoiAmvmsUEUtOInSmN50vQEmHuOQjSDVv_TX1prmIjU5K2iZTLtcXOg5F9R5uJNbPua0QnoxJLxApoaQzmcyQx0RG3-xownow3PbXF2i2dw_annYfh6RATNsQm0khTMNwR3JyX_cYUPWk4Fjp2ekMCBKg6AGQZbZ6mGVnqB3HYBag1XAxveHZIKbAeVL0kIHb3GNVEA0k0LERIQYfY3OEjVqEAF01w4mmMcmBoMvLaesMCP6HOtk1OT.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1932/terror_mania.jpg",TERROR MARIA HD
+https://acortar.link/6CX3D
 
 
 #EXTINF:-1 tvg-logo="https://sm.ign.com/t/ign_latam/screenshot/default/pluto-tv_a8ex.1280.jpg",PLUTO.TV CANALES
@@ -766,11 +766,9 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
 https://zf8113m9dpznta9.ezcdn462.net:8443/hls/0mv17x.m3u8?s=_I7g21LoxsmADznZqBkY5Q&e=1613816589
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png",Investigation Discovery ID HD 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxPx-yCCB2v7We-1wVM0A_ML_sPC38BzM44Sw=s240-c-k-c0xffffffff-no-rj-mo", ID HD 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D4Rif6D.png",Investigation Discovery ID HD 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxPx-yCCB2v7We-1wVM0A_ML_sPC38BzM44Sw=s240-c-k-c0xffffffff-no-rj-mo", ID HD USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735w=s240-c-k-c0xffffffff-no-rj-mo", ID HD USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d01c3cfe0f2380e.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHLFiAW3U_HWL3Tkq8xOO5sDm6U5rtpMUNF6zPj0GUzsEhG0Jt&s",DISCOVERY H&H HD
 http://89.105.194.59:25461/live/1docT9n!$/1docT9n!$/79.m3u8
