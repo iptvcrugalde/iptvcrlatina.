@@ -2,7 +2,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA.CR
 http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 26 02 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 27 02 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -51,7 +51,7 @@ https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV SUR CANAL 14 
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1021985413.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000249583049-ojy171-t500x500.jpg", CANAL TRECES 13 FUL HD
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVBKrjupSzuU6qQ4nul1-20)/dm/3/x7vh8g3/d/live-0.m3u8
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zfe5BZ43KIfDbNr68C5cijs)/dm/3/x7vh8g3/d/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png?fit=1920%2C1080",TELE UNO HD 
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w327295551.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xsf6rrPqkTo/W-9raD0P78I/AAAAAAAAAUA/M_N3gE7Hz_Ekk2du-HCN6ES31PZtc714ACK4BGAYYCw/s1600/tvcartago%2Blogo%2Bprobincial%2B.png",CARTAGO tv 
@@ -123,7 +123,7 @@ http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w2084903146_b148000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://tvm.com.sv/wp-content/uploads/2020/02/TVM2.png", TVM
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMu4uh1A_Dahrc2qPaLimaDh5X06dEVALkGxXdPCcFSWYTpNK&s", CANAL TVX HD
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/389c2ecd-12f2-4975-925a-d4c6642f1355-profile_image-150x150.png", CANAL TVX HD
 https://acortar.link/J3DBR
 
 
@@ -185,8 +185,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=110|User-Agent=UniversalOficiaI
 #EXTINF:-0 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG",DHE HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1614_&f=.m3u8
-#EXTINF:-0 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png"group-title="CINE Y SERIES", MULTIPREMIER HD
-http://tecnotv.club/wws/android.php?c=315|User-Agent=..Darkiptv.com                 
+#EXTINF:-0 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png" group-title="CINE Y SERIES", MULTIPREMIER HD
+http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1710_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png",DE PELICULA HD
@@ -198,7 +198,7 @@ http://tecnotv.club/rrt/smtv2.php?c=85_&f=.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/490px-TV_Azteca_Cinema_logo.svg.png",AZTECA CINEMA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png", AZ MUNDO HD
-http://tecnotv.club/rrt/smtv2.php?c=53_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1677_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO HD 
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/21333
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-0xxwz6sHqQU1L44LgT5QdNVpoA8CaqGv7g&usqp=CAU",Azteca 7 FUL-HD
