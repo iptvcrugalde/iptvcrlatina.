@@ -237,7 +237,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/38796
 http://tv.iptv5latino.cl:8000/jorge18/1234/1759
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JjhtxOL7QDuCV8LKLk_d2JuRBMza_9Ayi1-Ei8KF7vBPk4amPi-axoAv3mlPWVupPAGf6A=s109",TNT HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MEs_MYMWsBVhKu84-TB5sFig3Y_w6IzM2RbPjKDyi77VCq_d2cGoOZRXBLOvk2g7Mj6NSsE=s85",TNT HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/55443
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1761
@@ -265,13 +265,13 @@ http://tecnotv.club/ssd/smtv.php?c=37_&f=.m3u8
 http://tv.iptv5latino.cl:8000/jorge18/1234/33361
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
 http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU", FOX FAMILY HD
+#EXTINF:-1 tvg-logo="https://iptvwhitefox.com/wp-content/uploads/2020/08/LOGO-FOXPREMIUM_FAMILYHD.png",FOX PREMIUM FAMILY HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1735
 #EXTINF:-1 tvg-logo="http://foxcinema.imagen2020=2105lu.¿0?_premium2121.salit/tvg_logb24512350cafjlbvdmhuot=cinelivtvg",FOX PREMIUM CINEMA
 http://tv.iptv5latino.cl:8000/jorge18/1234/33357
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
 http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
+#EXTINF:-1 tvg-logo="https://elsat.pl/wp-content/uploads/2019/10/foxHd.png",FOX PREMIUM COMEDY HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1734
 
 
@@ -403,7 +403,7 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist_w1772103354.m
 #EXTINF:-1 tvg-na tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP", Telenord Canal 14
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066687836445990912/XM67Xmp5_400x400.jpg", LINIEROS LTV CANAL 36 HD
-https://ya.co.ve/ZPR
+https://acortar.link/jdpuo
 #EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
 
@@ -411,8 +411,8 @@ http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbGV2aXNpb25wcmVtaXVtLmNoaWxlX3NjcmVlbl8wXzE1NDYzOTc3MTZfMDY2/screen-0.jpg?h=800&fakeurl=1&type=.jpg",CHILE
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg", CANAL 3 LA VICTORIA
-https://ya.co.ve/1TR
-#EXTINF:-1 tvg-logo="https://acortar.link/cJPP4", ESTACION TV HD
+
+#EXTINF:-1 tvg-logo="https://acortar.link/KgQoz", ESTACION.TV HD
 http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", MÁS+.TV CHILE 
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8?PlaylistM3UCL
