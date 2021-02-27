@@ -483,12 +483,12 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8
 https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.canalcostatv.es/imagenes/logo_canalcosta_fb.png", CANAL COSTA TV
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png#",Canal23Tv
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bdd9b3a4-88a9-4ef3-b1e9-4fcecd08e742-profile_image-300x300.png#",Canal 23.Tv
 
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9558a64b-9562-45e8-9275-9e2f4a6acc20-profile_image-70x70.png", C2N.TV HD
-https://ya.co.ve/Ceq
+https://acortar.link/9yLyO
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c3a974bc-e113-4ec0-bab1-dfcf508485a4-profile_image-300x300.png", CANAL 29 POPAYAN
-https://ya.co.ve/hNk
+https://acortar.link/yjiC0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2839335306/d95b1b44c9d2c10aa54fe5d6086ce7bf_400x400.jpeg", CINE SERIE HD
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/1011.png", CINE SERIES HD
@@ -503,7 +503,7 @@ https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
 http://51.210.199.15/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCUFfD9LAfdK9qGDFGwlYeMf4icEmMcYvt2w&usqp=CAU", CINE MUNDO HD
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/9419
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RaeyFZF8lxW4z42zCDOGpNnFoHggGMzdepxPveaWZSjJlRFTU-GFHcUwaV0Bw72U1eboOAM=s114", SUPER CANAL HD
+#EXTINF:-1 tvg-logo="https://acortar.link/U3402",SUPER CANAL HD
 http://167.114.116.212:1935/superyurimaguas/257397861311/chunklist_w101413378.m3u8
 #EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/mundomax.png", MUNDOMAX
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63000
@@ -519,7 +519,7 @@ https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 https://youvideostreaming.club/hls/tvec4.m3u8
 #EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/290x218/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fdfd2c68cb511c2ccff50a2514b5c8b906cb2a3fa02cb092470ddd8e0c07f821c.png",FRECUENCIA MUSICAL TV HD
 https://595b85410a151.streamlock.net/8056/8056/chunklist_w1636991964.m3u8
-#EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/290x218/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fdfd2c68cb511c2ccff50a2514b5c8b906cb2a3fa02cb092470ddd8e0c07f821c.png", FRECUENCIA MUSICAL TV
+#EXTINF:-1 tvg-logo="https://acortar.link/BHU1g",FRECUENCIA MUSICAL TV
 http://streaminglivehd.com:1935/8056/8056/chunklist_w1157954400.m3u8 
 #EXTINF:-1 tvg-logo="https://fmtvmundo.com/wp-content/uploads/2020/10/WhatsApp-Image-2020-09-01-at-5.01.52-AM-1.jpeg", Canal FMTV 2 Movies
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w1648290865.m3u8?_=1
