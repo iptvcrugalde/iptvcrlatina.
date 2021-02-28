@@ -182,7 +182,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/63438
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dfa1f6bf-3760-4b79-8f4e-2fcf956444c6-profile_image-300x300.png", BTV PANAMA HD
-https://5fcbeb2219aa3.streamlock.net:455/btv/btv/chunklist_w1650351897.m3u8
+https://cloud.streamingconnect.tv:455/btv/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="PANAMA", Nex CANAL 21 HD
 http://198.1.123.99:1935/live/myStream/chunklist_w295805193.m3u8
 #EXTINF:-1 tvg-logo="https://507go.tv/imagenes//taxonomy/term/15/logo.png", NEX CANAL 21
