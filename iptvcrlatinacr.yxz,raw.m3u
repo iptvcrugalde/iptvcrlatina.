@@ -514,13 +514,13 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/15925
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=22|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1738
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE FUL HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/55015
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE
 http://tv.iptv5latino.cl:8000/jorge18/1234/55420
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE CHANEL FUL.HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE
 http://supersonictv.live:25461/903310/034806/22087
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE CHANEL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE FUL.HD
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/909
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES HD
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=177_&f=.m3u8
@@ -575,7 +575,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/55439
 #EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL FUL-HD
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=89|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL FUL-HD
-
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1546_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1755
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER CHANNEL FUL-HD
@@ -651,24 +651,27 @@ http://supersonictv.live:25461/903310/034806/72326
 http://red.ipfox.org:8080/Karim2_534341/40036069/30518
 
 
-#EXTINF:-1 tvg-logo="https://www.cinefxdigital.com/wp-content/uploads/2020/11/5976688be2246-19-1140x641.jpg", FOX PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/1200px-Star_Premium_2021.svg.png",STAR PREMIUM
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX SERIES FUL.HD
-http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1495_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg"group-title="CINE Y SERIES",Fox ACTION
-http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1496_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES-HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_GtIq8SNrKFWJ4shbw9KaUDQb0MKlMBdJA&usqp=CAU",STAR SERIES FUL.HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1495_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",STAR ACTION HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=170_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmmTA5KEwHOZOHvo6AagZLD-oUIl2xAvRsg&usqp=CAU",FOX PREMIUN MOVIES-HD
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=123|User-Agent=UniversalOficiaI
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX CINEMA HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",STAR CINEMA HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=235_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU",FOX FAMILY HD
-http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=125|User-Agent=UniversalOf
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU",FOX CLASSICS HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU", STAR FUN HD
+http://tv.iptv5latino.cl:8000/jorge18/1234/1735
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU", STAR FUN HD
+http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxfamily&f=.m3u8
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS HD
 http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU",FOX CLASSICS 
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS 
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6716
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmVwpn47zliPbd7lV0-wrBMSyE8qxPTCvBQ&usqp=CAU",STAR COMIDY HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=234_&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/01/29/hbo.jpg?itok=hjd5cucr",HBO HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1467_&f=.m3u8
@@ -688,7 +691,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4211
 #EXTINF:-1,CINEMAX
 http://supersonictv.live:25461/903310/034806/22880
-
 
 
 #EXTINF:-1 tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png",HBO PREMIUM
