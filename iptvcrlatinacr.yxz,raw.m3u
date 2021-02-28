@@ -1154,6 +1154,8 @@ https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8
 https://593b04c4c5670.streamlock.net/8134/8134/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.canalcostatv.es/imagenes/logo_canalcosta_fb.png", CANAL COSTA TV
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0015/0834/brand.gif?itok=3bMfYXwd",USA.TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9558a64b-9562-45e8-9275-9e2f4a6acc20-profile_image-70x70.png", C2N.TV HD
 https://ya.co.ve/TMX
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/9558a64b-9562-45e8-9275-9e2f4a6acc20-profile_image-70x70.png", C2N.TV CANAL2 NOTICIAS 
@@ -1162,6 +1164,7 @@ https://d2nvs31859zcd8.cloudfront.net/ace05a1dc218709a2459_canal2noticias_399118
 https://stream.oursnetworktv.com/latin/canal23Tv/chunklist_w637481463.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c3a974bc-e113-4ec0-bab1-dfcf508485a4-profile_image-300x300.png", CANAL 29 POPAYAN
 https://ya.co.ve/g2x
+
 
 #EXTINF:-1 tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/ae-dubai-one-6158-300x225.jpg", DUBALONE
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
