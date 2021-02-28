@@ -1028,10 +1028,12 @@ https://ss3.domint.net:3118/xtr_str/xtremo/chunklist_w920254668.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-QEQH0Dk1rS4/VfQs4WgFsHI/AAAAAAAD1H4/tlpI_65TV78/s1600/tele%2B.jpg",TELECENTRO CANAL 13 HD
 https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
+#EXTINF:-1 tvg-logo="https://secureservercdn.net/198.71.233.129/06y.7b1.myftpupload.com/wp-content/uploads/2019/07/digital-15-trans.jpg?time=1586378240",DIGITAL QUINCE 15
+https://playback.akamaized.net/streams/27456795_8268514_lsi9gm8pr5pfuhwcmo8_1/media/27456795_8268514_lsi9gm8pr5pfuhwcmo8_1@628000pb.m3u8?dw=14400&ts=1614481200&hdnts=exp=1614656060~acl=/streams/27456795_8268514_lsi9gm8pr5pfuhwcmo8_1/media*~hmac=c0406b802a311d89fd2fe6a64392c96cb225c38697221899137afb9bd3cb23ae
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WRq-z1cSU50/hqdefault.jpg", CANAL 5 HD
-http://api.new.livestream.com/accounts/736348/events/5522678/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.ghtelevision.com/images/gh_television_logo_sm.png",GH TELEVISION CANAL 10
-http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
+https://playback.akamaized.net/streams/28126860_8825282_lsiw63ma5ulpkh1kpth_1/media/28126860_8825282_lsiw63ma5ulpkh1kpth_1@3628000pb.m3u8?dw=14400&ts=1614481200&hdnts=exp=1614655799~acl=/streams/28126860_8825282_lsiw63ma5ulpkh1kpth_1/media*~hmac=254046c79bced207723b814f9b210ee15350ab9de97f2efe6246f39be4e63060
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwninYlGRCnZuK3DTrVqyzK4bbB9LoZUSJI-pww3yRA=s900-c-k-c0x00ffffff-no-rj",GH TELEVISION CANAL 10 HD
+https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RayZHQsT_84/WJOhiYn5_ZI/AAAAAAAADGM/0tlwnlgoY3Aah9hVj991c062RXwkpm5JACLcB/s1600/Super%2BTV%2B55%2B-%2Bonline%2B-%2Ben%2Bvivo.png",SUPER TV 55 HD
 https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1366602525.m3u8
 #EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg",CANAL 56  
@@ -1056,7 +1058,7 @@ http://127.0.0.1
 https://acortar.link/M61vd
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1158034752/logo_canal_tv_2.2.JPG", U ESTV 
 https://tls.cdnz.cl/uestv/live/chunklist_w168368058_DVR.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/O_FvjzTQVLyZYZPF7G25rTed_Buaf1c1h0bgBIIiB2reH_rwCqYkbtefY6eQjfXpXY-9=s85", ESTACION TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ikVAyjIFBMuH1_tknzbL5zxfU9kQw1YfPw&usqp=CAU",ESTACION TV HD
 http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", MÁS+.TV CHILE 
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8?PlaylistM3UCL
