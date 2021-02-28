@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA.CR
-http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
+#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA CR
+http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8
 #EXTINF:0 = https://wa.me/message/Y36OKHMC7QZVG1
 #EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",27 02 2021
 http://spy-iptv.com/ACTUALIZACION
@@ -516,7 +516,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/55015
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/55420
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE CHANEL FUL.HD
-http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39217
+http://supersonictv.live:25461/903310/034806/22087
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE CHANEL
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/909
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES HD
@@ -611,11 +611,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Sky_Mexico_Logo.png",PREMIUM SKY
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1193838932414386176/nF8oUkv9_400x400.jpg", SKY CINEMA COMIDY HD
-
+http://supersonictv.live:25461/903310/034806/77463
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/614.png", SKY CINEMA CLASSIC HD
-
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1131
 #EXTINF:-1 tvg-logo="https://vectorbn.net/wp-content/uploads/2019/11/Sky-Cinema-Disney.jpg", SKY CINAMA DISNEY HD
-http://supersonictv.live:25461/903310/034806/78344
+http://supersonictv.live:25461/903310/034806/77464
 #EXTINF:-1 tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/616.png", SKY CINEMA EMOTION HD
 
 #EXTINF:-1 tvg-logo="https://archive.org/services/img/SkyCinemaHitsHd",SKY CINEMA HITS
@@ -623,11 +623,11 @@ http://supersonictv.live:25461/903310/034806/78344
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56R8B4P7btA/maxresdefault.jpg", SKY CINEMA FAMILY HD
 http://supersonictv.live:25461/903310/034806/77466
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81mOG9IQ46L.jpg", SKY CINEMA 
-
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/4073
 #EXTINF:-1 tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/128/320741.jpg", SKY CINEMA PREMIER
-http://supersonictv.live:25461/903310/034806/77468
+
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/06/SKY-CINEMA-ACTION-June-2020.png",SKY CINEMA ACTION FUL-HDHD
-http://supersonictv.live:25461/903310/034806/77462
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/4043
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/23/items/SkyCinemaSelectHd//sky%20cinema%20select%20hd.png", SKY CINEMA SELECT HD
 http://supersonictv.live:25461/903310/034806/77470
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eMaPCaPitx8/maxresdefault.jpg", SYK CINEMA UNO HD
@@ -645,27 +645,26 @@ http://supersonictv.live:25461/903310/034806/77468
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Primafila.svg/1280px-Sky_Primafila.svg.png", Sky Primafila 5 FHD
 
 #EXTINF:-1 tvg-logo="https://ia800805.us.archive.org/24/items/SkyCinemaSciFiAndHorrorHd/sky%20cinema%20sci-fi%20and%20horror%20hd.png", Sky ScFi Horror HD
-http://supersonictv.live:25461/903310/034806/77470
+http://supersonictv.live:25461/903310/034806/77469
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
-http://ipflix.click:8080/uoplj5soni/rgu4a63btk/5049
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/910
+http://supersonictv.live:25461/903310/034806/72326
+
 
 #EXTINF:-1 tvg-logo="https://www.cinefxdigital.com/wp-content/uploads/2020/11/5976688be2246-19-1140x641.jpg", FOX PREMIUM
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES FUL.HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX SERIES FUL.HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1495_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg"group-title="CINE Y SERIES",Fox Premium ACTION
+#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg"group-title="CINE Y SERIES",Fox ACTION
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1496_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES-HD
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=123|User-Agent=UniversalOficiaI
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX CINEMA HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=235_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Kwg74AYsgggg-_nkmUimTXJ49jsxGlKMRA&usqp=CAU",FOX FAMILY HD
 http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=125|User-Agent=UniversalOf
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU",FOX PREMIUM CLASSICS HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU",FOX CLASSICS HD
 http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU",FOX PREMIUM CLASSICS 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU",FOX CLASSICS 
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6716
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png",FOX PREMIUM COMEDY HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=234_&f=.m3u8
@@ -676,6 +675,8 @@ http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1467_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1555_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family HD
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1500_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family 
+http://supersonictv.live:25461/903310/034806/22898
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
@@ -715,6 +716,8 @@ http://194.40.241.218:83/directline76598/6522AM0203452020/119
 http://194.40.241.218:83/directline76598/6522AM0203452020/125
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1111245.jpg",USA: HBO ZONE HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c6742879f48d851.ts|User-Agent=1m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnl5zQhn60mk5F4yat9iLYiV4vk7shXOSMMViI1KokZJEwA_Hs",E! FUL-HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39199
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png", Miami TV
@@ -725,6 +728,9 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:-1 tvg-logo="https://live-storage.fc2.com/thumb/94079036/thumb.jpg?1556522054",Canal EsAsturias
 https://59c8647978660.streamlock.net/directo_7/directo_7/chunklist_w1695288924.m3u8?_=1
+#EXTINF:-1 tvg-logo="https://live-storage.fc2.com/thumb/94079036/thumb.jpg?1556522054",Canal EsAsturias
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/4108
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/0W4OnClYZOqLm9D0G5T1C0XfE6y9YvfXZl-OaKu9mt1cI7UbF_KKvbytLYjKP1RqKsg=s180",BRASIL
 https://vod-as-02-17.video.globo.com/r90_720/v4/eb/28/8a/6277238_8a0148b7d0d305ba712dc6503822ddfe7f3fd4f4/6277238--G-d1mA-manifest.ism/6277238--G-d1mA-manifest-audio_por=128039-video_por=1210000.m3u8?hls_client_manifest_version=4
@@ -806,7 +812,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26752
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
-http://ipeteve.com/php/SR_REGIO220221/android.php?c=49|User-Agent=UniversalOficiaI
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
 http://tv-prime.tv:8080/live/Cruzado/nsNviFCPtn/926.m3u8
 #EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV HD
@@ -857,7 +863,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39150
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2hyCqKKBzKdNQonPfDJgvLFhe933w1AI573n6_DNNUNNhrtI9QDNt6DhjvA6_NHplWWE=s180",PARAGUAY
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2hyCqKKBzKdNQonPfDJgvLFhe933w1AI573n6_DNNUNNhrtI9QDNt6DhjvA6_NHplWWE=s180", PARAGUAY
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VJPjWgA.png",INTERCABLE CANAL 10 HD PARAGUAY
 http://201.217.3.212/TV/intercable/playlist.m3u8 
@@ -1201,31 +1207,11 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/63000
 http://channelstv.online:80/01013153474A/01551832488A/117224
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/VOX.png", VOX.HD
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6153
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/MoviesHD4.png/120px-MoviesHD4.png",beIN_Movies_Family
-http://mynetworks.info:80/hossam/hossam1234/17883
-#EXTINF:-1 tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2020/07/beinmovie2.png", beIN_Movies_Action
-http://mynetworks.info:80/hossam/hossam1234/17881
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/MtNVup5d8Bg7tNXoXSvhI0VRBItBmk9zwUomBayCg530PzD8pN3cHrhx92-ADAimkIN7ag=s144", Kabel 1 Kabel 1 Classic HD 
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Snake in the Eagle's Shadow
 http://mynetworks.info:80/movie/hossam/hossam1234/16613.mkv
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Premiere FHD
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Eagle Cinema Horror FHD
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Cinema Thriller FHD 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Eagle Cinema Sci-Fi FHD 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Eagle Cinema Animation HD 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Mythologie HD 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85",Eagle Cinema Lächeln HD 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Geschichte HD 
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Romantisch FHD 
 
 
 #EXTINF:-1 tvg-logo="http://www.cinerdia.com.br/wp-content/uploads/2014/09/Cinerdia-Logotipo-800px.png", CINERDIA
