@@ -1,8 +1,8 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA.CR
-http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 27 02 2021
+#EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA CR
+http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8
+#EXTINF:0 = https://wa.me/message/Y36OKHMC7QZVG1
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",28 02 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -13,12 +13,15 @@ https://wa.me/message/Y36OKHMC7QZVG1
 https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0584.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO", PC
 http://iptvcrcostarica] EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream.com
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kpoOqXsiPvc/TqjZAc_bgkI/AAAAAAAAASQ/KvIlJKW3FFc/s1600/iptv_logo.jpg", 10 02 2018
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKoIPHDkitsVFKZ1_LPKKtc5KWInxTgk9S5A&usqp=CAU", 10 02 2018
 http://0:41, 24/6/2018] EVY ANGEL CR: [0:51, 25/6/2018] EVY ANGEL CR: STREAM MPEG-TS (MPEG-2 Transport Stream)
-#EXTINF:-1 tvg-logo="https://www.apartmentguide.com/blog/wp-content/uploads/2020/04/tv-size-for-room-hero.jpg", IPTV FAMILIAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CR_IUCN_3_1.svg/1200px-CR_IUCN_3_1.svg.png", RC
 https://www.youtube.com/watch?v=YTYn6iLVPx4
 #EXTINF:-1 tvg-logo="https://iptvextremecr.com/images/1-logo4.jpg",EXTRIME CR
-https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0584.m3u8
+https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0584.m3u
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =La lista es gratis, Donaciones Paypal:  es una recopilacion de enlaces publicados en Pastebin.com!=
+#EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =Mexico - Latinos - Noticias - España- Infantiles - Cultura- CINE -
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml" Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
 
 
 
@@ -45,7 +48,7 @@ http://201.201.149.86:8080/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTNDjR1edbxFUJ8KSf8dffHp6ch_Xz35Cm9UIlH9PGTyheprfQc",CANAL 14 SAN CARLOS
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/axIKwIUWOXvCzS9kbYmC5VRwz2itDf2ynvKf2gmKdqS8qc4xQkJb8U_zmEyifDt4LPuPUA=s85", CANAL SUPER 5 HD
-https://acortar.link/1bn5V
+https://ya.co.ve/sLB
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-OY0ZgEsieLQLoblfUBBldQ5f1f3ZVhN-g&usqp=CAU", LIMOM TV HD
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV SUR CANAL 14 
@@ -124,7 +127,7 @@ https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w208490
 #EXTINF:-1 tvg-logo="https://tvm.com.sv/wp-content/uploads/2020/02/TVM2.png", TVM
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/389c2ecd-12f2-4975-925a-d4c6642f1355-profile_image-150x150.png", CANAL TVX HD
-https://ya.co.ve/hRN
+https://ya.co.ve/t4y
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
