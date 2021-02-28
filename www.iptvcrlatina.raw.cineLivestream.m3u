@@ -174,8 +174,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
 
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icons/tv-mexico-android.png:225", MEXICO TV
 http://125.139.128.132
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
-http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1487
+#EXTINF:-1 tvg-logo="https://plataformas.news/online/nota_spt-renueva-su-marca-a-sony-channel.jpg", SONY CHANNEL HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=143_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN.HD
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=166_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE HD
@@ -192,7 +192,7 @@ http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1867_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1614_&f=.m3u8
 #EXTINF:-0 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER HD
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1710_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://selectra.mx/sites/default/files/images/logos/bitme-350x183.png", BITME FUL-HD
+#EXTINF:-1 tvg-logo="https://selectra.mx/sites/default/files/images/logos/bitme-350x183.png",BITME FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png",DE PELICULA HD
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=163_&f=.m3u8
@@ -207,7 +207,7 @@ http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1677_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO HD 
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/21333
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-0xxwz6sHqQU1L44LgT5QdNVpoA8CaqGv7g&usqp=CAU",Azteca 7 FUL-HD
-
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=133_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
 #EXTINF:-1 tvg-logo="https://www.telebunker.com/img/lifetime.png",LIFETIME HD
