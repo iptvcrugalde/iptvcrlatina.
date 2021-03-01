@@ -504,11 +504,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido FUL.HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
 
+
+
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL FUL-HD
 http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANNEL FUL.HD
+#EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL 
 http://tv.iptv5latino.cl:8000/jorge18/1234/15925
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL 
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=22|User-Agent=UniversalOficiaI
@@ -700,11 +702,11 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1749
 #EXTINF:-1 tvg-logo="https://www.montecable.com/img/senales/112-extremenew.png",HBO XTREME FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/43223
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN",HBO MUNDI FUL-HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1535_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN",HBO MUNDI FUL-HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39240
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vOjlNHFQgTc/maxresdefault.jpg",HBO POP FUL-HD
-http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39242
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/mxucY6LAhdshYovvKgHP_ghhWCOYAR70YsDNcyfU6uQ7ZR0MX1gAPZytSGiB8YrEVKEE=s114",HBO POP FUL-HD
-
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1855_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE FUL-HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c7ef9dc7c56bcc.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE FUL-HD
