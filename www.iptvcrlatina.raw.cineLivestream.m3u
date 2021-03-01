@@ -260,24 +260,24 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1757
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.cinefxdigital.com/wp-content/uploads/2020/11/5976688be2246-19-1140x641.jpg", FOX PREMIUM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/1200px-Star_Premium_2021.svg.png",STAR PREMIUM
 http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQxdPIjMVPkD29RoZ8TFxlN8XyJeIc1fS5ppEZtQ5MgWEdHPNAP",FOX PREMIUM SERIES FUL.HD
-http://tv.iptv5latino.cl:8000/jorge18/1234/1737
-#EXTINF:-1 tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-factihd.jpg",FOX PREMIUN ACTION FUL-HD
-http://tecnotv.club/ssd/smtv.php?c=37_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png",FOX PREMIUN MOVIES-HD
-http://tv.iptv5latino.cl:8000/jorge18/1234/33361
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkVBF2yNsUvjo2IQm7h0PERTuxjM_V3e8kGQ&usqp=CAU",FOX PREMIUM CINEMA FUL-HD
-http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://iptvwhitefox.com/wp-content/uploads/2020/08/LOGO-FOXPREMIUM_FAMILYHD.png",FOX PREMIUM FAMILY HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktlbE8jaakRDbcnHgtPjT6DyhNgYj6mISlw&usqp=CAU",STAR SERIES FUL.HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1495_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",STAR ACTION HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=170_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmmTA5KEwHOZOHvo6AagZLD-oUIl2xAvRsg&usqp=CAU",STAR HITS HD
+http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=167_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92rnRPFm0YLDTKInPM0bb5MZ0veajNgpi-A&usqp=CAU",STAR CINEMA HD
+http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=235_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png", STAR FUN HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1735
-#EXTINF:-1 tvg-logo="http://foxcinema.imagen2020=2105lu.¿0?_premium2121.salit/tvg_logb24512350cafjlbvdmhuot=cinelivtvg",FOX PREMIUM CINEMA
-http://tv.iptv5latino.cl:8000/jorge18/1234/33357
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvuXfoQw4dr5f8e0OmLhl6IkpeB8mp_CxBDw&usqp=CAU", FOX PREMIUM CLASSICS HD
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS HD
 http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://elsat.pl/wp-content/uploads/2019/10/foxHd.png",FOX PREMIUM COMEDY HD
-http://tv.iptv5latino.cl:8000/jorge18/1234/1734
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS 
+http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6716
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmVwpn47zliPbd7lV0-wrBMSyE8qxPTCvBQ&usqp=CAU",STAR COMIDY HD
+http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=234_&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png",HBO PREMIUM
@@ -289,7 +289,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1749
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vOjlNHFQgTc/maxresdefault.jpg",HBO POP FUL-HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39242
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/mxucY6LAhdshYovvKgHP_ghhWCOYAR70YsDNcyfU6uQ7ZR0MX1gAPZytSGiB8YrEVKEE=s114",HBO POP FUL-HD
-http://ipeteve.com/php/REGIO_PLAY160220/android.php?c=118|User-Agent=UniversalOficiaI
+http://ipeteve.com/php/SR_REGIO270221/android.php?c=118|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE FUL-HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c7ef9dc7c56bcc.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png",USA: HBO COMEDY 
