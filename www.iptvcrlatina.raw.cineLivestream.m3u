@@ -129,7 +129,7 @@ https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w208490
 #EXTINF:-1 tvg-logo="https://tvm.com.sv/wp-content/uploads/2020/02/TVM2.png", TVM
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/389c2ecd-12f2-4975-925a-d4c6642f1355-profile_image-150x150.png", CANAL TVX HD
-https://ya.co.ve/t4y
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Cv4ETExsKEPejmpGvFFqimAVkpiNBI5onB6X2a7oh2NGYeW_u0oIbk8yVvl7NtJKMMNqu6J_lWNF52WFWRNaNgJwVktycg6KIrDlBP0DkvbClTzPwDuX0twuxP4BPynWbhhTOI4pdDs6kAjxNAGSCArFB2o793-FRHuQN0_FoiYJhzEDJtywLZ0mfOb_B9-3p3BTgC8SWusyD_Kj6OrGYdC_J9h2tVXhwAAmwKqCtRwZjvlpa-stl0CAplQYKCMQHkBis7wUE_LjiTXqAT7srma94KU5_lIqSILrFdVQp9I_Q72evinnWH6Z_Ya9Y_KgKRdmnNonrcZ1x0E3Sm5GVEQOqdILWrxJ2CHF_KcjMdeHgD0_n5Nb4mYvi56xJfV3XyFQkhtYP8w3yOWpuNEMBkmRrCrKaC3W1zITWyhh8Xg8Rlo303PJ2u2wFaCVHwRpgSY1oa5Kdt0FKdyinzWwj13RvW7PVbSInw4n9jRTYZPyBXRk5g8HrAQmCFzZu3cVudgH38dawq4SIbAFvqKx6QrPEt9PNuG2G7Q9J3hDmhVPSPnmaTmLFMLOL9s6nzbGIujNU_rn9e9OTHo6qCp0rYw6uH_s1v2c_Z-TUFsnWHM2ebl6Gl3pPSX8e8HwUvPjN1Vq4FnaxPcPR3WHZvmUS0aNfIZnUEQtlmlk-BjMnX272PGSFT2vglcQowzlNx8PSB5GTE1HlCZhT0BNCHIwp43_G1vDV513CHxPDO0DU7tnv2GkI7E1UKswu5NDf0H14jvSQDVZmp2FzGIroEekcu1y_lJ8Y5PUs9idXD7Sq6pRgqcWIs7nT_KhVLc7Nq2bQOZV4jaCi6tQsPVk_oR6mLoSEOd-6RFgRHV9k7BisB-_iOIaDEfB-CRhp3VHPntQ7A.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
@@ -416,7 +416,7 @@ http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbGV2aXNpb25wcmVtaXVtLmNoaWxlX3NjcmVlbl8wXzE1NDYzOTc3MTZfMDY2/screen-0.jpg?h=800&fakeurl=1&type=.jpg",CHILE
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg", CANAL 3 LA VICTORIA
-https://acortar.link/M61vd
+
 #EXTINF:-1 tvg-logo="https://acortar.link/KgQoz", ESTACION.TV HD
 http://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gJQjLC4uY64nX5RDj7As24mWj35sC73ukw&usqp=CAU", MÁS+.TV CHILE 
