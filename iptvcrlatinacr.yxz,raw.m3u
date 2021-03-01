@@ -663,8 +663,6 @@ http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=167_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=235_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png", STAR FUN HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1735
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png", STAR FUN HD
-http://ipeteve.com/php/SR_REGIO270221/smartv.php?cat=latinos&ch=foxfamily&f=.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS HD
 http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b1628000_sles.m3u8
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS 
