@@ -174,8 +174,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
 
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icons/tv-mexico-android.png:225", MEXICO TV
 http://125.139.128.132
-#EXTINF:-1 tvg-logo="https://plataformas.news/online/nota_spt-renueva-su-marca-a-sony-channel.jpg", SONY CHANNEL HD
-
+#EXTINF:-1 tvg-logo="https://plataformas.news/online/nota_spt-renueva-su-marca-a-sony-channel.jpg", SONY CHANNEL FUL.HD
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=143_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN.HD
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=166_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE HD
@@ -183,8 +183,6 @@ http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=169_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1742
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU",PREMIER HD
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU",PREMIER 
 http://tv.iptv5latino.cl:8000/jorge18/1234/10870
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
@@ -227,7 +225,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/3815
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL FUL-HD
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1474_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCuqp-zKCqptI4tX5iJc_wMeuFWIVXshTag&usqp=CAU", STAR LIFE FUL HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/42435
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX FULHD
 http://tv.iptv5latino.cl:8000/jorge18/1234/55427
@@ -254,6 +252,8 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1754
 #EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL FUL-HD
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1546_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/studio-universal.png",StTUDIO UNIVERSAL FUL-HD
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1720_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/studio-universal.png",",StTUDIO UNIVERSAL
 https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=-zNtbsNi3JETuh1HpMmPEQ&e=1612008245
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER CHANNEL HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1763
@@ -292,7 +292,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1749
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP FUL-HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39242
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP HD
-http://tecnotv.club/wws/android.php?c=118|User-Agent=..Darkiptv.com                                                                                                   --- .                          .
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1855_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE FUL-HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c7ef9dc7c56bcc.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/HBO_Comedy_Logo.png",USA: HBO COMEDY 
@@ -361,7 +361,6 @@ http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/141.m3u8
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/626980
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png",BEST CABLE CANAL 3 PARA TODOS
 https://live.siete.us:19360/bestcable/bestcable.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZYJO4FGQ0oUbyAq2vTbqLTRhzZ-Hlu3bdE11CX0RkMAc5AI3Dkls5U-h6wnGXDonuvw=s180",República Dominicana
