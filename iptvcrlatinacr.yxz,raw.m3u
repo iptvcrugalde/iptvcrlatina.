@@ -24,15 +24,17 @@ https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml" Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
 
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica",REPRETEL CANAL 6 FULHD
-https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0Njk3NTM3LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuNCIsIndoaXRlbGlzdCI6WyIyMDEuMTkxLjI1NC40Il19LCJzaWduYXR1cmUiOiJmMDgwNTA3MzA1MzBkYWUyMmQwYmRmMDE2ZTlkOGEzOGRhNzQ0OTcwIn0%3D
+http://tecnotv.club/ggt/smtv3.php?c=69
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png", REPRETEL CANAL 4 FULHD
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0Njk3NjAzLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuNCIsIndoaXRlbGlzdCI6WyIyMDEuMTkxLjI1NC40Il19LCJzaWduYXR1cmUiOiJiOTg1NGFiMzM4ZmQxNDVkZTUyNjdhMWUwMzc1MTQ4ZTE3YWIzNTQ1In0%3D
 #EXTINF:-1 tvg-logo="http://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-4.jpg" group-title="Costa Rica", REPRETEL CANAL 2 HD 
 https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0Njk3NjUzLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuNCIsIndoaXRlbGlzdCI6WyIyMDEuMTkxLjI1NC40Il19LCJzaWduYXR1cmUiOiJlMWE4MzBmY2E5MDczZDNmNmZlNjNhZWViY2QyODAxYjkxODY2NDBkIn0%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png", REPRETEL CANAL 11 HD
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0Njk3NzA4LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuNCIsIndoaXRlbGlzdCI6WyIyMDEuMTkxLjI1NC40Il19LCJzaWduYXR1cmUiOiI4NzYwZWRjMWQ3MTAxZGYzZWMwNjA5ZTM4Yjg1MWUzZGM0YTcwMjllIn0%3D
-#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FUL_HD
+http://tecnotv.club/ggt/smtv3.php?c=70
+#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FHD
 https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO55QhjE7WyERBihTiRZt-JeA)/dm/3/x29e3wg/s/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FUL_HD
+http://tecnotv.club/ggt/smtv3.php?c=66
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg",CANAL 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iO6qmgY.png", TELERED TELEVISION HD 
@@ -130,9 +132,13 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hqlIns4Y750/WWwASgrkb3I/AAAAAAAAwwo/gP0jGDCOUuIvh6wsDVOkWYtw7RFnBcV2ACLcBGAs/s1600/201854338-1-multimedios-radio-y-television-publicidad-en-radio-y-television.jpeg",MULTIMEDIOS
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://ya.co.ve/rBx",TIGO SPORT HD
+http://tecnotv.club/ggt/smtv3.php?c=800
+#EXTINF:-1 tvg-logo="https://ya.co.ve/rBx",TIGO SPORT 
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/54959
 #EXTINF:-1 tvg-logo="https://ya.co.ve/rBx",TIGO SPORT
 http://186.176.194.213/hlsl/1/TIGOSPORTSHDjb_PHONE/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV HD
+http://tecnotv.club/ggt/smtv3.php?c=802
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV 
 http://tv.iptv5latino.cl:8000/jorge18/1234/33760
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV 
@@ -142,6 +148,8 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/57277
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngJYYZLWge0V1CDIg_JnHoieqneux2UR98pmSxi=s900-c-k-c0x00ffffff-no-rj", TD+
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/60365
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOADyWhBpe7nfbTWNOurV0kYQfw92G8zZ9Xu1cs=s1600-w400", SAN RAFAEL GUATUSO
+
+
 
 #EXTINF:-1 tvg-logo="https://www.catalunyapress.es/multimedia/images/nicaragua_2.jpg",NICARAGUA
 http://127.0.0.1
@@ -586,11 +594,13 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/55439
 #EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL FUL-HD
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=89|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL FUL-HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1546_&f=.m3u8
+http://tecnotv.club/ggt/smtv3.php?c=109
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1755
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER CHANNEL FUL-HD
 http://ipeteve.com/php/SR_REGIO220221/android.php?c=95|User-Agent=UniversalOficiaI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER CHANNEL HD
+http://tecnotv.club/ggt/smtv3.php?c=576
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
 http://latvonlive.com:33612/Rico/1234/78
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
@@ -671,7 +681,7 @@ http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=170_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmmTA5KEwHOZOHvo6AagZLD-oUIl2xAvRsg&usqp=CAU",STAR HITS HD
 http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=167_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92rnRPFm0YLDTKInPM0bb5MZ0veajNgpi-A&usqp=CAU",STAR CINEMA HD
-http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=235_&f=.m3u8
+http://tecnotv.club/ggt/smtv3.php?c=616
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png", STAR FUN HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1735
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS HD
@@ -711,11 +721,11 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1749
 #EXTINF:-1 tvg-logo="https://www.montecable.com/img/senales/112-extremenew.png",HBO XTREME FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/43223
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN",HBO MUNDI FUL-HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1535_&f=.m3u8
+http://tecnotv.club/ggt/smtv3.php?c=594
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN",HBO MUNDI FUL-HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39240
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vOjlNHFQgTc/maxresdefault.jpg",HBO POP FUL-HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1855_&f=.m3u8
+http://tecnotv.club/ggt/smtv3.php?c=593
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE FUL-HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c7ef9dc7c56bcc.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSIWT8u.jpg",HBO SIGNATURE FUL-HD
@@ -958,6 +968,8 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://peru.info/Portals/0/Images/MIPCOM/Productoras/1/7/logo.jpg", America HD
 http://latiniptv.vip:8008/live/Cuentas3/Cuanta31/6386.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV HD
+http://tecnotv.club/ggt/smtv3.php?c=178
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV 
 http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/141.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV HD
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/626980
@@ -1014,7 +1026,7 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w578096294.m3u8
 #EXTINF:-1 tvg-logo="https://www.dantv.tv/images/dan-001.jpg" group-title="RELIGION",DAN TV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066687836445990912/XM67Xmp5_400x400.jpg", LINIEROS LTV CANAL 36 HD
-https://ya.co.ve/Avp
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Cq0FbDhY4MGkTotFDawLGBTkAjeZOpliBsayfrZHo6m6ZhXHVp999i-oDJBL0VhPa1BWI_7BeDgb0P8eMZqp1p2N43QnNB9V8mYwXCptLXJkWztDtiyOTNDkl1jS8dncJfMZiK9CIA5OGtPrJpO95_-3RP9IzrwrSpNR6GM8dhqwjC7V6Svpjr6-1sQ3qSCPEwTdFpLf4430zLea15-0wyglDfWJG_cd6AkIfV18acgopWlg3EzDfkv6TdBbuLwW0RueLZYjByWPQSv3aaRwmwNM2nOjG2IF5Fhl37ZzBLZCOJHOj3skqmZTHxAwt4xt8QmgRqExWZ1zqnfMwfB5besruo3eGkRHeREwSvL_AREOe3BMpMR9kx2UEofHvsG5kpF6QoIvv_bhb6ut_gI3TPMM3JIary1hMSTfiV8YwwfhjS9FzczrcbWvdFm9bbTIQwERbYFMagcoac-UccLGR3XuAenTN0yLy9Wmoed3aZB3fPBlG6BCiTHlDTWW83aGTPSMAEA-v454D2RYnMHmGaMmcKf1l162MmS_qUnIHJKyLdh4miv9RB0xq92WLMnVWCSnpX7Dw4Ab6ufBUmL3RlpTpmwE2ExVtB-hnzAIK1aKVLoCn5ePh8-xaBQaQRww_g2REtXDGr6GfDeCpuAXYfhE9h7lXC0NcbdGBrGQzT7_996zrZsfV4azXIDrrkpD_7qgqOnvI_86QHT26feAgi9l4kzu7ATRq7MWJK305Rx5kbje2LfSxBaNY7qSl93FA4tnXLOxAgLRLs_jUUgaUVTONve1SQlnXvKGIHCtm4ywiasqC0q3TWCp4t4gQpg2qkoPHTLHXpPccXREp46iHKEXwFG_r8faaFbNN36c-niQbkN7HzXAj6pLQw4XCi2jnH5JqYj0yv4bcLW0P1n0cRIQoeLoVa72YOygNko_ewSsChoMaebHgED3rK64Cz1-.m3u8
 #EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png", TELESUR CANAL 10
@@ -1060,6 +1072,8 @@ https://ss8.domint.net:3128/stv_str/tv55/chunklist_w1366602525.m3u8
 https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
 #EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/QxC4z1VD9uf9Sv_N5/x240", COLOR VISION HD
 https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RYxqSs30kQ6ndkGndqqrMxOk)/dm/3/x7gy059/d/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://s2.dmcdn.net/v/QxC4z1VD9uf9Sv_N5/x240", COLOR VISION 
+http://tecnotv.club/ggt/smtv3.php?c=935
 #EXTINF:-1 tvg-logo="http://telefuturo.com.do/home/wp-content/themes/telefuturo23/img/logo.png", TELEFUTURO CANAL 23
 https://ss8.domint.net:3118/tf_str/futu/chunklist_w1341184038.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87fKgc4.jpg",TELENORD CANAL 8
