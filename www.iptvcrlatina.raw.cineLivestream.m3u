@@ -187,11 +187,11 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/10870
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE Y SERIES",MC HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1867_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1867_&f=.m3u8
 #EXTINF:-0 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG",DHE HD
-http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1614_&f=.m3u8
+
 #EXTINF:-0 tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png",MULTIPREMIER HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1710_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1710_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://selectra.mx/sites/default/files/images/logos/bitme-350x183.png",BITME FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/490
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png",DE PELICULA HD
