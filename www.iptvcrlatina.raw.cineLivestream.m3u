@@ -203,11 +203,11 @@ http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=163_&f=.m3u8
 #EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/490px-TV_Azteca_Cinema_logo.svg.png",AZTECA CINEMA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png", AZ MUNDO HD
-http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=1677_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/tv4.php?ch=AZMUNDO_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQL6GC8hFLtQUWLBp_O4sNfdX5RkgqSU_yhD64BrID9vDnV3zi0",CINE LATINO HD 
-http://ipflix.click:8080/uoplj5soni/rgu4a63btk/21333
+http://ipeteve.com/php/SR_REGIO010321/tv5.php?c=276
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-0xxwz6sHqQU1L44LgT5QdNVpoA8CaqGv7g&usqp=CAU",Azteca 7 FUL-HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=133_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/tv5.php?c=264
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
 #EXTINF:-1 tvg-logo="https://www.telebunker.com/img/lifetime.png",LIFETIME HD
