@@ -223,7 +223,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/3815
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL FUL-HD
-http://tv.iptv5latino.cl:8000/jorge18/1234/55416
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-life-hd_m.png",FOX LIFE FUL HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/42435
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX FULHD
@@ -263,13 +263,13 @@ https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/1200px-Star_Premium_2021.svg.png",STAR PREMIUM
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktlbE8jaakRDbcnHgtPjT6DyhNgYj6mISlw&usqp=CAU",STAR SERIES FUL.HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1495_&f=.m3u8
+https://h617m1px6ibyxob.ezcdn462.net:8443/hls/in515ybo3y.m3u8?s=nrfFgWdYha4a74LNm7q_zw&e=1614666350
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",STAR ACTION HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=170_&f=.m3u8
+https://h617m1px6ibyxob.ezcdn462.net:8443/hls/4612rwe.m3u8?s=DflKRzy-wjRy0lawYIGliA&e=1614666435
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmmTA5KEwHOZOHvo6AagZLD-oUIl2xAvRsg&usqp=CAU",STAR HITS HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=167_&f=.m3u8
+https://h617m1px6ibyxob.ezcdn462.net:8443/hls/4dtc368405sw4mo.m3u8?s=qYmFSXI1C0VUDdx7zq_GoQ&e=1614666659
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92rnRPFm0YLDTKInPM0bb5MZ0veajNgpi-A&usqp=CAU",STAR CINEMA HD
-http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=235_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png", STAR FUN HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1735
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS HD
@@ -358,6 +358,7 @@ http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/141.m3u8
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/626980
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png",BEST CABLE CANAL 3 PARA TODOS
 https://live.siete.us:19360/bestcable/bestcable.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ZYJO4FGQ0oUbyAq2vTbqLTRhzZ-Hlu3bdE11CX0RkMAc5AI3Dkls5U-h6wnGXDonuvw=s180",República Dominicana
