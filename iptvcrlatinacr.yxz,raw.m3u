@@ -28,9 +28,9 @@ https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunkli
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica",REPRETEL CANAL 6 HD
 http://tecnotv.club/ggt/smtv3.php?c=69
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png", REPRETEL CANAL 4 FULHD
-
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0ODIyNTQwLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMzQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuMzQiXX0sInNpZ25hdHVyZSI6ImJlMTAxMDEzMjU1ZGJmNDFhMDMyZjA4ODE5NDM0YjA1ZTVkYWRkZWIifQ%3D%3D
 #EXTINF:-1 tvg-logo="http://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-4.jpg" group-title="Costa Rica", REPRETEL CANAL 2 HD 
-
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0ODIyODE0LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMzQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuMzQiXX0sInNpZ25hdHVyZSI6ImNiNDZjMjA3MjcxYTgxZjAxMjdjMDI0YWEwZGM0YmE2Nzg4OTRjZjEifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png", REPRETEL CANAL 11 HD
 http://tecnotv.club/ggt/smtv3.php?c=70
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FHD
@@ -372,7 +372,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w148
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aizYxAy.png", TV UNAM
 https://playback2.akamaized.net/streams/27177136_8970901_lsitpsrwj3wsl3hxe9r_1/exp=1601173026~acl=%2f*~data=hdntl~hmac=3658816c3f12bdb76f382cda2473018b3991bfeed4d4f8bc578437340eb193f5/media/27177136_8970901_lsitpsrwj3wsl3hxe9r_1@1628000p.m3u8?dw=14400&ts=1601085600
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD 
-
+https://tv.teleclub.xyz/emmy/senal-envivo?server2=HTV_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV 
 http://mytv.club:8080/unknown/unknown123/27389
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
@@ -459,8 +459,8 @@ https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/a71es.m3u8?s=L8L6xGmbqZp238PlYT11
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN FUL-HDD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1477
-#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU" group-title="CINE Y SERIES",PREMIER GOLDEN HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1704_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1474
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
@@ -474,8 +474,6 @@ http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-0 tvg-logo="" tvg-name="MC" tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png"group-title="CINE Y SERIES", MULTIPREMIER HD
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sony-hd_m.png", SONY CHANNEL HD
-http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1487
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
 http://tecnotv.club/ggt/smtv3.php?c=584
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1753
@@ -563,7 +561,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/40116
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/42431 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E FUL-HD 
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26749
+https://tv.teleclub.xyz/emmy/senal-envivo?server2=AYE_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E FUL-HD 
 http://tv.iptv5latino.cl:8000/jorge18/1234/38796
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM HD
@@ -576,6 +574,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.ts|User-Agent=1m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_MYtiVQW09sbo_OS4moKJTImU6vYIGGByfA04uWBD9tJmxrVsLL3SWOfaY7Cby9xMwKEAA=s85",TNT FUL.HD
+https://tv.teleclub.xyz/emmy/senal-envivo?server2=TNT_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_MYtiVQW09sbo_OS4moKJTImU6vYIGGByfA04uWBD9tJmxrVsLL3SWOfaY7Cby9xMwKEAA=s85",TNT FUL.HD
 http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_MYtiVQW09sbo_OS4moKJTImU6vYIGGByfA04uWBD9tJmxrVsLL3SWOfaY7Cby9xMwKEAA=s85",TNT HD
