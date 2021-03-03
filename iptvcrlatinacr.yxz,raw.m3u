@@ -410,7 +410,7 @@ http://ipflix.click:8080/uoplj5soni/rgu4a63btk/21334
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zL3AGqH.png",CINEMA DINAMITA HD
 http://rv.imax.re:80/5124037472/1572081885/86976
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZQ3Px7.jpg",CLARO CINEMA
-
+http://ipeteve.com/php/SR_REGIO010321/android.php?c=104|User-Agent=UniversalOficiaI
 #EXTINF:- 1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/236216358595/medium/100/1473533372a735701586a612a03d0325f0a116f965.jpg",AZTECA CINEMA FUL.HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQji_M_I-fBvlZd74-GUhn0XGQr2xUMoCsjlDql-dPXhnhzBj6G",AZTECA CINEMA HD
@@ -498,11 +498,11 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6167
 #EXTINF:-1 tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png", Multicinema 
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE Y SERIES",MC
-
+http://ipeteve.com/php/SR_REGIO010321/android.php?c=110|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://i.ibb.co/5xJyrVr/mc.png" group-title="CINE Y SERIES",MC HDC
 
-#EXTINF:-0 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE FUL.HD
-
+#EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
+http://ipeteve.com/php/SR_REGIO010321/android.php?c=103|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 http://latvonlive.com:33612/Rico/1234/97
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
@@ -537,7 +537,7 @@ http://supersonictv.live:25461/903310/034806/22087
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE FUL.HD
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/909
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=177_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/android.php?c=88|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXM HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/15713
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXM 
@@ -551,7 +551,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL FULHD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1482_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/android.php?c=105|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL 
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26753
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QqVDHq.jpg" group-title="CINE PREMIUM",CiNEMA+ PLUS HD
@@ -1445,7 +1445,7 @@ http://tv.masterplaytv.xyz:8000/movie/mv38Y9TW8b/XHHpMhvLCK/63825.mkv
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-O2mB7eLoXTc/Xj3fc8g0LVI/AAAAAAAAAiA/-oOdUkmzvo4SIjAEmqZX6TtubW2zZ0fkACK4BGAYYCw/s1600/0000ZONAFILMSTV-TITULOwebs.png", ZONAFILMS TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ebba677b-0d63-481c-9986-b14da96efe2b-profile_image-70x70.png",ZONAFILM TERROR HD
-https://ya.co.ve/psn
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpQFDhhbOOI6gd0nOpI46Q4zbuNKeYq985_lx4Q14kGAXYOXEHp8fG3sMgfVtFj5dz6ERfVTL5bwW5SeSwmomMamfqrbthRrkQcYMZwtMAFWD875yo8ade15p3xlB_y5R_N6U13ztrc03V_7sSEbq9pvYs07SLqjtAA86CCSTfVvJJLXfHS2hbSJh20O3uSFAEw1BRFvtGuvRusamgba59mQ2n-0JVPnca1ujv5XZBY34vY1anivi0Oa1hZJ52X3fQu_8esHpI_wmI6lWuHv-Zkxswzc2XySfa25oWSncYv6qQFEXET_NzMTKA1F5xSkSfnhDYdduLAUVn9VVPFfAiBJIINZHzVy0Xj-CrWv1q-QmfSeQJbjAjyoNzDMvY_-mDAJE7bl9OxjsuuIpQEcDTDCbCbe6DESewvPVNMz2rOmwe89U7kz5MuNO5GVxl1zdmMSYfjiU950ZWFGlz7Klby1BLtZxAKRNucyoFuiy26d_2nVvMs4m-WgfPU-MVnAMWrn7-LWnQ2dFgl5U8nXiS9Kga8wJYicJztcbF6FFg4kktR-MYjT3jUwjODXR0LLtlLLQKAnlj3aclANiJ8HXTrxsVdzPAMVaOwXbCobmrQDTmQAQ4ZJSVCPz8IRfmHEAwGwdt888fzY4O1mnPn-dGOOZwIOD-v0lOThTHFsC25-BF_dteq93R_NZUT1lQpMZ11EpvApJb0lPgLjVpw5Z-PmSIDtMyCf6Z7vrlldiqah2-o7_VdFIhpCjbG6X0guDnZAsFMelVEuIS2RoWmAityFfbymJ2Cr5YShibnpxzjpR8lL20l4BMUgTHO3R5BzzQYyoS3xmaxVvWIJPTF1m0QUA6tkffd3PWITl2WmxTxqEesLcaM0EhDfLwjfY8-lq4rid8lNpipFGgwUDqSy7fjuwL870iU.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-300x300.png",ZOAFILMS.TV HD
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA&usqp=CAU", MOVIEZ TV
@@ -1483,7 +1483,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="http://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8.png", CANAL OCHO SAN JUAN
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1932/terror_mania.jpg",	TERROR MARIA HD
-https://ya.co.ve/P4Z
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Co4F5uxxRG4rAoaXglxoLQlFf4DUenIkRQpO-lhQlVIAiHFfIM3my8P5PrpPRn73XrkwHPhPdT_yzfrTPfgLOFsfE_kahGpLJubKqi_XUuX5c9AS-Wa3-blFVWa-kbKFtKDq6c6ETuA3w4fh6YAig46K2jFElRcsxNdsMtThpZI_4ua7DUQ-rieR8W5IL2w4jC4EXz1i6SPQn7nZdeAmY3aB8TpOhB39v2UflSeJczY6eYBOZZsqC1KrzF6GWm4G3GIj-psn7GDXa1rrZvR6ioDahgVy26Bw-nccasmRKFHHnctlxl1mi-O0hn_nUo_QSCNdwikql_uCoCfqLohch3SfaWca8kqqkQGPYwXXri7qIojKdZPZhuv_FvrBWyXQmkL1xAnl_epI_D92k6dkcZCf5GjavvuotLXmS_hCJ8GOMn4PfJWzdBDURCEDFGwSesSIhgFkWC1FNUV9FGcMgQpYov2Jddt2IHxh9pDlLh-JyFF-gqTYphCDwgKMCbB9Jd35yYmMbDjQsdS5m2uaFxjZhcnJCBr1TeeaxyimjIz4kjjCFcwrwfCBI8YM1GR7YpLzvkAoWRHSro8kr7lq-cEPO7rwlrBHRhPmSuUBjgEPNFY8f2qGbkiMPCD0aygpby4adZGrZ2ZU-NP14GhvBM-wVs2Seb_1SZJoZzT2ujvWuWSsYN0x-Cb5HTT2BpM104VM5j8Y4Pji-DhoG56cV6jNXPYMNa2CNR37Qo6zBt0tdg46HQgJexikRwg1CGQiwDlIKqPMCJl4HA6BTz-r7ZxaLCg5pXgn5tZTHz8-WrYXnTsIJ_eRGM-lvmsHKkCFruvvReunxQ6k9yZf1H7tSb1uv9HCx660lcnvbVC9lkEkEhBXZfBiC9ZmoL_YYwrcxrRBGgx65hjDfK_3us9v4Ng.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ccf5be60-2c07-4aef-9fcc-a4ed3033663e-profile_image-70x70.png",JJ PARCHE.TV HD
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png", TV CLASSICS
