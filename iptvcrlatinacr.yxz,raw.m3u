@@ -476,7 +476,7 @@ http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-0 tvg-logo="" tvg-name="MC" tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png" ",MULTIPREMIER HD
  http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1710_&f=.m3u8
 #EXTINF:-0 tvg-logo="" tvg-name="MC" tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png"group-title="CINE Y SERIES", MULTIPREMIER HD
-http://tecnotv.club/ggt/android.php?c=315|User-Agent=..Darkiptv.com 
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sony-hd_m.png", SONY CHANNEL HD
 http://tecnotv.club/ggt/smtv3.php?c=584
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
@@ -503,7 +503,7 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/6167
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://xview.mx/img/xview/canales/logos/series/mc.png" group-title="CINE Y SERIES",MC
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1867_&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://i.ibb.co/5xJyrVr/mc.png" group-title="CINE Y SERIES",MC HDC
+#EXTINF:-1 tvg-id="" tvg-name="MC" tvg-logo="https://i.ibb.co/5xJyrVr/mc.png" group-title="CINE Y SERIES",MC HD
 http://tecnotv.club/ggt/android.php?c=110|User-Agent=..Darkiptv.com                                                                                                   --- .                          .
 #EXTINF:-1 tvg-logo="https://www.prensario.net/Multimedios/imgs/38037_750.PNG", DHE HD
 
@@ -524,9 +524,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
-#EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL FUL-HD
+#EXTINF:-1 tvg-logo="https://ya.co.ve/byc", STAR CHANNEL FUL-HD
 http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL 
+#EXTINF:-1 tvg-logo="https://acortar.link/qST0h", STAR CHANNEL HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/15925
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2020/12/image009-1300x684.jpg", STAR CHANNEL 
 https://h617m1px6ibyxob.ezcdn462.net:8443/hls/0e733j.m3u8?s=0IJjkGV1MthwKvMeCoBATg&e=1614636075
