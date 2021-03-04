@@ -23,20 +23,22 @@ https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0
 #EXTINF:1 tvg-logo="https://pbs.twimg.com/profile_images/937101449804226560/7CkQB_Ok_400x400.jpg", =Mexico - Latinos - Noticias - España- Infantiles - Cultura- CINE -
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml" Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
 
+
+
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica",REPRETEL CANAL 6 FULHD
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0ODIwMzEzLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMzQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuMzQiXX0sInNpZ25hdHVyZSI6IjA3Mjc3ZjdhNTg4M2M1MzliZmQwMjM4NWVjNzhiODA3NmViNGJmYjcifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica",REPRETEL CANAL 6 HD
-http://tecnotv.club/ggt/smtv3.php?c=69
+http://tecnotv.club/hhu/smtv3.php?c=70
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png", REPRETEL CANAL 4 FULHD
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0ODIyNTQwLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMzQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuMzQiXX0sInNpZ25hdHVyZSI6ImJlMTAxMDEzMjU1ZGJmNDFhMDMyZjA4ODE5NDM0YjA1ZTVkYWRkZWIifQ%3D%3D
 #EXTINF:-1 tvg-logo="http://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-4.jpg" group-title="Costa Rica", REPRETEL CANAL 2 HD 
 https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0ODIyODE0LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMzQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuMzQiXX0sInNpZ25hdHVyZSI6ImNiNDZjMjA3MjcxYTgxZjAxMjdjMDI0YWEwZGM0YmE2Nzg4OTRjZjEifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png", REPRETEL CANAL 11 HD
-http://tecnotv.club/ggt/smtv3.php?c=70
+http://tecnotv.club/hhu/smtv3.php?c=70
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FHD
 https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO55QhjE7WyERBihTiRZt-JeA)/dm/3/x29e3wg/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FUL_HD
-http://tecnotv.club/ggt/smtv3.php?c=66
+http://tecnotv.club/hhu/smtv3.php?c=66
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg",CANAL 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iO6qmgY.png", TELERED TELEVISION HD 
@@ -140,7 +142,7 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/54959
 #EXTINF:-1 tvg-logo="https://ya.co.ve/rBx",TIGO SPORT
 http://186.176.194.213/hlsl/1/TIGOSPORTSHDjb_PHONE/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV HD
-http://tecnotv.club/ggt/smtv3.php?c=802
+http://tecnotv.club/hhu/smtv3.php?c=802
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV 
 http://tv.iptv5latino.cl:8000/jorge18/1234/33760
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV 
