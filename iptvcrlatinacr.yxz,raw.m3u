@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA CR
 http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8
 #EXTINF:0 = https://wa.me/message/Y36OKHMC7QZVG1
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",03 03 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",03 04 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -374,7 +374,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w148
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aizYxAy.png", TV UNAM
 https://playback2.akamaized.net/streams/27177136_8970901_lsitpsrwj3wsl3hxe9r_1/exp=1601173026~acl=%2f*~data=hdntl~hmac=3658816c3f12bdb76f382cda2473018b3991bfeed4d4f8bc578437340eb193f5/media/27177136_8970901_lsitpsrwj3wsl3hxe9r_1@1628000p.m3u8?dw=14400&ts=1601085600
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV HD 
-https://tv.teleclub.xyz/emmy/senal-envivo?server2=HTV_SD&format=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/android.php?c=173|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9GnzSp.jpg" group-title="MUSICA",HTV 
 http://mytv.club:8080/unknown/unknown123/27389
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-pjo9X2MvCk0J30UkuSLG1f_b57mVRlL6A&usqp=CAU", CLARO MUSICA.TV
@@ -422,7 +422,7 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1450
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
 http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/azcorazon.jpg", Az Corazon HD
-
+http://ipeteve.com/php/SR_REGIO010321/android.php?c=13|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png", AZ MUNDO HD
 http://ipeteve.com/php/SR_REGIO010321/tv4.php?ch=AZMUNDO_SD&format=.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HHD
@@ -464,7 +464,7 @@ https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/a71es.m3u8?s=L8L6xGmbqZp238PlYT11
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN FUL-HDD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1477
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
-
+http://ipeteve.com/php/SR_REGIO010321/android.php?c=93|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1474
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER 2 
@@ -723,7 +723,7 @@ http://ipeteve.com/php/SR_REGIO220221/android.php?c=115|User-Agent=UniversalOfic
 http://tv.iptv5latino.cl:8000/jorge18/1234/1749
 #EXTINF:-1 tvg-logo="https://www.montecable.com/img/senales/112-extremenew.png",HBO XTREME FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/43223
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbomundicolor.png.cc01ec854c23d1498a995a4fc37d22a9.png",HBO MUNDI FUL-HD
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png",HBO MUNDI FUL-HD
 http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1535_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbomundicolor.png.cc01ec854c23d1498a995a4fc37d22a9.png",HBO MUNDI FUL-HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39240
@@ -976,7 +976,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://peru.info/Portals/0/Images/MIPCOM/Productoras/1/7/logo.jpg", America HD
 http://latiniptv.vip:8008/live/Cuentas3/Cuanta31/6386.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV HD
-http://tecnotv.club/ggt/smtv3.php?c=178
+http://tecnotv.club/hhu/smtv3.php?c=178
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV 
 http://89.105.194.59:25461/live/perVX!bitch$/perVX!bitch$/141.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/ATV-Per%C3%BA-en-vivo-Online.png",ATV HD
