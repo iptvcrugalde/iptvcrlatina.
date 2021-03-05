@@ -73,7 +73,7 @@ http://cdn2.envivo.win/HLS/?canal=zonafilmstv&c=ZwNjYwRkBF4kBQLhZmt=&p=ZGH4AGD1Z
 http://k4.usastreams.com/vitotv/vitotv/chunklist_w585930838.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvnC1idEPifXp_-FSxNoYKwfxcuTLN9fGAXw&usqp=CAU", NORTE INFORMATIVO HD
 https://inliveserver.com:1936/8328/8328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/SGFTPqMF1KV8-V9FfbIdaF75e8TfYgi9T4Gf-pQhER68k8pRMFnKqFEZmIh2BHF-pfMAPg=s85", COSTA BALLENA.TV
+#EXTINF:-1 tvg-logo="https://acortar.link/vG7Uj", COSTA BALLENA.TV
 https://panel.livetvvideo.net:1936/costaballenatv/costaballenatv/chunklist_w1833314676.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Pew1vQN-nrAZeWK4C1Pyiuol1T341DpuSqAFvlYYnMaCnJPBh0qceHQtWBGegez5Zfi2=s85",TVO OCCIDENTE HD
 http://k4.usastreams.com/tvoccidente/tvoccidente/playlist.m3u8
@@ -626,7 +626,7 @@ http://f4.tvxweb.net:8082/9040/mpegts?token=MxPReBvRE1
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/664
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/895.png",DIRECTV CINEMA
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ITTCfZp_Y4w5hX8s19tliTDucRsCA2-cCA_lE0xWmLqB-yXNwbKG_AZXihfjhrOjhx70zA=s116", bloody
+#EXTINF:-1 tvg-logo="https://acortar.link/eMt73", bloody
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist720lp.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/3f/ec/fe3fec00bbd6e6d98fb18dce16a5c8f7.jpg",CINE MOVIES FUL-HD
 http://supersonictv.live:25461/903310/034806/40492
@@ -722,7 +722,7 @@ http://supersonictv.live:25461/903310/034806/22880
 #EXTINF:-1 tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png",HBO PREMIUM
 https://s.vdo.ai/vhs/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png", HBO + HD
-http://ipeteve.com/php/SR_REGIO220221/android.php?c=115|User-Agent=UniversalOficiaI
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1855_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1749
 #EXTINF:-1 tvg-logo="https://www.montecable.com/img/senales/112-extremenew.png",HBO XTREME FUL-HD
