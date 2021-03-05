@@ -286,25 +286,23 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://ya.co.ve/Oq3",ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://acortar.link/qST0h",STAR CHANNEL HD
-http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
-#EXTINF:-1 tvg-logo="https://acortar.link/qST0h",STAR CHANNEL HD
-https://h617m1px6ibyxob.ezcdn462.net:8443/hls/0e733j.m3u8?s=0IJjkGV1MthwKvMeCoBATg&e=1614636075
+http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1474_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE
-http://tv.iptv5latino.cl:8000/jorge18/1234/55420
+http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1559_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=142_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXM HD
-http://ipeteve.com/php/SR_REGIO050321/android.php?c=88|User-Agent=UniversalOficiaI
+http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=177_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL FULHD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1482_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC HD
-http://tv.iptv5latino.cl:8000/jorge18/1234/42431 
+http://ipeteve.com/php/SR_REGIO050321/android.php?c=26|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E FUL-HD 
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26749
+http://ipeteve.com/php/SR_REGIO050321/android.php?c=23|User-Agent=UniversalOficiaI
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM 
-http://mytv.club:8080/unknown/unknown123/27298
+http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1724_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_MYtiVQW09sbo_OS4moKJTImU6vYIGGByfA04uWBD9tJmxrVsLL3SWOfaY7Cby9xMwKEAA=s85",TNT FUL.HD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1472_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/_MYtiVQW09sbo_OS4moKJTImU6vYIGGByfA04uWBD9tJmxrVsLL3SWOfaY7Cby9xMwKEAA=s85",TNT
