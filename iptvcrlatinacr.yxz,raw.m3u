@@ -58,7 +58,7 @@ http://tvn.obix.tv:1935/TVN/CH14.stream_720p/chunklist_w853617232.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-tv-sur-5-radio-en-vivo-554x328.jpg", TVSUR RADIO CANAL 5 HD
 https://ok.ru/live/1906333261342
 #EXTINF:-1 tvg-logo="https://www.transdatelecom.com/images/2021/02/04/super-cinco-logo-con-resalte-2.png", CANAL SUPER 5 HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/Co8F85rL8XaSOV9bqk8JhhWH_O3ng4p62J2kWGrHkvZEhcJ8YYPL3NZBx0MFqoHSmgCjyu_uOxdiFu2J759fyGOKh5mwt8rWo5FswK3QEJ6KZUsbdtMQ3vRcpUKOiW9XOH6uxGQqj-uxyEShPobN7iW_eSMgFFAPINDD1SzTK5RwvWLEDTRtEM9knM7PnGIHg7PlAwyp3Yy7vCFTRSdMJJbrGn_7VgPtrRBy9tBedULad7qq51m_CYDauVNuvYbJIH2BUP1j1I4sxk7nuDkpQeC69EKedYCgz6I9wrRVQ3ax41f58_vb2UVJGodLh5ybD8Mo2hRx1WYNuqOKhfitoxs6e1CEGpOxCVo4TJwvKVFpNdqwptWq27EAQ53-bohKoexd4YijlBUrrzwZxIOdjH-LXQexYOjiX_ZyND0eitlFqWavoMv7vzWHmUJsl-nqBwwlQ5O8laqt_QmZzrLC3jowsTOZo3rQk8uWVkg3xcjxuP_o4EdfJiwtOuNZyvJZBBZAtIwm44PPTvAgiqR3c-2CRlsVmq_zt5COtHGUtF7qLqOXY6ORjbxApXF52IMnOFjfIsQhYjrUBzhI4Di0j_BarPjK2ZNMQl8Z3B--8yt5OZD53eqOP_cL3iqMGsYcukz47OSDRzWLKn4rwk2rXazCTdbzyDa8FKFmXkkgvObEV_gzDfTvgNFJjhHE3OEmdsCMp1-bp9RxyLsFTPnZiXlLU9i5C_CIAi2WNojKLmewEVdcg4o6xh-fcjRvPiJh6qIujTqIwxB4__5LR7Al5Bh95Hq9fW3ahpHBpGudOmnhnDeyooMhjW-YLSW-YM6oyEAp71NMCJ0Ye1wa9SIn3Uo_zwc5USuAybdtATOIxciVKxIQrvbg92UyYEDoV6S5Td92PRoM2dbki4uWihem47CX.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-OY0ZgEsieLQLoblfUBBldQ5f1f3ZVhN-g&usqp=CAU", LIMOM TV HD
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1874362167.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png",TV SUR CANAL 14 
@@ -421,7 +421,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:- 1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQji_M_I-fBvlZd74-GUhn0XGQr2xUMoCsjlDql-dPXhnhzBj6G",AZTECA CINEMA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 #EXTINF:- 1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png",DE PELICULA HD
-http://ipeteve.com/php/REGIO_PLAY120220/smartv.php?c=85_&f=.m3u8
+
 #EXTINF:- 1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_hd-mediano.png",DE PELICULA
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1450
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HnNJKm.png", TVMAS Veracruz
@@ -429,7 +429,7 @@ http://50.7.98.234:1ß935/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/azcorazon.jpg", Az Corazon HD
 
 #EXTINF:-1 tvg-logo="http://ondemo.tmsimg.com/assets/s79968_h3_aa.png", AZ MUNDO HD
-http://ipeteve.com/php/SR_REGIO010321/tv4.php?ch=AZMUNDO_SD&format=.m3u8
+
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HHD
 
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE 
