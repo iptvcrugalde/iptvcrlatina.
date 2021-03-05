@@ -527,6 +527,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/jpgon/jpgon1606/jpgon160603218/59134757-ilustraci%C3%B3n-de-una-larga-sombra-ee-uu-bandera-con-la-televisi%C3%B3n-de-alta-definici%C3%B3n-de-texto.jpg",~ ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://acortar.link/qST0h",STAR CHANNEL HD
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1474_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://acortar.link/qST0h",STAR CHANNEL HD
 http://nano.zappingtv.com:1935/fox/fox.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/qST0h",STAR CHANNEL HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/15925
@@ -684,11 +686,11 @@ http://red.ipfox.org:8080/Karim2_534341/40036069/30518
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/1200px-Star_Premium_2021.svg.png",STAR PREMIUM
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktlbE8jaakRDbcnHgtPjT6DyhNgYj6mISlw&usqp=CAU",STAR SERIES FUL.HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1495_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1495_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",STAR ACTION HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=170_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=170_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmmTA5KEwHOZOHvo6AagZLD-oUIl2xAvRsg&usqp=CAU",STAR HITS HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=167_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=167_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92rnRPFm0YLDTKInPM0bb5MZ0veajNgpi-A&usqp=CAU",STAR CINEMA HD
 http://tecnotv.club/ggt/smtv3.php?c=616
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png", STAR FUN HD
@@ -698,7 +700,7 @@ http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b162
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS 
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6716
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmVwpn47zliPbd7lV0-wrBMSyE8qxPTCvBQ&usqp=CAU",STAR COMIDY HD
-http://ipeteve.com/php/SR_REGIO220221/tv3.php?c=234_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=235_&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://seriemaniacos.tv/wp-content/uploads/2018/04/HBO.jpg",HBO HD
