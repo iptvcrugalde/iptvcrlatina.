@@ -24,20 +24,18 @@ https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0
 #EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml" Peliculas - DEPORTES - Musica - Videos Gruperos - Adultos=
 
 
-#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica",REPRETEL CANAL 6 FULHD
-https://acortar.link/tkxKS
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png",REPRETEL CANAL 6 FULHD
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MTQxMzA3LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuOTQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuOTQiXX0sInNpZ25hdHVyZSI6IjVlZTlmZDQ3ZGNlYmIxMzg5ZjkwZjEwOGY4NmUwMGE5ODUyYmUxOGMifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png", REPRETEL CANAL 4 FULHD
-https://acortar.link/YI0BA
-#EXTINF:-1 tvg-logo="http://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-4.jpg" group-title="Costa Rica", REPRETEL CANAL 2 HD 
-https://acortar.link/73odr
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MTQxNTQ3LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuOTQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuOTQiXX0sInNpZ25hdHVyZSI6ImExMGY1NTQ2OTY0ZjJhZTIzZTk4NjhjZGQzZTg0YmY2ZTZkMjkwMDYifQ%3D%3D
+#EXTINF:-1 tvg-logo="http://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-4.jpg", REPRETEL CANAL 2 HD 
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MTQxMTM2LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuOTQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuOTQiXX0sInNpZ25hdHVyZSI6Ijg2ODY3YTkyZWM0YjYxZWFlZjE4YmI5YTg3YzkyMjcxMmU1MmRiYmQifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png", REPRETEL CANAL 11 HD
-https://acortar.link/MWWkj
-#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png", REPRETEL CANAL 11 HD
-http://tecnotv.club/hhu/smtv3.php?c=70
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MTQxNDk1LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuOTQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuOTQiXX0sInNpZ25hdHVyZSI6IjVhZjhmYzdjOGJiNzhmMGFmZTliYzJhODQxZDJmMjQ2ZDc0YmRlMjEifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FHD
-https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO55QhjE7WyERBihTiRZt-JeA)/dm/3/x29e3wg/s/live-0.m3u8
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO56rfRzDhhhbc9Fsf6yR6eXQ)/dm/3/x29e3wg/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/teletica_7_1.png", TELETICA CANAL 7 FUL_HD
-http://tecnotv.club/hhu/smtv3.php?c=66
+
 #EXTINF:-1 tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg",CANAL 8
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iO6qmgY.png", TELERED TELEVISION HD 
