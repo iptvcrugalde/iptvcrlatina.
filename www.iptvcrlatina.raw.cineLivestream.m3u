@@ -604,7 +604,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbGV2aXNpb25wcmVtaXVtLmNoaWxlX3NjcmVlbl8wXzE1NDYzOTc3MTZfMDY2/screen-0.jpg?h=800&fakeurl=1&type=.jpg",CHILE
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg", CANAL 3 LA VICTORIA
-https://acortar.link/J7ysF
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpwFatoa4RVgJrc0eNKjhHz8HWR_s3U40nRSAq4bwvorqdCCuHfNq6rDA3H7XR2ycOpWU5arOViprnzUTv0xWuAacLPhBkbpWca_Vvai0Wm44eWbIO7eA1nZRX68_RYcR0ASKKtxwuGNUG6EvIyCA0cFctKnGr6AAWEpaog26NhvaFCFMy3YE5XUVZ_hyp2vHjGOE8kHQ_X1ji-n76y_XWuIeRBxoshCxlGCjfcQQOjNp9NPaGD2rq6ibN_t29aHBx6dlzVQF2es6BOqXCAeZ4Gf9AhGjhQm4z_qnIxvKStFK--ACaRXn9J0ozt8pjRWIXAvGTIuA4iQmgPFxM7Ln1J6WcO3X9flOe667vbpn-1NXFgsVLBwB-u_AJ4ZUOoqviDM9TnrJnoUJ3vDpNfzfMHy__uX6qhhBAp8OszX1mcq7QFDmrG2VcPaYmPdhv23OnZH3TjYJJ7MveoGZpuK9Kkg8XqYz0xYaGEMW3Gu2EJse95zo-MAfrH9G7j8darQPUoyNqbIcjns-c8vK3DhYPwHItwhmNZ85lI0uLT2Pw4KB1fRM4zynn69W07mpHUmhaKeB52HRBPLSh-Jg2FTGGdoTH9ovVZJjkTRpJbcdeqkXO-rIgg6x-FdN0KYR-JI4RVfJoLqIioZkTm91vnzz4-44nzPCvDa0dp5-RK_eADF4BwMLTv6NGy1DE-UvJnCyrizWZ8FLVkv8FcpAWoHB3KaiJtJ2vktTDR7Vqh5qpjDZwbCVL7Wsrofs9845XVgrMLgpgmIyOUzidIgMCz-zxXw3pQcVv1Ynr8WD2i0EM1sEaPkOn-wuh-8jrQeA6s9J8oCfxYgew6ZwivlHtSz7TEfUmtEDLZ7FilbMtZaXx8tf1Iw-BcMyaYPA3RU6rcSEFvB1m9VULMSEi-Rmp5ZSBMaDOf-C5kMsZ0lB2HZzw.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1158034752/logo_canal_tv_2.2.JPG", U ESTV 
 https://tls.cdnz.cl/uestv/live/chunklist_w168368058_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ikVAyjIFBMuH1_tknzbL5zxfU9kQw1YfPw&usqp=CAU",ESTACION TV HD
@@ -653,7 +653,7 @@ http://ecuastreamhd.com:1935/UCSGTVmoviles/UCSGTVmoviles/chunklist_w440744487.m3
 #EXTINF:-1 tvg-logo="https://tpc.googlesyndication.com/simgad/1580634957046508323", TVC TELEVICENTRO
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYZEE8t0cZvNBrAJ9AFqDxCRwy4TFc89n2WuQurjmM2ph6gjKr&usqp=CAU", RTS HD
-https://ya.co.ve/tO2
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MTUwMDcwLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuOTQiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuOTQiXX0sInNpZ25hdHVyZSI6ImU4MDNiNGYzN2ZkMzAyNGJkYzA1YzI2MzQ2YTExZjRjOGViMmVmY2EifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h9qHSmD2AOn_SjlglQv0Y_l9PKd22wg-Cw&usqp=CAU",Educa TC HD
 http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-hBXrxjYak44/UwzxFQPotaI/AAAAAAAABDU/xxrf0lEwffk/w1200-h630-p-k-no-nu/ecuavisa.png",ECUAVISA HD
