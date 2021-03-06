@@ -231,13 +231,13 @@ http://mytv.club:8080/unknown/unknown123/27384
 #EXTINF:-1 tvg-logo="https://www.gracomonline.com.br/site/images/logo_curso/cinetv.png", CANALES CINE TV
 https://www.gracomonline.com.br/site/videos/CINETV.MP4
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN HD
-https://tv.teleclub.xyz/avve/senal-en-directo?club=GOLDEN&format=.m3u8
+http://tecnotv.club/hhu/smartv.php?c=166_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN HD
-
+http://tecnotv.club/hhu/smartv.php?c=1704_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE FUL.HD
-
+http://tecnotv.club/hhu/smartv.php?c=169_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
@@ -251,7 +251,7 @@ https://tv.teleclub.xyz/avve/senal-en-directo?club=SONY&format=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sony-hd_m.png", SONY CHANNEL
 http://tv.masterplaytv.xyz:8000/Mosta28/Barcelona1/1487
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQJMtkj9pAPYLcFSmkwnUckmRjdZ5UM47AbYMea1h7jvYwmRig", SONY CHANNEL HD
-
+http://tecnotv.club/hhu/smartv.php?c=143_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/57/Sony_Movies_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20190821063030", SONY MOVIEZ 
 http://latvonlive.com:33612/Rico/1234/818
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10y1jppgDUbaVj_ifv8_3k8anil2DUoNS9A&usqp=CAU", CINE SONY
@@ -287,7 +287,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="https://ya.co.ve/Oq3",ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
-#EXTINF:-1 tvg-logo="https://acortar.link/qST0h",STAR CHANNEL HD
+#EXTINF:-1 tvgh-logo="ttps://acortar.link/qST0h",STAR CHANNEL HD
+http://tecnotv.club/hhu/smartv.php?c=1474_&f=.m3u8
+#EXTINF:-1 tvgh-logo="https://acortar.link/5LKnE",STAR CHANNEL HD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1474_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1559_&f=.m3u8
