@@ -456,7 +456,7 @@ http://mytv.club:8080/unknown/unknown123/27384
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=166_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/1472
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE FUL-HD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/G/golden-edge-logo-B4A01BE953-seeklogo.com.png",EDGE HD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=169_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE
 https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/a71es.m3u8?s=L8L6xGmbqZp238PlYT11NA&e=1613275882
