@@ -217,7 +217,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 https://5948cea281c58.streamlock.net/canal11/canal11/chunklist_w949592674.m3u8 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12 HD
+#EXTINF:-1 tvg-logo="https://acortar.link/VnTgb", Canal 12 HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/17743
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53665
@@ -1520,9 +1520,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPHfqOPcJ7PulwxLDzu1XhBJalePLqRJAVXA&usqp=CAU", PLUTO.TV EN DIRECTO EN VIVO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=a6f8&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",CINE ESTELAR PLUTO.TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=86.0&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Firefox&sid=632c8c4d-7e45-11eb-b224-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=86.0&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Firefox&sid=aac227e0-7ef0-11eb-b224-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",SERIES PLUTO.TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=86.0&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Firefox&sid=632c8c4d-7e45-11eb-b224-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=86.0&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Firefox&sid=aac227e0-7ef0-11eb-b224-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
+er=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=86.0&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Firefox&sid=632c8c4d-7e45-11eb-b224-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png?w=117",CINE ACCION PLUTO.TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png?w=117",CINE ACCION PLUTO.TV
@@ -1533,11 +1534,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSVWKvoNjR4rY0vvZKDrdgjvUKhVJ283R0Gw&usqp=CAU",CINE LATINO PLUTO.TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-logo="https://ya.co.ve/MUx",CINE DRAMA PLUTO.TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=1600",CINE DRAMA PLUTO.TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", CINE FAMILIAR PLUTO.TV 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=86.0&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Firefox&sid=632c8c4d-7e45-11eb-b224-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
-
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=86.0&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Firefox&sid=aac227e0-7ef0-11eb-b224-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-logo="https://fiftiesweb.com/wordpress/wp-content/uploads/2015/06/TV-Westerns.jpg",TV WESTERNS 1947
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
@@ -2115,7 +2115,6 @@ http://a3live-lh.akamaihd.net/i/antena3_1@3248/index_4_av-b.m3u8
 http://149.202.68.178:1935/live/peprecasens/chunklist_w194306632.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/11/02/cEJAuC4rJAZbRYFI1sHmR6.jpg", CUATRO 4 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyS5G9VJe0aGOT8ZRi_kX-ovKqWzs-oIatA&usqp=CAU", CUATRO 4 FUL-HD
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/chunklist_w1429463213.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2017/11/02/cEJAuC4rJAZbRYFI1sHmR6.jpg", CUATRO 4 HD
@@ -2128,14 +2127,16 @@ https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9e5ed2b81a043b0.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3mXdCtaTRDs/XKJot0g39wI/AAAAAAAAAMg/4WftSUaDc70WW8UsGea8YtuIp_nXab-HQCLcBGAs/s320/la%2Bsexta.png", LA SEXTA CANAL 6
 https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7w4IJCVy1JuYR-IvtlzlVOkcvS9-VLOwxCNkb8mD0ruxpS9crwJro7sr3jua92hS--3T=s140", GALICIA HD 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2lBaVIX0AISqxR.jpg", GALICIA HD 
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/650020024476954624/0CFHGhNC.png", Televisión Aranda 
 https://cdn01.yowi.tv/BBBBBBBBBB/live-1000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/650020024476954624/0CFHGhNC.png", Televisión Aranda FUL.HD
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/RmT-mH1kIFrvaA53fdc2am0R4aZJRt4uqMZgU6Neu9w9X32vb5-D7uaxZT-2s7fl85yg=s170", PUNT CANAL 3 HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/4jg7isPmamcYxuK_3Uvi9Qm-GVcu-j16vRanNFx_VRgtoVKsHrvNcy7RaZCM_TrIFRmnLJk=s126", PUNT CANAL 3 HD
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-punt-3-espana-en-vivo.jpg", PUNT CANAL 3 HD
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8?_=1
 #EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg", COSMO TV HD ESPAÑA
 http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg", COSMO TV HD
@@ -2172,8 +2173,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/186e8113179aa12
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/DMAX.png", Discovery Max 
 http://91.126.141.12:1935/live/discoverymax/chunklist_w2133036664.m3u8
 #EXTINF:-1 tvg-logo="https://verlatele.net/wp-content/uploads/2020/05/canal-dark.jpg", DARK HD
-http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/686790
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6MqiGg1gtGz26VbTnf-txulbK6prUhIMMYxZdBNvUy3ZaOX_1NzTD2vgX_GonnB0gUPlmLg=s170", XTRM HD
+http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/686790"
+#EXTINF:-1 tvg-logo="https://ptvtelecom.com/wp-content/uploads/2020/03/xtrm.jpg", XTRM HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/2b843400a9aebc1.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://canalhollywood.es/wp-content/uploads/2016/01/Canal-Hollywood-logo.jpg", Canal Hollywood FUL-HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/1901
