@@ -139,7 +139,7 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/54959
 #EXTINF:-1 tvg-logo="https://ya.co.ve/rBx",TIGO SPORT
 http://186.176.194.213/hlsl/1/TIGOSPORTSHDjb_PHONE/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV HD
-http://tecnotv.club/hhu/smtv3.php?c=802
+
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV 
 http://tv.iptv5latino.cl:8000/jorge18/1234/33760
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV 
@@ -206,7 +206,7 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKRru601PqvE80s_Rb0wt7gCS8ciy5ZoEqQ&usqp=CAU", CANAL TVX HD
-https://video-weaver.ymq01.hls.ttvnw.net/v1/playlist/CoAFGLtR5ImQFpk-dZEpaKEV0jKUi-ZunZV3H5Qz0482gdbALegn-JTQcRutKnjE60qePrUCLiA4lglTIiGdmqMrd1XggJHR1RkgYBCqmi7-fMoo-VrXd5KffiinFrq4eCduBWKxAYNpmxxw44_7cSu920GoJrjaWNbou4gQqhVgToCYaYu55k_07YNHOgvwrKW15aaR1KogIaNeH7aIh4i_sGnv0vXYeBhEptY6OANaoSVeMc3FHJ9A396y88RwkwPO-nLt20vcxIvB9_p32BuCjw-ljzM2aB1ZCrj2p7482rdXon9WaCHRmSI5OwWKpU2LcDfm3sRdwiBR0FsIkiujEFR-klvvw1iyPqmT-YwA5Wf0Ygn7Ulb0dXDTGFEUATx3oCtCCp3-iC_jgcbk5xvxY0u3LNlsEX9LN4m9RUEXqpbvIn5hh3WDvOkl5To33ISK4DEF87QN9UzR3w4AeKaIwOQiSPsBlkHi4Md84gf1B1J_7NkF2d3-Xv40kFq2lYpJbY_rCnyOtKHAQIuWTiJDyfwOgvkB2HVt-NS_5XFuBh72ufgtAUlb8vhoVJM0U3xok_nwaYbDPZVBNR9mAA3E4DKSFEnvBo4gX9JHeI6_dX85yNvUJ6Wan8XRKXJ2PNo3-EgGAE-z8cfPWWEWYRON0j9AgXTjatg9ZGsYTrVo6oae5Qh3zf6gKoxADydG43PnXGDFS3_1ITb4yacckWRDiamE3SKmS6Yg4eXmHyzJgRAhJ2eofNaZ0C7ChqJ1r6QgkOygrBlq2COxgSQBozw87qrBuDs85263soRxYA8CcpA4rgQcbn8sTogIAC8GOjSIaIh7WvjJgf74QAqH5Rmt9RIQ0wXNGkZqMI47gGgWtcApmxoM7NR7IPOnLTiEMzhg.m3u8
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoAFyAkBYrbzffirgiRMDF2hxFkCWWYOqKsjg8rN0zuDdelamQqUXPksMhK_VF4PAPx0QgZZuOrADPU8jC3HyzwKXtukq2Ffyi8x8e3XldG5pN69tIIDBbMM_6w0wyH5XwaiYXaghXe6WNBL0DQntauGOjR_P4SfIlSHoVNTW5LjmFgoprA1AtlqBSCz4c3L2ZJlHdot5FemCDfmt4vy3YrQKOlnjtQLCXel_5NNG-RTIJgW3OpjqWcdPENxp8e_kjvzgQ6ZXkEKRbzzr_5M3gsWYdf-pJEa5NusS93iquAlx3U--zSXqKMyRIchvLaQMWhZcABIzvYsSnI3pU64A63_jGJFaI-yooeSUsMoFX2jAqmVwUfkVajk6Q8SBx-0aIgGi7qG51fixYDPcHrvffx-ezLjK5AhoI83xuPEVvU6KusDxG9tJxWyJ6BX_cso_S3BG-LrnJGEI_FiVTr_oCd4i8pQylhsVMNg4mXSMNoyYqkvfLy8TZYL8lK2ElZ56FhriKjd1B3butO7Qyz_Zc86qcB5Tkm6lsfgWNCps1OoE6io3BfWR6tTiiLbkyFYZd5OyoyPhKeICRF2KnfWsQ11VzM6L6nx9XtMBwaCEw12Zn57r2wbBZLwG0nYkP1V3jR-gG-6ha2Tw-ln103XYShzQvBYzW5WEjUBOZNSBuZkKt42xypiUDQdvVB8L8hWbdBl7maf3uLJJbwhcuXRzkDe9i0x2YOYvkYLJ_H1q9Uxa5Ux2j6TKbielt1ZQ_ec5GBc9wgJcE7Ly52f0m81lvxjXz_j8Kl2KbeLemg4BPAuMq0-QGUHo9P3gk0A5_v-zrS0hCIOEI4b9disjgKQS8D_URIQzK9IjXnpxb2fwfAIIbKs6hoMpj305sTxa-tajL5I.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" group-title="VENEZUELA",TvES
 http://5.189.181.203:1935/tves/tves/chunklist_w398570252.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080",WOW TV HD
@@ -221,8 +221,6 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
 http://tv.iptv5latino.cl:8000/jorge18/1234/17743
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53665
-#EXTINF:-1 tvg-logo="https://dl1.cbsistatic.com/i/2019/10/29/9c260217-58c4-4b1a-add4-e9161eb7949e/5d41129a7de8473c0c4333f22911ba0d/imgingest-5893418581603857376.jpg", TVO CANAL 23
-
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg", TVO CANAL 23 HD
 http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png", CANAL 33 HD
