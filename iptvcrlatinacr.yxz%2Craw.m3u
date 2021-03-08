@@ -307,8 +307,14 @@ http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1724_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1472_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/iHXtb5TGIFibl4J0wLZbvHqBSa3tHvi4Bz_Q_dNQNZWoU_cnYICGWEX9HNcT-ACwQdP7nw=s85",TNT
 http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES HD
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/uw2t3eem.m3u8?s=n2057SHY1HsmG_EEpqXmug&e=1615200461
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES HD
+https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/index_720_av-b.m3u8?sd=10&rebase=on&id=AgDJv%2f5Dyb%2fSpQmsRWAaysDZ2KiGrEcpyoUY%2fZBUaBfimw+hNula0nrm1ftdW9FLx%2fJY+q1G8dzq1A%3d%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES 
 http://mytv.club:8080/unknown/unknown123/27290
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE HD
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/me4gtt8v3fmket.m3u8?s=L_5_OYVmRsAtlkLMJgHBFQ&e=1615200693
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26759
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL FUL-HD
@@ -374,11 +380,11 @@ https://s.vdo.ai/vhs/1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoN83F_MmxA5a3cxLG3n7hbspSWmT7L3AIUmCyZ7foc-SqUI6o", HBO + HD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1557_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.montecable.com/img/senales/112-extremenew.png",HBO XTREME FUL-HD
-http://tv.iptv5latino.cl:8000/jorge18/1234/1749
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/way71f4yp5a3.m3u8?s=WHdbOTxB2wQ7KnR0xu7ZKg&e=1615200177
 #EXTINF:-1 tvg-logo="https://www.montecable.com/img/senales/112-extremenew.png",HBO XTREME FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/43223
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN",HBO MUNDI FUL-HD
-http://tecnotv.club/ggt/smtv3.php?c=594
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/8nviuzdhm5jnu.m3u8?s=lExexBZ60uYYyY4J6-YGkQ&e=1615200046
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4NukklEvA5Ji9lye0kxChfkecsn-qg_Oqt6d9Co2OUEZ5xsQN",HBO MUNDI FUL-HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39240
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP FUL-HD
@@ -399,7 +405,6 @@ http://194.40.241.218:83/directline76598/6522AM0203452020/125
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c6742879f48d851.ts|User-Agent=1m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/2hyCqKKBzKdNQonPfDJgvLFhe933w1AI573n6_DNNUNNhrtI9QDNt6DhjvA6_NHplWWE=s180", PARAGUAY
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VJPjWgA.png",INTERCABLE CANAL 10 HD PARAGUAY
@@ -412,7 +417,6 @@ https://rds3.desdeparaguay.net/tvs/tvs/chunklist_w685773919.m3u8?k=079b892ffae79
 https://rds3.desdeparaguay.net/telefuturo/telefuturo_int_med/chunklist_w1112554294.m3u8?k=29cdb4d4d97bf9dcf0dd5078576f867709afc6cd55f5b56c0716bc1867aa0cd4&exp=1613593993
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/telefuturoHD.png", Telefuturo 
 http://201.217.3.212/telefuturoext/telefuturoext/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4QqrfWb_WlIEdyWt1uvGLgKqVz59RZYC0OA&usqp=CAU", URUGUAY
