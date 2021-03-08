@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA CR
 http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8
 #EXTINF:0 = https://wa.me/message/Y36OKHMC7QZVG1
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",06 04 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",07 04 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -1426,21 +1426,23 @@ http://tv.masterplaytv.xyz:8000/movie/mv38Y9TW8b/XHHpMhvLCK/64511.mkv
 
 #EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/netflix_tv_pixabay_1605005703348.jpg", NEFLIX CINE
 https://128.130.01.125
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Lost in Space S01 E02
-http://tv.masterplaytv.xyz:8000/series/mv38Y9TW8b/XHHpMhvLCK/7521.mkv
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Lost in Space S01 E02
-http://tv.masterplaytv.xyz:8000/series/mv38Y9TW8b/XHHpMhvLCK/7522.mkv
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png",Lost in Space S01 E02
-http://tv.masterplaytv.xyz:8000/series/mv38Y9TW8b/XHHpMhvLCK/7523.mkv
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png",Lost in Space S01 E02
-http://tv.masterplaytv.xyz:8000/series/mv38Y9TW8b/XHHpMhvLCK/7523.mkv
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png",Lost in Space S01 E02
-http://tv.masterplaytv.xyz:8000/series/mv38Y9TW8b/XHHpMhvLCK/7525.mkv
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", The Magic School Bus Rides Again: Kids in Space (2020)
-http://tv.masterplaytv.xyz:8000/movie/mv38Y9TW8b/XHHpMhvLCK/63825.mkv
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix - Drama (FHD)
+http://fliptv.vip:8011/omer/12345/40700
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix - Action ( FHD)
+http://fliptv.vip:8011/omer/12345/40698
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix - Comedy (FHD)
+http://fliptv.vip:8011/omer/12345/40699
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix - First Show
+http://fliptv.vip:8011/omer/12345/40703
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix - Horror (FHD)
+http://fliptv.vip:8011/omer/12345/40701
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix - NETFLIX ANIME 1
+http://fliptv.vip:8011/omer/12345/73243
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix - NETFLIX ANIME 2
+http://fliptv.vip:8011/omer/12345/73244
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/4_ElWg4f81riuQ92FCxqPIC8k79nOSZK6LD6SEs02B9Qs5FL2MunypanSwgYAgCFcirNSg=s151", NEFLIX SERIES.TV 24/7
-
-
+http://fliptv.vip:8011/omer/12345/42653
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-O2mB7eLoXTc/Xj3fc8g0LVI/AAAAAAAAAiA/-oOdUkmzvo4SIjAEmqZX6TtubW2zZ0fkACK4BGAYYCw/s1600/0000ZONAFILMSTV-TITULOwebs.png", ZONAFILMS TV
 https://128.130.01.125
@@ -1472,6 +1474,10 @@ https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
 http://channelstv.online:80/01013153474A/01551832488A/82503
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0B2-DR2iZlIxbT0W57803O00tYWx1VAy1tw&usqp=CAU", MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266373_fox-family-movies-sd.jpg", FOX FAMILY MOVIES
+http://fliptv.vip:8011/omer/12345/74504
+
+
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK CHANNEL HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/561
 #EXTINF:-1 tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg", HALIMARK CHANNEL HD
@@ -2129,6 +2135,8 @@ http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.parabolica.es/wp-content/uploads/2012/02/cosmo-hd.jpg", COSMO TV HD ESP
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w1035779792.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/43/2c/53432c7e59da0205bda29183a6963a76.png",NOVA HD
+http://fliptv.vip:8011/omer/12345/55162
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/43/2c/53432c7e59da0205bda29183a6963a76.png",NOVA 
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/1908
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/53/43/2c/53432c7e59da0205bda29183a6963a76.png",NOVA HD
 http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/684927
