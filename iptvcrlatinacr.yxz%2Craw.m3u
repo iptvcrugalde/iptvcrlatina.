@@ -164,7 +164,6 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53595
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/chunklist_w152479200.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xKJQUi4SNqzXMo7J2kFwM32L00NkM4yTfTjDR13HkRhx-1tWsCVGYUojmPoseIybAEM", COLOMBIA
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU",Senal Colombia HD
@@ -278,12 +277,11 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
 
 
-
 #EXTINF:-1 tvg-logo="https://ya.co.ve/Oq3",ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
-#EXTINF:-1 tvgh-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15aNGYvk7YTEmO7MBnOOgdBVIC2fNmZGbTg&usqp=CAU",STAR CHANNEL HD
-https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/0e733j.m3u8?s=c06R_uc09dT6sugW_dpEKg&e=1615099510
-#EXTINF:-1 tvgh-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS15aNGYvk7YTEmO7MBnOOgdBVIC2fNmZGbTg&usqp=CAU",STAR CHANNEL HD
+#EXTINF:-1 tvgh-logo="https://www.rbsdirect.com.br/filestore/8/9/7/1/1_a015fc382265d56/11798_f855c14d17654f7.jpg?w=700",STAR CHANNEL HD
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/0e733j.m3u8?s=IgLd9gOMnZRDYQtT_W2-7g&e=1615187843
+#EXTINF:-1 tvgh-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL FUL.HD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1474_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1559_&f=.m3u8
@@ -294,11 +292,13 @@ http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=177_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2nSfhnEjBGU/XCZhZuukKaI/AAAAAAAAB6o/0HBRHf5GhA48b3iRXK4bQTrlv27NejmGgCLcBGAs/s320/4V0FfgRG.jpg",CINECANAL FULHD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1482_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC HD
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=xG_d3A66waXRSKDbqAoY9g&e=1615187650
+#EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC HD
 https://yeu7c6tmjjqgqpr8.ezcdn383.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=amlECPqhKuS1A88LFrDQRg&e=1615099568
 #EXTINF:-1 tvg-logo="https://tutrastorno.com/wp-content/uploads/2020/09/AMC.jpg", AMC
 http://supersonictv.live:25461/903310/034806/61711
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIbjOLUSGYPhvehUs6WwJ-VmqXlEYzxpxPy2RRaIQLz-KF2hpPg",A&E FUL-HD 
-http://ipeteve.com/php/SR_REGIO050321/android.php?c=23|User-Agent=UniversalOficiaI
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/1md5d55ngm.m3u8?s=hecu8cHWCJ5DTJg8KW73Pw&e=1615188915
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM 
@@ -312,8 +312,10 @@ http://mytv.club:8080/unknown/unknown123/27290
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE HD
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26759
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL FUL-HD
+https://63w3xgfvupsksatr.ezcdn383.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=FlSGmZACcYG8BQeOWHPF9w&e=1615189108
+#EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL
 http://tv.iptv5latino.cl:8000/jorge18/1234/1755
-#EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL FUL-HD
+#EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL FUL.HD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1546_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER CHANNEL HD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=146_&f=.m3u8
