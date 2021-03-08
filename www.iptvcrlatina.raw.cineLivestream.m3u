@@ -679,7 +679,7 @@ http://supersonictv.live:25461/903310/034806/77468
 #EXTINF:-1 tvg-logo="https://ia800805.us.archive.org/24/items/SkyCinemaSciFiAndHorrorHd/sky%20cinema%20sci-fi%20and%20horror%20hd.png", Sky ScFi Horror HD
 http://supersonictv.live:25461/903310/034806/77469
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/840166107373793280/wjFIeKw4_400x400.jpg", FOX CRIME HD
-http://supersonictv.live:25461/903310/034806/72326
+http://iptv.ndasat.com:88/boxpremium/FIYIneLuVC/2405
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/6dVo8bYyj8bLVt5WW4ZE1JCm-BQAaZGsgcmpozbvk94mTHmE6_GYzLJDdhLsbRP6bA=w1024-h500", SKY FLIX 
 http://red.ipfox.org:8080/Karim2_534341/40036069/30518
 
@@ -1440,6 +1440,9 @@ http://fliptv.vip:8011/omer/12345/40701
 http://fliptv.vip:8011/omer/12345/73243
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix - NETFLIX ANIME 2
 http://fliptv.vip:8011/omer/12345/73244
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sCa54SVBtB5y0CqqGJJ_lKLHFIZmHUP8h07qY2DDAV1jSYGlY8nigkPLbLo__YkIJWlJug=s170", NEFLIX CLASSIC
+http://iptv.ndasat.com:88/boxpremium/FIYIneLuVC/2103
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/4_ElWg4f81riuQ92FCxqPIC8k79nOSZK6LD6SEs02B9Qs5FL2MunypanSwgYAgCFcirNSg=s151", NEFLIX SERIES.TV 24/7
 http://fliptv.vip:8011/omer/12345/42653
