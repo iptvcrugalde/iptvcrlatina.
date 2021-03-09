@@ -220,17 +220,16 @@ http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1528_&f=.m3u8
 http://mytv.club:8080/unknown/unknown123/27384
 
 
-
 #EXTINF:-1 tvg-logo="https://www.gracomonline.com.br/site/images/logo_curso/cinetv.png", CANALES CINE TV
 https://www.gracomonline.com.br/site/videos/CINETV.MP4
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN HD
-http://tecnotv.club/hhu/smartv.php?c=166_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN HD
-http://tecnotv.club/hhu/smartv.php?c=1704_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE FUL.HD
-http://tecnotv.club/hhu/smartv.php?c=169_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
