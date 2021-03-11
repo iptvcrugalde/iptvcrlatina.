@@ -227,19 +227,17 @@ https://www.gracomonline.com.br/site/videos/CINETV.MP4
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=166_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN HD
-
+https://pcn784ba5wp8rkk.ezcdn462.net:8443/hls/j0sp1ce0j09.m3u8?s=AEUMRQuQDr476axWP-OSBw&e=1615458382
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1704_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE FUL.HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=169_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/U1xFueR_d1g/maxresdefault.jpg",AXN FUL-HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-0 tvg-logo="" tvg-name="MC" tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png"group-title="CINE Y SERIES", MULTIPREMIER HD
-http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1710_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sony-hd_m.png", SONY CHANNEL HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=143_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sony-hd_m.png", SONY CHANNEL
@@ -268,8 +266,6 @@ http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1867_&f=.m3u8
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1614_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpK2rcnaJymtQSRLWIZqkjnP7LVETr-0QqHw&usqp=CAU#, BITME FUL-HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1304564443192406016/SDsQY5e4_400x400.jpg", morbido FUL.HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
 
@@ -277,10 +273,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://ya.co.ve/Oq3",ESTADOS UNIDOS
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://www.rbsdirect.com.br/filestore/8/9/7/1/1_a015fc382265d56/11798_f855c14d17654f7.jpg?w=700",STAR CHANNEL HD
-http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1474_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL FUL.HD
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE
+#EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL FUL.HD
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1474_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkueVSgp1Cybfzt5FH83In7L81_G0vCSqS0Q&usqp=CAU",STAR LIFE HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1559_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=142_&f=.m3u8
@@ -298,26 +294,20 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/l9FzUhd.png",TCM
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1724_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/iHXtb5TGIFibl4J0wLZbvHqBSa3tHvi4Bz_Q_dNQNZWoU_cnYICGWEX9HNcT-ACwQdP7nw=s85",TNT FUL.HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1472_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/iHXtb5TGIFibl4J0wLZbvHqBSa3tHvi4Bz_Q_dNQNZWoU_cnYICGWEX9HNcT-ACwQdP7nw=s85",TNT
-http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1510_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES HD
-https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/index_720_av-b.m3u8?sd=10&rebase=on&id=AgDJv%2f5Dyb%2fSpQmsRWAaysDZ2KiGrEcpyoUY%2fZBUaBfimw+hNula0nrm1ftdW9FLx%2fJY+q1G8dzq1A%3d%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES 
 http://mytv.club:8080/unknown/unknown123/27290
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=180_&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_space-hd_m.png" group-title="CINE",SPACE HD
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/26759
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL FUL-HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1720_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/STUDIO-UNIVERSAL-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg",StTUDIO UNIVERSAL
 http://tv.iptv5latino.cl:8000/jorge18/1234/1755
 #EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL FUL.HD
-http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1546_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WARNER CHANNEL HD
-http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=146_&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1547_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/v4EBhrduKrBLaPyZ0KH-xElhisObhPcXftmXWbES6hUyqp6xDMgoJwS_8wiU5DaZKSNdFg=s85", bloody
