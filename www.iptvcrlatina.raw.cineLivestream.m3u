@@ -679,6 +679,8 @@ http://red.ipfox.org:8080/Karim2_534341/40036069/30518
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/1200px-Star_Premium_2021.svg.png",STAR PREMIUM
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktlbE8jaakRDbcnHgtPjT6DyhNgYj6mISlw&usqp=CAU",STAR SERIES FUL.HD
+https://pcn784ba5wp8rkk.ezcdn462.net:8443/hls/n0bhzbsem47v.m3u8?s=ksUG6XtlRjQP4fr7orLW_g&e=1615453161
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktlbE8jaakRDbcnHgtPjT6DyhNgYj6mISlw&usqp=CAU",STAR SERIES HD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1495_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",STAR ACTION HD
 http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1496_&f=.m3u8
