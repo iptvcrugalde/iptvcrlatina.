@@ -228,7 +228,7 @@ https://www.gracomonline.com.br/site/videos/CINETV.MP4
 #EXTINF:-1 tvg-logo="https://www.vetv.com.mx/cms/uploads/canales/9778d5d219c5080b9a6a17bef029331c.jpg", GOLDEN HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=166_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV4FORs4SjXcuqnEC55hTlT2bOATLc_Mjsg&usqp=CAU", PLUS GOLDEN HD
-https://pcn784ba5wp8rkk.ezcdn462.net:8443/hls/j0sp1ce0j09.m3u8?s=AEUMRQuQDr476axWP-OSBw&e=1615458382
+https://pcn784ba5wp8rkk.ezcdn462.net:8443/hls/daw8b.m3u8?s=2dGaXcMK0FaT8_tcWrYECA&e=1615518748
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1704_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/872203013603041280/6PpeQLFy_400x400.jpg", EDGE FUL.HD
@@ -238,7 +238,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/axn-hd.jpg",AXN FUL-HD
 http://136.243.177.164/AXN/playlist.m3u8
 #EXTINF:-0 tvg-logo="" tvg-name="MC" tvg-logo="https://www.mvs-marketing.com/wp-content/uploads/2017/05/mp-3.png"group-title="CINE Y SERIES", MULTIPREMIER HD
-
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1710_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sony-hd_m.png", SONY CHANNEL HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=143_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_sony-hd_m.png", SONY CHANNEL
