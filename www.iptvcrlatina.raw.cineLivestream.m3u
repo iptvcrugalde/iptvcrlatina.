@@ -612,7 +612,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1757
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/352748/syfy-squarelogo-1502779953952.png",SYFY FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png", PARAMOUNT CHANNEL FUL-HD
-https://zf8113m9dpznta9.ezcdn462.net:8443/hls/hsdk4gixos.m3u8?s=66pXgmxy-dOyDKyghm_PyA&e=1613815270
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=86.0&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Firefox&sid=533af485-8220-11eb-98c2-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/6807462DEAC-0B9C-CAE5-9E84EE3698DB085D.jpg" group-title="Cine", SUNDANCE.TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
 #EXTINF:-1 tvg-logo="https://i1.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2018/05/Cine-Logo-Band-Filmes-Sess%C3%A3o-de-Filmes-Logo-do-Cine.jpg?fit=1280%2C720&ssl=1", CINE +
@@ -681,13 +681,13 @@ http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktlbE8jaakRDbcnHgtPjT6DyhNgYj6mISlw&usqp=CAU",STAR SERIES FUL.HD
 https://pcn784ba5wp8rkk.ezcdn462.net:8443/hls/n0bhzbsem47v.m3u8?s=ksUG6XtlRjQP4fr7orLW_g&e=1615453161
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRktlbE8jaakRDbcnHgtPjT6DyhNgYj6mISlw&usqp=CAU",STAR SERIES HD
-http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1495_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1495_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",STAR ACTION HD
-http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1496_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1496_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmmTA5KEwHOZOHvo6AagZLD-oUIl2xAvRsg&usqp=CAU",STAR HITS HD
-http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=167_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=167_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92rnRPFm0YLDTKInPM0bb5MZ0veajNgpi-A&usqp=CAU",STAR CINEMA HD
-http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=1626_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1626_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png", STAR FUN HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/1735
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS HD
@@ -695,21 +695,19 @@ http://nano.zappingtv.com:1935/foxclassics/foxclassicsmobile.smil/chunklist_b162
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Star_Classics_2020.svg/1200px-Star_Classics_2020.svg.png",STAR CLASSICS 
 http://ipflix.click:8080/uoplj5soni/rgu4a63btk/6716
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmVwpn47zliPbd7lV0-wrBMSyE8qxPTCvBQ&usqp=CAU",STAR COMIDY HD
-http://ipeteve.com/php/SR_REGIO050321/tv3.php?c=234_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=234_&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://seriemaniacos.tv/wp-content/uploads/2018/04/HBO.jpg",HBO HD
-http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1467_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1467_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qC7ghLa.png" group-title="CINE PREMIUM",HBO 2 HD
-http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1555_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1555_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family HD
-http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1500_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1500_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png",HBO Family 
 http://supersonictv.live:25461/903310/034806/22898
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6o3WJzw-ZuUjiTzDKvqjoTcDMPIKX7MFffBMzZPfZJgZvKllG",CINEMAX FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODTBH1v58ljE3pu3q20nFeOfzfJgvufC2Ag&usqp=CAU", CINEMAX HD
@@ -718,13 +716,13 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://www.intersatelital.com.bo/wp-content/uploads/2017/04/hbo-premium.png",HBO PREMIUM
 https://s.vdo.ai/vhs/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/400px-Logohboplus2019.svg.png", HBO + HD
-http://ipeteve.com/php/SR_REGIO010321/tv3.php?c=1557_&f=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1557_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UGaYEWSzE2evnvF94A8klX5ntuAftJzeKGYT-xSLds2Hduh5diCO-CKbLgcK1_Gw8w4&usqp=CAU",HBO XTREME FUL-HD
-http://tv.iptv5latino.cl:8000/jorge18/1234/1749
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1536_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.montecable.com/img/senales/112-extremenew.png",HBO XTREME FUL-HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/43223
 #EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/hbo-mundi.png",HBO MUNDI FUL-HD
-http://tecnotv.club/hhu/smtv2.php?c=HBOMUNDI_SD&format=.m3u8
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1535_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/aJnA1PwRLGFQY4XnFLqf7-adPj5X1CAtQSeWSlXd93OKCzFhtKdjFo7iga8mzYvrD3bC=s121",HBO MUNDI FUL-HD
 http://youriptv.tv:8080/ARGENTINA/Nicetry8888/39240
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdNhTNwSlZv7rSJO-HCTHxfW-Zfm2roeCxg&usqp=CAU",HBO POP FUL-HD
