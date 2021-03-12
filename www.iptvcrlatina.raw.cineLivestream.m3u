@@ -1230,6 +1230,8 @@ http://mynetworks.info:80/movie/hossam/hossam1234/16613.mkv
 
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
+#EXTINF:-1 tvg-logo="https://radioconecta2.com/wp-content/uploads/2020/04/logo.png",CONECTA 2.TV
+https://mediastreamm.com:19360/conect2-tv/conect2-tv.m3u8
 #EXTINF:-1 tvg-logo="http://www.cinerdia.com.br/wp-content/uploads/2014/09/Cinerdia-Logotipo-800px.png", CINERDIA
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29886
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Ja%C3%A9n.png", CANAL 45 TV
