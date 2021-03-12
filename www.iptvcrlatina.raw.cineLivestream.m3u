@@ -1405,8 +1405,13 @@ http://supersonictv.live:25461/903310/034806/71291
 
 
 #EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/netflix_tv_pixabay_1605005703348.jpg", NEFLIX CINE
+https://128.130.01.125
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/1hj0hBvuhgf1EoxOVw0bzP_dRupslBYeOcrHilJQcq6Cyw2pf31ZFaXNFFgXeUYiX9ZR=s75",AV:Netflix Classic
+http://iptv.ndasat.com:88/boxpremium/FIYIneLuVC/2103
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix 
 
-#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/-11594687246vzsjesy7bd.png", Netflix - Drama (FHD)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbgWiN26JEbGB1nALMNfKWAUTCY9vSLJe9mQ&usqp=CAU",NEFLIX TERROR 
+http://iptv.ndasat.com:88/boxpremium/FIYIneLuVC/787
 
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-O2mB7eLoXTc/Xj3fc8g0LVI/AAAAAAAAAiA/-oOdUkmzvo4SIjAEmqZX6TtubW2zZ0fkACK4BGAYYCw/s1600/0000ZONAFILMSTV-TITULOwebs.png", ZONAFILMS TV
