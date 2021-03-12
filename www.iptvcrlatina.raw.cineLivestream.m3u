@@ -189,7 +189,7 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/63438
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qFPfkdC.png" group-title="PANAMA",RPC
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/dfa1f6bf-3760-4b79-8f4e-2fcf956444c6-profile_image-300x300.png", BTV PANAMA HD
-https://cloud.streamingconnect.tv:455/btv/btv.m3u8
+https://stream.oursnetworktv.com/latin/btvp/chunklist_w758886104.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="PANAMA", Nex CANAL 21 HD
 http://198.1.123.99:1935/live/myStream/chunklist_w295805193.m3u8
 #EXTINF:-1 tvg-logo="https://507go.tv/imagenes//taxonomy/term/15/logo.png", NEX CANAL 21
@@ -212,7 +212,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJdwCmi62_FCxuYmSMKo-DYtvq5ncMWsvFgMJqru8cTLzAor97&s",CANAL 11 TUTV HD
 https://5948cea281c58.streamlock.net/canal11/canal11/chunklist_w949592674.m3u8 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-12-El-Salvador.png", Canal 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/629px-Canal_12_El_Salvador_2018.png", Canal 12
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/VnTgb", Canal 12 HD
 http://tv.iptv5latino.cl:8000/jorge18/1234/17743
@@ -221,7 +221,7 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/53665
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg", TVO CANAL 23 HD
 http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal33.tv/home/wp-content/uploads/2019/08/200.png", CANAL 33 HD
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w2084903146_b148000_DVR_sleng.m3u8
+https://5ca9af4645e15.streamlock.net/canal33/videocanal33/chunklist_w1836447978_DVR.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png",TVES Canal 10
 http://198.24.135.42/canal10/canal10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-T6GUy9Xq7dk/XHqhBG7oE1I/AAAAAAAAHcI/JthcJF6_nZ8VDmiy0QGGXaVKrsgDsBvogCLcBGAs/s1600/%25C3%2593rbita%2BTV%2BCanal%2B25%2Bhd.png", Órbita TV Canal 25 
@@ -1033,7 +1033,7 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w578096294.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1066687836445990912/XM67Xmp5_400x400.jpg", LINIEROS LTV CANAL 36 HD
 https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CokFR4kKLPh8KvQODnZR_86rqFQ3MvHmeS6EFK5XxFxXi-MgsgZ9FLtctZ5HGFf453OJYFAItJa1ku7dfyDyhBwA6CtXxvQQ19v118ObXy9PMlw075erUunZylFnLMxzWzo7uaMafhK2O5lVBceqJz-MW0E5kA40qFWOf4p8aqKngbG5NJrMrxKEYOrh2YvXfvj7MDU9laN5VmP7PP3nivFKAdADiwLLz5F07G1g9QnRn1ymhdSJWrg9R0xVbJPyyu62QQsHjsZxeAG4IQcfpbeQUgVf4U1jzpVNwKliI8iaEB5b4LcUArYc4k-LdVopUNLEHzoN0nFPWjvvQapYY89lmJ3yygMYqlYpf41D9gEUptLfuFcqMzC1KLrnTY3zfj7alLL3ILOKr1ufnX-ktyMcByS4Gj5yYotaKrkepysb39OvJjosieV-6sLIXJy__MbW6_Td--TIJ1zGXk0eEkGmjPy9LVrA1ZmWEO7RP-c_YKUTbYbv_tF2nD-Bfy02-teD-2MqlwVIFxefKIq7gETUOOYwetm8FixIu98NAwy0_OA_InQRLVwqRAh8AyLH-bhnnJ2MBom4wL0IgDlpHxEmFh2Y-AHMhfoag0Brh6woaTo86RIH_n5yTjBqWdAZUY8flehcFlIl9GAwEmYXaFGx_tsHvzVhZwRmPk0hg2kcj3sPIqT7I9JHkNTCnu10E8M8KzyCP-jXV4c9BHN0gvGoKPKRorfzIrXlK3KIEPqmC9-ZxbLOGalJQpedPJqCwb5tqooG1e8qY7hmZogVTGF84gNwDP-En9g2KMbwEfozabSOtQQXmSUrZoLReGPJJi8oD11clTua4RUYi_82dQbhmuu720YxOd2ZVRIQMNPNF55PqoU8R6JUzonXBhoMMxTm1AC0lTIlg2GN.m3u8
-#EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43
+#EXTINF:-1 tvg-logo="http://www.telenovisa43.com/images/webtelenovisa.fw.png", TELENOVISA 43 HD
 http://caribeteve.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w120013135.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png", TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w1907763200.m3u8
@@ -1057,7 +1057,6 @@ http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8
 https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/chunklist_w882613411.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PwHVXGU.png" group-title="TV RELIGION",La voz de Maria
 http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2115659573.m3u8
-#EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg",CANAL AME 47
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/do-ame-47-tv-1188.jpg?fbclid=IwAR1r-g3rV6p267JpjOxS7T-kt_or8H2T-ebvAtOyQlFqig7k8WTntWPYI7g#",CANAL AME 47 HD
 http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w573523760.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-GsOrs7w7Dxw/WOm05PigdtI/AAAAAAAAJrU/_Tk1lEFtkXgmTa0UoWwi9t90rON4GpxsQCK4B/s1600/xtremo%2Blogo.png", XTREMO TV HD
@@ -1093,7 +1092,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnRlbGV2aXNpb25wcmVtaXVtLmNoaWxlX3NjcmVlbl8wXzE1NDYzOTc3MTZfMDY2/screen-0.jpg?h=800&fakeurl=1&type=.jpg",CHILE
 http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/405a2889-50e2-4689-b079-9fb1a6919c85-profile_image-70x70.jpg", CANAL 3 LA VICTORIA
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpwFE0geCj03IuORM4jeDxLF3IZhsRkUgCBIqhLjTexGwVujUFu7kqpKUQXMaWGWyYEtVv5Jtf36URzhE5kMoIKWysnKkmOqMtRFb_ehnR4PZk569xIDVtB5byH7F0fSdId9lGod6li4fpj6wMK98T_m-rMk1hThxFXMqwblSxQVFyCtc8N_OrCNx7urOTejy7U_0FhEFJeMosBxH8nWr8ddIK0VxTKdsSCsGREj7KRR7AwxvCGuAyHVTKU5CavCmfoiug6Gz_Yv1CZhUPgEuNyn8arZufhz-tHUUhek3buNzuAcSkIIBO7vnncSTNz1smdaI_WwykClahT_2zEdI2sy7pzuLFGQN_4YHsfiAbDQ5F5THLHHbyi7yPoDecIr70GgwI-h8yM2ghZmZ1NWayhcGxCh6J48zh_5ZTOAyL5yIQeuqXtNJHj3NgdX84HncSQcPpnoQP0u8rsIWR9oyVWn2pV-bZZ-3BbPRK3WNArGjcJd0-yPjQKzxVPJ6KCXK_7HlZC6t1VtktmoTk4Ibpd5V2SmbQivjDgJkXEBOERxHshtwl8aMdGhIaCUFl7fbTV9_zaErEvWf80AocFj2OmQjU33LPDMS9p0DMFxu_NaThIKOHuTS-X_cS7FrFpB2i5ja-BVKwlaukRsDPf4LWcEVsvsOlSVtx2XIGdvcVZS60O4DfPT6aVCiNjJOesZGaxm9ppHW1TMNwUr_q35tFQbqQxzjdHtK6Pcu5cpaE4ftuj-Rs6P9wtxnhsm8juiFeOqx00iugoC54PsYDUq3QlXDfsNh0HfO05A53Q-8h0JaVAwO-LmRAQ2qrKSbqjzj--Af2gVEUi1Sr4h4-FY8z-03SEWKuI5SdCbtlX564KltOqq4q7eIfYRlQy23DMSEImU3cPZ7t55MdpFnDm4PksaDD5i2y0xRRX5K_R6aw.m3u8
+https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CpwF8X6luJLx2R9vRKiZT9LivozktUzk_suAeQvOYFkfX0rKbSio4a1bAzCox4DNsNG401PISd0YuqaGrDOrul9UV3tj9LsGP0IcQ2ywk43PB-w8GWzl1Vhdn-wfpAGkuwgs_UI-lejPbiyoSbvJ2WtFXXozGmLtDcyCowFY7KwtJA-JXCN_6b39pxNZLnQtqakKVvaldwQieKCfqbpJ9VtngB1LZ5VYtfKdi01g2Crs0rawisS4MUUxwlX8plaAaSTFaxwdZ12ryAK8jH7rZ1w8gx8OtOc7i7jxjwJyMNPnADh9-nS7uM7mCCva0kBnqt0h9eP2sIjtVlj7YE4p348rASrkbYFXnjNMBmNQwDbuMHOSN7XvFdMVZpar5YPw5SKouzolY_aB0VtU5ZRqbwotei6PYm5kYun3b_PV0tK1immmO5StWIXT6fIkSaVeD4IOlwLj3IwYaVTZlWhrIyfmtKptwZWWnwUE8AC58pFTdNgiK-iO3OX7juQi9m_SiYYphDi1-r090QFA5CZSQ52ohwJeG97IqyIdYUtPKGJRtUg6nKZm6Am9D2MoTr3bZCvsh73WjsBN1o2qisFZdILobGnEkz_NaWc_9eL40KacySnYykh30Jv117zFMf1IYaGyaaJ1G27QRLSTnJpzdbbvG-kv6E_y3Fr-Ng7f6q9kiiMEJ9VDiOJ34Lq2tPawHJnNsLAHXH0rpLuTYA60b7ZAy3hHiBz2IbsoAX4trQdufnjWNzzyJULTeJbH6P7XAgGasST8nOUyFRVXcyCrGeh2ALLKW4ak_hY8aYB6oqtz-0AinYtL57eqIO9WYOmRgitt7VaTWazvdo1eu0BaAHG5y-xPfdmLeJTjM6ATtKJmQzgqrd-T_H4Uw-TrhMUSEDBnU5aQjFAIY-gVUlhBTkgaDJ6m4aiY6JDL-coM2w.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1158034752/logo_canal_tv_2.2.JPG", U ESTV 
 https://tls.cdnz.cl/uestv/live/chunklist_w168368058_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ikVAyjIFBMuH1_tknzbL5zxfU9kQw1YfPw&usqp=CAU",ESTACION TV HD
@@ -1229,6 +1228,8 @@ http://mynetworks.info:80/movie/hossam/hossam1234/16613.mkv
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/n7F-ST5mN89NB5lnwi7H5f6IouG-Nkse6RnRjvl5R28wjf1_xVSebDQq0O9dKRjYyyhc=s85", Eagle Cinema Premiere FHD
 
 
+#EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
+https://128.130.01.125
 #EXTINF:-1 tvg-logo="http://www.cinerdia.com.br/wp-content/uploads/2014/09/Cinerdia-Logotipo-800px.png", CINERDIA
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29886
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Ja%C3%A9n.png", CANAL 45 TV
@@ -1399,10 +1400,6 @@ http://yeahiptv.vip:8080/lHW9w4l30K/LCEQGd3wtj/13520
 https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 #EXTINF:-1 tvg-logo="https://atlanta.cbslocal.com/wp-content/themes/cbs-local/images/share-logos/default.png",CBS Atlanta WGCL
 http://supersonictv.live:25461/903310/034806/71291
-#EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
-https://128.130.01.125
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/yWMrwSSfTCrpuRz8oiaWce5i05qxBjJMUtRaeEx5SJ6Y8WUb1pdvwCHKv9ET1VDoMlOXw_Y=s151", GINETES DEL ESPACIO
-http://tv.masterplaytv.xyz:8000/movie/mv38Y9TW8b/XHHpMhvLCK/64511.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.gadgets360cdn.com/large/netflix_tv_pixabay_1605005703348.jpg", NEFLIX CINE
@@ -1413,9 +1410,7 @@ http://tv.masterplaytv.xyz:8000/movie/mv38Y9TW8b/XHHpMhvLCK/64511.mkv
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-O2mB7eLoXTc/Xj3fc8g0LVI/AAAAAAAAAiA/-oOdUkmzvo4SIjAEmqZX6TtubW2zZ0fkACK4BGAYYCw/s1600/0000ZONAFILMSTV-TITULOwebs.png", ZONAFILMS TV
 https://128.130.01.125
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ebba677b-0d63-481c-9986-b14da96efe2b-profile_image-70x70.png",ZONAFILM TERROR HD
-https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CpYFBIlAgs_Zmv6ad0P_fmMwugNi31Ve3H1f8tebg0v2nRgO2ykT2H-Q51Q5svg5HhE1X7iOQn7UdMwib0pRksCujV44scOGJVD_qMszhHZmgmSJuYxH6gzS5hG4am5MfGTWR-aPMp1ZSJxPh4CwyNWkoLlvUbPzD3TZ-Rkl7ZNcy-2jvNrKZkArJOVuwMRGKEEbB2Va1hne3UZTSb0SneoyeGkv9bG3M_1hyc3Ko-RaLjyMfyyuXZy_wNyWgWi93pBBCWSjubpkFPf-ycrGuRdJrLefvbPxZPpfvEcJyFEV6w-WGlTbvntLXbl2Y45gGRLj-Hg7TAsZ50fwaQ9lmjsmmIwaR13kRuJF710Qb_xPj7xNSMKvFORBJMLQPbGl_ph3S5o-RMVVIdS7wDVJFr9X7fVUHP1UuBjkOBKztuRUFJ74_JXwlF1Nj9UGYLL6YnUJnr9pgVloyPPtCNEFf27pTsVudJkJ6paMrLaawoGKS2om01q_ZENOnrvBSMu-qkwlHxidV1Ym5lIDTUVespz0EmyA77RorSCZamIF0dJcU-JTzr31Vt6098Q8CWH2AkDTvrU_GodarfHUKOLYuqCUylSc5wQteYXQNsb51WnmzlNKISagnb7YLknbn24TQfsvGehqmaryX88ujhihQKU2b1b_SLcwNt1fWYg2Vz2x4FctKgXxVGZv7p-rdFOGKLjJ-6aqAPS__JycafQmAx8bN6qo0QjD2qMNgHN1gyql2PYocN8tOTvQhIHLPGc5_XBtIuqmUFRV9qNhQVHnazG8wKzghh160geAEJgOka4D4GpDjbxOUUbIY2LNiTpTxNBSFlMgxES4aZ-akiMHvyCodcLz2EYVEslf5AEyV6Bfm5jiT6yBgiASEBxlJtvwILk0LvH3eOBHl60aDAL1qXfYrFwumfDlPA.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/7784ca7f-d83c-435c-a313-7984ec69e709-profile_image-300x300.png",ZOAFILMS.TV HD
-
+https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CpgFO5cn0LSL2QUSSixtDl49KRIjJF4CkqTIAt52AeAJR6rqAg0ZDmqv1E7859-5HTqqH1CwnaLtF3p8N61R4pA8oEYXol92ZiOjzoKSuaA52cXjOi7bvDQgPMkLX9GPlin0DbMyY9uwbkgNtrDEQhwK4Hk9diEvccDgNkD7FG5DxRSTy7DuZtls-8Nvi10HHUlimhhzHKupn7ZfuAlg1gkSuJaIM6KdcqMtMVasv7onlQoPNAE_8NVqIJfKLQo7nfmZOzlP5hF-9M1Mv33jsSG4JQTJgFyKV5K_IYLxATDqUOLDCDSD5n8dWXBcf0rrWel9AHjCpfNVlMxJP-GYPIIqAivjwULCCktpsGVqnRuhQCQ7oCq3qho5RZyMWeQT_2jCli-4KDuzpj4Hu_eIa0NGqU4t5HPjFZdjOYTRTJsAV8sQRqpNPPyAVogF1utMEnB0WCfEMqNahoZvoluh4NhTQ-eYUFZ7SVYcX_TF5KrO46ptaP4Iqvc2EtBRp8yWlkYHDUuL2XPiHb1J28SQKcbJ45GlrjRLPGg4-MWVTw1ZvC_g0xt04JjJAlxtaJyMMxPNh3u6rlTdADQSIkZc8FhHXnsqv7iClvBsk0iyleTl9KZimos5prz4ZK5qfM2kBIwhQULNlKy3Cz3fMyRpAKnaw3zQjlokIksEpTuOQAtxlSShQ7Lv9zGKOTmn7vnf4A22cso22kDUIXu4u2dSsFPZLzf7x5b3pe0JXiNo8eqTrDw1hRTacg1dBOkavck4cpWLjkOCO87B3-blK16mreNluVKsmQYYXiyhHFmzGIay-bOiODdOasUf3TGlh4CvAYDCWWpYkWYVlkJVr7UqJfOvyxV6B9uEale9tLRlslQBlAdLWYyDf7I87RIQnD0EpdhH3Tx2BsCF70mumxoM4j2JxNYHnDly86S4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwzUMB--MxNcgWvbCdqOYXpWTyKyEOOwBRTA&usqp=CAU", MOVIEZ TV
@@ -1453,7 +1448,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="http://www.canal8sanjuan.com.ar/wp-content/uploads/2020/04/logo_canal8.png", CANAL OCHO SAN JUAN
 
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.net/profile/1932/terror_mania.jpg",	TERROR MARIA HD
-https://video-weaver.ymq01.hls.ttvnw.net/v1/playlist/CpIFshl3lPD2_OL6kUVN1uJoiKRJUN2kDK7pc6-aHNkUqbocVQtxzHlqPaQXhFCsjn8hLI2A1VkE6LmkQ-c2H2Tf6l0yQX7hRzDCIk81c0CHJdmy9D74-OcBPsRpaZ0tYv8dp44FVigf9owwUhQ-ui5dG4eGR1b9dFnuAr4B1SGFNbyEbWnE0xXnoaUhvJYZ3otHR3PJ52Sxa3OAQmDp4bFBnNQCPVTZsVAPWUAVoKwLWQ11Xaozk0Q0_DT4LBidXJQol98szp6cKWKx46ydmPfLV8cblTNeEU-fPN5WdhR-xqz9h_Te1lC5SI5jVvYuZsbc-KaqX066sPUvDFQN7IneUxZEBvQxSCv9DwIv68Rsq7_ApMnV4rCHleqx8s3RQmXj0yHHjzrX4S7oV_VBsHz6Mf47-H4kDPF8f_0UNX60drGvorxiCEtd9fc41mMEwWMnutLx06S3j7RfhFCAI4kSysTQQQ85RNuFtToW5At2DtEcnvXota3yb7RNJJel9KpQ4Qvs2WNwgMJUn7hlhnpgsczP8vwXK0xiFZbjyIIwCvKZAAV5h52mCtrn4r1kfh9S0HfOFOblEd1DDP57JW8j9ii_qWQZrDz--jZMHckfDeZ-7ep5L1a90AgubmKhoWMDLGR1JlG-C3ZuS7FJIjDZzw_UHKTa8yU5ee7qZLhU0eo6a7peJmdXSK4BGM30W6p5--_8_o4GpwMTKpi5rvdEK19gUNm75bPvfal-te0Ha7_An-HwKnZCzXieG91BFo6oE9pRQw241XPFeisJDmGHhrFTl0iPYIMgs5Zr0ihbiDe3Eis-WhH_ug9gj8b1xNqeYH9oJq7lheBuSxjLGN95P50o-8enebc65_ewsb3PBhkMvhIQ28CO8XXMWY3g1-JfBVmkshoMvHKThR9hDTwG4u6Z.m3u8
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CpAFufPBI-8sTO9YSgXK9XLhzQpPVRo4vHgWJsElpioq4olyBFRqOq01BjX8m6q-pG-3oyKljSzRnnhrfYPCQWbwMEz6KVGBV1X2Ss04qNnFGFjE6FOa1YY0CkbT9Gv1LSEux6KQVAssPB-j5i_B3oRxhr_JaVeInuTwl4k71Oq_VD5aVnA2w2Fcq5kMqyyWL2DWzp8JBXDKPV8jiKdqLELroZa67QC1Q2C8rIYKtUqiPiTJ5tdXA3b0LV8cfNgWrWRMLlx4_BobOc_Eioe9QiY5MSMGnb5F4ltexkXSrrvaHRgGyauvSARRB12LzNXjP4oaVqodKjeqjFMWUx4JgTHLlvc2SMmdLZXXCd_oRani-PtEBbijQ4T_hOblKRSfSZ5o4FEPSbyQ2wZpqIOEF11xY8rEup4shu-mTwUq67mAMRzFg4wrVjNIAtaQbrgFwdJJrzhB84iIchY1-ZXikmb4c5fyu5wizjyAsGEeseM9x6ZFP-KSED13i3jWXLiLADkK9pj8Kk4XBxEHBGt4M8dm8A_r3NyAVjwMZT0nN0x4OOrB5-mimhqCAxL14iHl-XAKwKf6aEVXxNgFPhOk4J2xxVoa91W6D3i0Ur_lFnVPdW5R7n1tEXnyg8iGXJIRWWTiAl-JcR3MoYMuml1QQePeRJOEWgtqI4nSsmJfAy63DlbFciTJkmfSSgcCXpwicXl5_E-Ti4rPqBxr-jsP2vwpbK4YYbjqn5RhfxkacRPYf9KljE1zW8tQl5AZ49ct26nJ2Cqc6Gh69FC0YrHZ49xSJtL8BxkLdtM_zb5gdtAddPvDwKOnXRybT78l0dW9bVfw-QHZve6NFYJZVrfTOtAytxaQad-Rly9427rfgoEBY5wSEJxO18F30iRxsY2QkVWUGOUaDHjbtnns9s0ElRTVeQ.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/ccf5be60-2c07-4aef-9fcc-a4ed3033663e-profile_image-70x70.png",JJ PARCHE.TV HD
 
 
