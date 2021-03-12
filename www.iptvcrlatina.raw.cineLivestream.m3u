@@ -576,9 +576,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS FUL-HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.ts|User-Agent=1m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Es5BNfk5Xn0RisEtxth-2K7YNcKr4WpIRVy850sUpI7nYJ9gNTI1JpdwFlkPHJNtjSiXhvc=s85",TNT FUL.HD
-https://video-weaver.mia02.hls.ttvnw.net/v1/playlist/CoIFPIyR77fR0iDCqoClHZEMi8iFkfTYIi8NwAfuk4Pom45tV6SOttdXYH7lDDab0m84KUkWFfeOkVLgu1t8npumRLFvyC3V9AHEl58HDiXhF2j_yOcJ3blyNhDHjqFnX5EXCQmhZxJGaRk5IJhCHyvW1TwNqqu0L8hN9N6hq-WvrD_fspWm5udTSES95YtF4sBTUXHwoPd7iW1lJ6u5uNIwlsZvnDX1ai9lbxn1QU-fpTYCXVKFDquFuUJEh12C_jCF9ftVxnGC9UJZl9RTy-JxKTdr4S45llxBkaBbMyjgmHonPR2WnB8k-727znhX3SPHViUEJvuVSiyw8FZkIOuzaHFOl9ugqLREVZZKfRMbmDOkUNUOjiOJvZg-pFintYdYmJvaRrXShlkFxlGhMFJ-sroxRCeGD8_IgnEXRhk3dFcetk72VinfbpYnnW5tvsJss-YyX8mPfAiC594ItTbmjJQ8BYGFJ0qfTX7TEou55iR2i3dQ-pg8XxsUdBtNxmIb0x2J9xTpKUROJzH2o11WwugbItrj_viy4_UOwgQ_jYrnUxNNkpdJuGaqqxckiYpZd3dzDp-pmrIVgGio-Cq2ON2WxL3Hv4p0RY9UZ1gjEtJJKKiUfWP6hHGCqrAMAxBTcZz80gMykuyOmyGa-bO0wZr3nBjzu6U7ixrwRbLOpy700JiOLS1UwD9ChPSEnGgXw32Gqj1m9daMRrVWiebl9rBD-ajkGwSx8jJr56Sj-G0PuWmiM5aC_djfBHtknPySCaN0zYN-95LPdDOosGotxWDTyvLA_uzocRxkZxXkT_paQUBbTW7zS8CqfOKfngKvyiEyU6JCus-aa3tv3Xz5mcm_EhCIVGqGAFqICq2SyR_GYXBqGgyA6SWO4O7QOnmj2VM.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Es5BNfk5Xn0RisEtxth-2K7YNcKr4WpIRVy850sUpI7nYJ9gNTI1JpdwFlkPHJNtjSiXhvc=s85",TNT FUL.HD
-http://dns.ultratv.cc:80/cristiano/cristiano123/18057
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1472_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Es5BNfk5Xn0RisEtxth-2K7YNcKr4WpIRVy850sUpI7nYJ9gNTI1JpdwFlkPHJNtjSiXhvc=s85",TNT 
+http://supersonictv.live:25461/903310/034806/5169
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Es5BNfk5Xn0RisEtxth-2K7YNcKr4WpIRVy850sUpI7nYJ9gNTI1JpdwFlkPHJNtjSiXhvc=s85",TNT
 http://nano.zappingtv.com:1935/tnt/tnt.smil/chunklist_b3628000_sles.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AE2RCF6.png" group-title="CINE PREMIUM",TNT SERIES FUL-HD
@@ -596,6 +596,8 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/55439
 #EXTINF:-1 tvg-logo="https://www.nbcuniversal.de/fileadmin/user_upload/UTVLogo_234x220.png", UNIVERSAL CHANNEL FUL.HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1546_&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL HD
+http://supersonictv.live:25461/903310/034806/5178
+#EXTINF:-1 tvg-logo="https://cablemas.com.pe/wp-content/uploads/2019/08/Universal.png",UNIVERSAL CHANNEL
 http://tv.iptv5latino.cl:8000/jorge18/1234/1760
 #EXTINF:-1 tvg-logo="https://acontecendoaqui.com.br/sites/default/files/styles/full_content/public/studio-universal.jpg?itok=6D10e_F2", STUDIO CHANNEL FUL.HD
 http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1720_&f=.m3u8
@@ -610,7 +612,9 @@ http://tv.iptv5latino.cl:8000/jorge18/1234/1757
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/352748/syfy-squarelogo-1502779953952.png",SYFY FUL-HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png", PARAMOUNT CHANNEL FUL-HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/1539795/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=ac2095e6-48ce-44e4-bb52-bc3600c031ec&deviceVersion=86.0&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&deviceType=web&deviceMake=Firefox&sid=533af485-8220-11eb-98c2-0242ac110002&advertisingId=&deviceLat=9.9347&deviceLon=-84.0709&deviceDNT=0&deviceModel=web&userId=&appName=web
+http://ipeteve.com/php/SR_REGIO100321/tv3.php?c=1543_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png", PARAMOUNT CHANNEL 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/1539795/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/6807462DEAC-0B9C-CAE5-9E84EE3698DB085D.jpg" group-title="Cine", SUNDANCE.TV HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/757
 #EXTINF:-1 tvg-logo="https://i1.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2018/05/Cine-Logo-Band-Filmes-Sess%C3%A3o-de-Filmes-Logo-do-Cine.jpg?fit=1280%2C720&ssl=1", CINE +
@@ -2111,6 +2115,8 @@ https://e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/chunklist.m3u8?at=7380d951fb9895
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/mijas-340.png", MIJAS.TV 3.40
 https://mijas-live.flumotion.com/mijastv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 FUL-HD
+http://supertexasiptv.ddns.net:8000/bktv.xyz/qLqJNcj9rd/818
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13
 http://tv.iptv5latino.cl:8000/jorge18/1234/48664
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION FULHD
 https://cortino4.mitopo.me/live/plusaccion/index.m3u8?token=-HYa7sUMJLzen-zvM0zsug&expires=1612283989
