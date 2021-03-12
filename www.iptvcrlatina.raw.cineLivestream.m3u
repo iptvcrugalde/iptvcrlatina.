@@ -1234,6 +1234,8 @@ http://mynetworks.info:80/movie/hossam/hossam1234/16613.mkv
 
 #EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX36110344.jpg", ONLINE CINEMA HD
 https://128.130.01.125
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/l1bSzDUFU3PIOkYsyZEIHnPSMBnxunCwFAZQQmAwYhBvPGLJuEdNGcBhrxXMf76dkcrmqzY=s170" ",AKCION.HD
+http://iptvfree1.com:8080/live:.cid.9b5190e69349237e/hGYOfCADiS/19457
 #EXTINF:-1 tvg-logo="https://radioconecta2.com/wp-content/uploads/2020/04/logo.png",CONECTA 2.TV
 https://mediastreamm.com:19360/conect2-tv/conect2-tv.m3u8
 #EXTINF:-1 tvg-logo="http://www.cinerdia.com.br/wp-content/uploads/2014/09/Cinerdia-Logotipo-800px.png", CINERDIA
