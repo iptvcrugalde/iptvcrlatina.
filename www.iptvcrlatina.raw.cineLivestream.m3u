@@ -27,7 +27,7 @@ https://iptvextremecr.com/2020.Live/angel-Cr2020/"sugalde/raw/"250584.htrgd/25-0
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png",REPRETEL CANAL 6 FULHD
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NjYzMjcxLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMjYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuMjYiXX0sInNpZ25hdHVyZSI6IjQyZDNjNTRhMjhkZDgxZmIzN2FkZjk1YmIzZDI4NjlhODMyMzA3MDcifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png",REPRETEL CANAL 6 
-https://www.repretel.com/envivo-canal6/
+https://www.repretel.com/envivo-canal6
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png", REPRETEL CANAL 4 FULHD
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NjY1MTAxLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMjYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuMjYiXX0sInNpZ25hdHVyZSI6IjEyYTg3OTlhMGE3YzU3OGZjMDgzMmE5ZWI0NWFjNzUyY2FjMTQ1NjgifQ%3D%3D
 #EXTINF:-1 tvg-logo="http://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-4.jpg", REPRETEL CANAL 2 HD 
@@ -1117,6 +1117,8 @@ http://89.105.194.59:25461/live/clsp100$/clsp100$/158.m3u8
 #EXTINF:-1 tvg-logo="http://tvsurvision.cl/wp-content/uploads/2020/10/LOGO-PNG.png", SUR VISION ALERCE HD
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1268767532.m3u8?_=1
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45124_Mega.png",MEGA HD
+https://a24m9h4369execu7.ezcdn383.net:8443/hls/caatd5.m3u8?s=JNKb5provt57YjGqtffq9Q&e=1615626289
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45124_Mega.png",MEGA
 https://ok.ru/video/1821150092906
 #EXTINF:-1 tvg-logo="https://c1.staticflickr.com/5/4776/40765874662_153ee36567_b.jpg",UCVTV
 http://unlimited1-us.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream2/chunks.m3u8
@@ -1131,7 +1133,7 @@ https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png",TV POP 
 http://v3.tustreaming.cl:80/tvpop/live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.eldinamo.cl/wp-content/uploads/2019/08/la-red.jpg", LA RED HD
-
+https://cl-lared-lared-live.ned.media/live-360.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NjkwOTE5LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMjYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuMjYiXX0sInNpZ25hdHVyZSI6ImZiOTgyYzI3ZTU0ZjRiODIyODljYTJmMWQzY2FiMTUyZjBkYjBlMDEifQ%3D%3D
 #EXTINF:-1 tvg-logo="http://cl.heytv.org/wp-content/uploads/2019/04/VTV-Valle-de-Aconcagua-webtvonlive.com_.jpg",CANAL VTV VALLE
 http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/998322332992061441/-5x2rRt8_400x400.jpg", TELE SUR.TV.HD
