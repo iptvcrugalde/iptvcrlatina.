@@ -1978,13 +1978,13 @@ http://74.208.135.126:25461/live/494685792/494685792/2151.m3u8
 #EXTINF:-1 tvg-logo="https://www.tencanal10.tv/wp-content/uploads/2019/06/TEN-LOGO-SLIDE2.png",TEN HD ECADOR
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b18480j00.m3u8
 #EXTINF:-1 tvg-logo="https://etb.com/negocios/img1/guia/logos/logo-espnhd.jpg" group-title="DEPORTES",ESPN
-https://e10.stephn.xyz/ingestnb4s/espn2_sur/f.m3u8
+https://e10.espncdn.me/ingestnb4s/espn_sur/f.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Espn.png", ESPN 
 https://e10.stephn.xyz/ingestnb4s/espn_sur/d.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UlaoT1r5PAA/W5letDwqZoI/AAAAAAAAAc4/uGLJPGzqj7U0BGZdPgT3FkJC7LciTtQ-ACLcBGAs/s1600/espn-2.png", ESPN 2
-https://e10.stephn.xyz/ingestnb4s/espn2_sur/d.m3u8
+https://e10.espncdn.me/ingestnb4s/espn2_sur/f.m3u8
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/nbatv_pms-converted.png?itok=guB3XAoR",NBA Tv
 https://peer2.ustv.to/NBA/myStream/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://www.wkbn.com/wp-content/uploads/sites/48/2020/07/UFC-logo.jpg?w=900", UFC ESP
