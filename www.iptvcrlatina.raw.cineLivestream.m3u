@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/21/3/13/5959432.jpg" group-title="INFO",IPTV LATINA CR
 http://iptvlatinacr.club/wanda/principal.php?c=44&f=.m3u8
 #EXTINF:0 = https://wa.me/message/Y36OKHMC7QZVG1
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 12 03 2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png", 13 03 2021
 http://spy-iptv.com/ACTUALIZACION
 #EXTINF:0 tvg-logo="https://i1.wp.com/rushiptv.com/wp-content/uploads/what-is-m3u-list.jpg?fit=1410%2C1050&ssl=1",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -82,7 +82,7 @@ https://cp.sradiotv.com:1936/8076/8076/chunklist_w2067694417.m3u8
 http://inliveserver.com:1935/14510/14510/chunklist_w1591822251.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/V-_fSNpzlQPfFuUG0wLkrR7-PQ3RDx3n9tE4zA_8Exm_OKVeU24Kt2HiKLYweJXItgY", Antena Seis TV CANAL 32
 http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://lh3.googleusercontent.com/wQOhUVURUYEGLxajWQMr2jaPalhgC7r-r8JZoTbs8Rgilf9C4Ev9cyUlY6C4USMxGkThsw=s142" group-title="ENTRETENIMIENTO",SAN RAFAEL.TV HD LINE
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-logo="https://i0.wp.com/telemascr.com/wp-content/uploads/2020/10/LOGO-WEB.png?fit=277%2C149&ssl=1",SAN RAFAEL.TV HD LINE
 https://cp.sradiotv.com:1936/8064/8064/chunklist_w642039581.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/CB24.png", CB24
 http://18.191.91.130:1935/live/CB24/playlist.m3u8
@@ -143,8 +143,6 @@ http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/54959
 #EXTINF:-1 tvg-logo="https://ya.co.ve/rBx",TIGO SPORT
 http://186.176.194.213/hlsl/1/TIGOSPORTSHDjb_PHONE/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV HD
-
-#EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV 
 http://tv.iptv5latino.cl:8000/jorge18/1234/33760
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV 
 http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/59242?token=HURYWUQKGwxDBAANCAcEVghUCQIBUAVQAAEHVARWDwICBAdZBlAIAwcUGhZLF0MBUQtuWABEWQMDAwdSUgUaEhMVVUpoC10UWxQEBgpRCFMSShNFDQsGEAoHHkQVWlISXEQCCwFWDxRNFFNMTAZDClEKblUBEApRVRUICBBfWhxECV5nUwdUVw9SFA4aUhNIEg9CQUZcDUdcWx5EB1pCQgcSVRoNQAoGWAcUGBoAXhFeEkNIRlxBcWIVHkQAS0JVCBVZV1lAAxQMBUMMGk8TDUM5Q1QXEhFXUVpXFEcJFABEShJVVhpmVQ5YWFFbF1gLXhUTC0ZUQR4SWl0IDEdZQjkWWVwVWBsHWQADAhoe
@@ -1159,7 +1157,9 @@ http://ecuastreamhd.com:1935/UCSGTVmoviles/UCSGTVmoviles/chunklist_w440744487.m3
 #EXTINF:-1 tvg-logo="https://tpc.googlesyndication.com/simgad/1580634957046508323", TVC TELEVICENTRO
 http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYZEE8t0cZvNBrAJ9AFqDxCRwy4TFc89n2WuQurjmM2ph6gjKr&usqp=CAU", RTS HD
-https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b898000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NTMwNTE0LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuNDEiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuNDEiXX0sInNpZ25hdHVyZSI6ImU5NWYyMmVhN2MyZjQ0ZDIzZmUzOTFmOTIzYTUwN2E4NzAzYTViZmIifQ%3D%3D
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1NzAxODc3LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMjYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjE5MS4yNTQuMjYiXX0sInNpZ25hdHVyZSI6ImNmNThiNDk1ZWQxMTFlZGFhMGZiMTRlOTM1NDkzN2IwYzQ0NGIyMTQifQ%3D%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYZEE8t0cZvNBrAJ9AFqDxCRwy4TFc89n2WuQurjmM2ph6gjKr&usqp=CAU", RTS
+https://ec-rts-guayaquil-live.ned.media/rts/smil:guayaquil.smil/chunklist_b898000.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", RTS
 http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_h9qHSmD2AOn_SjlglQv0Y_l9PKd22wg-Cw&usqp=CAU",Educa TC HD
